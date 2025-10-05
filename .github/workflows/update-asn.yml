@@ -6,9 +6,6 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches: [ main, master ]
-
 jobs:
   update-asn:
     runs-on: ubuntu-latest
@@ -79,21 +76,3 @@ jobs:
         name: asn-files-${{ github.run_number }}
         path: ASN/
         retention-days: 30
-        
-    - name: Create release on major updates
-      if: steps.check_changes.outputs.changes == 'true' && github.ref == 'refs/heads/main'
-      uses: softprops/action-gh-release@v2
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: asn-update-${{ github.run_number }}
-        name: ASN Update ${{ github.run_number }}
-        body: |
-          自动更新的ASN列表文件
-          
-          更新时间: ${{ github.run_time }}
-          
-          本次更新包含所有支持国家的ASN信息。
-        draft: false
-        prerelease: false
-        files: ASN/*
