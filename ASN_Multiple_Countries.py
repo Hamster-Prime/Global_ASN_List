@@ -158,8 +158,13 @@ countries = [
 
 def initFile(country_code):
     """初始化特定国家的ASN文件"""
+    asn_dir = "ASN"
+    if not os.path.exists(asn_dir):
+        os.makedirs(asn_dir)
+        print(f"📁 创建ASN目录: {asn_dir}")
+    
     localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    filename = f"{country_code}_ASN.rsc"
+    filename = os.path.join(asn_dir, f"{country_code}_ASN.rsc")
     try:
         with open(filename, "w", encoding="utf-8") as asnFile:
             asnFile.write(f"# ASN Information in {country_code}.\n")
@@ -234,21 +239,105 @@ def saveLatestASN(country_code, max_retries=3):
     return -1
 
 def createSummaryFile(results):
-    """创建汇总文件"""
+    """创建汇总文件并更新README"""
+    asn_dir = "ASN"
+    if not os.path.exists(asn_dir):
+        os.makedirs(asn_dir)
+    
     localTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open("ASN_Summary.txt", "w", encoding="utf-8") as summary:
-        summary.write("=== ASN信息获取汇总 ===\n")
-        summary.write(f"获取时间: {localTime}\n")
-        summary.write("="*50 + "\n\n")
+    summary_file = os.path.join(asn_dir, "ASN_Summary.txt")
+
+    total_asns = sum(results.values())
+    successful_countries = len([c for c, count in results.items() if count > 0])
+    failed_countries = len([c for c, count in results.items() if count == 0])
+    error_countries = len([c for c, count in results.items() if count == -1])
+    
+    try:
+        with open(summary_file, "w", encoding="utf-8") as summary:
+            summary.write("=== ASN信息获取汇总 ===\n")
+            summary.write(f"获取时间: {localTime}\n")
+            summary.write("="*50 + "\n\n")
+            
+            for country, count in results.items():
+                summary.write(f"{country}: {count} 个ASN\n")
+            
+            summary.write(f"\n总计: {total_asns} 个ASN记录\n")
+            summary.write(f"成功获取: {successful_countries} 个国家\n")
+            summary.write(f"失败或无数据: {failed_countries} 个国家\n")
+            if error_countries > 0:
+                summary.write(f"出现错误: {error_countries} 个国家\n")
         
-        total_asns = 0
-        for country, count in results.items():
-            summary.write(f"{country}: {count} 个ASN\n")
-            total_asns += count
+        print(f"📊 汇总文件已保存: {summary_file}")
+
+        updateReadme(localTime, results, total_asns, successful_countries, failed_countries, error_countries)
         
-        summary.write(f"\n总计: {total_asns} 个ASN记录\n")
-        summary.write(f"成功获取: {len([c for c, count in results.items() if count > 0])} 个国家\n")
-        summary.write(f"失败或无数据: {len([c for c, count in results.items() if count == 0])} 个国家\n")
+    except Exception as e:
+        print(f"错误: 无法创建汇总文件 {summary_file}: {e}")
+
+def updateReadme(update_time, results, total_asns, successful_countries, failed_countries, error_countries):
+    """更新README文件"""
+    try:
+        readme_content = """# ASN 自动获取工具
+
+**注意：** 本工具从公开的BGP信息网站获取数据，请遵守相关网站的使用条款和访问频率限制。
+
+---
+
+## 📊 最新统计信息
+
+**最后更新时间:** {update_time}
+
+### 📈 总体统计
+- **总ASN记录数:** {total_asns:,} 个
+- **支持国家/地区:** {total_countries} 个
+- **成功获取:** {successful_countries} 个国家
+- **无数据:** {failed_countries} 个国家
+{error_info}
+
+### 🌍 各国家ASN数量 (Top 20)
+
+| 国家代码 | ASN数量 | 状态 |
+|---------|---------|------|
+{country_table}
+
+### 📁 生成的文件
+
+所有文件保存在 `ASN/` 目录下：
+- 配置文件：`ASN/{{国家代码}}_ASN.rsc`
+- 汇总信息：`ASN/ASN_Summary.txt`
+
+---
+
+*此信息由脚本自动更新于 {update_time}*
+""".format(
+            update_time=update_time,
+            total_asns=total_asns,
+            total_countries=len(results),
+            successful_countries=successful_countries,
+            failed_countries=failed_countries,
+            error_info=f"- **出现错误:** {error_countries} 个国家\n" if error_countries > 0 else "",
+            country_table=generateCountryTable(results)
+        )
+        
+        with open("README.md", "w", encoding="utf-8") as readme:
+            readme.write(readme_content)
+        
+        print(f"📝 README.md 已更新")
+        
+    except Exception as e:
+        print(f"错误: 无法更新README文件: {e}")
+
+def generateCountryTable(results):
+    """生成国家ASN数量表格"""
+    valid_results = [(country, count) for country, count in results.items() if count > 0]
+    sorted_results = sorted(valid_results, key=lambda x: x[1], reverse=True)
+    
+    table_rows = []
+    for i, (country, count) in enumerate(sorted_results[:20]):
+        status = "✅ 成功"
+        table_rows.append(f"| {country} | {count:,} | {status} |")
+    
+    return "\n".join(table_rows) if table_rows else "| 暂无数据 | - | - |"
 
 def main():
     """主函数"""
@@ -301,13 +390,13 @@ def main():
     if error_countries:
         print(f"❌ 出错的国家: {', '.join(error_countries)}")
     
-    print("\n📁 生成的文件:")
+    print("\n📁 生成的文件 (ASN目录下):")
     total_asns = 0
     for country in countries:
         if results[country] > 0:
-            print(f"  - {country}_ASN.rsc ({results[country]} 个ASN)")
+            print(f"  - ASN/{country}_ASN.rsc ({results[country]} 个ASN)")
             total_asns += results[country]
-    print(f"  - ASN_Summary.txt (汇总信息)")
+    print(f"  - ASN/ASN_Summary.txt (汇总信息)")
     print(f"\n📈 总计: {total_asns} 个ASN记录")
 
     if errors > 0:
