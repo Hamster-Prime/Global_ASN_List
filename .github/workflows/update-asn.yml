@@ -6,13 +6,22 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches: [ main, master ]
+
 jobs:
   update-asn:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -55,9 +64,13 @@ jobs:
 
         git add ASN/
 
+        git add README.md
+
         git commit -m "Auto update ASN lists - $(date +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
 
-        git push
+        git push origin HEAD:${GITHUB_REF#refs/heads/}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Upload artifacts
       if: always()
