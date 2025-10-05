@@ -1,5 +1,5 @@
 # ASN Information in IQ.
-# Last Updated: UTC 2025-10-05 03:15:03
+# Last Updated: UTC 2025-10-05 03:28:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IQ ASN list"
