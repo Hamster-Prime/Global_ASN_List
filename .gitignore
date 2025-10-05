@@ -1,4 +1,4 @@
-# ASN生成的文件
+# ASN生成的文件夹和文件
 ASN/
 *.rsc
 ASN_Summary.txt
@@ -50,5 +50,4 @@ ehthumbs.db
 Thumbs.db
 
 # Logs
-
 *.log
