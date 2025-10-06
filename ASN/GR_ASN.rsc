@@ -1,5 +1,5 @@
 # ASN Information in GR.
-# Last Updated: UTC 2025-10-05 03:27:18
+# Last Updated: UTC 2025-10-06 00:59:43
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GR ASN list"

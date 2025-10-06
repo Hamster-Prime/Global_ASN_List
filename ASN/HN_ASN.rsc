@@ -1,5 +1,5 @@
 # ASN Information in HN.
-# Last Updated: UTC 2025-10-05 03:28:54
+# Last Updated: UTC 2025-10-06 01:01:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HN ASN list"
@@ -9,10 +9,10 @@
 :do { add list=HN_ASN range=27884 } on-error={}
 :do { add list=HN_ASN range=27696 } on-error={}
 :do { add list=HN_ASN range=27932 } on-error={}
-:do { add list=HN_ASN range=22869 } on-error={}
 :do { add list=HN_ASN range=273189 } on-error={}
-:do { add list=HN_ASN range=27729 } on-error={}
+:do { add list=HN_ASN range=22869 } on-error={}
 :do { add list=HN_ASN range=64150 } on-error={}
+:do { add list=HN_ASN range=27729 } on-error={}
 :do { add list=HN_ASN range=264773 } on-error={}
 :do { add list=HN_ASN range=269940 } on-error={}
 :do { add list=HN_ASN range=28088 } on-error={}
@@ -55,6 +55,7 @@
 :do { add list=HN_ASN range=28055 } on-error={}
 :do { add list=HN_ASN range=274120 } on-error={}
 :do { add list=HN_ASN range=274085 } on-error={}
+:do { add list=HN_ASN range=274067 } on-error={}
 :do { add list=HN_ASN range=273887 } on-error={}
 :do { add list=HN_ASN range=273160 } on-error={}
 :do { add list=HN_ASN range=272916 } on-error={}
