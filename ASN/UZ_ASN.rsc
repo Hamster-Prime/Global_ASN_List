@@ -1,5 +1,5 @@
 # ASN Information in UZ.
-# Last Updated: UTC 2025-10-06 01:00:31
+# Last Updated: UTC 2025-10-07 00:59:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UZ ASN list"

@@ -1,5 +1,5 @@
 # ASN Information in PT.
-# Last Updated: UTC 2025-10-06 00:59:25
+# Last Updated: UTC 2025-10-07 00:58:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PT ASN list"
