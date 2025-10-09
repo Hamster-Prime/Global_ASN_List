@@ -1,20 +1,20 @@
 # ASN Information in PT.
-# Last Updated: UTC 2025-10-08 00:57:57
+# Last Updated: UTC 2025-10-09 00:58:47
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PT ASN list"
 /routing filter num-list
 :do { add list=PT_ASN range=6424 } on-error={}
 :do { add list=PT_ASN range=8657 } on-error={}
-:do { add list=PT_ASN range=39384 } on-error={}
 :do { add list=PT_ASN range=2860 } on-error={}
 :do { add list=PT_ASN range=62416 } on-error={}
+:do { add list=PT_ASN range=39384 } on-error={}
 :do { add list=PT_ASN range=214213 } on-error={}
 :do { add list=PT_ASN range=9186 } on-error={}
 :do { add list=PT_ASN range=15525 } on-error={}
 :do { add list=PT_ASN range=47787 } on-error={}
-:do { add list=PT_ASN range=24768 } on-error={}
 :do { add list=PT_ASN range=1930 } on-error={}
+:do { add list=PT_ASN range=24768 } on-error={}
 :do { add list=PT_ASN range=12353 } on-error={}
 :do { add list=PT_ASN range=50293 } on-error={}
 :do { add list=PT_ASN range=49941 } on-error={}
@@ -41,7 +41,6 @@
 :do { add list=PT_ASN range=197802 } on-error={}
 :do { add list=PT_ASN range=13156 } on-error={}
 :do { add list=PT_ASN range=6773 } on-error={}
-:do { add list=PT_ASN range=61290 } on-error={}
 :do { add list=PT_ASN range=5626 } on-error={}
 :do { add list=PT_ASN range=51512 } on-error={}
 :do { add list=PT_ASN range=50271 } on-error={}
@@ -57,6 +56,7 @@
 :do { add list=PT_ASN range=33813 } on-error={}
 :do { add list=PT_ASN range=31497 } on-error={}
 :do { add list=PT_ASN range=25253 } on-error={}
+:do { add list=PT_ASN range=216237 } on-error={}
 :do { add list=PT_ASN range=214913 } on-error={}
 :do { add list=PT_ASN range=212073 } on-error={}
 :do { add list=PT_ASN range=211680 } on-error={}
@@ -72,6 +72,7 @@
 :do { add list=PT_ASN range=9118 } on-error={}
 :do { add list=PT_ASN range=8609 } on-error={}
 :do { add list=PT_ASN range=64472 } on-error={}
+:do { add list=PT_ASN range=61290 } on-error={}
 :do { add list=PT_ASN range=59787 } on-error={}
 :do { add list=PT_ASN range=59690 } on-error={}
 :do { add list=PT_ASN range=59528 } on-error={}
@@ -99,7 +100,6 @@
 :do { add list=PT_ASN range=28672 } on-error={}
 :do { add list=PT_ASN range=25060 } on-error={}
 :do { add list=PT_ASN range=25005 } on-error={}
-:do { add list=PT_ASN range=216237 } on-error={}
 :do { add list=PT_ASN range=215446 } on-error={}
 :do { add list=PT_ASN range=215046 } on-error={}
 :do { add list=PT_ASN range=213285 } on-error={}

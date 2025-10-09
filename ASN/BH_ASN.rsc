@@ -1,5 +1,5 @@
 # ASN Information in BH.
-# Last Updated: UTC 2025-10-08 00:58:49
+# Last Updated: UTC 2025-10-09 00:59:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BH ASN list"
@@ -12,9 +12,9 @@
 :do { add list=BH_ASN range=31452 } on-error={}
 :do { add list=BH_ASN range=35019 } on-error={}
 :do { add list=BH_ASN range=35457 } on-error={}
+:do { add list=BH_ASN range=30882 } on-error={}
 :do { add list=BH_ASN range=35568 } on-error={}
 :do { add list=BH_ASN range=35546 } on-error={}
-:do { add list=BH_ASN range=30882 } on-error={}
 :do { add list=BH_ASN range=209004 } on-error={}
 :do { add list=BH_ASN range=62123 } on-error={}
 :do { add list=BH_ASN range=56494 } on-error={}
