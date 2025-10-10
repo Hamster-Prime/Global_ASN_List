@@ -1,5 +1,5 @@
 # ASN Information in CM.
-# Last Updated: UTC 2025-10-09 01:01:10
+# Last Updated: UTC 2025-10-10 01:00:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CM ASN list"
@@ -8,8 +8,8 @@
 :do { add list=CM_ASN range=328840 } on-error={}
 :do { add list=CM_ASN range=30992 } on-error={}
 :do { add list=CM_ASN range=36912 } on-error={}
-:do { add list=CM_ASN range=36955 } on-error={}
 :do { add list=CM_ASN range=37672 } on-error={}
+:do { add list=CM_ASN range=36955 } on-error={}
 :do { add list=CM_ASN range=328666 } on-error={}
 :do { add list=CM_ASN range=36905 } on-error={}
 :do { add list=CM_ASN range=329077 } on-error={}
