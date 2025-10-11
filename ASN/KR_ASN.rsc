@@ -1,5 +1,5 @@
 # ASN Information in KR.
-# Last Updated: UTC 2025-10-10 00:57:56
+# Last Updated: UTC 2025-10-11 00:55:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KR ASN list"
@@ -12,8 +12,8 @@
 :do { add list=KR_ASN range=9957 } on-error={}
 :do { add list=KR_ASN range=9848 } on-error={}
 :do { add list=KR_ASN range=6619 } on-error={}
-:do { add list=KR_ASN range=9457 } on-error={}
 :do { add list=KR_ASN range=38090 } on-error={}
+:do { add list=KR_ASN range=9457 } on-error={}
 :do { add list=KR_ASN range=149522 } on-error={}
 :do { add list=KR_ASN range=138195 } on-error={}
 :do { add list=KR_ASN range=1237 } on-error={}
@@ -102,6 +102,7 @@
 :do { add list=KR_ASN range=45401 } on-error={}
 :do { add list=KR_ASN range=45399 } on-error={}
 :do { add list=KR_ASN range=45382 } on-error={}
+:do { add list=KR_ASN range=38701 } on-error={}
 :do { add list=KR_ASN range=38688 } on-error={}
 :do { add list=KR_ASN range=38686 } on-error={}
 :do { add list=KR_ASN range=38680 } on-error={}
@@ -294,7 +295,6 @@
 :do { add list=KR_ASN range=3976 } on-error={}
 :do { add list=KR_ASN range=38708 } on-error={}
 :do { add list=KR_ASN range=38702 } on-error={}
-:do { add list=KR_ASN range=38701 } on-error={}
 :do { add list=KR_ASN range=38698 } on-error={}
 :do { add list=KR_ASN range=38697 } on-error={}
 :do { add list=KR_ASN range=38696 } on-error={}
@@ -386,7 +386,6 @@
 :do { add list=KR_ASN range=18322 } on-error={}
 :do { add list=KR_ASN range=18315 } on-error={}
 :do { add list=KR_ASN range=18309 } on-error={}
-:do { add list=KR_ASN range=18308 } on-error={}
 :do { add list=KR_ASN range=18307 } on-error={}
 :do { add list=KR_ASN range=18300 } on-error={}
 :do { add list=KR_ASN range=18295 } on-error={}
@@ -743,6 +742,7 @@
 :do { add list=KR_ASN range=18313 } on-error={}
 :do { add list=KR_ASN range=18312 } on-error={}
 :do { add list=KR_ASN range=18310 } on-error={}
+:do { add list=KR_ASN range=18308 } on-error={}
 :do { add list=KR_ASN range=18301 } on-error={}
 :do { add list=KR_ASN range=18299 } on-error={}
 :do { add list=KR_ASN range=18297 } on-error={}

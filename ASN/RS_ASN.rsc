@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2025-10-10 00:58:56
+# Last Updated: UTC 2025-10-11 00:56:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
@@ -34,7 +34,6 @@
 :do { add list=RS_ASN range=47479 } on-error={}
 :do { add list=RS_ASN range=216053 } on-error={}
 :do { add list=RS_ASN range=216024 } on-error={}
-:do { add list=RS_ASN range=205313 } on-error={}
 :do { add list=RS_ASN range=203877 } on-error={}
 :do { add list=RS_ASN range=203572 } on-error={}
 :do { add list=RS_ASN range=13303 } on-error={}
@@ -62,13 +61,11 @@
 :do { add list=RS_ASN range=50653 } on-error={}
 :do { add list=RS_ASN range=49486 } on-error={}
 :do { add list=RS_ASN range=49198 } on-error={}
-:do { add list=RS_ASN range=48015 } on-error={}
 :do { add list=RS_ASN range=47666 } on-error={}
 :do { add list=RS_ASN range=47663 } on-error={}
 :do { add list=RS_ASN range=47222 } on-error={}
 :do { add list=RS_ASN range=44287 } on-error={}
 :do { add list=RS_ASN range=43277 } on-error={}
-:do { add list=RS_ASN range=43125 } on-error={}
 :do { add list=RS_ASN range=43084 } on-error={}
 :do { add list=RS_ASN range=39724 } on-error={}
 :do { add list=RS_ASN range=34724 } on-error={}
@@ -87,6 +84,7 @@
 :do { add list=RS_ASN range=206580 } on-error={}
 :do { add list=RS_ASN range=206034 } on-error={}
 :do { add list=RS_ASN range=205354 } on-error={}
+:do { add list=RS_ASN range=205313 } on-error={}
 :do { add list=RS_ASN range=204215 } on-error={}
 :do { add list=RS_ASN range=202441 } on-error={}
 :do { add list=RS_ASN range=199315 } on-error={}
@@ -121,8 +119,10 @@
 :do { add list=RS_ASN range=49122 } on-error={}
 :do { add list=RS_ASN range=48580 } on-error={}
 :do { add list=RS_ASN range=48234 } on-error={}
+:do { add list=RS_ASN range=48015 } on-error={}
 :do { add list=RS_ASN range=44301 } on-error={}
 :do { add list=RS_ASN range=43784 } on-error={}
+:do { add list=RS_ASN range=43125 } on-error={}
 :do { add list=RS_ASN range=42603 } on-error={}
 :do { add list=RS_ASN range=42186 } on-error={}
 :do { add list=RS_ASN range=41937 } on-error={}
