@@ -1,13 +1,13 @@
 # ASN Information in UZ.
-# Last Updated: UTC 2025-10-11 00:57:04
+# Last Updated: UTC 2025-10-12 01:02:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UZ ASN list"
 /routing filter num-list
 :do { add list=UZ_ASN range=28910 } on-error={}
 :do { add list=UZ_ASN range=34250 } on-error={}
-:do { add list=UZ_ASN range=34718 } on-error={}
 :do { add list=UZ_ASN range=211914 } on-error={}
+:do { add list=UZ_ASN range=34718 } on-error={}
 :do { add list=UZ_ASN range=43060 } on-error={}
 :do { add list=UZ_ASN range=43268 } on-error={}
 :do { add list=UZ_ASN range=58254 } on-error={}
