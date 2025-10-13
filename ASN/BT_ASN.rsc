@@ -1,5 +1,5 @@
 # ASN Information in BT.
-# Last Updated: UTC 2025-10-12 01:01:06
+# Last Updated: UTC 2025-10-13 01:02:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BT ASN list"
