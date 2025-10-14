@@ -1,5 +1,5 @@
 # ASN Information in PE.
-# Last Updated: UTC 2025-10-13 01:04:06
+# Last Updated: UTC 2025-10-14 00:59:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PE ASN list"
@@ -66,6 +66,7 @@
 :do { add list=PE_ASN range=270037 } on-error={}
 :do { add list=PE_ASN range=269981 } on-error={}
 :do { add list=PE_ASN range=269938 } on-error={}
+:do { add list=PE_ASN range=266859 } on-error={}
 :do { add list=PE_ASN range=265869 } on-error={}
 :do { add list=PE_ASN range=264783 } on-error={}
 :do { add list=PE_ASN range=263189 } on-error={}
@@ -106,7 +107,6 @@
 :do { add list=PE_ASN range=267871 } on-error={}
 :do { add list=PE_ASN range=267815 } on-error={}
 :do { add list=PE_ASN range=267743 } on-error={}
-:do { add list=PE_ASN range=266859 } on-error={}
 :do { add list=PE_ASN range=266823 } on-error={}
 :do { add list=PE_ASN range=266722 } on-error={}
 :do { add list=PE_ASN range=263224 } on-error={}

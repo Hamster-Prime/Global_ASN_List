@@ -1,5 +1,5 @@
 # ASN Information in VU.
-# Last Updated: UTC 2025-10-13 01:03:53
+# Last Updated: UTC 2025-10-14 00:59:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VU ASN list"
