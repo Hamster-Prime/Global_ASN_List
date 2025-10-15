@@ -1,5 +1,5 @@
 # ASN Information in AO.
-# Last Updated: UTC 2025-10-14 01:00:28
+# Last Updated: UTC 2025-10-15 01:02:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AO ASN list"
@@ -18,6 +18,7 @@
 :do { add list=AO_ASN range=36936 } on-error={}
 :do { add list=AO_ASN range=329286 } on-error={}
 :do { add list=AO_ASN range=328877 } on-error={}
+:do { add list=AO_ASN range=327833 } on-error={}
 :do { add list=AO_ASN range=327775 } on-error={}
 :do { add list=AO_ASN range=37590 } on-error={}
 :do { add list=AO_ASN range=37384 } on-error={}
@@ -42,7 +43,6 @@
 :do { add list=AO_ASN range=328718 } on-error={}
 :do { add list=AO_ASN range=328509 } on-error={}
 :do { add list=AO_ASN range=328283 } on-error={}
-:do { add list=AO_ASN range=327833 } on-error={}
 :do { add list=AO_ASN range=327806 } on-error={}
 :do { add list=AO_ASN range=37593 } on-error={}
 :do { add list=AO_ASN range=37272 } on-error={}
