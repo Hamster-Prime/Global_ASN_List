@@ -1,5 +1,5 @@
 # ASN Information in AL.
-# Last Updated: UTC 2025-10-15 01:00:55
+# Last Updated: UTC 2025-10-16 01:00:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AL ASN list"
@@ -21,10 +21,10 @@
 :do { add list=AL_ASN range=39611 } on-error={}
 :do { add list=AL_ASN range=207876 } on-error={}
 :do { add list=AL_ASN range=60471 } on-error={}
+:do { add list=AL_ASN range=35444 } on-error={}
 :do { add list=AL_ASN range=57961 } on-error={}
 :do { add list=AL_ASN range=57388 } on-error={}
 :do { add list=AL_ASN range=56468 } on-error={}
-:do { add list=AL_ASN range=35444 } on-error={}
 :do { add list=AL_ASN range=33924 } on-error={}
 :do { add list=AL_ASN range=203063 } on-error={}
 :do { add list=AL_ASN range=8661 } on-error={}
