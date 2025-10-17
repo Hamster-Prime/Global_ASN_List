@@ -1,13 +1,13 @@
 # ASN Information in MV.
-# Last Updated: UTC 2025-10-16 00:59:30
+# Last Updated: UTC 2025-10-17 00:59:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MV ASN list"
 /routing filter num-list
 :do { add list=MV_ASN range=7642 } on-error={}
 :do { add list=MV_ASN range=55944 } on-error={}
-:do { add list=MV_ASN range=24016 } on-error={}
 :do { add list=MV_ASN range=147039 } on-error={}
+:do { add list=MV_ASN range=24016 } on-error={}
 :do { add list=MV_ASN range=150125 } on-error={}
 :do { add list=MV_ASN range=137981 } on-error={}
 :do { add list=MV_ASN range=137056 } on-error={}

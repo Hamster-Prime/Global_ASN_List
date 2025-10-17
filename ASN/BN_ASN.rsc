@@ -1,5 +1,5 @@
 # ASN Information in BN.
-# Last Updated: UTC 2025-10-16 00:59:22
+# Last Updated: UTC 2025-10-17 00:59:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BN ASN list"
