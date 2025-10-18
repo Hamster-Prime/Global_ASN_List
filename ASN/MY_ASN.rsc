@@ -1,5 +1,5 @@
 # ASN Information in MY.
-# Last Updated: UTC 2025-10-17 00:59:00
+# Last Updated: UTC 2025-10-18 00:56:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MY ASN list"
@@ -45,7 +45,6 @@
 :do { add list=MY_ASN range=136533 } on-error={}
 :do { add list=MY_ASN range=134152 } on-error={}
 :do { add list=MY_ASN range=55405 } on-error={}
-:do { add list=MY_ASN range=147040 } on-error={}
 :do { add list=MY_ASN range=140586 } on-error={}
 :do { add list=MY_ASN range=132890 } on-error={}
 :do { add list=MY_ASN range=56140 } on-error={}
@@ -53,6 +52,7 @@
 :do { add list=MY_ASN range=18206 } on-error={}
 :do { add list=MY_ASN range=140625 } on-error={}
 :do { add list=MY_ASN range=45785 } on-error={}
+:do { add list=MY_ASN range=147040 } on-error={}
 :do { add list=MY_ASN range=56229 } on-error={}
 :do { add list=MY_ASN range=38891 } on-error={}
 :do { add list=MY_ASN range=150172 } on-error={}
@@ -99,7 +99,6 @@
 :do { add list=MY_ASN range=139923 } on-error={}
 :do { add list=MY_ASN range=139899 } on-error={}
 :do { add list=MY_ASN range=137552 } on-error={}
-:do { add list=MY_ASN range=132885 } on-error={}
 :do { add list=MY_ASN range=132354 } on-error={}
 :do { add list=MY_ASN range=10030 } on-error={}
 :do { add list=MY_ASN range=58983 } on-error={}
@@ -109,7 +108,7 @@
 :do { add list=MY_ASN range=141441 } on-error={}
 :do { add list=MY_ASN range=141158 } on-error={}
 :do { add list=MY_ASN range=139761 } on-error={}
-:do { add list=MY_ASN range=137923 } on-error={}
+:do { add list=MY_ASN range=132885 } on-error={}
 :do { add list=MY_ASN range=132434 } on-error={}
 :do { add list=MY_ASN range=131332 } on-error={}
 :do { add list=MY_ASN range=9655 } on-error={}
@@ -140,6 +139,7 @@
 :do { add list=MY_ASN range=139830 } on-error={}
 :do { add list=MY_ASN range=139815 } on-error={}
 :do { add list=MY_ASN range=138996 } on-error={}
+:do { add list=MY_ASN range=137923 } on-error={}
 :do { add list=MY_ASN range=137005 } on-error={}
 :do { add list=MY_ASN range=135551 } on-error={}
 :do { add list=MY_ASN range=135496 } on-error={}
