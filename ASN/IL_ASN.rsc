@@ -1,5 +1,5 @@
 # ASN Information in IL.
-# Last Updated: UTC 2025-10-19 01:07:14
+# Last Updated: UTC 2025-10-20 01:05:00
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IL ASN list"
@@ -20,8 +20,8 @@
 :do { add list=IL_ASN range=48851 } on-error={}
 :do { add list=IL_ASN range=5585 } on-error={}
 :do { add list=IL_ASN range=9116 } on-error={}
-:do { add list=IL_ASN range=25003 } on-error={}
 :do { add list=IL_ASN range=205209 } on-error={}
+:do { add list=IL_ASN range=25003 } on-error={}
 :do { add list=IL_ASN range=47962 } on-error={}
 :do { add list=IL_ASN range=20598 } on-error={}
 :do { add list=IL_ASN range=215939 } on-error={}
@@ -75,6 +75,7 @@
 :do { add list=IL_ASN range=215309 } on-error={}
 :do { add list=IL_ASN range=214863 } on-error={}
 :do { add list=IL_ASN range=214523 } on-error={}
+:do { add list=IL_ASN range=213168 } on-error={}
 :do { add list=IL_ASN range=204257 } on-error={}
 :do { add list=IL_ASN range=201833 } on-error={}
 :do { add list=IL_ASN range=201076 } on-error={}
@@ -113,7 +114,6 @@
 :do { add list=IL_ASN range=39213 } on-error={}
 :do { add list=IL_ASN range=35532 } on-error={}
 :do { add list=IL_ASN range=34380 } on-error={}
-:do { add list=IL_ASN range=31162 } on-error={}
 :do { add list=IL_ASN range=30744 } on-error={}
 :do { add list=IL_ASN range=29585 } on-error={}
 :do { add list=IL_ASN range=28783 } on-error={}
@@ -125,7 +125,6 @@
 :do { add list=IL_ASN range=213487 } on-error={}
 :do { add list=IL_ASN range=213442 } on-error={}
 :do { add list=IL_ASN range=213256 } on-error={}
-:do { add list=IL_ASN range=213168 } on-error={}
 :do { add list=IL_ASN range=213055 } on-error={}
 :do { add list=IL_ASN range=212719 } on-error={}
 :do { add list=IL_ASN range=212644 } on-error={}
@@ -234,6 +233,7 @@
 :do { add list=IL_ASN range=3288 } on-error={}
 :do { add list=IL_ASN range=31578 } on-error={}
 :do { add list=IL_ASN range=31417 } on-error={}
+:do { add list=IL_ASN range=31162 } on-error={}
 :do { add list=IL_ASN range=29165 } on-error={}
 :do { add list=IL_ASN range=25565 } on-error={}
 :do { add list=IL_ASN range=25052 } on-error={}

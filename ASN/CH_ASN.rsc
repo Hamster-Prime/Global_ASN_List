@@ -1,5 +1,5 @@
 # ASN Information in CH.
-# Last Updated: UTC 2025-10-19 01:06:24
+# Last Updated: UTC 2025-10-20 01:04:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CH ASN list"
@@ -66,6 +66,7 @@
 :do { add list=CH_ASN range=208608 } on-error={}
 :do { add list=CH_ASN range=6772 } on-error={}
 :do { add list=CH_ASN range=24951 } on-error={}
+:do { add list=CH_ASN range=209533 } on-error={}
 :do { add list=CH_ASN range=34800 } on-error={}
 :do { add list=CH_ASN range=61287 } on-error={}
 :do { add list=CH_ASN range=41549 } on-error={}
@@ -119,7 +120,6 @@
 :do { add list=CH_ASN range=25375 } on-error={}
 :do { add list=CH_ASN range=24585 } on-error={}
 :do { add list=CH_ASN range=215044 } on-error={}
-:do { add list=CH_ASN range=209533 } on-error={}
 :do { add list=CH_ASN range=207335 } on-error={}
 :do { add list=CH_ASN range=206616 } on-error={}
 :do { add list=CH_ASN range=204178 } on-error={}
