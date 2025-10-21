@@ -1,5 +1,5 @@
 # ASN Information in EC.
-# Last Updated: UTC 2025-10-20 01:05:38
+# Last Updated: UTC 2025-10-21 01:02:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EC ASN list"
@@ -23,7 +23,6 @@
 :do { add list=EC_ASN range=271929 } on-error={}
 :do { add list=EC_ASN range=270049 } on-error={}
 :do { add list=EC_ASN range=269831 } on-error={}
-:do { add list=EC_ASN range=269805 } on-error={}
 :do { add list=EC_ASN range=267931 } on-error={}
 :do { add list=EC_ASN range=265762 } on-error={}
 :do { add list=EC_ASN range=265724 } on-error={}
@@ -96,6 +95,7 @@
 :do { add list=EC_ASN range=269852 } on-error={}
 :do { add list=EC_ASN range=269838 } on-error={}
 :do { add list=EC_ASN range=269825 } on-error={}
+:do { add list=EC_ASN range=269805 } on-error={}
 :do { add list=EC_ASN range=269761 } on-error={}
 :do { add list=EC_ASN range=269728 } on-error={}
 :do { add list=EC_ASN range=267924 } on-error={}
@@ -105,7 +105,6 @@
 :do { add list=EC_ASN range=267756 } on-error={}
 :do { add list=EC_ASN range=267684 } on-error={}
 :do { add list=EC_ASN range=266894 } on-error={}
-:do { add list=EC_ASN range=266880 } on-error={}
 :do { add list=EC_ASN range=266867 } on-error={}
 :do { add list=EC_ASN range=266834 } on-error={}
 :do { add list=EC_ASN range=266802 } on-error={}
@@ -132,7 +131,6 @@
 :do { add list=EC_ASN range=28011 } on-error={}
 :do { add list=EC_ASN range=27958 } on-error={}
 :do { add list=EC_ASN range=27948 } on-error={}
-:do { add list=EC_ASN range=27844 } on-error={}
 :do { add list=EC_ASN range=27820 } on-error={}
 :do { add list=EC_ASN range=27757 } on-error={}
 :do { add list=EC_ASN range=27740 } on-error={}
@@ -183,6 +181,7 @@
 :do { add list=EC_ASN range=267916 } on-error={}
 :do { add list=EC_ASN range=267778 } on-error={}
 :do { add list=EC_ASN range=266904 } on-error={}
+:do { add list=EC_ASN range=266880 } on-error={}
 :do { add list=EC_ASN range=266856 } on-error={}
 :do { add list=EC_ASN range=266839 } on-error={}
 :do { add list=EC_ASN range=266812 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in FI.
-# Last Updated: UTC 2025-10-20 01:04:21
+# Last Updated: UTC 2025-10-21 01:01:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
@@ -10,9 +10,9 @@
 :do { add list=FI_ASN range=214809 } on-error={}
 :do { add list=FI_ASN range=1248 } on-error={}
 :do { add list=FI_ASN range=202053 } on-error={}
-:do { add list=FI_ASN range=41666 } on-error={}
 :do { add list=FI_ASN range=39699 } on-error={}
 :do { add list=FI_ASN range=16086 } on-error={}
+:do { add list=FI_ASN range=41666 } on-error={}
 :do { add list=FI_ASN range=1759 } on-error={}
 :do { add list=FI_ASN range=719 } on-error={}
 :do { add list=FI_ASN range=1301 } on-error={}
@@ -42,9 +42,7 @@
 :do { add list=FI_ASN range=8236 } on-error={}
 :do { add list=FI_ASN range=51164 } on-error={}
 :do { add list=FI_ASN range=50377 } on-error={}
-:do { add list=FI_ASN range=39662 } on-error={}
 :do { add list=FI_ASN range=39242 } on-error={}
-:do { add list=FI_ASN range=34387 } on-error={}
 :do { add list=FI_ASN range=206175 } on-error={}
 :do { add list=FI_ASN range=201991 } on-error={}
 :do { add list=FI_ASN range=198020 } on-error={}
@@ -59,9 +57,11 @@
 :do { add list=FI_ASN range=51571 } on-error={}
 :do { add list=FI_ASN range=49866 } on-error={}
 :do { add list=FI_ASN range=49283 } on-error={}
+:do { add list=FI_ASN range=39662 } on-error={}
 :do { add list=FI_ASN range=39287 } on-error={}
 :do { add list=FI_ASN range=39194 } on-error={}
 :do { add list=FI_ASN range=34541 } on-error={}
+:do { add list=FI_ASN range=34387 } on-error={}
 :do { add list=FI_ASN range=29422 } on-error={}
 :do { add list=FI_ASN range=29293 } on-error={}
 :do { add list=FI_ASN range=29093 } on-error={}
@@ -240,7 +240,6 @@
 :do { add list=FI_ASN range=208272 } on-error={}
 :do { add list=FI_ASN range=20798 } on-error={}
 :do { add list=FI_ASN range=207729 } on-error={}
-:do { add list=FI_ASN range=207425 } on-error={}
 :do { add list=FI_ASN range=207390 } on-error={}
 :do { add list=FI_ASN range=207202 } on-error={}
 :do { add list=FI_ASN range=207041 } on-error={}

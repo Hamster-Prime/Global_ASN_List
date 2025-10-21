@@ -1,5 +1,5 @@
 # ASN Information in ET.
-# Last Updated: UTC 2025-10-20 01:06:01
+# Last Updated: UTC 2025-10-21 01:02:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ET ASN list"

@@ -1,5 +1,5 @@
 # ASN Information in AZ.
-# Last Updated: UTC 2025-10-20 01:05:15
+# Last Updated: UTC 2025-10-21 01:02:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AZ ASN list"

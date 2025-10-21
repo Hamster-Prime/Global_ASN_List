@@ -1,5 +1,5 @@
 # ASN Information in PT.
-# Last Updated: UTC 2025-10-20 01:04:10
+# Last Updated: UTC 2025-10-21 01:01:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PT ASN list"
@@ -7,8 +7,8 @@
 :do { add list=PT_ASN range=6424 } on-error={}
 :do { add list=PT_ASN range=8657 } on-error={}
 :do { add list=PT_ASN range=2860 } on-error={}
-:do { add list=PT_ASN range=62416 } on-error={}
 :do { add list=PT_ASN range=39384 } on-error={}
+:do { add list=PT_ASN range=62416 } on-error={}
 :do { add list=PT_ASN range=214213 } on-error={}
 :do { add list=PT_ASN range=50293 } on-error={}
 :do { add list=PT_ASN range=9186 } on-error={}
@@ -30,6 +30,7 @@
 :do { add list=PT_ASN range=12926 } on-error={}
 :do { add list=PT_ASN range=199993 } on-error={}
 :do { add list=PT_ASN range=44222 } on-error={}
+:do { add list=PT_ASN range=214913 } on-error={}
 :do { add list=PT_ASN range=205558 } on-error={}
 :do { add list=PT_ASN range=57350 } on-error={}
 :do { add list=PT_ASN range=47202 } on-error={}
@@ -56,8 +57,6 @@
 :do { add list=PT_ASN range=33813 } on-error={}
 :do { add list=PT_ASN range=31497 } on-error={}
 :do { add list=PT_ASN range=25253 } on-error={}
-:do { add list=PT_ASN range=216237 } on-error={}
-:do { add list=PT_ASN range=214913 } on-error={}
 :do { add list=PT_ASN range=212073 } on-error={}
 :do { add list=PT_ASN range=211680 } on-error={}
 :do { add list=PT_ASN range=210300 } on-error={}
@@ -100,6 +99,7 @@
 :do { add list=PT_ASN range=28672 } on-error={}
 :do { add list=PT_ASN range=25060 } on-error={}
 :do { add list=PT_ASN range=25005 } on-error={}
+:do { add list=PT_ASN range=216237 } on-error={}
 :do { add list=PT_ASN range=215446 } on-error={}
 :do { add list=PT_ASN range=215046 } on-error={}
 :do { add list=PT_ASN range=213285 } on-error={}
