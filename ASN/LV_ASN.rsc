@@ -1,5 +1,5 @@
 # ASN Information in LV.
-# Last Updated: UTC 2025-10-22 01:02:31
+# Last Updated: UTC 2025-10-23 01:01:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LV ASN list"
@@ -15,8 +15,8 @@
 :do { add list=LV_ASN range=5518 } on-error={}
 :do { add list=LV_ASN range=199103 } on-error={}
 :do { add list=LV_ASN range=5538 } on-error={}
-:do { add list=LV_ASN range=24651 } on-error={}
 :do { add list=LV_ASN range=8285 } on-error={}
+:do { add list=LV_ASN range=24651 } on-error={}
 :do { add list=LV_ASN range=43317 } on-error={}
 :do { add list=LV_ASN range=58269 } on-error={}
 :do { add list=LV_ASN range=35407 } on-error={}
@@ -40,7 +40,6 @@
 :do { add list=LV_ASN range=202221 } on-error={}
 :do { add list=LV_ASN range=15721 } on-error={}
 :do { add list=LV_ASN range=9029 } on-error={}
-:do { add list=LV_ASN range=51338 } on-error={}
 :do { add list=LV_ASN range=48798 } on-error={}
 :do { add list=LV_ASN range=41726 } on-error={}
 :do { add list=LV_ASN range=41563 } on-error={}
@@ -66,9 +65,11 @@
 :do { add list=LV_ASN range=59615 } on-error={}
 :do { add list=LV_ASN range=51894 } on-error={}
 :do { add list=LV_ASN range=51763 } on-error={}
+:do { add list=LV_ASN range=51338 } on-error={}
 :do { add list=LV_ASN range=51268 } on-error={}
 :do { add list=LV_ASN range=51249 } on-error={}
 :do { add list=LV_ASN range=51109 } on-error={}
+:do { add list=LV_ASN range=50485 } on-error={}
 :do { add list=LV_ASN range=49549 } on-error={}
 :do { add list=LV_ASN range=49036 } on-error={}
 :do { add list=LV_ASN range=47371 } on-error={}
@@ -137,7 +138,6 @@
 :do { add list=LV_ASN range=51347 } on-error={}
 :do { add list=LV_ASN range=50893 } on-error={}
 :do { add list=LV_ASN range=50731 } on-error={}
-:do { add list=LV_ASN range=50485 } on-error={}
 :do { add list=LV_ASN range=49667 } on-error={}
 :do { add list=LV_ASN range=48870 } on-error={}
 :do { add list=LV_ASN range=48867 } on-error={}
