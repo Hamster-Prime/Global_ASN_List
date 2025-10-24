@@ -1,5 +1,5 @@
 # ASN Information in MY.
-# Last Updated: UTC 2025-10-23 01:00:23
+# Last Updated: UTC 2025-10-24 00:56:47
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MY ASN list"
@@ -14,9 +14,9 @@
 :do { add list=MY_ASN range=56286 } on-error={}
 :do { add list=MY_ASN range=136749 } on-error={}
 :do { add list=MY_ASN range=45960 } on-error={}
-:do { add list=MY_ASN range=131330 } on-error={}
 :do { add list=MY_ASN range=38278 } on-error={}
 :do { add list=MY_ASN range=24028 } on-error={}
+:do { add list=MY_ASN range=131330 } on-error={}
 :do { add list=MY_ASN range=133847 } on-error={}
 :do { add list=MY_ASN range=55720 } on-error={}
 :do { add list=MY_ASN range=17666 } on-error={}
@@ -29,11 +29,11 @@
 :do { add list=MY_ASN range=142412 } on-error={}
 :do { add list=MY_ASN range=132372 } on-error={}
 :do { add list=MY_ASN range=149440 } on-error={}
-:do { add list=MY_ASN range=132546 } on-error={}
 :do { add list=MY_ASN range=132111 } on-error={}
 :do { add list=MY_ASN range=45839 } on-error={}
 :do { add list=MY_ASN range=45668 } on-error={}
 :do { add list=MY_ASN range=142631 } on-error={}
+:do { add list=MY_ASN range=132546 } on-error={}
 :do { add list=MY_ASN range=133421 } on-error={}
 :do { add list=MY_ASN range=134809 } on-error={}
 :do { add list=MY_ASN range=55482 } on-error={}
@@ -140,7 +140,6 @@
 :do { add list=MY_ASN range=138996 } on-error={}
 :do { add list=MY_ASN range=137923 } on-error={}
 :do { add list=MY_ASN range=137005 } on-error={}
-:do { add list=MY_ASN range=136983 } on-error={}
 :do { add list=MY_ASN range=135551 } on-error={}
 :do { add list=MY_ASN range=135496 } on-error={}
 :do { add list=MY_ASN range=134698 } on-error={}
@@ -225,6 +224,7 @@
 :do { add list=MY_ASN range=137839 } on-error={}
 :do { add list=MY_ASN range=137397 } on-error={}
 :do { add list=MY_ASN range=137240 } on-error={}
+:do { add list=MY_ASN range=136983 } on-error={}
 :do { add list=MY_ASN range=136962 } on-error={}
 :do { add list=MY_ASN range=136751 } on-error={}
 :do { add list=MY_ASN range=136727 } on-error={}

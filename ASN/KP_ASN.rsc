@@ -1,5 +1,5 @@
 # ASN Information in KP.
-# Last Updated: UTC 2025-10-23 01:00:20
+# Last Updated: UTC 2025-10-24 00:56:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KP ASN list"

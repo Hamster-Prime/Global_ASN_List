@@ -1,5 +1,5 @@
 # ASN Information in CR.
-# Last Updated: UTC 2025-10-23 01:02:21
+# Last Updated: UTC 2025-10-24 00:58:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CR ASN list"
@@ -36,6 +36,7 @@
 :do { add list=CR_ASN range=262241 } on-error={}
 :do { add list=CR_ASN range=262149 } on-error={}
 :do { add list=CR_ASN range=61479 } on-error={}
+:do { add list=CR_ASN range=52470 } on-error={}
 :do { add list=CR_ASN range=52408 } on-error={}
 :do { add list=CR_ASN range=52395 } on-error={}
 :do { add list=CR_ASN range=273139 } on-error={}
@@ -51,7 +52,6 @@
 :do { add list=CR_ASN range=262152 } on-error={}
 :do { add list=CR_ASN range=262145 } on-error={}
 :do { add list=CR_ASN range=61464 } on-error={}
-:do { add list=CR_ASN range=52470 } on-error={}
 :do { add list=CR_ASN range=52463 } on-error={}
 :do { add list=CR_ASN range=52429 } on-error={}
 :do { add list=CR_ASN range=52392 } on-error={}
