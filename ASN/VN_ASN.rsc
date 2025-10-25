@@ -1,5 +1,5 @@
 # ASN Information in VN.
-# Last Updated: UTC 2025-10-24 00:56:36
+# Last Updated: UTC 2025-10-25 00:58:05
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VN ASN list"
@@ -12,8 +12,8 @@
 :do { add list=VN_ASN range=24173 } on-error={}
 :do { add list=VN_ASN range=38731 } on-error={}
 :do { add list=VN_ASN range=131429 } on-error={}
-:do { add list=VN_ASN range=24088 } on-error={}
 :do { add list=VN_ASN range=135905 } on-error={}
+:do { add list=VN_ASN range=24088 } on-error={}
 :do { add list=VN_ASN range=63741 } on-error={}
 :do { add list=VN_ASN range=45543 } on-error={}
 :do { add list=VN_ASN range=38733 } on-error={}
@@ -36,11 +36,11 @@
 :do { add list=VN_ASN range=135947 } on-error={}
 :do { add list=VN_ASN range=56149 } on-error={}
 :do { add list=VN_ASN range=131438 } on-error={}
+:do { add list=VN_ASN range=131435 } on-error={}
 :do { add list=VN_ASN range=38735 } on-error={}
 :do { add list=VN_ASN range=150895 } on-error={}
 :do { add list=VN_ASN range=140766 } on-error={}
 :do { add list=VN_ASN range=131436 } on-error={}
-:do { add list=VN_ASN range=131435 } on-error={}
 :do { add list=VN_ASN range=63751 } on-error={}
 :do { add list=VN_ASN range=63743 } on-error={}
 :do { add list=VN_ASN range=63736 } on-error={}
@@ -67,7 +67,6 @@
 :do { add list=VN_ASN range=131383 } on-error={}
 :do { add list=VN_ASN range=131364 } on-error={}
 :do { add list=VN_ASN range=131353 } on-error={}
-:do { add list=VN_ASN range=131351 } on-error={}
 :do { add list=VN_ASN range=131343 } on-error={}
 :do { add list=VN_ASN range=131128 } on-error={}
 :do { add list=VN_ASN range=63768 } on-error={}
@@ -110,6 +109,7 @@
 :do { add list=VN_ASN range=131412 } on-error={}
 :do { add list=VN_ASN range=131379 } on-error={}
 :do { add list=VN_ASN range=131363 } on-error={}
+:do { add list=VN_ASN range=131351 } on-error={}
 :do { add list=VN_ASN range=131348 } on-error={}
 :do { add list=VN_ASN range=131130 } on-error={}
 :do { add list=VN_ASN range=131129 } on-error={}
@@ -137,7 +137,6 @@
 :do { add list=VN_ASN range=55312 } on-error={}
 :do { add list=VN_ASN range=55310 } on-error={}
 :do { add list=VN_ASN range=55308 } on-error={}
-:do { add list=VN_ASN range=55307 } on-error={}
 :do { add list=VN_ASN range=45894 } on-error={}
 :do { add list=VN_ASN range=45556 } on-error={}
 :do { add list=VN_ASN range=45554 } on-error={}
@@ -153,6 +152,7 @@
 :do { add list=VN_ASN range=24086 } on-error={}
 :do { add list=VN_ASN range=23999 } on-error={}
 :do { add list=VN_ASN range=153941 } on-error={}
+:do { add list=VN_ASN range=153651 } on-error={}
 :do { add list=VN_ASN range=153500 } on-error={}
 :do { add list=VN_ASN range=153433 } on-error={}
 :do { add list=VN_ASN range=153428 } on-error={}
@@ -279,6 +279,7 @@
 :do { add list=VN_ASN range=56142 } on-error={}
 :do { add list=VN_ASN range=55322 } on-error={}
 :do { add list=VN_ASN range=55320 } on-error={}
+:do { add list=VN_ASN range=55307 } on-error={}
 :do { add list=VN_ASN range=55305 } on-error={}
 :do { add list=VN_ASN range=45900 } on-error={}
 :do { add list=VN_ASN range=45542 } on-error={}
@@ -301,7 +302,6 @@
 :do { add list=VN_ASN range=153830 } on-error={}
 :do { add list=VN_ASN range=153713 } on-error={}
 :do { add list=VN_ASN range=153683 } on-error={}
-:do { add list=VN_ASN range=153651 } on-error={}
 :do { add list=VN_ASN range=153647 } on-error={}
 :do { add list=VN_ASN range=153591 } on-error={}
 :do { add list=VN_ASN range=153585 } on-error={}
@@ -350,6 +350,7 @@
 :do { add list=VN_ASN range=152933 } on-error={}
 :do { add list=VN_ASN range=151938 } on-error={}
 :do { add list=VN_ASN range=151917 } on-error={}
+:do { add list=VN_ASN range=151914 } on-error={}
 :do { add list=VN_ASN range=151913 } on-error={}
 :do { add list=VN_ASN range=151911 } on-error={}
 :do { add list=VN_ASN range=151908 } on-error={}
