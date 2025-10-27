@@ -1,5 +1,5 @@
 # ASN Information in ZW.
-# Last Updated: UTC 2025-10-26 01:08:05
+# Last Updated: UTC 2025-10-27 01:08:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZW ASN list"
@@ -30,4 +30,3 @@
 :do { add list=ZW_ASN range=328230 } on-error={}
 :do { add list=ZW_ASN range=327971 } on-error={}
 :do { add list=ZW_ASN range=327863 } on-error={}
-:do { add list=ZW_ASN range=207184 } on-error={}
