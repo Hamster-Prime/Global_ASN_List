@@ -1,5 +1,5 @@
 # ASN Information in VE.
-# Last Updated: UTC 2025-10-27 01:07:59
+# Last Updated: UTC 2025-10-28 01:01:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
@@ -22,9 +22,9 @@
 :do { add list=VE_ASN range=270042 } on-error={}
 :do { add list=VE_ASN range=11562 } on-error={}
 :do { add list=VE_ASN range=264778 } on-error={}
-:do { add list=VE_ASN range=271907 } on-error={}
 :do { add list=VE_ASN range=266841 } on-error={}
 :do { add list=VE_ASN range=272809 } on-error={}
+:do { add list=VE_ASN range=271907 } on-error={}
 :do { add list=VE_ASN range=269829 } on-error={}
 :do { add list=VE_ASN range=269820 } on-error={}
 :do { add list=VE_ASN range=263767 } on-error={}
@@ -63,12 +63,10 @@
 :do { add list=VE_ASN range=27648 } on-error={}
 :do { add list=VE_ASN range=274180 } on-error={}
 :do { add list=VE_ASN range=274117 } on-error={}
-:do { add list=VE_ASN range=273995 } on-error={}
 :do { add list=VE_ASN range=273904 } on-error={}
 :do { add list=VE_ASN range=273197 } on-error={}
 :do { add list=VE_ASN range=273155 } on-error={}
 :do { add list=VE_ASN range=273125 } on-error={}
-:do { add list=VE_ASN range=273090 } on-error={}
 :do { add list=VE_ASN range=273069 } on-error={}
 :do { add list=VE_ASN range=273011 } on-error={}
 :do { add list=VE_ASN range=273010 } on-error={}
@@ -116,6 +114,7 @@
 :do { add list=VE_ASN range=274036 } on-error={}
 :do { add list=VE_ASN range=274028 } on-error={}
 :do { add list=VE_ASN range=274022 } on-error={}
+:do { add list=VE_ASN range=273995 } on-error={}
 :do { add list=VE_ASN range=273994 } on-error={}
 :do { add list=VE_ASN range=273990 } on-error={}
 :do { add list=VE_ASN range=273893 } on-error={}
@@ -129,6 +128,7 @@
 :do { add list=VE_ASN range=273182 } on-error={}
 :do { add list=VE_ASN range=273144 } on-error={}
 :do { add list=VE_ASN range=273100 } on-error={}
+:do { add list=VE_ASN range=273090 } on-error={}
 :do { add list=VE_ASN range=273058 } on-error={}
 :do { add list=VE_ASN range=273043 } on-error={}
 :do { add list=VE_ASN range=273029 } on-error={}

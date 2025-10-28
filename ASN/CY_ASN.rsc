@@ -1,5 +1,5 @@
 # ASN Information in CY.
-# Last Updated: UTC 2025-10-27 01:06:54
+# Last Updated: UTC 2025-10-28 01:00:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CY ASN list"
@@ -14,8 +14,8 @@
 :do { add list=CY_ASN range=203410 } on-error={}
 :do { add list=CY_ASN range=202448 } on-error={}
 :do { add list=CY_ASN range=204453 } on-error={}
-:do { add list=CY_ASN range=47583 } on-error={}
 :do { add list=CY_ASN range=213922 } on-error={}
+:do { add list=CY_ASN range=47583 } on-error={}
 :do { add list=CY_ASN range=42913 } on-error={}
 :do { add list=CY_ASN range=51297 } on-error={}
 :do { add list=CY_ASN range=5531 } on-error={}
@@ -36,6 +36,7 @@
 :do { add list=CY_ASN range=197648 } on-error={}
 :do { add list=CY_ASN range=196736 } on-error={}
 :do { add list=CY_ASN range=49921 } on-error={}
+:do { add list=CY_ASN range=39666 } on-error={}
 :do { add list=CY_ASN range=3268 } on-error={}
 :do { add list=CY_ASN range=214273 } on-error={}
 :do { add list=CY_ASN range=212772 } on-error={}
@@ -87,7 +88,6 @@
 :do { add list=CY_ASN range=44550 } on-error={}
 :do { add list=CY_ASN range=43779 } on-error={}
 :do { add list=CY_ASN range=40809 } on-error={}
-:do { add list=CY_ASN range=39666 } on-error={}
 :do { add list=CY_ASN range=30916 } on-error={}
 :do { add list=CY_ASN range=29639 } on-error={}
 :do { add list=CY_ASN range=25425 } on-error={}

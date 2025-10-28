@@ -1,5 +1,5 @@
 # ASN Information in IQ.
-# Last Updated: UTC 2025-10-27 01:07:19
+# Last Updated: UTC 2025-10-28 01:00:39
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IQ ASN list"
@@ -19,9 +19,9 @@
 :do { add list=IQ_ASN range=57324 } on-error={}
 :do { add list=IQ_ASN range=200178 } on-error={}
 :do { add list=IQ_ASN range=201749 } on-error={}
+:do { add list=IQ_ASN range=56484 } on-error={}
 :do { add list=IQ_ASN range=212250 } on-error={}
 :do { add list=IQ_ASN range=197882 } on-error={}
-:do { add list=IQ_ASN range=56484 } on-error={}
 :do { add list=IQ_ASN range=51684 } on-error={}
 :do { add list=IQ_ASN range=212692 } on-error={}
 :do { add list=IQ_ASN range=205906 } on-error={}

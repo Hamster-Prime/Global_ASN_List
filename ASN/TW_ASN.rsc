@@ -1,5 +1,5 @@
 # ASN Information in TW.
-# Last Updated: UTC 2025-10-27 01:05:23
+# Last Updated: UTC 2025-10-28 00:59:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TW ASN list"
@@ -25,19 +25,20 @@
 :do { add list=TW_ASN range=7483 } on-error={}
 :do { add list=TW_ASN range=9416 } on-error={}
 :do { add list=TW_ASN range=131642 } on-error={}
+:do { add list=TW_ASN range=18419 } on-error={}
 :do { add list=TW_ASN range=134094 } on-error={}
 :do { add list=TW_ASN range=9678 } on-error={}
-:do { add list=TW_ASN range=18419 } on-error={}
 :do { add list=TW_ASN range=7481 } on-error={}
 :do { add list=TW_ASN range=38254 } on-error={}
 :do { add list=TW_ASN range=131657 } on-error={}
+:do { add list=TW_ASN range=208223 } on-error={}
 :do { add list=TW_ASN range=17809 } on-error={}
 :do { add list=TW_ASN range=131584 } on-error={}
-:do { add list=TW_ASN range=208223 } on-error={}
+:do { add list=TW_ASN range=150766 } on-error={}
 :do { add list=TW_ASN range=142046 } on-error={}
 :do { add list=TW_ASN range=131659 } on-error={}
 :do { add list=TW_ASN range=18423 } on-error={}
-:do { add list=TW_ASN range=150766 } on-error={}
+:do { add list=TW_ASN range=10135 } on-error={}
 :do { add list=TW_ASN range=7656 } on-error={}
 :do { add list=TW_ASN range=152626 } on-error={}
 :do { add list=TW_ASN range=152622 } on-error={}
@@ -51,14 +52,13 @@
 :do { add list=TW_ASN range=150771 } on-error={}
 :do { add list=TW_ASN range=150768 } on-error={}
 :do { add list=TW_ASN range=131618 } on-error={}
-:do { add list=TW_ASN range=10135 } on-error={}
 :do { add list=TW_ASN range=38856 } on-error={}
 :do { add list=TW_ASN range=151188 } on-error={}
 :do { add list=TW_ASN range=150755 } on-error={}
+:do { add list=TW_ASN range=131634 } on-error={}
 :do { add list=TW_ASN range=131596 } on-error={}
 :do { add list=TW_ASN range=9922 } on-error={}
 :do { add list=TW_ASN range=18428 } on-error={}
-:do { add list=TW_ASN range=131634 } on-error={}
 :do { add list=TW_ASN range=9915 } on-error={}
 :do { add list=TW_ASN range=7532 } on-error={}
 :do { add list=TW_ASN range=63897 } on-error={}
@@ -68,10 +68,10 @@
 :do { add list=TW_ASN range=18182 } on-error={}
 :do { add list=TW_ASN range=17718 } on-error={}
 :do { add list=TW_ASN range=131666 } on-error={}
+:do { add list=TW_ASN range=131643 } on-error={}
 :do { add list=TW_ASN range=131607 } on-error={}
 :do { add list=TW_ASN range=18042 } on-error={}
 :do { add list=TW_ASN range=1659 } on-error={}
-:do { add list=TW_ASN range=131643 } on-error={}
 :do { add list=TW_ASN range=7533 } on-error={}
 :do { add list=TW_ASN range=18424 } on-error={}
 :do { add list=TW_ASN range=17716 } on-error={}
@@ -105,6 +105,7 @@
 :do { add list=TW_ASN range=131636 } on-error={}
 :do { add list=TW_ASN range=9919 } on-error={}
 :do { add list=TW_ASN range=9671 } on-error={}
+:do { add list=TW_ASN range=7535 } on-error={}
 :do { add list=TW_ASN range=63910 } on-error={}
 :do { add list=TW_ASN range=4783 } on-error={}
 :do { add list=TW_ASN range=38853 } on-error={}
@@ -204,6 +205,7 @@
 :do { add list=TW_ASN range=17651 } on-error={}
 :do { add list=TW_ASN range=17421 } on-error={}
 :do { add list=TW_ASN range=17416 } on-error={}
+:do { add list=TW_ASN range=17413 } on-error={}
 :do { add list=TW_ASN range=152628 } on-error={}
 :do { add list=TW_ASN range=152617 } on-error={}
 :do { add list=TW_ASN range=152613 } on-error={}
@@ -228,6 +230,7 @@
 :do { add list=TW_ASN range=131635 } on-error={}
 :do { add list=TW_ASN range=131626 } on-error={}
 :do { add list=TW_ASN range=131623 } on-error={}
+:do { add list=TW_ASN range=131617 } on-error={}
 :do { add list=TW_ASN range=131606 } on-error={}
 :do { add list=TW_ASN range=131601 } on-error={}
 :do { add list=TW_ASN range=131600 } on-error={}
@@ -276,7 +279,6 @@
 :do { add list=TW_ASN range=202820 } on-error={}
 :do { add list=TW_ASN range=199203 } on-error={}
 :do { add list=TW_ASN range=198954 } on-error={}
-:do { add list=TW_ASN range=17413 } on-error={}
 :do { add list=TW_ASN range=153891 } on-error={}
 :do { add list=TW_ASN range=152624 } on-error={}
 :do { add list=TW_ASN range=149423 } on-error={}
