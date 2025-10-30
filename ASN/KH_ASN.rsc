@@ -1,5 +1,5 @@
 # ASN Information in KH.
-# Last Updated: UTC 2025-10-29 01:03:25
+# Last Updated: UTC 2025-10-30 01:02:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"
@@ -15,8 +15,8 @@
 :do { add list=KH_ASN range=23673 } on-error={}
 :do { add list=KH_ASN range=24441 } on-error={}
 :do { add list=KH_ASN range=137853 } on-error={}
-:do { add list=KH_ASN range=45498 } on-error={}
 :do { add list=KH_ASN range=17976 } on-error={}
+:do { add list=KH_ASN range=45498 } on-error={}
 :do { add list=KH_ASN range=150158 } on-error={}
 :do { add list=KH_ASN range=132213 } on-error={}
 :do { add list=KH_ASN range=38901 } on-error={}
@@ -31,11 +31,13 @@
 :do { add list=KH_ASN range=38209 } on-error={}
 :do { add list=KH_ASN range=151622 } on-error={}
 :do { add list=KH_ASN range=140659 } on-error={}
+:do { add list=KH_ASN range=139844 } on-error={}
 :do { add list=KH_ASN range=138340 } on-error={}
 :do { add list=KH_ASN range=138160 } on-error={}
 :do { add list=KH_ASN range=137989 } on-error={}
 :do { add list=KH_ASN range=136998 } on-error={}
 :do { add list=KH_ASN range=131241 } on-error={}
+:do { add list=KH_ASN range=131178 } on-error={}
 :do { add list=KH_ASN range=7712 } on-error={}
 :do { add list=KH_ASN range=58424 } on-error={}
 :do { add list=KH_ASN range=38600 } on-error={}
@@ -49,7 +51,6 @@
 :do { add list=KH_ASN range=138528 } on-error={}
 :do { add list=KH_ASN range=133200 } on-error={}
 :do { add list=KH_ASN range=132080 } on-error={}
-:do { add list=KH_ASN range=131178 } on-error={}
 :do { add list=KH_ASN range=9900 } on-error={}
 :do { add list=KH_ASN range=58465 } on-error={}
 :do { add list=KH_ASN range=55636 } on-error={}
@@ -63,7 +64,6 @@
 :do { add list=KH_ASN range=147023 } on-error={}
 :do { add list=KH_ASN range=147011 } on-error={}
 :do { add list=KH_ASN range=142296 } on-error={}
-:do { add list=KH_ASN range=139844 } on-error={}
 :do { add list=KH_ASN range=139060 } on-error={}
 :do { add list=KH_ASN range=138682 } on-error={}
 :do { add list=KH_ASN range=137829 } on-error={}
