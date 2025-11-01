@@ -1,5 +1,5 @@
 # ASN Information in DO.
-# Last Updated: UTC 2025-10-31 01:03:48
+# Last Updated: UTC 2025-11-01 01:06:35
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DO ASN list"
@@ -36,6 +36,7 @@
 :do { add list=DO_ASN range=262221 } on-error={}
 :do { add list=DO_ASN range=274072 } on-error={}
 :do { add list=DO_ASN range=273861 } on-error={}
+:do { add list=DO_ASN range=273217 } on-error={}
 :do { add list=DO_ASN range=271968 } on-error={}
 :do { add list=DO_ASN range=271945 } on-error={}
 :do { add list=DO_ASN range=271942 } on-error={}
@@ -58,7 +59,6 @@
 :do { add list=DO_ASN range=273838 } on-error={}
 :do { add list=DO_ASN range=273230 } on-error={}
 :do { add list=DO_ASN range=273220 } on-error={}
-:do { add list=DO_ASN range=273217 } on-error={}
 :do { add list=DO_ASN range=273162 } on-error={}
 :do { add list=DO_ASN range=273157 } on-error={}
 :do { add list=DO_ASN range=273113 } on-error={}
