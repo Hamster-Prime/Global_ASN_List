@@ -1,5 +1,5 @@
 # ASN Information in PE.
-# Last Updated: UTC 2025-11-03 01:05:53
+# Last Updated: UTC 2025-11-04 01:04:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PE ASN list"
@@ -23,8 +23,8 @@
 :do { add list=PE_ASN range=263681 } on-error={}
 :do { add list=PE_ASN range=269898 } on-error={}
 :do { add list=PE_ASN range=265691 } on-error={}
-:do { add list=PE_ASN range=64130 } on-error={}
 :do { add list=PE_ASN range=263185 } on-error={}
+:do { add list=PE_ASN range=64130 } on-error={}
 :do { add list=PE_ASN range=64116 } on-error={}
 :do { add list=PE_ASN range=273000 } on-error={}
 :do { add list=PE_ASN range=272979 } on-error={}
@@ -53,6 +53,7 @@
 :do { add list=PE_ASN range=272104 } on-error={}
 :do { add list=PE_ASN range=272059 } on-error={}
 :do { add list=PE_ASN range=271876 } on-error={}
+:do { add list=PE_ASN range=271862 } on-error={}
 :do { add list=PE_ASN range=270086 } on-error={}
 :do { add list=PE_ASN range=270082 } on-error={}
 :do { add list=PE_ASN range=270069 } on-error={}
@@ -64,7 +65,6 @@
 :do { add list=PE_ASN range=273882 } on-error={}
 :do { add list=PE_ASN range=273108 } on-error={}
 :do { add list=PE_ASN range=273086 } on-error={}
-:do { add list=PE_ASN range=271862 } on-error={}
 :do { add list=PE_ASN range=271857 } on-error={}
 :do { add list=PE_ASN range=270081 } on-error={}
 :do { add list=PE_ASN range=270037 } on-error={}

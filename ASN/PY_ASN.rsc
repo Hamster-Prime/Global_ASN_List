@@ -1,5 +1,5 @@
 # ASN Information in PY.
-# Last Updated: UTC 2025-11-03 01:05:57
+# Last Updated: UTC 2025-11-04 01:04:10
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PY ASN list"
@@ -23,7 +23,6 @@
 :do { add list=PY_ASN range=27733 } on-error={}
 :do { add list=PY_ASN range=266814 } on-error={}
 :do { add list=PY_ASN range=266694 } on-error={}
-:do { add list=PY_ASN range=264770 } on-error={}
 :do { add list=PY_ASN range=64165 } on-error={}
 :do { add list=PY_ASN range=27669 } on-error={}
 :do { add list=PY_ASN range=273023 } on-error={}
@@ -51,6 +50,7 @@
 :do { add list=PY_ASN range=267704 } on-error={}
 :do { add list=PY_ASN range=266831 } on-error={}
 :do { add list=PY_ASN range=265864 } on-error={}
+:do { add list=PY_ASN range=264770 } on-error={}
 :do { add list=PY_ASN range=263732 } on-error={}
 :do { add list=PY_ASN range=52445 } on-error={}
 :do { add list=PY_ASN range=52227 } on-error={}
