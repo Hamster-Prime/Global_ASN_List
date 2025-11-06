@@ -1,5 +1,5 @@
 # ASN Information in DZ.
-# Last Updated: UTC 2025-11-05 01:06:09
+# Last Updated: UTC 2025-11-06 01:04:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DZ ASN list"
@@ -8,7 +8,6 @@
 :do { add list=DZ_ASN range=36891 } on-error={}
 :do { add list=DZ_ASN range=3208 } on-error={}
 :do { add list=DZ_ASN range=33779 } on-error={}
-:do { add list=DZ_ASN range=33774 } on-error={}
 :do { add list=DZ_ASN range=329494 } on-error={}
 :do { add list=DZ_ASN range=327931 } on-error={}
 :do { add list=DZ_ASN range=327712 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in KW.
-# Last Updated: UTC 2025-11-05 01:04:41
+# Last Updated: UTC 2025-11-06 01:03:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KW ASN list"
@@ -25,12 +25,10 @@
 :do { add list=KW_ASN range=47442 } on-error={}
 :do { add list=KW_ASN range=43184 } on-error={}
 :do { add list=KW_ASN range=42642 } on-error={}
-:do { add list=KW_ASN range=39682 } on-error={}
 :do { add list=KW_ASN range=35181 } on-error={}
 :do { add list=KW_ASN range=29237 } on-error={}
 :do { add list=KW_ASN range=29029 } on-error={}
 :do { add list=KW_ASN range=211394 } on-error={}
-:do { add list=KW_ASN range=210245 } on-error={}
 :do { add list=KW_ASN range=208899 } on-error={}
 :do { add list=KW_ASN range=205780 } on-error={}
 :do { add list=KW_ASN range=205554 } on-error={}
@@ -61,6 +59,7 @@
 :do { add list=KW_ASN range=41890 } on-error={}
 :do { add list=KW_ASN range=41669 } on-error={}
 :do { add list=KW_ASN range=41576 } on-error={}
+:do { add list=KW_ASN range=39682 } on-error={}
 :do { add list=KW_ASN range=39504 } on-error={}
 :do { add list=KW_ASN range=25242 } on-error={}
 :do { add list=KW_ASN range=24627 } on-error={}
@@ -69,6 +68,7 @@
 :do { add list=KW_ASN range=213749 } on-error={}
 :do { add list=KW_ASN range=213397 } on-error={}
 :do { add list=KW_ASN range=211372 } on-error={}
+:do { add list=KW_ASN range=210245 } on-error={}
 :do { add list=KW_ASN range=209068 } on-error={}
 :do { add list=KW_ASN range=208710 } on-error={}
 :do { add list=KW_ASN range=206879 } on-error={}
