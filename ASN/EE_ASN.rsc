@@ -1,11 +1,11 @@
 # ASN Information in EE.
-# Last Updated: UTC 2025-11-06 01:03:01
+# Last Updated: UTC 2025-11-07 01:02:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EE ASN list"
 /routing filter num-list
-:do { add list=EE_ASN range=215955 } on-error={}
 :do { add list=EE_ASN range=3204 } on-error={}
+:do { add list=EE_ASN range=215955 } on-error={}
 :do { add list=EE_ASN range=3920 } on-error={}
 :do { add list=EE_ASN range=62005 } on-error={}
 :do { add list=EE_ASN range=3249 } on-error={}
