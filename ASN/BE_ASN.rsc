@@ -1,16 +1,16 @@
 # ASN Information in BE.
-# Last Updated: UTC 2025-11-08 00:59:08
+# Last Updated: UTC 2025-11-09 01:05:31
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BE ASN list"
 /routing filter num-list
 :do { add list=BE_ASN range=213241 } on-error={}
+:do { add list=BE_ASN range=209768 } on-error={}
 :do { add list=BE_ASN range=6774 } on-error={}
 :do { add list=BE_ASN range=48185 } on-error={}
 :do { add list=BE_ASN range=6696 } on-error={}
 :do { add list=BE_ASN range=34872 } on-error={}
 :do { add list=BE_ASN range=8368 } on-error={}
-:do { add list=BE_ASN range=209768 } on-error={}
 :do { add list=BE_ASN range=212123 } on-error={}
 :do { add list=BE_ASN range=31449 } on-error={}
 :do { add list=BE_ASN range=210890 } on-error={}
@@ -37,7 +37,6 @@
 :do { add list=BE_ASN range=41135 } on-error={}
 :do { add list=BE_ASN range=210821 } on-error={}
 :do { add list=BE_ASN range=47377 } on-error={}
-:do { add list=BE_ASN range=47504 } on-error={}
 :do { add list=BE_ASN range=12392 } on-error={}
 :do { add list=BE_ASN range=9208 } on-error={}
 :do { add list=BE_ASN range=208210 } on-error={}
@@ -129,7 +128,6 @@
 :do { add list=BE_ASN range=21373 } on-error={}
 :do { add list=BE_ASN range=213331 } on-error={}
 :do { add list=BE_ASN range=213160 } on-error={}
-:do { add list=BE_ASN range=211304 } on-error={}
 :do { add list=BE_ASN range=211136 } on-error={}
 :do { add list=BE_ASN range=211079 } on-error={}
 :do { add list=BE_ASN range=210444 } on-error={}
@@ -198,6 +196,7 @@
 :do { add list=BE_ASN range=48260 } on-error={}
 :do { add list=BE_ASN range=47861 } on-error={}
 :do { add list=BE_ASN range=47688 } on-error={}
+:do { add list=BE_ASN range=47504 } on-error={}
 :do { add list=BE_ASN range=47346 } on-error={}
 :do { add list=BE_ASN range=44312 } on-error={}
 :do { add list=BE_ASN range=44140 } on-error={}
@@ -227,7 +226,6 @@
 :do { add list=BE_ASN range=21489 } on-error={}
 :do { add list=BE_ASN range=21474 } on-error={}
 :do { add list=BE_ASN range=214545 } on-error={}
-:do { add list=BE_ASN range=214445 } on-error={}
 :do { add list=BE_ASN range=214327 } on-error={}
 :do { add list=BE_ASN range=214255 } on-error={}
 :do { add list=BE_ASN range=214130 } on-error={}
@@ -240,6 +238,7 @@
 :do { add list=BE_ASN range=212241 } on-error={}
 :do { add list=BE_ASN range=212223 } on-error={}
 :do { add list=BE_ASN range=211601 } on-error={}
+:do { add list=BE_ASN range=211304 } on-error={}
 :do { add list=BE_ASN range=211106 } on-error={}
 :do { add list=BE_ASN range=210227 } on-error={}
 :do { add list=BE_ASN range=210196 } on-error={}
