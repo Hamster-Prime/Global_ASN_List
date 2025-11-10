@@ -1,5 +1,5 @@
 # ASN Information in AE.
-# Last Updated: UTC 2025-11-09 01:06:16
+# Last Updated: UTC 2025-11-10 01:06:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AE ASN list"
@@ -18,9 +18,9 @@
 :do { add list=AE_ASN range=208800 } on-error={}
 :do { add list=AE_ASN range=62458 } on-error={}
 :do { add list=AE_ASN range=200315 } on-error={}
+:do { add list=AE_ASN range=59605 } on-error={}
 :do { add list=AE_ASN range=208006 } on-error={}
 :do { add list=AE_ASN range=204523 } on-error={}
-:do { add list=AE_ASN range=59605 } on-error={}
 :do { add list=AE_ASN range=35086 } on-error={}
 :do { add list=AE_ASN range=215174 } on-error={}
 :do { add list=AE_ASN range=214227 } on-error={}
