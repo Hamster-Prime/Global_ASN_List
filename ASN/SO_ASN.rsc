@@ -1,5 +1,5 @@
 # ASN Information in SO.
-# Last Updated: UTC 2025-11-10 01:08:45
+# Last Updated: UTC 2025-11-11 01:06:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SO ASN list"
@@ -12,10 +12,10 @@
 :do { add list=SO_ASN range=37473 } on-error={}
 :do { add list=SO_ASN range=328590 } on-error={}
 :do { add list=SO_ASN range=328319 } on-error={}
+:do { add list=SO_ASN range=327768 } on-error={}
 :do { add list=SO_ASN range=37563 } on-error={}
 :do { add list=SO_ASN range=328435 } on-error={}
 :do { add list=SO_ASN range=327828 } on-error={}
-:do { add list=SO_ASN range=327768 } on-error={}
 :do { add list=SO_ASN range=37644 } on-error={}
 :do { add list=SO_ASN range=37326 } on-error={}
 :do { add list=SO_ASN range=328959 } on-error={}

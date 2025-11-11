@@ -1,5 +1,5 @@
 # ASN Information in SD.
-# Last Updated: UTC 2025-11-10 01:08:42
+# Last Updated: UTC 2025-11-11 01:06:18
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SD ASN list"
@@ -10,5 +10,6 @@
 :do { add list=SD_ASN range=37211 } on-error={}
 :do { add list=SD_ASN range=36972 } on-error={}
 :do { add list=SD_ASN range=328381 } on-error={}
+:do { add list=SD_ASN range=329344 } on-error={}
 :do { add list=SD_ASN range=328824 } on-error={}
 :do { add list=SD_ASN range=327881 } on-error={}
