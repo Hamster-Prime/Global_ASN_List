@@ -1,13 +1,13 @@
 # ASN Information in OM.
-# Last Updated: UTC 2025-11-11 01:04:46
+# Last Updated: UTC 2025-11-12 01:03:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading OM ASN list"
 /routing filter num-list
 :do { add list=OM_ASN range=50010 } on-error={}
-:do { add list=OM_ASN range=212661 } on-error={}
 :do { add list=OM_ASN range=28885 } on-error={}
 :do { add list=OM_ASN range=206350 } on-error={}
+:do { add list=OM_ASN range=212661 } on-error={}
 :do { add list=OM_ASN range=204170 } on-error={}
 :do { add list=OM_ASN range=60680 } on-error={}
 :do { add list=OM_ASN range=202655 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in BT.
-# Last Updated: UTC 2025-11-11 01:03:22
+# Last Updated: UTC 2025-11-12 01:02:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BT ASN list"
@@ -18,6 +18,7 @@
 :do { add list=BT_ASN range=134715 } on-error={}
 :do { add list=BT_ASN range=132232 } on-error={}
 :do { add list=BT_ASN range=18025 } on-error={}
+:do { add list=BT_ASN range=153779 } on-error={}
 :do { add list=BT_ASN range=153740 } on-error={}
 :do { add list=BT_ASN range=151955 } on-error={}
 :do { add list=BT_ASN range=140695 } on-error={}
@@ -26,5 +27,4 @@
 :do { add list=BT_ASN range=137412 } on-error={}
 :do { add list=BT_ASN range=132894 } on-error={}
 :do { add list=BT_ASN range=38004 } on-error={}
-:do { add list=BT_ASN range=153779 } on-error={}
 :do { add list=BT_ASN range=151498 } on-error={}

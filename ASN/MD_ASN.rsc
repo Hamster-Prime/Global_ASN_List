@@ -1,5 +1,5 @@
 # ASN Information in MD.
-# Last Updated: UTC 2025-11-11 01:04:29
+# Last Updated: UTC 2025-11-12 01:03:43
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MD ASN list"
@@ -31,6 +31,7 @@
 :do { add list=MD_ASN range=202966 } on-error={}
 :do { add list=MD_ASN range=62071 } on-error={}
 :do { add list=MD_ASN range=61334 } on-error={}
+:do { add list=MD_ASN range=61208 } on-error={}
 :do { add list=MD_ASN range=61077 } on-error={}
 :do { add list=MD_ASN range=60405 } on-error={}
 :do { add list=MD_ASN range=60127 } on-error={}
@@ -64,7 +65,6 @@
 :do { add list=MD_ASN range=62281 } on-error={}
 :do { add list=MD_ASN range=62232 } on-error={}
 :do { add list=MD_ASN range=62154 } on-error={}
-:do { add list=MD_ASN range=61208 } on-error={}
 :do { add list=MD_ASN range=57776 } on-error={}
 :do { add list=MD_ASN range=57713 } on-error={}
 :do { add list=MD_ASN range=57428 } on-error={}
@@ -128,7 +128,6 @@
 :do { add list=MD_ASN range=215059 } on-error={}
 :do { add list=MD_ASN range=212786 } on-error={}
 :do { add list=MD_ASN range=209982 } on-error={}
-:do { add list=MD_ASN range=209944 } on-error={}
 :do { add list=MD_ASN range=209375 } on-error={}
 :do { add list=MD_ASN range=206560 } on-error={}
 :do { add list=MD_ASN range=205884 } on-error={}
