@@ -1,5 +1,5 @@
 # ASN Information in SI.
-# Last Updated: UTC 2025-11-12 01:03:32
+# Last Updated: UTC 2025-11-13 01:04:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SI ASN list"
@@ -183,6 +183,7 @@
 :do { add list=SI_ASN range=16104 } on-error={}
 :do { add list=SI_ASN range=15822 } on-error={}
 :do { add list=SI_ASN range=15664 } on-error={}
+:do { add list=SI_ASN range=8558 } on-error={}
 :do { add list=SI_ASN range=64465 } on-error={}
 :do { add list=SI_ASN range=60215 } on-error={}
 :do { add list=SI_ASN range=59834 } on-error={}
