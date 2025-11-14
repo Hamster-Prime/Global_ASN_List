@@ -1,5 +1,5 @@
 # ASN Information in BY.
-# Last Updated: UTC 2025-11-13 01:03:53
+# Last Updated: UTC 2025-11-14 01:03:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BY ASN list"
@@ -13,8 +13,8 @@
 :do { add list=BY_ASN range=42772 } on-error={}
 :do { add list=BY_ASN range=25106 } on-error={}
 :do { add list=BY_ASN range=28849 } on-error={}
-:do { add list=BY_ASN range=21274 } on-error={}
 :do { add list=BY_ASN range=56740 } on-error={}
+:do { add list=BY_ASN range=21274 } on-error={}
 :do { add list=BY_ASN range=208407 } on-error={}
 :do { add list=BY_ASN range=205820 } on-error={}
 :do { add list=BY_ASN range=38980 } on-error={}
@@ -31,7 +31,6 @@
 :do { add list=BY_ASN range=51365 } on-error={}
 :do { add list=BY_ASN range=50929 } on-error={}
 :do { add list=BY_ASN range=50685 } on-error={}
-:do { add list=BY_ASN range=50590 } on-error={}
 :do { add list=BY_ASN range=50176 } on-error={}
 :do { add list=BY_ASN range=49711 } on-error={}
 :do { add list=BY_ASN range=49526 } on-error={}
@@ -45,7 +44,6 @@
 :do { add list=BY_ASN range=206047 } on-error={}
 :do { add list=BY_ASN range=202925 } on-error={}
 :do { add list=BY_ASN range=199561 } on-error={}
-:do { add list=BY_ASN range=13171 } on-error={}
 :do { add list=BY_ASN range=62351 } on-error={}
 :do { add list=BY_ASN range=62208 } on-error={}
 :do { add list=BY_ASN range=62170 } on-error={}
@@ -68,6 +66,7 @@
 :do { add list=BY_ASN range=50934 } on-error={}
 :do { add list=BY_ASN range=50765 } on-error={}
 :do { add list=BY_ASN range=50593 } on-error={}
+:do { add list=BY_ASN range=50590 } on-error={}
 :do { add list=BY_ASN range=50438 } on-error={}
 :do { add list=BY_ASN range=50345 } on-error={}
 :do { add list=BY_ASN range=50334 } on-error={}
@@ -110,3 +109,4 @@
 :do { add list=BY_ASN range=203808 } on-error={}
 :do { add list=BY_ASN range=202090 } on-error={}
 :do { add list=BY_ASN range=201992 } on-error={}
+:do { add list=BY_ASN range=13171 } on-error={}
