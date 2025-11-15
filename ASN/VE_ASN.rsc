@@ -1,5 +1,5 @@
 # ASN Information in VE.
-# Last Updated: UTC 2025-11-14 01:04:35
+# Last Updated: UTC 2025-11-15 01:03:00
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
@@ -44,7 +44,6 @@
 :do { add list=VE_ASN range=273837 } on-error={}
 :do { add list=VE_ASN range=273205 } on-error={}
 :do { add list=VE_ASN range=273203 } on-error={}
-:do { add list=VE_ASN range=273173 } on-error={}
 :do { add list=VE_ASN range=273154 } on-error={}
 :do { add list=VE_ASN range=273093 } on-error={}
 :do { add list=VE_ASN range=273007 } on-error={}
@@ -68,6 +67,7 @@
 :do { add list=VE_ASN range=273904 } on-error={}
 :do { add list=VE_ASN range=273197 } on-error={}
 :do { add list=VE_ASN range=273182 } on-error={}
+:do { add list=VE_ASN range=273173 } on-error={}
 :do { add list=VE_ASN range=273155 } on-error={}
 :do { add list=VE_ASN range=273125 } on-error={}
 :do { add list=VE_ASN range=273069 } on-error={}
@@ -100,7 +100,6 @@
 :do { add list=VE_ASN range=267789 } on-error={}
 :do { add list=VE_ASN range=267722 } on-error={}
 :do { add list=VE_ASN range=267701 } on-error={}
-:do { add list=VE_ASN range=266742 } on-error={}
 :do { add list=VE_ASN range=265641 } on-error={}
 :do { add list=VE_ASN range=265633 } on-error={}
 :do { add list=VE_ASN range=263771 } on-error={}
@@ -134,7 +133,6 @@
 :do { add list=VE_ASN range=273208 } on-error={}
 :do { add list=VE_ASN range=273207 } on-error={}
 :do { add list=VE_ASN range=273201 } on-error={}
-:do { add list=VE_ASN range=273144 } on-error={}
 :do { add list=VE_ASN range=273100 } on-error={}
 :do { add list=VE_ASN range=273090 } on-error={}
 :do { add list=VE_ASN range=273058 } on-error={}
@@ -179,6 +177,7 @@
 :do { add list=VE_ASN range=267781 } on-error={}
 :do { add list=VE_ASN range=267693 } on-error={}
 :do { add list=VE_ASN range=266751 } on-error={}
+:do { add list=VE_ASN range=266742 } on-error={}
 :do { add list=VE_ASN range=265717 } on-error={}
 :do { add list=VE_ASN range=264844 } on-error={}
 :do { add list=VE_ASN range=264731 } on-error={}

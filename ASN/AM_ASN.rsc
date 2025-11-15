@@ -1,5 +1,5 @@
 # ASN Information in AM.
-# Last Updated: UTC 2025-11-14 01:04:06
+# Last Updated: UTC 2025-11-15 01:02:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AM ASN list"
@@ -68,11 +68,11 @@
 :do { add list=AM_ASN range=207810 } on-error={}
 :do { add list=AM_ASN range=207400 } on-error={}
 :do { add list=AM_ASN range=206230 } on-error={}
+:do { add list=AM_ASN range=205605 } on-error={}
 :do { add list=AM_ASN range=204241 } on-error={}
 :do { add list=AM_ASN range=204194 } on-error={}
 :do { add list=AM_ASN range=202515 } on-error={}
 :do { add list=AM_ASN range=201363 } on-error={}
-:do { add list=AM_ASN range=201063 } on-error={}
 :do { add list=AM_ASN range=200205 } on-error={}
 :do { add list=AM_ASN range=199968 } on-error={}
 :do { add list=AM_ASN range=198441 } on-error={}
@@ -105,12 +105,12 @@
 :do { add list=AM_ASN range=207991 } on-error={}
 :do { add list=AM_ASN range=207980 } on-error={}
 :do { add list=AM_ASN range=207081 } on-error={}
-:do { add list=AM_ASN range=205605 } on-error={}
 :do { add list=AM_ASN range=205293 } on-error={}
 :do { add list=AM_ASN range=205261 } on-error={}
 :do { add list=AM_ASN range=204620 } on-error={}
 :do { add list=AM_ASN range=201884 } on-error={}
 :do { add list=AM_ASN range=201639 } on-error={}
+:do { add list=AM_ASN range=201063 } on-error={}
 :do { add list=AM_ASN range=200896 } on-error={}
 :do { add list=AM_ASN range=199620 } on-error={}
 :do { add list=AM_ASN range=197834 } on-error={}
