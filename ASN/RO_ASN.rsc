@@ -1,5 +1,5 @@
 # ASN Information in RO.
-# Last Updated: UTC 2025-11-16 01:07:50
+# Last Updated: UTC 2025-11-17 01:04:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RO ASN list"

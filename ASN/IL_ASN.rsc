@@ -1,5 +1,5 @@
 # ASN Information in IL.
-# Last Updated: UTC 2025-11-16 01:08:38
+# Last Updated: UTC 2025-11-17 01:05:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IL ASN list"

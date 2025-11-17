@@ -1,5 +1,5 @@
 # ASN Information in BR.
-# Last Updated: UTC 2025-11-16 01:09:26
+# Last Updated: UTC 2025-11-17 01:06:02
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BR ASN list"
@@ -6970,7 +6970,6 @@
 :do { add list=BR_ASN range=269481 } on-error={}
 :do { add list=BR_ASN range=269480 } on-error={}
 :do { add list=BR_ASN range=269478 } on-error={}
-:do { add list=BR_ASN range=269472 } on-error={}
 :do { add list=BR_ASN range=269469 } on-error={}
 :do { add list=BR_ASN range=269459 } on-error={}
 :do { add list=BR_ASN range=269450 } on-error={}

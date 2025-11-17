@@ -1,5 +1,5 @@
 # ASN Information in CA.
-# Last Updated: UTC 2025-11-16 01:09:22
+# Last Updated: UTC 2025-11-17 01:05:58
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CA ASN list"
