@@ -1,5 +1,5 @@
 # ASN Information in MX.
-# Last Updated: UTC 2025-11-17 01:06:00
+# Last Updated: UTC 2025-11-18 01:03:32
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MX ASN list"
