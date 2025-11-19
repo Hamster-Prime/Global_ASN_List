@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2025-11-18 01:02:40
+# Last Updated: UTC 2025-11-19 01:03:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
@@ -18,19 +18,19 @@
 :do { add list=RS_ASN range=47479 } on-error={}
 :do { add list=RS_ASN range=13303 } on-error={}
 :do { add list=RS_ASN range=39311 } on-error={}
-:do { add list=RS_ASN range=6700 } on-error={}
 :do { add list=RS_ASN range=60733 } on-error={}
 :do { add list=RS_ASN range=213306 } on-error={}
+:do { add list=RS_ASN range=6700 } on-error={}
 :do { add list=RS_ASN range=208398 } on-error={}
 :do { add list=RS_ASN range=51859 } on-error={}
 :do { add list=RS_ASN range=47267 } on-error={}
+:do { add list=RS_ASN range=50872 } on-error={}
+:do { add list=RS_ASN range=216053 } on-error={}
 :do { add list=RS_ASN range=205201 } on-error={}
 :do { add list=RS_ASN range=198691 } on-error={}
-:do { add list=RS_ASN range=50872 } on-error={}
 :do { add list=RS_ASN range=43281 } on-error={}
 :do { add list=RS_ASN range=43191 } on-error={}
 :do { add list=RS_ASN range=35779 } on-error={}
-:do { add list=RS_ASN range=216053 } on-error={}
 :do { add list=RS_ASN range=208898 } on-error={}
 :do { add list=RS_ASN range=203572 } on-error={}
 :do { add list=RS_ASN range=13092 } on-error={}
@@ -80,7 +80,6 @@
 :do { add list=RS_ASN range=210133 } on-error={}
 :do { add list=RS_ASN range=208798 } on-error={}
 :do { add list=RS_ASN range=207604 } on-error={}
-:do { add list=RS_ASN range=207068 } on-error={}
 :do { add list=RS_ASN range=206580 } on-error={}
 :do { add list=RS_ASN range=206034 } on-error={}
 :do { add list=RS_ASN range=205354 } on-error={}
@@ -139,6 +138,7 @@
 :do { add list=RS_ASN range=211285 } on-error={}
 :do { add list=RS_ASN range=209130 } on-error={}
 :do { add list=RS_ASN range=207069 } on-error={}
+:do { add list=RS_ASN range=207068 } on-error={}
 :do { add list=RS_ASN range=206542 } on-error={}
 :do { add list=RS_ASN range=205949 } on-error={}
 :do { add list=RS_ASN range=205613 } on-error={}
