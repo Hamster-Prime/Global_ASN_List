@@ -1,5 +1,5 @@
 # ASN Information in VN.
-# Last Updated: UTC 2025-11-20 01:00:51
+# Last Updated: UTC 2025-11-21 01:01:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VN ASN list"
