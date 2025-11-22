@@ -1,5 +1,5 @@
 # ASN Information in HN.
-# Last Updated: UTC 2025-11-21 01:04:42
+# Last Updated: UTC 2025-11-22 01:03:58
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HN ASN list"
@@ -18,7 +18,6 @@
 :do { add list=HN_ASN range=272991 } on-error={}
 :do { add list=HN_ASN range=262262 } on-error={}
 :do { add list=HN_ASN range=262234 } on-error={}
-:do { add list=HN_ASN range=7727 } on-error={}
 :do { add list=HN_ASN range=52485 } on-error={}
 :do { add list=HN_ASN range=52262 } on-error={}
 :do { add list=HN_ASN range=28088 } on-error={}
@@ -33,6 +32,7 @@
 :do { add list=HN_ASN range=263740 } on-error={}
 :do { add list=HN_ASN range=262146 } on-error={}
 :do { add list=HN_ASN range=52393 } on-error={}
+:do { add list=HN_ASN range=28084 } on-error={}
 :do { add list=HN_ASN range=273054 } on-error={}
 :do { add list=HN_ASN range=269973 } on-error={}
 :do { add list=HN_ASN range=269780 } on-error={}
@@ -50,8 +50,8 @@
 :do { add list=HN_ASN range=263170 } on-error={}
 :do { add list=HN_ASN range=262205 } on-error={}
 :do { add list=HN_ASN range=23383 } on-error={}
+:do { add list=HN_ASN range=7727 } on-error={}
 :do { add list=HN_ASN range=52422 } on-error={}
-:do { add list=HN_ASN range=28084 } on-error={}
 :do { add list=HN_ASN range=28055 } on-error={}
 :do { add list=HN_ASN range=274120 } on-error={}
 :do { add list=HN_ASN range=274085 } on-error={}
@@ -89,7 +89,6 @@
 :do { add list=HN_ASN range=264661 } on-error={}
 :do { add list=HN_ASN range=264658 } on-error={}
 :do { add list=HN_ASN range=263694 } on-error={}
-:do { add list=HN_ASN range=263690 } on-error={}
 :do { add list=HN_ASN range=263239 } on-error={}
 :do { add list=HN_ASN range=214172 } on-error={}
 :do { add list=HN_ASN range=274125 } on-error={}
