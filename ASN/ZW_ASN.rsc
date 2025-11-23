@@ -1,5 +1,5 @@
 # ASN Information in ZW.
-# Last Updated: UTC 2025-11-22 01:04:54
+# Last Updated: UTC 2025-11-23 01:13:40
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZW ASN list"

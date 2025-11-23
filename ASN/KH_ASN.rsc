@@ -1,13 +1,13 @@
 # ASN Information in KH.
-# Last Updated: UTC 2025-11-22 00:59:27
+# Last Updated: UTC 2025-11-23 01:10:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"
 /routing filter num-list
 :do { add list=KH_ASN range=9902 } on-error={}
 :do { add list=KH_ASN range=55329 } on-error={}
-:do { add list=KH_ASN range=59318 } on-error={}
 :do { add list=KH_ASN range=139628 } on-error={}
+:do { add list=KH_ASN range=59318 } on-error={}
 :do { add list=KH_ASN range=38235 } on-error={}
 :do { add list=KH_ASN range=38623 } on-error={}
 :do { add list=KH_ASN range=24492 } on-error={}
@@ -31,7 +31,6 @@
 :do { add list=KH_ASN range=58424 } on-error={}
 :do { add list=KH_ASN range=38209 } on-error={}
 :do { add list=KH_ASN range=140659 } on-error={}
-:do { add list=KH_ASN range=139844 } on-error={}
 :do { add list=KH_ASN range=138340 } on-error={}
 :do { add list=KH_ASN range=138160 } on-error={}
 :do { add list=KH_ASN range=137811 } on-error={}
@@ -45,6 +44,7 @@
 :do { add list=KH_ASN range=151622 } on-error={}
 :do { add list=KH_ASN range=146995 } on-error={}
 :do { add list=KH_ASN range=142296 } on-error={}
+:do { add list=KH_ASN range=139844 } on-error={}
 :do { add list=KH_ASN range=139588 } on-error={}
 :do { add list=KH_ASN range=139056 } on-error={}
 :do { add list=KH_ASN range=138629 } on-error={}
