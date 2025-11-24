@@ -1,5 +1,5 @@
 # ASN Information in NG.
-# Last Updated: UTC 2025-11-23 01:13:27
+# Last Updated: UTC 2025-11-24 01:09:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NG ASN list"
@@ -18,8 +18,8 @@
 :do { add list=NG_ASN range=36920 } on-error={}
 :do { add list=NG_ASN range=37480 } on-error={}
 :do { add list=NG_ASN range=328722 } on-error={}
-:do { add list=NG_ASN range=37125 } on-error={}
 :do { add list=NG_ASN range=214354 } on-error={}
+:do { add list=NG_ASN range=37125 } on-error={}
 :do { add list=NG_ASN range=37308 } on-error={}
 :do { add list=NG_ASN range=37340 } on-error={}
 :do { add list=NG_ASN range=37209 } on-error={}

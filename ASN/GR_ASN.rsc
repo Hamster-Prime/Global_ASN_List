@@ -1,5 +1,5 @@
 # ASN Information in GR.
-# Last Updated: UTC 2025-11-23 01:11:13
+# Last Updated: UTC 2025-11-24 01:07:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GR ASN list"
@@ -18,8 +18,8 @@
 :do { add list=GR_ASN range=202224 } on-error={}
 :do { add list=GR_ASN range=199081 } on-error={}
 :do { add list=GR_ASN range=200736 } on-error={}
-:do { add list=GR_ASN range=3329 } on-error={}
 :do { add list=GR_ASN range=209150 } on-error={}
+:do { add list=GR_ASN range=3329 } on-error={}
 :do { add list=GR_ASN range=6799 } on-error={}
 :do { add list=GR_ASN range=197580 } on-error={}
 :do { add list=GR_ASN range=25472 } on-error={}
@@ -43,15 +43,15 @@
 :do { add list=GR_ASN range=202112 } on-error={}
 :do { add list=GR_ASN range=212994 } on-error={}
 :do { add list=GR_ASN range=207767 } on-error={}
-:do { add list=GR_ASN range=197389 } on-error={}
 :do { add list=GR_ASN range=215213 } on-error={}
 :do { add list=GR_ASN range=211726 } on-error={}
+:do { add list=GR_ASN range=197389 } on-error={}
 :do { add list=GR_ASN range=215583 } on-error={}
-:do { add list=GR_ASN range=212699 } on-error={}
 :do { add list=GR_ASN range=209147 } on-error={}
 :do { add list=GR_ASN range=208149 } on-error={}
 :do { add list=GR_ASN range=8522 } on-error={}
 :do { add list=GR_ASN range=48172 } on-error={}
+:do { add list=GR_ASN range=212699 } on-error={}
 :do { add list=GR_ASN range=211186 } on-error={}
 :do { add list=GR_ASN range=215492 } on-error={}
 :do { add list=GR_ASN range=207540 } on-error={}
