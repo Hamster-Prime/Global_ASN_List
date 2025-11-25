@@ -1,5 +1,5 @@
 # ASN Information in CY.
-# Last Updated: UTC 2025-11-24 01:08:00
+# Last Updated: UTC 2025-11-25 01:03:05
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CY ASN list"

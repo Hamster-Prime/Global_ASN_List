@@ -1,5 +1,5 @@
 # ASN Information in SE.
-# Last Updated: UTC 2025-11-24 01:07:14
+# Last Updated: UTC 2025-11-25 01:02:32
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SE ASN list"
@@ -40,8 +40,8 @@
 :do { add list=SE_ASN range=34244 } on-error={}
 :do { add list=SE_ASN range=30880 } on-error={}
 :do { add list=SE_ASN range=48448 } on-error={}
-:do { add list=SE_ASN range=50989 } on-error={}
 :do { add list=SE_ASN range=199950 } on-error={}
+:do { add list=SE_ASN range=50989 } on-error={}
 :do { add list=SE_ASN range=204302 } on-error={}
 :do { add list=SE_ASN range=43065 } on-error={}
 :do { add list=SE_ASN range=42201 } on-error={}
@@ -60,14 +60,15 @@
 :do { add list=SE_ASN range=16117 } on-error={}
 :do { add list=SE_ASN range=9201 } on-error={}
 :do { add list=SE_ASN range=51132 } on-error={}
-:do { add list=SE_ASN range=197617 } on-error={}
 :do { add list=SE_ASN range=20626 } on-error={}
 :do { add list=SE_ASN range=203605 } on-error={}
+:do { add list=SE_ASN range=197617 } on-error={}
 :do { add list=SE_ASN range=199520 } on-error={}
-:do { add list=SE_ASN range=48768 } on-error={}
 :do { add list=SE_ASN range=213113 } on-error={}
+:do { add list=SE_ASN range=48768 } on-error={}
 :do { add list=SE_ASN range=47699 } on-error={}
 :do { add list=SE_ASN range=42303 } on-error={}
+:do { add list=SE_ASN range=44529 } on-error={}
 :do { add list=SE_ASN range=3308 } on-error={}
 :do { add list=SE_ASN range=29468 } on-error={}
 :do { add list=SE_ASN range=28931 } on-error={}
@@ -140,7 +141,6 @@
 :do { add list=SE_ASN range=49272 } on-error={}
 :do { add list=SE_ASN range=49232 } on-error={}
 :do { add list=SE_ASN range=48803 } on-error={}
-:do { add list=SE_ASN range=44529 } on-error={}
 :do { add list=SE_ASN range=44136 } on-error={}
 :do { add list=SE_ASN range=43096 } on-error={}
 :do { add list=SE_ASN range=43012 } on-error={}
