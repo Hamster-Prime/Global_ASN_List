@@ -1,5 +1,5 @@
 # ASN Information in LU.
-# Last Updated: UTC 2025-11-26 01:03:02
+# Last Updated: UTC 2025-11-27 01:01:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LU ASN list"
@@ -43,18 +43,19 @@
 :do { add list=LU_ASN range=211018 } on-error={}
 :do { add list=LU_ASN range=210872 } on-error={}
 :do { add list=LU_ASN range=201973 } on-error={}
+:do { add list=LU_ASN range=208374 } on-error={}
 :do { add list=LU_ASN range=203143 } on-error={}
 :do { add list=LU_ASN range=202438 } on-error={}
-:do { add list=LU_ASN range=208374 } on-error={}
 :do { add list=LU_ASN range=61327 } on-error={}
 :do { add list=LU_ASN range=5577 } on-error={}
 :do { add list=LU_ASN range=51497 } on-error={}
 :do { add list=LU_ASN range=41273 } on-error={}
+:do { add list=LU_ASN range=210103 } on-error={}
 :do { add list=LU_ASN range=209333 } on-error={}
 :do { add list=LU_ASN range=203055 } on-error={}
 :do { add list=LU_ASN range=60752 } on-error={}
+:do { add list=LU_ASN range=43375 } on-error={}
 :do { add list=LU_ASN range=212882 } on-error={}
-:do { add list=LU_ASN range=210103 } on-error={}
 :do { add list=LU_ASN range=20501 } on-error={}
 :do { add list=LU_ASN range=202422 } on-error={}
 :do { add list=LU_ASN range=201710 } on-error={}
@@ -90,7 +91,6 @@
 :do { add list=LU_ASN range=51966 } on-error={}
 :do { add list=LU_ASN range=51405 } on-error={}
 :do { add list=LU_ASN range=43719 } on-error={}
-:do { add list=LU_ASN range=43375 } on-error={}
 :do { add list=LU_ASN range=41589 } on-error={}
 :do { add list=LU_ASN range=34769 } on-error={}
 :do { add list=LU_ASN range=3347 } on-error={}
