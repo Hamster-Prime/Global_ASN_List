@@ -1,5 +1,5 @@
 # ASN Information in GH.
-# Last Updated: UTC 2025-11-28 01:03:29
+# Last Updated: UTC 2025-11-29 01:04:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GH ASN list"
@@ -40,7 +40,6 @@
 :do { add list=GH_ASN range=329309 } on-error={}
 :do { add list=GH_ASN range=329154 } on-error={}
 :do { add list=GH_ASN range=328890 } on-error={}
-:do { add list=GH_ASN range=328769 } on-error={}
 :do { add list=GH_ASN range=328752 } on-error={}
 :do { add list=GH_ASN range=328648 } on-error={}
 :do { add list=GH_ASN range=328530 } on-error={}
@@ -61,7 +60,6 @@
 :do { add list=GH_ASN range=37212 } on-error={}
 :do { add list=GH_ASN range=37140 } on-error={}
 :do { add list=GH_ASN range=37032 } on-error={}
-:do { add list=GH_ASN range=329649 } on-error={}
 :do { add list=GH_ASN range=329601 } on-error={}
 :do { add list=GH_ASN range=329588 } on-error={}
 :do { add list=GH_ASN range=329580 } on-error={}
@@ -76,6 +74,7 @@
 :do { add list=GH_ASN range=328896 } on-error={}
 :do { add list=GH_ASN range=328891 } on-error={}
 :do { add list=GH_ASN range=328770 } on-error={}
+:do { add list=GH_ASN range=328769 } on-error={}
 :do { add list=GH_ASN range=328717 } on-error={}
 :do { add list=GH_ASN range=328663 } on-error={}
 :do { add list=GH_ASN range=328662 } on-error={}

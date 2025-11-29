@@ -1,5 +1,5 @@
 # ASN Information in ME.
-# Last Updated: UTC 2025-11-28 01:01:25
+# Last Updated: UTC 2025-11-29 01:02:16
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ME ASN list"
@@ -16,6 +16,7 @@
 :do { add list=ME_ASN range=29453 } on-error={}
 :do { add list=ME_ASN range=211211 } on-error={}
 :do { add list=ME_ASN range=203824 } on-error={}
+:do { add list=ME_ASN range=202799 } on-error={}
 :do { add list=ME_ASN range=202644 } on-error={}
 :do { add list=ME_ASN range=60861 } on-error={}
 :do { add list=ME_ASN range=51924 } on-error={}
@@ -25,6 +26,5 @@
 :do { add list=ME_ASN range=208568 } on-error={}
 :do { add list=ME_ASN range=205942 } on-error={}
 :do { add list=ME_ASN range=203506 } on-error={}
-:do { add list=ME_ASN range=202799 } on-error={}
 :do { add list=ME_ASN range=201649 } on-error={}
 :do { add list=ME_ASN range=214642 } on-error={}

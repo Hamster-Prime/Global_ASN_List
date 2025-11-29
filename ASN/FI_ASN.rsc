@@ -1,5 +1,5 @@
 # ASN Information in FI.
-# Last Updated: UTC 2025-11-28 01:01:04
+# Last Updated: UTC 2025-11-29 01:01:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
@@ -13,9 +13,9 @@
 :do { add list=FI_ASN range=16086 } on-error={}
 :do { add list=FI_ASN range=1301 } on-error={}
 :do { add list=FI_ASN range=719 } on-error={}
+:do { add list=FI_ASN range=13170 } on-error={}
 :do { add list=FI_ASN range=1759 } on-error={}
 :do { add list=FI_ASN range=41666 } on-error={}
-:do { add list=FI_ASN range=13170 } on-error={}
 :do { add list=FI_ASN range=16302 } on-error={}
 :do { add list=FI_ASN range=3238 } on-error={}
 :do { add list=FI_ASN range=199508 } on-error={}
@@ -36,7 +36,6 @@
 :do { add list=FI_ASN range=199231 } on-error={}
 :do { add list=FI_ASN range=29432 } on-error={}
 :do { add list=FI_ASN range=29243 } on-error={}
-:do { add list=FI_ASN range=198020 } on-error={}
 :do { add list=FI_ASN range=8829 } on-error={}
 :do { add list=FI_ASN range=8236 } on-error={}
 :do { add list=FI_ASN range=51728 } on-error={}
@@ -46,6 +45,7 @@
 :do { add list=FI_ASN range=30798 } on-error={}
 :do { add list=FI_ASN range=206175 } on-error={}
 :do { add list=FI_ASN range=201991 } on-error={}
+:do { add list=FI_ASN range=198020 } on-error={}
 :do { add list=FI_ASN range=8145 } on-error={}
 :do { add list=FI_ASN range=62254 } on-error={}
 :do { add list=FI_ASN range=62194 } on-error={}
@@ -75,6 +75,7 @@
 :do { add list=FI_ASN range=6793 } on-error={}
 :do { add list=FI_ASN range=62357 } on-error={}
 :do { add list=FI_ASN range=61395 } on-error={}
+:do { add list=FI_ASN range=61340 } on-error={}
 :do { add list=FI_ASN range=61074 } on-error={}
 :do { add list=FI_ASN range=60937 } on-error={}
 :do { add list=FI_ASN range=60846 } on-error={}
@@ -163,7 +164,6 @@
 :do { add list=FI_ASN range=764 } on-error={}
 :do { add list=FI_ASN range=6852 } on-error={}
 :do { add list=FI_ASN range=61990 } on-error={}
-:do { add list=FI_ASN range=61340 } on-error={}
 :do { add list=FI_ASN range=61177 } on-error={}
 :do { add list=FI_ASN range=60970 } on-error={}
 :do { add list=FI_ASN range=60903 } on-error={}

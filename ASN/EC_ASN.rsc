@@ -1,5 +1,5 @@
 # ASN Information in EC.
-# Last Updated: UTC 2025-11-28 01:02:46
+# Last Updated: UTC 2025-11-29 01:03:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EC ASN list"
@@ -30,7 +30,6 @@
 :do { add list=EC_ASN range=265724 } on-error={}
 :do { add list=EC_ASN range=265629 } on-error={}
 :do { add list=EC_ASN range=263805 } on-error={}
-:do { add list=EC_ASN range=263792 } on-error={}
 :do { add list=EC_ASN range=19582 } on-error={}
 :do { add list=EC_ASN range=52274 } on-error={}
 :do { add list=EC_ASN range=52238 } on-error={}
@@ -51,13 +50,14 @@
 :do { add list=EC_ASN range=269838 } on-error={}
 :do { add list=EC_ASN range=267931 } on-error={}
 :do { add list=EC_ASN range=267907 } on-error={}
+:do { add list=EC_ASN range=267756 } on-error={}
 :do { add list=EC_ASN range=266839 } on-error={}
 :do { add list=EC_ASN range=266783 } on-error={}
 :do { add list=EC_ASN range=265838 } on-error={}
 :do { add list=EC_ASN range=264851 } on-error={}
 :do { add list=EC_ASN range=264746 } on-error={}
+:do { add list=EC_ASN range=263792 } on-error={}
 :do { add list=EC_ASN range=52458 } on-error={}
-:do { add list=EC_ASN range=52377 } on-error={}
 :do { add list=EC_ASN range=52345 } on-error={}
 :do { add list=EC_ASN range=52331 } on-error={}
 :do { add list=EC_ASN range=28058 } on-error={}
@@ -76,7 +76,6 @@
 :do { add list=EC_ASN range=273163 } on-error={}
 :do { add list=EC_ASN range=273141 } on-error={}
 :do { add list=EC_ASN range=273140 } on-error={}
-:do { add list=EC_ASN range=273127 } on-error={}
 :do { add list=EC_ASN range=273123 } on-error={}
 :do { add list=EC_ASN range=273098 } on-error={}
 :do { add list=EC_ASN range=273081 } on-error={}
@@ -114,7 +113,6 @@
 :do { add list=EC_ASN range=267849 } on-error={}
 :do { add list=EC_ASN range=267787 } on-error={}
 :do { add list=EC_ASN range=267778 } on-error={}
-:do { add list=EC_ASN range=267756 } on-error={}
 :do { add list=EC_ASN range=267684 } on-error={}
 :do { add list=EC_ASN range=266904 } on-error={}
 :do { add list=EC_ASN range=266894 } on-error={}
@@ -138,6 +136,7 @@
 :do { add list=EC_ASN range=7315 } on-error={}
 :do { add list=EC_ASN range=64110 } on-error={}
 :do { add list=EC_ASN range=52417 } on-error={}
+:do { add list=EC_ASN range=52377 } on-error={}
 :do { add list=EC_ASN range=52343 } on-error={}
 :do { add list=EC_ASN range=52257 } on-error={}
 :do { add list=EC_ASN range=28027 } on-error={}
@@ -154,6 +153,7 @@
 :do { add list=EC_ASN range=273923 } on-error={}
 :do { add list=EC_ASN range=273839 } on-error={}
 :do { add list=EC_ASN range=273190 } on-error={}
+:do { add list=EC_ASN range=273127 } on-error={}
 :do { add list=EC_ASN range=273079 } on-error={}
 :do { add list=EC_ASN range=272954 } on-error={}
 :do { add list=EC_ASN range=272939 } on-error={}
