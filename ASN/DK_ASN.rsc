@@ -1,5 +1,5 @@
 # ASN Information in DK.
-# Last Updated: UTC 2025-11-29 01:01:46
+# Last Updated: UTC 2025-11-30 01:10:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DK ASN list"
@@ -62,7 +62,6 @@
 :do { add list=DK_ASN range=212055 } on-error={}
 :do { add list=DK_ASN range=210465 } on-error={}
 :do { add list=DK_ASN range=208310 } on-error={}
-:do { add list=DK_ASN range=207727 } on-error={}
 :do { add list=DK_ASN range=206157 } on-error={}
 :do { add list=DK_ASN range=205721 } on-error={}
 :do { add list=DK_ASN range=204922 } on-error={}
@@ -80,6 +79,7 @@
 :do { add list=DK_ASN range=51510 } on-error={}
 :do { add list=DK_ASN range=51377 } on-error={}
 :do { add list=DK_ASN range=51073 } on-error={}
+:do { add list=DK_ASN range=51049 } on-error={}
 :do { add list=DK_ASN range=51000 } on-error={}
 :do { add list=DK_ASN range=50364 } on-error={}
 :do { add list=DK_ASN range=50346 } on-error={}
@@ -122,8 +122,8 @@
 :do { add list=DK_ASN range=209381 } on-error={}
 :do { add list=DK_ASN range=209125 } on-error={}
 :do { add list=DK_ASN range=209118 } on-error={}
-:do { add list=DK_ASN range=208327 } on-error={}
 :do { add list=DK_ASN range=207934 } on-error={}
+:do { add list=DK_ASN range=207727 } on-error={}
 :do { add list=DK_ASN range=207316 } on-error={}
 :do { add list=DK_ASN range=207035 } on-error={}
 :do { add list=DK_ASN range=206749 } on-error={}
@@ -175,7 +175,6 @@
 :do { add list=DK_ASN range=51608 } on-error={}
 :do { add list=DK_ASN range=51595 } on-error={}
 :do { add list=DK_ASN range=51482 } on-error={}
-:do { add list=DK_ASN range=51049 } on-error={}
 :do { add list=DK_ASN range=50783 } on-error={}
 :do { add list=DK_ASN range=50757 } on-error={}
 :do { add list=DK_ASN range=50708 } on-error={}
@@ -266,6 +265,7 @@
 :do { add list=DK_ASN range=208741 } on-error={}
 :do { add list=DK_ASN range=208551 } on-error={}
 :do { add list=DK_ASN range=208377 } on-error={}
+:do { add list=DK_ASN range=208327 } on-error={}
 :do { add list=DK_ASN range=208237 } on-error={}
 :do { add list=DK_ASN range=208039 } on-error={}
 :do { add list=DK_ASN range=207603 } on-error={}
