@@ -1,5 +1,5 @@
 # ASN Information in MO.
-# Last Updated: UTC 2025-12-02 01:03:36
+# Last Updated: UTC 2025-12-03 01:03:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MO ASN list"
