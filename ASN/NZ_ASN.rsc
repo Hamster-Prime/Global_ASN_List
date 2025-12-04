@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2025-12-03 01:06:09
+# Last Updated: UTC 2025-12-04 01:05:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
@@ -100,13 +100,14 @@
 :do { add list=NZ_ASN range=132588 } on-error={}
 :do { add list=NZ_ASN range=132449 } on-error={}
 :do { add list=NZ_ASN range=45586 } on-error={}
-:do { add list=NZ_ASN range=9901 } on-error={}
 :do { add list=NZ_ASN range=55729 } on-error={}
 :do { add list=NZ_ASN range=45946 } on-error={}
 :do { add list=NZ_ASN range=199124 } on-error={}
 :do { add list=NZ_ASN range=153350 } on-error={}
 :do { add list=NZ_ASN range=134433 } on-error={}
 :do { add list=NZ_ASN range=133370 } on-error={}
+:do { add list=NZ_ASN range=132534 } on-error={}
+:do { add list=NZ_ASN range=9901 } on-error={}
 :do { add list=NZ_ASN range=9560 } on-error={}
 :do { add list=NZ_ASN range=9559 } on-error={}
 :do { add list=NZ_ASN range=4770 } on-error={}
@@ -125,7 +126,6 @@
 :do { add list=NZ_ASN range=133878 } on-error={}
 :do { add list=NZ_ASN range=133043 } on-error={}
 :do { add list=NZ_ASN range=132840 } on-error={}
-:do { add list=NZ_ASN range=132534 } on-error={}
 :do { add list=NZ_ASN range=132238 } on-error={}
 :do { add list=NZ_ASN range=9898 } on-error={}
 :do { add list=NZ_ASN range=9327 } on-error={}
@@ -198,6 +198,7 @@
 :do { add list=NZ_ASN range=134372 } on-error={}
 :do { add list=NZ_ASN range=134156 } on-error={}
 :do { add list=NZ_ASN range=133884 } on-error={}
+:do { add list=NZ_ASN range=133608 } on-error={}
 :do { add list=NZ_ASN range=133604 } on-error={}
 :do { add list=NZ_ASN range=133499 } on-error={}
 :do { add list=NZ_ASN range=133393 } on-error={}
@@ -388,7 +389,6 @@
 :do { add list=NZ_ASN range=133741 } on-error={}
 :do { add list=NZ_ASN range=133729 } on-error={}
 :do { add list=NZ_ASN range=133636 } on-error={}
-:do { add list=NZ_ASN range=133608 } on-error={}
 :do { add list=NZ_ASN range=133578 } on-error={}
 :do { add list=NZ_ASN range=133537 } on-error={}
 :do { add list=NZ_ASN range=133532 } on-error={}
