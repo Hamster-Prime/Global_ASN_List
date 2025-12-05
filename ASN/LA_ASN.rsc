@@ -1,5 +1,5 @@
 # ASN Information in LA.
-# Last Updated: UTC 2025-12-04 01:03:34
+# Last Updated: UTC 2025-12-05 01:04:05
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LA ASN list"
@@ -7,15 +7,15 @@
 :do { add list=LA_ASN range=9873 } on-error={}
 :do { add list=LA_ASN range=131267 } on-error={}
 :do { add list=LA_ASN range=10226 } on-error={}
-:do { add list=LA_ASN range=23900 } on-error={}
 :do { add list=LA_ASN range=24337 } on-error={}
+:do { add list=LA_ASN range=23900 } on-error={}
 :do { add list=LA_ASN range=153526 } on-error={}
 :do { add list=LA_ASN range=140635 } on-error={}
 :do { add list=LA_ASN range=138934 } on-error={}
-:do { add list=LA_ASN range=137905 } on-error={}
 :do { add list=LA_ASN range=153966 } on-error={}
 :do { add list=LA_ASN range=140631 } on-error={}
 :do { add list=LA_ASN range=139011 } on-error={}
+:do { add list=LA_ASN range=137905 } on-error={}
 :do { add list=LA_ASN range=135059 } on-error={}
 :do { add list=LA_ASN range=133500 } on-error={}
 :do { add list=LA_ASN range=55508 } on-error={}
