@@ -1,5 +1,5 @@
 # ASN Information in GR.
-# Last Updated: UTC 2025-12-06 01:01:47
+# Last Updated: UTC 2025-12-07 01:11:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GR ASN list"
@@ -25,9 +25,9 @@
 :do { add list=GR_ASN range=197580 } on-error={}
 :do { add list=GR_ASN range=216285 } on-error={}
 :do { add list=GR_ASN range=5408 } on-error={}
+:do { add list=GR_ASN range=56910 } on-error={}
 :do { add list=GR_ASN range=208837 } on-error={}
 :do { add list=GR_ASN range=202042 } on-error={}
-:do { add list=GR_ASN range=56910 } on-error={}
 :do { add list=GR_ASN range=35506 } on-error={}
 :do { add list=GR_ASN range=198477 } on-error={}
 :do { add list=GR_ASN range=196945 } on-error={}
