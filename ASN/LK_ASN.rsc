@@ -1,5 +1,5 @@
 # ASN Information in LK.
-# Last Updated: UTC 2025-12-08 01:04:33
+# Last Updated: UTC 2025-12-09 01:03:56
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LK ASN list"
