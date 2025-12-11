@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2025-12-10 01:08:02
+# Last Updated: UTC 2025-12-11 01:08:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
@@ -39,18 +39,19 @@
 :do { add list=NZ_ASN range=132268 } on-error={}
 :do { add list=NZ_ASN range=150723 } on-error={}
 :do { add list=NZ_ASN range=23655 } on-error={}
+:do { add list=NZ_ASN range=18015 } on-error={}
 :do { add list=NZ_ASN range=9303 } on-error={}
 :do { add list=NZ_ASN range=45179 } on-error={}
-:do { add list=NZ_ASN range=18015 } on-error={}
 :do { add list=NZ_ASN range=58666 } on-error={}
 :do { add list=NZ_ASN range=132857 } on-error={}
 :do { add list=NZ_ASN range=141693 } on-error={}
 :do { add list=NZ_ASN range=137495 } on-error={}
 :do { add list=NZ_ASN range=133187 } on-error={}
+:do { add list=NZ_ASN range=63839 } on-error={}
 :do { add list=NZ_ASN range=38064 } on-error={}
 :do { add list=NZ_ASN range=139005 } on-error={}
 :do { add list=NZ_ASN range=9433 } on-error={}
-:do { add list=NZ_ASN range=63839 } on-error={}
+:do { add list=NZ_ASN range=133075 } on-error={}
 :do { add list=NZ_ASN range=132040 } on-error={}
 :do { add list=NZ_ASN range=58610 } on-error={}
 :do { add list=NZ_ASN range=56683 } on-error={}
@@ -66,14 +67,14 @@
 :do { add list=NZ_ASN range=4771 } on-error={}
 :do { add list=NZ_ASN range=24459 } on-error={}
 :do { add list=NZ_ASN range=24398 } on-error={}
+:do { add list=NZ_ASN range=18353 } on-error={}
 :do { add list=NZ_ASN range=138973 } on-error={}
 :do { add list=NZ_ASN range=135328 } on-error={}
 :do { add list=NZ_ASN range=133451 } on-error={}
 :do { add list=NZ_ASN range=133399 } on-error={}
-:do { add list=NZ_ASN range=133075 } on-error={}
 :do { add list=NZ_ASN range=132898 } on-error={}
+:do { add list=NZ_ASN range=132881 } on-error={}
 :do { add list=NZ_ASN range=45809 } on-error={}
-:do { add list=NZ_ASN range=18353 } on-error={}
 :do { add list=NZ_ASN range=18159 } on-error={}
 :do { add list=NZ_ASN range=17435 } on-error={}
 :do { add list=NZ_ASN range=151645 } on-error={}
@@ -81,7 +82,6 @@
 :do { add list=NZ_ASN range=141226 } on-error={}
 :do { add list=NZ_ASN range=137267 } on-error={}
 :do { add list=NZ_ASN range=136463 } on-error={}
-:do { add list=NZ_ASN range=132881 } on-error={}
 :do { add list=NZ_ASN range=132722 } on-error={}
 :do { add list=NZ_ASN range=132692 } on-error={}
 :do { add list=NZ_ASN range=45475 } on-error={}
@@ -198,7 +198,6 @@
 :do { add list=NZ_ASN range=134372 } on-error={}
 :do { add list=NZ_ASN range=134156 } on-error={}
 :do { add list=NZ_ASN range=133884 } on-error={}
-:do { add list=NZ_ASN range=133608 } on-error={}
 :do { add list=NZ_ASN range=133604 } on-error={}
 :do { add list=NZ_ASN range=133499 } on-error={}
 :do { add list=NZ_ASN range=133393 } on-error={}
@@ -208,7 +207,6 @@
 :do { add list=NZ_ASN range=133096 } on-error={}
 :do { add list=NZ_ASN range=133090 } on-error={}
 :do { add list=NZ_ASN range=132887 } on-error={}
-:do { add list=NZ_ASN range=132727 } on-error={}
 :do { add list=NZ_ASN range=132583 } on-error={}
 :do { add list=NZ_ASN range=132450 } on-error={}
 :do { add list=NZ_ASN range=132240 } on-error={}
@@ -389,6 +387,7 @@
 :do { add list=NZ_ASN range=133741 } on-error={}
 :do { add list=NZ_ASN range=133729 } on-error={}
 :do { add list=NZ_ASN range=133636 } on-error={}
+:do { add list=NZ_ASN range=133608 } on-error={}
 :do { add list=NZ_ASN range=133578 } on-error={}
 :do { add list=NZ_ASN range=133537 } on-error={}
 :do { add list=NZ_ASN range=133532 } on-error={}
@@ -406,6 +405,7 @@
 :do { add list=NZ_ASN range=132815 } on-error={}
 :do { add list=NZ_ASN range=132745 } on-error={}
 :do { add list=NZ_ASN range=132744 } on-error={}
+:do { add list=NZ_ASN range=132727 } on-error={}
 :do { add list=NZ_ASN range=132723 } on-error={}
 :do { add list=NZ_ASN range=132712 } on-error={}
 :do { add list=NZ_ASN range=132697 } on-error={}

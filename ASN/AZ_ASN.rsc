@@ -1,5 +1,5 @@
 # ASN Information in AZ.
-# Last Updated: UTC 2025-12-10 01:08:00
+# Last Updated: UTC 2025-12-11 01:08:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AZ ASN list"
@@ -13,11 +13,11 @@
 :do { add list=AZ_ASN range=39397 } on-error={}
 :do { add list=AZ_ASN range=28787 } on-error={}
 :do { add list=AZ_ASN range=31721 } on-error={}
-:do { add list=AZ_ASN range=209360 } on-error={}
 :do { add list=AZ_ASN range=203622 } on-error={}
 :do { add list=AZ_ASN range=200729 } on-error={}
 :do { add list=AZ_ASN range=57675 } on-error={}
 :do { add list=AZ_ASN range=57293 } on-error={}
+:do { add list=AZ_ASN range=209360 } on-error={}
 :do { add list=AZ_ASN range=202993 } on-error={}
 :do { add list=AZ_ASN range=15723 } on-error={}
 :do { add list=AZ_ASN range=13099 } on-error={}
