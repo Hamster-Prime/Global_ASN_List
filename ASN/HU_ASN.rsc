@@ -1,5 +1,5 @@
 # ASN Information in HU.
-# Last Updated: UTC 2025-12-12 01:06:58
+# Last Updated: UTC 2025-12-13 01:02:31
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HU ASN list"
@@ -30,7 +30,6 @@
 :do { add list=HU_ASN range=41627 } on-error={}
 :do { add list=HU_ASN range=208154 } on-error={}
 :do { add list=HU_ASN range=60673 } on-error={}
-:do { add list=HU_ASN range=56322 } on-error={}
 :do { add list=HU_ASN range=50031 } on-error={}
 :do { add list=HU_ASN range=43928 } on-error={}
 :do { add list=HU_ASN range=39201 } on-error={}
@@ -47,6 +46,7 @@
 :do { add list=HU_ASN range=210788 } on-error={}
 :do { add list=HU_ASN range=207349 } on-error={}
 :do { add list=HU_ASN range=61998 } on-error={}
+:do { add list=HU_ASN range=56322 } on-error={}
 :do { add list=HU_ASN range=24822 } on-error={}
 :do { add list=HU_ASN range=208126 } on-error={}
 :do { add list=HU_ASN range=206361 } on-error={}

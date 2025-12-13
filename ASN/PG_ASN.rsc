@@ -1,5 +1,5 @@
 # ASN Information in PG.
-# Last Updated: UTC 2025-12-12 01:08:02
+# Last Updated: UTC 2025-12-13 01:03:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PG ASN list"

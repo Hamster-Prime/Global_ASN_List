@@ -1,5 +1,5 @@
 # ASN Information in UY.
-# Last Updated: UTC 2025-12-12 01:08:31
+# Last Updated: UTC 2025-12-13 01:03:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UY ASN list"

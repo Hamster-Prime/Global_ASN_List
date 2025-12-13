@@ -1,5 +1,5 @@
 # ASN Information in FI.
-# Last Updated: UTC 2025-12-12 01:06:51
+# Last Updated: UTC 2025-12-13 01:02:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
