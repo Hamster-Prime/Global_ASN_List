@@ -1,5 +1,5 @@
 # ASN Information in PA.
-# Last Updated: UTC 2025-12-13 01:03:51
+# Last Updated: UTC 2025-12-14 01:13:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PA ASN list"
@@ -85,7 +85,6 @@
 :do { add list=PA_ASN range=27687 } on-error={}
 :do { add list=PA_ASN range=27679 } on-error={}
 :do { add list=PA_ASN range=27649 } on-error={}
-:do { add list=PA_ASN range=274147 } on-error={}
 :do { add list=PA_ASN range=273907 } on-error={}
 :do { add list=PA_ASN range=273135 } on-error={}
 :do { add list=PA_ASN range=269985 } on-error={}

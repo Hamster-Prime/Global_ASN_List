@@ -1,5 +1,5 @@
 # ASN Information in YE.
-# Last Updated: UTC 2025-12-13 01:03:01
+# Last Updated: UTC 2025-12-14 01:12:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading YE ASN list"

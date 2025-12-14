@@ -1,5 +1,5 @@
 # ASN Information in NO.
-# Last Updated: UTC 2025-12-13 01:02:25
+# Last Updated: UTC 2025-12-14 01:11:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NO ASN list"
@@ -24,9 +24,9 @@
 :do { add list=NO_ASN range=49788 } on-error={}
 :do { add list=NO_ASN range=57381 } on-error={}
 :do { add list=NO_ASN range=224 } on-error={}
+:do { add list=NO_ASN range=39029 } on-error={}
 :do { add list=NO_ASN range=25148 } on-error={}
 :do { add list=NO_ASN range=16186 } on-error={}
-:do { add list=NO_ASN range=39029 } on-error={}
 :do { add list=NO_ASN range=31726 } on-error={}
 :do { add list=NO_ASN range=15659 } on-error={}
 :do { add list=NO_ASN range=29492 } on-error={}
@@ -48,11 +48,11 @@
 :do { add list=NO_ASN range=209861 } on-error={}
 :do { add list=NO_ASN range=39787 } on-error={}
 :do { add list=NO_ASN range=210314 } on-error={}
+:do { add list=NO_ASN range=205976 } on-error={}
 :do { add list=NO_ASN range=15932 } on-error={}
 :do { add list=NO_ASN range=52157 } on-error={}
 :do { add list=NO_ASN range=39783 } on-error={}
 :do { add list=NO_ASN range=35132 } on-error={}
-:do { add list=NO_ASN range=205976 } on-error={}
 :do { add list=NO_ASN range=8841 } on-error={}
 :do { add list=NO_ASN range=8478 } on-error={}
 :do { add list=NO_ASN range=61275 } on-error={}
@@ -245,7 +245,6 @@
 :do { add list=NO_ASN range=207464 } on-error={}
 :do { add list=NO_ASN range=207441 } on-error={}
 :do { add list=NO_ASN range=207189 } on-error={}
-:do { add list=NO_ASN range=206711 } on-error={}
 :do { add list=NO_ASN range=206667 } on-error={}
 :do { add list=NO_ASN range=206220 } on-error={}
 :do { add list=NO_ASN range=206145 } on-error={}
@@ -310,6 +309,7 @@
 :do { add list=NO_ASN range=209512 } on-error={}
 :do { add list=NO_ASN range=207824 } on-error={}
 :do { add list=NO_ASN range=206725 } on-error={}
+:do { add list=NO_ASN range=206711 } on-error={}
 :do { add list=NO_ASN range=205101 } on-error={}
 :do { add list=NO_ASN range=205043 } on-error={}
 :do { add list=NO_ASN range=204901 } on-error={}
