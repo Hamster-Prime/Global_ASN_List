@@ -1,5 +1,5 @@
 # ASN Information in CL.
-# Last Updated: UTC 2025-12-14 01:12:55
+# Last Updated: UTC 2025-12-15 01:10:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CL ASN list"
@@ -96,6 +96,7 @@
 :do { add list=CL_ASN range=52494 } on-error={}
 :do { add list=CL_ASN range=266803 } on-error={}
 :do { add list=CL_ASN range=14795 } on-error={}
+:do { add list=CL_ASN range=6535 } on-error={}
 :do { add list=CL_ASN range=52439 } on-error={}
 :do { add list=CL_ASN range=52368 } on-error={}
 :do { add list=CL_ASN range=52226 } on-error={}
@@ -105,7 +106,6 @@
 :do { add list=CL_ASN range=264729 } on-error={}
 :do { add list=CL_ASN range=262213 } on-error={}
 :do { add list=CL_ASN range=15208 } on-error={}
-:do { add list=CL_ASN range=6535 } on-error={}
 :do { add list=CL_ASN range=61460 } on-error={}
 :do { add list=CL_ASN range=52510 } on-error={}
 :do { add list=CL_ASN range=27952 } on-error={}

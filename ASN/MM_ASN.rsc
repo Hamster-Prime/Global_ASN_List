@@ -1,13 +1,13 @@
 # ASN Information in MM.
-# Last Updated: UTC 2025-12-14 01:10:36
+# Last Updated: UTC 2025-12-15 01:08:01
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MM ASN list"
 /routing filter num-list
 :do { add list=MM_ASN range=58952 } on-error={}
 :do { add list=MM_ASN range=45558 } on-error={}
-:do { add list=MM_ASN range=136168 } on-error={}
 :do { add list=MM_ASN range=136255 } on-error={}
+:do { add list=MM_ASN range=136168 } on-error={}
 :do { add list=MM_ASN range=133385 } on-error={}
 :do { add list=MM_ASN range=132167 } on-error={}
 :do { add list=MM_ASN range=135300 } on-error={}
@@ -53,6 +53,7 @@
 :do { add list=MM_ASN range=135371 } on-error={}
 :do { add list=MM_ASN range=134736 } on-error={}
 :do { add list=MM_ASN range=63998 } on-error={}
+:do { add list=MM_ASN range=153998 } on-error={}
 :do { add list=MM_ASN range=152634 } on-error={}
 :do { add list=MM_ASN range=152459 } on-error={}
 :do { add list=MM_ASN range=152140 } on-error={}
@@ -78,7 +79,6 @@
 :do { add list=MM_ASN range=136474 } on-error={}
 :do { add list=MM_ASN range=136465 } on-error={}
 :do { add list=MM_ASN range=136177 } on-error={}
-:do { add list=MM_ASN range=135149 } on-error={}
 :do { add list=MM_ASN range=135111 } on-error={}
 :do { add list=MM_ASN range=134976 } on-error={}
 :do { add list=MM_ASN range=133440 } on-error={}
@@ -87,7 +87,6 @@
 :do { add list=MM_ASN range=9988 } on-error={}
 :do { add list=MM_ASN range=63852 } on-error={}
 :do { add list=MM_ASN range=18399 } on-error={}
-:do { add list=MM_ASN range=153998 } on-error={}
 :do { add list=MM_ASN range=153790 } on-error={}
 :do { add list=MM_ASN range=153319 } on-error={}
 :do { add list=MM_ASN range=153044 } on-error={}
@@ -123,6 +122,7 @@
 :do { add list=MM_ASN range=136210 } on-error={}
 :do { add list=MM_ASN range=136137 } on-error={}
 :do { add list=MM_ASN range=135427 } on-error={}
+:do { add list=MM_ASN range=135149 } on-error={}
 :do { add list=MM_ASN range=134714 } on-error={}
 :do { add list=MM_ASN range=134528 } on-error={}
 :do { add list=MM_ASN range=134484 } on-error={}
