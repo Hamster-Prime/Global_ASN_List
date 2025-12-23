@@ -1,5 +1,5 @@
 # ASN Information in ZA.
-# Last Updated: UTC 2025-12-22 01:12:33
+# Last Updated: UTC 2025-12-23 01:08:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZA ASN list"
@@ -66,7 +66,6 @@
 :do { add list=ZA_ASN range=328114 } on-error={}
 :do { add list=ZA_ASN range=7020 } on-error={}
 :do { add list=ZA_ASN range=37670 } on-error={}
-:do { add list=ZA_ASN range=37650 } on-error={}
 :do { add list=ZA_ASN range=37564 } on-error={}
 :do { add list=ZA_ASN range=37172 } on-error={}
 :do { add list=ZA_ASN range=328576 } on-error={}
@@ -75,6 +74,7 @@
 :do { add list=ZA_ASN range=327754 } on-error={}
 :do { add list=ZA_ASN range=3067 } on-error={}
 :do { add list=ZA_ASN range=16800 } on-error={}
+:do { add list=ZA_ASN range=37650 } on-error={}
 :do { add list=ZA_ASN range=37640 } on-error={}
 :do { add list=ZA_ASN range=328974 } on-error={}
 :do { add list=ZA_ASN range=328870 } on-error={}
@@ -164,7 +164,6 @@
 :do { add list=ZA_ASN range=37150 } on-error={}
 :do { add list=ZA_ASN range=329402 } on-error={}
 :do { add list=ZA_ASN range=329391 } on-error={}
-:do { add list=ZA_ASN range=329276 } on-error={}
 :do { add list=ZA_ASN range=329240 } on-error={}
 :do { add list=ZA_ASN range=328795 } on-error={}
 :do { add list=ZA_ASN range=328749 } on-error={}
@@ -185,6 +184,7 @@
 :do { add list=ZA_ASN range=14115 } on-error={}
 :do { add list=ZA_ASN range=37028 } on-error={}
 :do { add list=ZA_ASN range=329346 } on-error={}
+:do { add list=ZA_ASN range=329276 } on-error={}
 :do { add list=ZA_ASN range=329125 } on-error={}
 :do { add list=ZA_ASN range=329063 } on-error={}
 :do { add list=ZA_ASN range=328916 } on-error={}
@@ -214,6 +214,7 @@
 :do { add list=ZA_ASN range=327794 } on-error={}
 :do { add list=ZA_ASN range=23058 } on-error={}
 :do { add list=ZA_ASN range=21739 } on-error={}
+:do { add list=ZA_ASN range=10798 } on-error={}
 :do { add list=ZA_ASN range=37634 } on-error={}
 :do { add list=ZA_ASN range=37628 } on-error={}
 :do { add list=ZA_ASN range=37627 } on-error={}
@@ -237,7 +238,6 @@
 :do { add list=ZA_ASN range=328036 } on-error={}
 :do { add list=ZA_ASN range=327962 } on-error={}
 :do { add list=ZA_ASN range=327761 } on-error={}
-:do { add list=ZA_ASN range=10798 } on-error={}
 :do { add list=ZA_ASN range=37653 } on-error={}
 :do { add list=ZA_ASN range=37484 } on-error={}
 :do { add list=ZA_ASN range=329317 } on-error={}
