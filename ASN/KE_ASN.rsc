@@ -1,5 +1,5 @@
 # ASN Information in KE.
-# Last Updated: UTC 2025-12-26 01:09:47
+# Last Updated: UTC 2025-12-27 01:07:10
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KE ASN list"
@@ -44,6 +44,7 @@
 :do { add list=KE_ASN range=328993 } on-error={}
 :do { add list=KE_ASN range=328652 } on-error={}
 :do { add list=KE_ASN range=37578 } on-error={}
+:do { add list=KE_ASN range=329618 } on-error={}
 :do { add list=KE_ASN range=329562 } on-error={}
 :do { add list=KE_ASN range=329552 } on-error={}
 :do { add list=KE_ASN range=329539 } on-error={}
@@ -75,7 +76,6 @@
 :do { add list=KE_ASN range=328994 } on-error={}
 :do { add list=KE_ASN range=328296 } on-error={}
 :do { add list=KE_ASN range=327906 } on-error={}
-:do { add list=KE_ASN range=329618 } on-error={}
 :do { add list=KE_ASN range=329497 } on-error={}
 :do { add list=KE_ASN range=329255 } on-error={}
 :do { add list=KE_ASN range=329021 } on-error={}

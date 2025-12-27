@@ -1,12 +1,12 @@
 # ASN Information in HU.
-# Last Updated: UTC 2025-12-26 01:07:16
+# Last Updated: UTC 2025-12-27 01:05:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HU ASN list"
 /routing filter num-list
 :do { add list=HU_ASN range=12301 } on-error={}
-:do { add list=HU_ASN range=35311 } on-error={}
 :do { add list=HU_ASN range=8462 } on-error={}
+:do { add list=HU_ASN range=35311 } on-error={}
 :do { add list=HU_ASN range=5483 } on-error={}
 :do { add list=HU_ASN range=206892 } on-error={}
 :do { add list=HU_ASN range=29278 } on-error={}
