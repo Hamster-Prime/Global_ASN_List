@@ -1,5 +1,5 @@
 # ASN Information in AR.
-# Last Updated: UTC 2025-12-28 01:15:43
+# Last Updated: UTC 2025-12-29 01:13:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AR ASN list"
@@ -189,7 +189,6 @@
 :do { add list=AR_ASN range=52268 } on-error={}
 :do { add list=AR_ASN range=52255 } on-error={}
 :do { add list=AR_ASN range=52236 } on-error={}
-:do { add list=AR_ASN range=28065 } on-error={}
 :do { add list=AR_ASN range=28037 } on-error={}
 :do { add list=AR_ASN range=28035 } on-error={}
 :do { add list=AR_ASN range=28009 } on-error={}
@@ -464,6 +463,7 @@
 :do { add list=AR_ASN range=3449 } on-error={}
 :do { add list=AR_ASN range=28107 } on-error={}
 :do { add list=AR_ASN range=28073 } on-error={}
+:do { add list=AR_ASN range=28065 } on-error={}
 :do { add list=AR_ASN range=28051 } on-error={}
 :do { add list=AR_ASN range=28020 } on-error={}
 :do { add list=AR_ASN range=27949 } on-error={}
