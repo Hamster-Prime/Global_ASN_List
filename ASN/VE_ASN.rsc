@@ -1,5 +1,5 @@
 # ASN Information in VE.
-# Last Updated: UTC 2025-12-29 01:14:01
+# Last Updated: UTC 2025-12-30 01:08:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
