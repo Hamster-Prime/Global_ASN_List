@@ -1,5 +1,5 @@
 # ASN Information in PH.
-# Last Updated: UTC 2025-12-30 01:06:15
+# Last Updated: UTC 2025-12-31 01:07:40
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PH ASN list"
@@ -73,6 +73,7 @@
 :do { add list=PH_ASN range=134346 } on-error={}
 :do { add list=PH_ASN range=133623 } on-error={}
 :do { add list=PH_ASN range=132021 } on-error={}
+:do { add list=PH_ASN range=131306 } on-error={}
 :do { add list=PH_ASN range=18018 } on-error={}
 :do { add list=PH_ASN range=17895 } on-error={}
 :do { add list=PH_ASN range=154261 } on-error={}
@@ -292,7 +293,6 @@
 :do { add list=PH_ASN range=132193 } on-error={}
 :do { add list=PH_ASN range=131891 } on-error={}
 :do { add list=PH_ASN range=131465 } on-error={}
-:do { add list=PH_ASN range=131306 } on-error={}
 :do { add list=PH_ASN range=131281 } on-error={}
 :do { add list=PH_ASN range=131276 } on-error={}
 :do { add list=PH_ASN range=10096 } on-error={}

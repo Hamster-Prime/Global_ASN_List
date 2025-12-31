@@ -1,5 +1,5 @@
 # ASN Information in BZ.
-# Last Updated: UTC 2025-12-30 01:08:58
+# Last Updated: UTC 2025-12-31 01:10:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BZ ASN list"
