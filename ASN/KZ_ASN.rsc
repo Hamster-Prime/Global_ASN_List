@@ -1,5 +1,5 @@
 # ASN Information in KZ.
-# Last Updated: UTC 2026-01-02 01:09:26
+# Last Updated: UTC 2026-01-03 01:05:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KZ ASN list"
@@ -30,16 +30,15 @@
 :do { add list=KZ_ASN range=198803 } on-error={}
 :do { add list=KZ_ASN range=48503 } on-error={}
 :do { add list=KZ_ASN range=207446 } on-error={}
+:do { add list=KZ_ASN range=202958 } on-error={}
 :do { add list=KZ_ASN range=59443 } on-error={}
 :do { add list=KZ_ASN range=51878 } on-error={}
 :do { add list=KZ_ASN range=43370 } on-error={}
-:do { add list=KZ_ASN range=202958 } on-error={}
 :do { add list=KZ_ASN range=51833 } on-error={}
 :do { add list=KZ_ASN range=44653 } on-error={}
 :do { add list=KZ_ASN range=39318 } on-error={}
 :do { add list=KZ_ASN range=31525 } on-error={}
 :do { add list=KZ_ASN range=29046 } on-error={}
-:do { add list=KZ_ASN range=207966 } on-error={}
 :do { add list=KZ_ASN range=207333 } on-error={}
 :do { add list=KZ_ASN range=202293 } on-error={}
 :do { add list=KZ_ASN range=201179 } on-error={}
@@ -51,6 +50,7 @@
 :do { add list=KZ_ASN range=35566 } on-error={}
 :do { add list=KZ_ASN range=25534 } on-error={}
 :do { add list=KZ_ASN range=212999 } on-error={}
+:do { add list=KZ_ASN range=207966 } on-error={}
 :do { add list=KZ_ASN range=203087 } on-error={}
 :do { add list=KZ_ASN range=200218 } on-error={}
 :do { add list=KZ_ASN range=197968 } on-error={}
