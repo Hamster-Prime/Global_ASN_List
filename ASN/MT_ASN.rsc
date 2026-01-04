@@ -1,13 +1,13 @@
 # ASN Information in MT.
-# Last Updated: UTC 2026-01-03 01:04:41
+# Last Updated: UTC 2026-01-04 01:16:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MT ASN list"
 /routing filter num-list
 :do { add list=MT_ASN range=12709 } on-error={}
 :do { add list=MT_ASN range=15735 } on-error={}
-:do { add list=MT_ASN range=20521 } on-error={}
 :do { add list=MT_ASN range=33874 } on-error={}
+:do { add list=MT_ASN range=20521 } on-error={}
 :do { add list=MT_ASN range=51840 } on-error={}
 :do { add list=MT_ASN range=47171 } on-error={}
 :do { add list=MT_ASN range=204732 } on-error={}

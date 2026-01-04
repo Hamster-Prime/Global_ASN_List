@@ -1,5 +1,5 @@
 # ASN Information in IR.
-# Last Updated: UTC 2026-01-03 01:05:01
+# Last Updated: UTC 2026-01-04 01:16:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IR ASN list"
@@ -57,7 +57,6 @@
 :do { add list=IR_ASN range=34412 } on-error={}
 :do { add list=IR_ASN range=208555 } on-error={}
 :do { add list=IR_ASN range=201295 } on-error={}
-:do { add list=IR_ASN range=200554 } on-error={}
 :do { add list=IR_ASN range=62048 } on-error={}
 :do { add list=IR_ASN range=56547 } on-error={}
 :do { add list=IR_ASN range=51469 } on-error={}
@@ -67,6 +66,7 @@
 :do { add list=IR_ASN range=208161 } on-error={}
 :do { add list=IR_ASN range=205207 } on-error={}
 :do { add list=IR_ASN range=202391 } on-error={}
+:do { add list=IR_ASN range=200554 } on-error={}
 :do { add list=IR_ASN range=62367 } on-error={}
 :do { add list=IR_ASN range=60627 } on-error={}
 :do { add list=IR_ASN range=59441 } on-error={}
@@ -150,7 +150,6 @@
 :do { add list=IR_ASN range=62198 } on-error={}
 :do { add list=IR_ASN range=62173 } on-error={}
 :do { add list=IR_ASN range=61974 } on-error={}
-:do { add list=IR_ASN range=61962 } on-error={}
 :do { add list=IR_ASN range=61250 } on-error={}
 :do { add list=IR_ASN range=61248 } on-error={}
 :do { add list=IR_ASN range=61246 } on-error={}
@@ -194,7 +193,6 @@
 :do { add list=IR_ASN range=52155 } on-error={}
 :do { add list=IR_ASN range=52140 } on-error={}
 :do { add list=IR_ASN range=52070 } on-error={}
-:do { add list=IR_ASN range=51788 } on-error={}
 :do { add list=IR_ASN range=51785 } on-error={}
 :do { add list=IR_ASN range=51732 } on-error={}
 :do { add list=IR_ASN range=51554 } on-error={}
@@ -246,7 +244,6 @@
 :do { add list=IR_ASN range=34513 } on-error={}
 :do { add list=IR_ASN range=31175 } on-error={}
 :do { add list=IR_ASN range=29079 } on-error={}
-:do { add list=IR_ASN range=25306 } on-error={}
 :do { add list=IR_ASN range=24707 } on-error={}
 :do { add list=IR_ASN range=216169 } on-error={}
 :do { add list=IR_ASN range=215633 } on-error={}
@@ -313,6 +310,7 @@
 :do { add list=IR_ASN range=62157 } on-error={}
 :do { add list=IR_ASN range=62140 } on-error={}
 :do { add list=IR_ASN range=62137 } on-error={}
+:do { add list=IR_ASN range=61962 } on-error={}
 :do { add list=IR_ASN range=61362 } on-error={}
 :do { add list=IR_ASN range=61176 } on-error={}
 :do { add list=IR_ASN range=61061 } on-error={}
@@ -366,6 +364,7 @@
 :do { add list=IR_ASN range=5484 } on-error={}
 :do { add list=IR_ASN range=52049 } on-error={}
 :do { add list=IR_ASN range=51897 } on-error={}
+:do { add list=IR_ASN range=51788 } on-error={}
 :do { add list=IR_ASN range=51777 } on-error={}
 :do { add list=IR_ASN range=51759 } on-error={}
 :do { add list=IR_ASN range=51433 } on-error={}
@@ -420,6 +419,7 @@
 :do { add list=IR_ASN range=30902 } on-error={}
 :do { add list=IR_ASN range=29577 } on-error={}
 :do { add list=IR_ASN range=29077 } on-error={}
+:do { add list=IR_ASN range=25306 } on-error={}
 :do { add list=IR_ASN range=25264 } on-error={}
 :do { add list=IR_ASN range=216417 } on-error={}
 :do { add list=IR_ASN range=216344 } on-error={}
