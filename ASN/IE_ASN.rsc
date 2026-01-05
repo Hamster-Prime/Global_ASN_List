@@ -1,5 +1,5 @@
 # ASN Information in IE.
-# Last Updated: UTC 2026-01-04 01:15:26
+# Last Updated: UTC 2026-01-05 01:14:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IE ASN list"
@@ -30,12 +30,12 @@
 :do { add list=IE_ASN range=15502 } on-error={}
 :do { add list=IE_ASN range=51677 } on-error={}
 :do { add list=IE_ASN range=43406 } on-error={}
-:do { add list=IE_ASN range=25441 } on-error={}
 :do { add list=IE_ASN range=16171 } on-error={}
 :do { add list=IE_ASN range=47680 } on-error={}
 :do { add list=IE_ASN range=43984 } on-error={}
 :do { add list=IE_ASN range=42310 } on-error={}
 :do { add list=IE_ASN range=39449 } on-error={}
+:do { add list=IE_ASN range=25441 } on-error={}
 :do { add list=IE_ASN range=62129 } on-error={}
 :do { add list=IE_ASN range=49567 } on-error={}
 :do { add list=IE_ASN range=206723 } on-error={}

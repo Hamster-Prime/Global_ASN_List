@@ -1,5 +1,5 @@
 # ASN Information in ZA.
-# Last Updated: UTC 2026-01-04 01:18:37
+# Last Updated: UTC 2026-01-05 01:16:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZA ASN list"
@@ -29,8 +29,8 @@
 :do { add list=ZA_ASN range=328366 } on-error={}
 :do { add list=ZA_ASN range=25818 } on-error={}
 :do { add list=ZA_ASN range=328748 } on-error={}
-:do { add list=ZA_ASN range=328112 } on-error={}
 :do { add list=ZA_ASN range=2018 } on-error={}
+:do { add list=ZA_ASN range=328112 } on-error={}
 :do { add list=ZA_ASN range=327782 } on-error={}
 :do { add list=ZA_ASN range=32437 } on-error={}
 :do { add list=ZA_ASN range=36874 } on-error={}
@@ -46,10 +46,10 @@
 :do { add list=ZA_ASN range=37236 } on-error={}
 :do { add list=ZA_ASN range=37457 } on-error={}
 :do { add list=ZA_ASN range=328888 } on-error={}
+:do { add list=ZA_ASN range=328608 } on-error={}
 :do { add list=ZA_ASN range=327813 } on-error={}
 :do { add list=ZA_ASN range=20011 } on-error={}
 :do { add list=ZA_ASN range=37276 } on-error={}
-:do { add list=ZA_ASN range=328608 } on-error={}
 :do { add list=ZA_ASN range=328029 } on-error={}
 :do { add list=ZA_ASN range=327901 } on-error={}
 :do { add list=ZA_ASN range=327849 } on-error={}
@@ -370,7 +370,6 @@
 :do { add list=ZA_ASN range=328894 } on-error={}
 :do { add list=ZA_ASN range=328816 } on-error={}
 :do { add list=ZA_ASN range=328001 } on-error={}
-:do { add list=ZA_ASN range=37474 } on-error={}
 :do { add list=ZA_ASN range=37235 } on-error={}
 :do { add list=ZA_ASN range=328624 } on-error={}
 :do { add list=ZA_ASN range=328538 } on-error={}
@@ -380,6 +379,7 @@
 :do { add list=ZA_ASN range=36943 } on-error={}
 :do { add list=ZA_ASN range=329474 } on-error={}
 :do { add list=ZA_ASN range=328384 } on-error={}
+:do { add list=ZA_ASN range=37474 } on-error={}
 :do { add list=ZA_ASN range=329151 } on-error={}
 :do { add list=ZA_ASN range=329028 } on-error={}
 :do { add list=ZA_ASN range=328917 } on-error={}
