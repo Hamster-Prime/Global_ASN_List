@@ -1,13 +1,13 @@
 # ASN Information in GH.
-# Last Updated: UTC 2026-01-06 01:11:23
+# Last Updated: UTC 2026-01-07 01:12:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GH ASN list"
 /routing filter num-list
 :do { add list=GH_ASN range=37613 } on-error={}
 :do { add list=GH_ASN range=327814 } on-error={}
-:do { add list=GH_ASN range=37727 } on-error={}
 :do { add list=GH_ASN range=29614 } on-error={}
+:do { add list=GH_ASN range=37727 } on-error={}
 :do { add list=GH_ASN range=327992 } on-error={}
 :do { add list=GH_ASN range=328659 } on-error={}
 :do { add list=GH_ASN range=30986 } on-error={}
