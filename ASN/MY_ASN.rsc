@@ -1,5 +1,5 @@
 # ASN Information in MY.
-# Last Updated: UTC 2026-01-11 01:14:51
+# Last Updated: UTC 2026-01-12 01:11:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MY ASN list"
@@ -13,8 +13,8 @@
 :do { add list=MY_ASN range=9534 } on-error={}
 :do { add list=MY_ASN range=4818 } on-error={}
 :do { add list=MY_ASN range=56286 } on-error={}
-:do { add list=MY_ASN range=136749 } on-error={}
 :do { add list=MY_ASN range=38278 } on-error={}
+:do { add list=MY_ASN range=136749 } on-error={}
 :do { add list=MY_ASN range=45960 } on-error={}
 :do { add list=MY_ASN range=131330 } on-error={}
 :do { add list=MY_ASN range=24028 } on-error={}
@@ -50,10 +50,10 @@
 :do { add list=MY_ASN range=56140 } on-error={}
 :do { add list=MY_ASN range=23678 } on-error={}
 :do { add list=MY_ASN range=18206 } on-error={}
-:do { add list=MY_ASN range=154283 } on-error={}
 :do { add list=MY_ASN range=147040 } on-error={}
 :do { add list=MY_ASN range=56229 } on-error={}
 :do { add list=MY_ASN range=55822 } on-error={}
+:do { add list=MY_ASN range=154283 } on-error={}
 :do { add list=MY_ASN range=137510 } on-error={}
 :do { add list=MY_ASN range=137050 } on-error={}
 :do { add list=MY_ASN range=135542 } on-error={}
