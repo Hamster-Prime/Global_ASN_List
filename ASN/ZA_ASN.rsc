@@ -1,5 +1,5 @@
 # ASN Information in ZA.
-# Last Updated: UTC 2026-01-12 01:15:14
+# Last Updated: UTC 2026-01-13 01:08:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZA ASN list"
@@ -45,6 +45,7 @@
 :do { add list=ZA_ASN range=37358 } on-error={}
 :do { add list=ZA_ASN range=37236 } on-error={}
 :do { add list=ZA_ASN range=37457 } on-error={}
+:do { add list=ZA_ASN range=328608 } on-error={}
 :do { add list=ZA_ASN range=328888 } on-error={}
 :do { add list=ZA_ASN range=20011 } on-error={}
 :do { add list=ZA_ASN range=37276 } on-error={}
@@ -147,6 +148,7 @@
 :do { add list=ZA_ASN range=328946 } on-error={}
 :do { add list=ZA_ASN range=328822 } on-error={}
 :do { add list=ZA_ASN range=328820 } on-error={}
+:do { add list=ZA_ASN range=328810 } on-error={}
 :do { add list=ZA_ASN range=328795 } on-error={}
 :do { add list=ZA_ASN range=328772 } on-error={}
 :do { add list=ZA_ASN range=328698 } on-error={}
@@ -194,7 +196,6 @@
 :do { add list=ZA_ASN range=329063 } on-error={}
 :do { add list=ZA_ASN range=328916 } on-error={}
 :do { add list=ZA_ASN range=328868 } on-error={}
-:do { add list=ZA_ASN range=328810 } on-error={}
 :do { add list=ZA_ASN range=328790 } on-error={}
 :do { add list=ZA_ASN range=328777 } on-error={}
 :do { add list=ZA_ASN range=328767 } on-error={}
@@ -271,7 +272,6 @@
 :do { add list=ZA_ASN range=328970 } on-error={}
 :do { add list=ZA_ASN range=328841 } on-error={}
 :do { add list=ZA_ASN range=328730 } on-error={}
-:do { add list=ZA_ASN range=328608 } on-error={}
 :do { add list=ZA_ASN range=328517 } on-error={}
 :do { add list=ZA_ASN range=328505 } on-error={}
 :do { add list=ZA_ASN range=328422 } on-error={}
@@ -384,17 +384,17 @@
 :do { add list=ZA_ASN range=328917 } on-error={}
 :do { add list=ZA_ASN range=328818 } on-error={}
 :do { add list=ZA_ASN range=328750 } on-error={}
+:do { add list=ZA_ASN range=328621 } on-error={}
 :do { add list=ZA_ASN range=328260 } on-error={}
 :do { add list=ZA_ASN range=328246 } on-error={}
 :do { add list=ZA_ASN range=327698 } on-error={}
 :do { add list=ZA_ASN range=22386 } on-error={}
-:do { add list=ZA_ASN range=37474 } on-error={}
 :do { add list=ZA_ASN range=328855 } on-error={}
-:do { add list=ZA_ASN range=328621 } on-error={}
 :do { add list=ZA_ASN range=328589 } on-error={}
 :do { add list=ZA_ASN range=328474 } on-error={}
 :do { add list=ZA_ASN range=328365 } on-error={}
 :do { add list=ZA_ASN range=37597 } on-error={}
+:do { add list=ZA_ASN range=37474 } on-error={}
 :do { add list=ZA_ASN range=328806 } on-error={}
 :do { add list=ZA_ASN range=328020 } on-error={}
 :do { add list=ZA_ASN range=328837 } on-error={}
@@ -421,9 +421,9 @@
 :do { add list=ZA_ASN range=329144 } on-error={}
 :do { add list=ZA_ASN range=328174 } on-error={}
 :do { add list=ZA_ASN range=37114 } on-error={}
+:do { add list=ZA_ASN range=329608 } on-error={}
 :do { add list=ZA_ASN range=37411 } on-error={}
 :do { add list=ZA_ASN range=36937 } on-error={}
-:do { add list=ZA_ASN range=329608 } on-error={}
 :do { add list=ZA_ASN range=329479 } on-error={}
 :do { add list=ZA_ASN range=328991 } on-error={}
 :do { add list=ZA_ASN range=328760 } on-error={}
