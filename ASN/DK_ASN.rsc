@@ -1,5 +1,5 @@
 # ASN Information in DK.
-# Last Updated: UTC 2026-01-13 01:05:58
+# Last Updated: UTC 2026-01-14 01:11:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DK ASN list"
@@ -23,8 +23,8 @@
 :do { add list=DK_ASN range=9120 } on-error={}
 :do { add list=DK_ASN range=196997 } on-error={}
 :do { add list=DK_ASN range=44134 } on-error={}
-:do { add list=DK_ASN range=30736 } on-error={}
 :do { add list=DK_ASN range=60111 } on-error={}
+:do { add list=DK_ASN range=30736 } on-error={}
 :do { add list=DK_ASN range=209528 } on-error={}
 :do { add list=DK_ASN range=198622 } on-error={}
 :do { add list=DK_ASN range=215782 } on-error={}
@@ -97,13 +97,11 @@
 :do { add list=DK_ASN range=42236 } on-error={}
 :do { add list=DK_ASN range=41795 } on-error={}
 :do { add list=DK_ASN range=41707 } on-error={}
-:do { add list=DK_ASN range=41240 } on-error={}
 :do { add list=DK_ASN range=39500 } on-error={}
 :do { add list=DK_ASN range=39026 } on-error={}
 :do { add list=DK_ASN range=35789 } on-error={}
 :do { add list=DK_ASN range=35637 } on-error={}
 :do { add list=DK_ASN range=35158 } on-error={}
-:do { add list=DK_ASN range=35033 } on-error={}
 :do { add list=DK_ASN range=31131 } on-error={}
 :do { add list=DK_ASN range=24853 } on-error={}
 :do { add list=DK_ASN range=216433 } on-error={}
@@ -123,7 +121,6 @@
 :do { add list=DK_ASN range=209381 } on-error={}
 :do { add list=DK_ASN range=209125 } on-error={}
 :do { add list=DK_ASN range=209118 } on-error={}
-:do { add list=DK_ASN range=207934 } on-error={}
 :do { add list=DK_ASN range=207727 } on-error={}
 :do { add list=DK_ASN range=207316 } on-error={}
 :do { add list=DK_ASN range=207035 } on-error={}
@@ -207,6 +204,7 @@
 :do { add list=DK_ASN range=42355 } on-error={}
 :do { add list=DK_ASN range=41746 } on-error={}
 :do { add list=DK_ASN range=41306 } on-error={}
+:do { add list=DK_ASN range=41240 } on-error={}
 :do { add list=DK_ASN range=41076 } on-error={}
 :do { add list=DK_ASN range=41016 } on-error={}
 :do { add list=DK_ASN range=41014 } on-error={}
@@ -220,7 +218,6 @@
 :do { add list=DK_ASN range=34165 } on-error={}
 :do { add list=DK_ASN range=34027 } on-error={}
 :do { add list=DK_ASN range=33796 } on-error={}
-:do { add list=DK_ASN range=3272 } on-error={}
 :do { add list=DK_ASN range=3240 } on-error={}
 :do { add list=DK_ASN range=31709 } on-error={}
 :do { add list=DK_ASN range=29331 } on-error={}
@@ -269,6 +266,7 @@
 :do { add list=DK_ASN range=208327 } on-error={}
 :do { add list=DK_ASN range=208237 } on-error={}
 :do { add list=DK_ASN range=208039 } on-error={}
+:do { add list=DK_ASN range=207934 } on-error={}
 :do { add list=DK_ASN range=207603 } on-error={}
 :do { add list=DK_ASN range=207533 } on-error={}
 :do { add list=DK_ASN range=207355 } on-error={}
