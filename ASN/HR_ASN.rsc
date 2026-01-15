@@ -1,5 +1,5 @@
 # ASN Information in HR.
-# Last Updated: UTC 2026-01-14 01:12:01
+# Last Updated: UTC 2026-01-15 01:08:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HR ASN list"
@@ -82,6 +82,7 @@
 :do { add list=HR_ASN range=207348 } on-error={}
 :do { add list=HR_ASN range=206997 } on-error={}
 :do { add list=HR_ASN range=205774 } on-error={}
+:do { add list=HR_ASN range=204808 } on-error={}
 :do { add list=HR_ASN range=204163 } on-error={}
 :do { add list=HR_ASN range=203876 } on-error={}
 :do { add list=HR_ASN range=201987 } on-error={}
@@ -140,7 +141,6 @@
 :do { add list=HR_ASN range=207102 } on-error={}
 :do { add list=HR_ASN range=206808 } on-error={}
 :do { add list=HR_ASN range=205607 } on-error={}
-:do { add list=HR_ASN range=204808 } on-error={}
 :do { add list=HR_ASN range=203455 } on-error={}
 :do { add list=HR_ASN range=199565 } on-error={}
 :do { add list=HR_ASN range=199401 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in MA.
-# Last Updated: UTC 2026-01-14 01:14:20
+# Last Updated: UTC 2026-01-15 01:10:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MA ASN list"
@@ -11,6 +11,8 @@
 :do { add list=MA_ASN range=328867 } on-error={}
 :do { add list=MA_ASN range=328066 } on-error={}
 :do { add list=MA_ASN range=36956 } on-error={}
+:do { add list=MA_ASN range=329628 } on-error={}
+:do { add list=MA_ASN range=329605 } on-error={}
 :do { add list=MA_ASN range=329442 } on-error={}
 :do { add list=MA_ASN range=328272 } on-error={}
 :do { add list=MA_ASN range=328055 } on-error={}
@@ -28,4 +30,3 @@
 :do { add list=MA_ASN range=328268 } on-error={}
 :do { add list=MA_ASN range=327989 } on-error={}
 :do { add list=MA_ASN range=327917 } on-error={}
-:do { add list=MA_ASN range=329628 } on-error={}
