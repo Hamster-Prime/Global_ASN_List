@@ -1,5 +1,5 @@
 # ASN Information in EG.
-# Last Updated: UTC 2026-01-15 01:10:26
+# Last Updated: UTC 2026-01-16 01:12:32
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EG ASN list"
@@ -24,12 +24,15 @@
 :do { add list=EG_ASN range=37193 } on-error={}
 :do { add list=EG_ASN range=37191 } on-error={}
 :do { add list=EG_ASN range=37112 } on-error={}
+:do { add list=EG_ASN range=37091 } on-error={}
 :do { add list=EG_ASN range=37031 } on-error={}
 :do { add list=EG_ASN range=37003 } on-error={}
 :do { add list=EG_ASN range=36990 } on-error={}
 :do { add list=EG_ASN range=36978 } on-error={}
+:do { add list=EG_ASN range=36935 } on-error={}
 :do { add list=EG_ASN range=36870 } on-error={}
 :do { add list=EG_ASN range=33778 } on-error={}
+:do { add list=EG_ASN range=329520 } on-error={}
 :do { add list=EG_ASN range=329336 } on-error={}
 :do { add list=EG_ASN range=329114 } on-error={}
 :do { add list=EG_ASN range=328972 } on-error={}
@@ -44,6 +47,7 @@
 :do { add list=EG_ASN range=328299 } on-error={}
 :do { add list=EG_ASN range=328105 } on-error={}
 :do { add list=EG_ASN range=328067 } on-error={}
+:do { add list=EG_ASN range=328052 } on-error={}
 :do { add list=EG_ASN range=30995 } on-error={}
 :do { add list=EG_ASN range=37585 } on-error={}
 :do { add list=EG_ASN range=37444 } on-error={}
@@ -51,15 +55,12 @@
 :do { add list=EG_ASN range=37348 } on-error={}
 :do { add list=EG_ASN range=37339 } on-error={}
 :do { add list=EG_ASN range=37279 } on-error={}
-:do { add list=EG_ASN range=37091 } on-error={}
 :do { add list=EG_ASN range=37069 } on-error={}
 :do { add list=EG_ASN range=37066 } on-error={}
-:do { add list=EG_ASN range=36935 } on-error={}
 :do { add list=EG_ASN range=36929 } on-error={}
 :do { add list=EG_ASN range=36906 } on-error={}
 :do { add list=EG_ASN range=36885 } on-error={}
 :do { add list=EG_ASN range=33782 } on-error={}
-:do { add list=EG_ASN range=329520 } on-error={}
 :do { add list=EG_ASN range=329397 } on-error={}
 :do { add list=EG_ASN range=329359 } on-error={}
 :do { add list=EG_ASN range=329325 } on-error={}
@@ -69,7 +70,6 @@
 :do { add list=EG_ASN range=328762 } on-error={}
 :do { add list=EG_ASN range=328654 } on-error={}
 :do { add list=EG_ASN range=328430 } on-error={}
-:do { add list=EG_ASN range=328052 } on-error={}
 :do { add list=EG_ASN range=328011 } on-error={}
 :do { add list=EG_ASN range=327846 } on-error={}
 :do { add list=EG_ASN range=327838 } on-error={}
