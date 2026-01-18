@@ -1,5 +1,5 @@
 # ASN Information in BO.
-# Last Updated: UTC 2026-01-17 01:09:02
+# Last Updated: UTC 2026-01-18 01:16:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BO ASN list"
@@ -10,15 +10,16 @@
 :do { add list=BO_ASN range=26210 } on-error={}
 :do { add list=BO_ASN range=211397 } on-error={}
 :do { add list=BO_ASN range=27839 } on-error={}
+:do { add list=BO_ASN range=267685 } on-error={}
 :do { add list=BO_ASN range=263242 } on-error={}
 :do { add list=BO_ASN range=272913 } on-error={}
-:do { add list=BO_ASN range=267685 } on-error={}
 :do { add list=BO_ASN range=264789 } on-error={}
 :do { add list=BO_ASN range=52250 } on-error={}
 :do { add list=BO_ASN range=270045 } on-error={}
 :do { add list=BO_ASN range=269959 } on-error={}
 :do { add list=BO_ASN range=266804 } on-error={}
 :do { add list=BO_ASN range=265880 } on-error={}
+:do { add list=BO_ASN range=265779 } on-error={}
 :do { add list=BO_ASN range=264858 } on-error={}
 :do { add list=BO_ASN range=264690 } on-error={}
 :do { add list=BO_ASN range=25620 } on-error={}
@@ -33,7 +34,6 @@
 :do { add list=BO_ASN range=266745 } on-error={}
 :do { add list=BO_ASN range=266723 } on-error={}
 :do { add list=BO_ASN range=266671 } on-error={}
-:do { add list=BO_ASN range=265779 } on-error={}
 :do { add list=BO_ASN range=265756 } on-error={}
 :do { add list=BO_ASN range=265670 } on-error={}
 :do { add list=BO_ASN range=264612 } on-error={}
