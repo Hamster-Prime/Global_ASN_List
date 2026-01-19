@@ -1,5 +1,5 @@
 # ASN Information in AF.
-# Last Updated: UTC 2026-01-18 01:15:33
+# Last Updated: UTC 2026-01-19 01:15:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AF ASN list"
@@ -17,6 +17,7 @@
 :do { add list=AF_ASN range=59317 } on-error={}
 :do { add list=AF_ASN range=58697 } on-error={}
 :do { add list=AF_ASN range=55424 } on-error={}
+:do { add list=AF_ASN range=142541 } on-error={}
 :do { add list=AF_ASN range=139697 } on-error={}
 :do { add list=AF_ASN range=137039 } on-error={}
 :do { add list=AF_ASN range=136479 } on-error={}
@@ -41,7 +42,6 @@
 :do { add list=AF_ASN range=149173 } on-error={}
 :do { add list=AF_ASN range=149024 } on-error={}
 :do { add list=AF_ASN range=142570 } on-error={}
-:do { add list=AF_ASN range=142541 } on-error={}
 :do { add list=AF_ASN range=141447 } on-error={}
 :do { add list=AF_ASN range=141355 } on-error={}
 :do { add list=AF_ASN range=141224 } on-error={}

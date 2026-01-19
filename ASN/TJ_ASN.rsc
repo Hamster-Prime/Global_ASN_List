@@ -1,5 +1,5 @@
 # ASN Information in TJ.
-# Last Updated: UTC 2026-01-18 01:15:40
+# Last Updated: UTC 2026-01-19 01:15:10
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TJ ASN list"
