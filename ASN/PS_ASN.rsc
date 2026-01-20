@@ -1,5 +1,5 @@
 # ASN Information in PS.
-# Last Updated: UTC 2026-01-19 01:14:56
+# Last Updated: UTC 2026-01-20 01:09:20
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PS ASN list"
