@@ -1,5 +1,5 @@
 # ASN Information in ZM.
-# Last Updated: UTC 2026-01-20 01:10:45
+# Last Updated: UTC 2026-01-21 01:13:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZM ASN list"
