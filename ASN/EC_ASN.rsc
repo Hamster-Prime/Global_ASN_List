@@ -1,9 +1,10 @@
 # ASN Information in EC.
-# Last Updated: UTC 2026-01-21 01:12:42
+# Last Updated: UTC 2026-01-22 01:13:33
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EC ASN list"
 /routing filter num-list
+:do { add list=EC_ASN range=265629 } on-error={}
 :do { add list=EC_ASN range=27947 } on-error={}
 :do { add list=EC_ASN range=22724 } on-error={}
 :do { add list=EC_ASN range=19114 } on-error={}
@@ -28,7 +29,6 @@
 :do { add list=EC_ASN range=267756 } on-error={}
 :do { add list=EC_ASN range=265762 } on-error={}
 :do { add list=EC_ASN range=265724 } on-error={}
-:do { add list=EC_ASN range=265629 } on-error={}
 :do { add list=EC_ASN range=19582 } on-error={}
 :do { add list=EC_ASN range=52274 } on-error={}
 :do { add list=EC_ASN range=52238 } on-error={}

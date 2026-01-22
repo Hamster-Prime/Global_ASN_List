@@ -1,5 +1,5 @@
 # ASN Information in CO.
-# Last Updated: UTC 2026-01-21 01:12:36
+# Last Updated: UTC 2026-01-22 01:13:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CO ASN list"
@@ -24,8 +24,8 @@
 :do { add list=CO_ASN range=14187 } on-error={}
 :do { add list=CO_ASN range=271957 } on-error={}
 :do { add list=CO_ASN range=270075 } on-error={}
-:do { add list=CO_ASN range=10299 } on-error={}
 :do { add list=CO_ASN range=26619 } on-error={}
+:do { add list=CO_ASN range=10299 } on-error={}
 :do { add list=CO_ASN range=263210 } on-error={}
 :do { add list=CO_ASN range=27817 } on-error={}
 :do { add list=CO_ASN range=269822 } on-error={}
@@ -62,7 +62,6 @@
 :do { add list=CO_ASN range=269742 } on-error={}
 :do { add list=CO_ASN range=269735 } on-error={}
 :do { add list=CO_ASN range=267857 } on-error={}
-:do { add list=CO_ASN range=267832 } on-error={}
 :do { add list=CO_ASN range=267796 } on-error={}
 :do { add list=CO_ASN range=267790 } on-error={}
 :do { add list=CO_ASN range=267788 } on-error={}
@@ -96,6 +95,7 @@
 :do { add list=CO_ASN range=269755 } on-error={}
 :do { add list=CO_ASN range=269746 } on-error={}
 :do { add list=CO_ASN range=267869 } on-error={}
+:do { add list=CO_ASN range=267832 } on-error={}
 :do { add list=CO_ASN range=267777 } on-error={}
 :do { add list=CO_ASN range=267678 } on-error={}
 :do { add list=CO_ASN range=266832 } on-error={}
