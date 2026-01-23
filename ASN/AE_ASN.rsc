@@ -1,5 +1,5 @@
 # ASN Information in AE.
-# Last Updated: UTC 2026-01-22 01:12:03
+# Last Updated: UTC 2026-01-23 01:11:16
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AE ASN list"
@@ -11,8 +11,8 @@
 :do { add list=AE_ASN range=60051 } on-error={}
 :do { add list=AE_ASN range=216071 } on-error={}
 :do { add list=AE_ASN range=57187 } on-error={}
-:do { add list=AE_ASN range=41268 } on-error={}
 :do { add list=AE_ASN range=200851 } on-error={}
+:do { add list=AE_ASN range=41268 } on-error={}
 :do { add list=AE_ASN range=213622 } on-error={}
 :do { add list=AE_ASN range=5384 } on-error={}
 :do { add list=AE_ASN range=215174 } on-error={}
@@ -23,12 +23,12 @@
 :do { add list=AE_ASN range=208006 } on-error={}
 :do { add list=AE_ASN range=204523 } on-error={}
 :do { add list=AE_ASN range=203656 } on-error={}
-:do { add list=AE_ASN range=48631 } on-error={}
 :do { add list=AE_ASN range=35086 } on-error={}
 :do { add list=AE_ASN range=214227 } on-error={}
 :do { add list=AE_ASN range=206283 } on-error={}
 :do { add list=AE_ASN range=60117 } on-error={}
 :do { add list=AE_ASN range=59605 } on-error={}
+:do { add list=AE_ASN range=48631 } on-error={}
 :do { add list=AE_ASN range=44578 } on-error={}
 :do { add list=AE_ASN range=216382 } on-error={}
 :do { add list=AE_ASN range=216154 } on-error={}
@@ -54,6 +54,7 @@
 :do { add list=AE_ASN range=25465 } on-error={}
 :do { add list=AE_ASN range=215078 } on-error={}
 :do { add list=AE_ASN range=215024 } on-error={}
+:do { add list=AE_ASN range=214965 } on-error={}
 :do { add list=AE_ASN range=214687 } on-error={}
 :do { add list=AE_ASN range=214366 } on-error={}
 :do { add list=AE_ASN range=212546 } on-error={}
@@ -93,7 +94,6 @@
 :do { add list=AE_ASN range=216070 } on-error={}
 :do { add list=AE_ASN range=215935 } on-error={}
 :do { add list=AE_ASN range=215441 } on-error={}
-:do { add list=AE_ASN range=214965 } on-error={}
 :do { add list=AE_ASN range=214798 } on-error={}
 :do { add list=AE_ASN range=214095 } on-error={}
 :do { add list=AE_ASN range=213931 } on-error={}

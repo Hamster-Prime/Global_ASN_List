@@ -1,5 +1,5 @@
 # ASN Information in JP.
-# Last Updated: UTC 2026-01-22 01:09:58
+# Last Updated: UTC 2026-01-23 01:09:39
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JP ASN list"
@@ -21,38 +21,37 @@
 :do { add list=JP_ASN range=9354 } on-error={}
 :do { add list=JP_ASN range=4713 } on-error={}
 :do { add list=JP_ASN range=18283 } on-error={}
-:do { add list=JP_ASN range=54415 } on-error={}
 :do { add list=JP_ASN range=9370 } on-error={}
+:do { add list=JP_ASN range=54415 } on-error={}
 :do { add list=JP_ASN range=59110 } on-error={}
 :do { add list=JP_ASN range=2519 } on-error={}
 :do { add list=JP_ASN range=150363 } on-error={}
 :do { add list=JP_ASN range=7679 } on-error={}
-:do { add list=JP_ASN range=9434 } on-error={}
 :do { add list=JP_ASN range=10010 } on-error={}
-:do { add list=JP_ASN range=38631 } on-error={}
 :do { add list=JP_ASN range=214675 } on-error={}
+:do { add list=JP_ASN range=38631 } on-error={}
 :do { add list=JP_ASN range=55569 } on-error={}
 :do { add list=JP_ASN range=17511 } on-error={}
 :do { add list=JP_ASN range=7529 } on-error={}
 :do { add list=JP_ASN range=7670 } on-error={}
 :do { add list=JP_ASN range=59125 } on-error={}
-:do { add list=JP_ASN range=17534 } on-error={}
 :do { add list=JP_ASN range=17961 } on-error={}
+:do { add list=JP_ASN range=17534 } on-error={}
 :do { add list=JP_ASN range=9607 } on-error={}
 :do { add list=JP_ASN range=17686 } on-error={}
 :do { add list=JP_ASN range=138384 } on-error={}
 :do { add list=JP_ASN range=131948 } on-error={}
 :do { add list=JP_ASN range=138968 } on-error={}
 :do { add list=JP_ASN range=7530 } on-error={}
+:do { add list=JP_ASN range=7524 } on-error={}
 :do { add list=JP_ASN range=9993 } on-error={}
 :do { add list=JP_ASN range=9595 } on-error={}
-:do { add list=JP_ASN range=7524 } on-error={}
 :do { add list=JP_ASN range=7506 } on-error={}
 :do { add list=JP_ASN range=59123 } on-error={}
+:do { add list=JP_ASN range=2527 } on-error={}
 :do { add list=JP_ASN range=23816 } on-error={}
 :do { add list=JP_ASN range=9371 } on-error={}
 :do { add list=JP_ASN range=4694 } on-error={}
-:do { add list=JP_ASN range=2527 } on-error={}
 :do { add list=JP_ASN range=9824 } on-error={}
 :do { add list=JP_ASN range=24284 } on-error={}
 :do { add list=JP_ASN range=18081 } on-error={}
@@ -75,18 +74,19 @@
 :do { add list=JP_ASN range=24271 } on-error={}
 :do { add list=JP_ASN range=23629 } on-error={}
 :do { add list=JP_ASN range=139076 } on-error={}
+:do { add list=JP_ASN range=10004 } on-error={}
+:do { add list=JP_ASN range=10000 } on-error={}
 :do { add list=JP_ASN range=9997 } on-error={}
 :do { add list=JP_ASN range=3258 } on-error={}
 :do { add list=JP_ASN range=17958 } on-error={}
-:do { add list=JP_ASN range=10000 } on-error={}
 :do { add list=JP_ASN range=4680 } on-error={}
 :do { add list=JP_ASN range=38628 } on-error={}
+:do { add list=JP_ASN range=23778 } on-error={}
 :do { add list=JP_ASN range=18278 } on-error={}
 :do { add list=JP_ASN range=18150 } on-error={}
 :do { add list=JP_ASN range=7682 } on-error={}
 :do { add list=JP_ASN range=4693 } on-error={}
 :do { add list=JP_ASN range=2514 } on-error={}
-:do { add list=JP_ASN range=23778 } on-error={}
 :do { add list=JP_ASN range=18268 } on-error={}
 :do { add list=JP_ASN range=10019 } on-error={}
 :do { add list=JP_ASN range=9597 } on-error={}
@@ -95,16 +95,15 @@
 :do { add list=JP_ASN range=18121 } on-error={}
 :do { add list=JP_ASN range=17683 } on-error={}
 :do { add list=JP_ASN range=131937 } on-error={}
-:do { add list=JP_ASN range=10004 } on-error={}
 :do { add list=JP_ASN range=37922 } on-error={}
 :do { add list=JP_ASN range=24253 } on-error={}
+:do { add list=JP_ASN range=18274 } on-error={}
 :do { add list=JP_ASN range=139468 } on-error={}
 :do { add list=JP_ASN range=9622 } on-error={}
 :do { add list=JP_ASN range=7690 } on-error={}
 :do { add list=JP_ASN range=7668 } on-error={}
 :do { add list=JP_ASN range=24255 } on-error={}
 :do { add list=JP_ASN range=18282 } on-error={}
-:do { add list=JP_ASN range=18274 } on-error={}
 :do { add list=JP_ASN range=24259 } on-error={}
 :do { add list=JP_ASN range=23820 } on-error={}
 :do { add list=JP_ASN range=152858 } on-error={}
@@ -112,6 +111,7 @@
 :do { add list=JP_ASN range=10006 } on-error={}
 :do { add list=JP_ASN range=9374 } on-error={}
 :do { add list=JP_ASN range=4711 } on-error={}
+:do { add list=JP_ASN range=37904 } on-error={}
 :do { add list=JP_ASN range=23824 } on-error={}
 :do { add list=JP_ASN range=18129 } on-error={}
 :do { add list=JP_ASN range=18094 } on-error={}
@@ -120,7 +120,6 @@
 :do { add list=JP_ASN range=131934 } on-error={}
 :do { add list=JP_ASN range=9621 } on-error={}
 :do { add list=JP_ASN range=55391 } on-error={}
-:do { add list=JP_ASN range=37904 } on-error={}
 :do { add list=JP_ASN range=17707 } on-error={}
 :do { add list=JP_ASN range=17682 } on-error={}
 :do { add list=JP_ASN range=146976 } on-error={}
@@ -183,6 +182,7 @@
 :do { add list=JP_ASN range=23633 } on-error={}
 :do { add list=JP_ASN range=18526 } on-error={}
 :do { add list=JP_ASN range=18131 } on-error={}
+:do { add list=JP_ASN range=131970 } on-error={}
 :do { add list=JP_ASN range=131933 } on-error={}
 :do { add list=JP_ASN range=131927 } on-error={}
 :do { add list=JP_ASN range=131926 } on-error={}
@@ -201,12 +201,12 @@
 :do { add list=JP_ASN range=146979 } on-error={}
 :do { add list=JP_ASN range=138033 } on-error={}
 :do { add list=JP_ASN range=131986 } on-error={}
-:do { add list=JP_ASN range=131970 } on-error={}
 :do { add list=JP_ASN range=131955 } on-error={}
 :do { add list=JP_ASN range=131954 } on-error={}
 :do { add list=JP_ASN range=131929 } on-error={}
 :do { add list=JP_ASN range=131079 } on-error={}
 :do { add list=JP_ASN range=10011 } on-error={}
+:do { add list=JP_ASN range=7671 } on-error={}
 :do { add list=JP_ASN range=7667 } on-error={}
 :do { add list=JP_ASN range=63774 } on-error={}
 :do { add list=JP_ASN range=59127 } on-error={}
@@ -233,20 +233,19 @@
 :do { add list=JP_ASN range=7503 } on-error={}
 :do { add list=JP_ASN range=4725 } on-error={}
 :do { add list=JP_ASN range=37919 } on-error={}
+:do { add list=JP_ASN range=23815 } on-error={}
 :do { add list=JP_ASN range=23628 } on-error={}
 :do { add list=JP_ASN range=146969 } on-error={}
 :do { add list=JP_ASN range=131966 } on-error={}
 :do { add list=JP_ASN range=131896 } on-error={}
 :do { add list=JP_ASN range=131156 } on-error={}
 :do { add list=JP_ASN range=4785 } on-error={}
-:do { add list=JP_ASN range=23815 } on-error={}
 :do { add list=JP_ASN range=23620 } on-error={}
 :do { add list=JP_ASN range=17675 } on-error={}
 :do { add list=JP_ASN range=131965 } on-error={}
 :do { add list=JP_ASN range=131915 } on-error={}
 :do { add list=JP_ASN range=10003 } on-error={}
 :do { add list=JP_ASN range=9609 } on-error={}
-:do { add list=JP_ASN range=7671 } on-error={}
 :do { add list=JP_ASN range=24572 } on-error={}
 :do { add list=JP_ASN range=24282 } on-error={}
 :do { add list=JP_ASN range=23774 } on-error={}
@@ -281,6 +280,7 @@
 :do { add list=JP_ASN range=58648 } on-error={}
 :do { add list=JP_ASN range=38656 } on-error={}
 :do { add list=JP_ASN range=23614 } on-error={}
+:do { add list=JP_ASN range=131976 } on-error={}
 :do { add list=JP_ASN range=131969 } on-error={}
 :do { add list=JP_ASN range=9357 } on-error={}
 :do { add list=JP_ASN range=63805 } on-error={}
@@ -293,7 +293,6 @@
 :do { add list=JP_ASN range=151375 } on-error={}
 :do { add list=JP_ASN range=135161 } on-error={}
 :do { add list=JP_ASN range=134351 } on-error={}
-:do { add list=JP_ASN range=131976 } on-error={}
 :do { add list=JP_ASN range=131159 } on-error={}
 :do { add list=JP_ASN range=9619 } on-error={}
 :do { add list=JP_ASN range=7674 } on-error={}
@@ -305,12 +304,12 @@
 :do { add list=JP_ASN range=45679 } on-error={}
 :do { add list=JP_ASN range=37906 } on-error={}
 :do { add list=JP_ASN range=37900 } on-error={}
-:do { add list=JP_ASN range=37893 } on-error={}
 :do { add list=JP_ASN range=24477 } on-error={}
 :do { add list=JP_ASN range=24229 } on-error={}
 :do { add list=JP_ASN range=23640 } on-error={}
 :do { add list=JP_ASN range=23634 } on-error={}
 :do { add list=JP_ASN range=18259 } on-error={}
+:do { add list=JP_ASN range=18258 } on-error={}
 :do { add list=JP_ASN range=17944 } on-error={}
 :do { add list=JP_ASN range=152873 } on-error={}
 :do { add list=JP_ASN range=146986 } on-error={}
@@ -338,10 +337,10 @@
 :do { add list=JP_ASN range=38638 } on-error={}
 :do { add list=JP_ASN range=38636 } on-error={}
 :do { add list=JP_ASN range=38215 } on-error={}
+:do { add list=JP_ASN range=37893 } on-error={}
 :do { add list=JP_ASN range=37891 } on-error={}
 :do { add list=JP_ASN range=24287 } on-error={}
 :do { add list=JP_ASN range=23817 } on-error={}
-:do { add list=JP_ASN range=18258 } on-error={}
 :do { add list=JP_ASN range=18149 } on-error={}
 :do { add list=JP_ASN range=18125 } on-error={}
 :do { add list=JP_ASN range=17932 } on-error={}
@@ -361,6 +360,7 @@
 :do { add list=JP_ASN range=9991 } on-error={}
 :do { add list=JP_ASN range=9591 } on-error={}
 :do { add list=JP_ASN range=9466 } on-error={}
+:do { add list=JP_ASN range=9434 } on-error={}
 :do { add list=JP_ASN range=9367 } on-error={}
 :do { add list=JP_ASN range=9366 } on-error={}
 :do { add list=JP_ASN range=9353 } on-error={}
@@ -475,6 +475,7 @@
 :do { add list=JP_ASN range=17516 } on-error={}
 :do { add list=JP_ASN range=17506 } on-error={}
 :do { add list=JP_ASN range=17505 } on-error={}
+:do { add list=JP_ASN range=152871 } on-error={}
 :do { add list=JP_ASN range=152869 } on-error={}
 :do { add list=JP_ASN range=152868 } on-error={}
 :do { add list=JP_ASN range=152865 } on-error={}
@@ -682,7 +683,6 @@
 :do { add list=JP_ASN range=153929 } on-error={}
 :do { add list=JP_ASN range=152875 } on-error={}
 :do { add list=JP_ASN range=152874 } on-error={}
-:do { add list=JP_ASN range=152871 } on-error={}
 :do { add list=JP_ASN range=152870 } on-error={}
 :do { add list=JP_ASN range=152861 } on-error={}
 :do { add list=JP_ASN range=152184 } on-error={}
