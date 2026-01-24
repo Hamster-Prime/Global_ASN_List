@@ -1,5 +1,5 @@
 # ASN Information in FI.
-# Last Updated: UTC 2026-01-23 01:10:26
+# Last Updated: UTC 2026-01-24 01:07:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
@@ -83,7 +83,6 @@
 :do { add list=FI_ASN range=60156 } on-error={}
 :do { add list=FI_ASN range=59397 } on-error={}
 :do { add list=FI_ASN range=57732 } on-error={}
-:do { add list=FI_ASN range=57692 } on-error={}
 :do { add list=FI_ASN range=57664 } on-error={}
 :do { add list=FI_ASN range=57066 } on-error={}
 :do { add list=FI_ASN range=5420 } on-error={}
@@ -174,6 +173,7 @@
 :do { add list=FI_ASN range=60109 } on-error={}
 :do { add list=FI_ASN range=59650 } on-error={}
 :do { add list=FI_ASN range=58340 } on-error={}
+:do { add list=FI_ASN range=57692 } on-error={}
 :do { add list=FI_ASN range=57359 } on-error={}
 :do { add list=FI_ASN range=56900 } on-error={}
 :do { add list=FI_ASN range=565 } on-error={}
@@ -216,6 +216,7 @@
 :do { add list=FI_ASN range=25213 } on-error={}
 :do { add list=FI_ASN range=215776 } on-error={}
 :do { add list=FI_ASN range=215722 } on-error={}
+:do { add list=FI_ASN range=214494 } on-error={}
 :do { add list=FI_ASN range=213547 } on-error={}
 :do { add list=FI_ASN range=213524 } on-error={}
 :do { add list=FI_ASN range=21348 } on-error={}

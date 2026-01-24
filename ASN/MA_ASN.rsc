@@ -1,13 +1,13 @@
 # ASN Information in MA.
-# Last Updated: UTC 2026-01-23 01:13:06
+# Last Updated: UTC 2026-01-24 01:10:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MA ASN list"
 /routing filter num-list
 :do { add list=MA_ASN range=37738 } on-error={}
 :do { add list=MA_ASN range=36925 } on-error={}
-:do { add list=MA_ASN range=36884 } on-error={}
 :do { add list=MA_ASN range=6713 } on-error={}
+:do { add list=MA_ASN range=36884 } on-error={}
 :do { add list=MA_ASN range=328867 } on-error={}
 :do { add list=MA_ASN range=328066 } on-error={}
 :do { add list=MA_ASN range=36956 } on-error={}

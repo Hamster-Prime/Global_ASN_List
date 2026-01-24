@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2026-01-23 01:11:56
+# Last Updated: UTC 2026-01-24 01:08:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
@@ -19,9 +19,9 @@
 :do { add list=NZ_ASN range=4768 } on-error={}
 :do { add list=NZ_ASN range=138398 } on-error={}
 :do { add list=NZ_ASN range=132255 } on-error={}
-:do { add list=NZ_ASN range=17705 } on-error={}
 :do { add list=NZ_ASN range=56030 } on-error={}
 :do { add list=NZ_ASN range=45637 } on-error={}
+:do { add list=NZ_ASN range=17705 } on-error={}
 :do { add list=NZ_ASN range=45267 } on-error={}
 :do { add list=NZ_ASN range=17492 } on-error={}
 :do { add list=NZ_ASN range=151336 } on-error={}
@@ -92,11 +92,11 @@
 :do { add list=NZ_ASN range=135889 } on-error={}
 :do { add list=NZ_ASN range=134967 } on-error={}
 :do { add list=NZ_ASN range=134673 } on-error={}
+:do { add list=NZ_ASN range=134359 } on-error={}
 :do { add list=NZ_ASN range=132347 } on-error={}
 :do { add list=NZ_ASN range=131296 } on-error={}
 :do { add list=NZ_ASN range=38881 } on-error={}
 :do { add list=NZ_ASN range=136990 } on-error={}
-:do { add list=NZ_ASN range=134359 } on-error={}
 :do { add list=NZ_ASN range=132588 } on-error={}
 :do { add list=NZ_ASN range=132449 } on-error={}
 :do { add list=NZ_ASN range=55729 } on-error={}
@@ -203,7 +203,6 @@
 :do { add list=NZ_ASN range=133096 } on-error={}
 :do { add list=NZ_ASN range=133090 } on-error={}
 :do { add list=NZ_ASN range=132887 } on-error={}
-:do { add list=NZ_ASN range=132822 } on-error={}
 :do { add list=NZ_ASN range=132727 } on-error={}
 :do { add list=NZ_ASN range=132583 } on-error={}
 :do { add list=NZ_ASN range=132450 } on-error={}
@@ -402,6 +401,7 @@
 :do { add list=NZ_ASN range=133124 } on-error={}
 :do { add list=NZ_ASN range=133108 } on-error={}
 :do { add list=NZ_ASN range=132875 } on-error={}
+:do { add list=NZ_ASN range=132822 } on-error={}
 :do { add list=NZ_ASN range=132815 } on-error={}
 :do { add list=NZ_ASN range=132745 } on-error={}
 :do { add list=NZ_ASN range=132744 } on-error={}

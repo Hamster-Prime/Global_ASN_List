@@ -1,5 +1,5 @@
 # ASN Information in VE.
-# Last Updated: UTC 2026-01-23 01:12:21
+# Last Updated: UTC 2026-01-24 01:09:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
@@ -53,6 +53,7 @@
 :do { add list=VE_ASN range=272118 } on-error={}
 :do { add list=VE_ASN range=271855 } on-error={}
 :do { add list=VE_ASN range=271813 } on-error={}
+:do { add list=VE_ASN range=270073 } on-error={}
 :do { add list=VE_ASN range=270026 } on-error={}
 :do { add list=VE_ASN range=269918 } on-error={}
 :do { add list=VE_ASN range=269879 } on-error={}
@@ -64,7 +65,6 @@
 :do { add list=VE_ASN range=27893 } on-error={}
 :do { add list=VE_ASN range=27648 } on-error={}
 :do { add list=VE_ASN range=274202 } on-error={}
-:do { add list=VE_ASN range=274180 } on-error={}
 :do { add list=VE_ASN range=274160 } on-error={}
 :do { add list=VE_ASN range=274117 } on-error={}
 :do { add list=VE_ASN range=273904 } on-error={}
@@ -90,7 +90,6 @@
 :do { add list=VE_ASN range=271899 } on-error={}
 :do { add list=VE_ASN range=271816 } on-error={}
 :do { add list=VE_ASN range=271791 } on-error={}
-:do { add list=VE_ASN range=270073 } on-error={}
 :do { add list=VE_ASN range=269788 } on-error={}
 :do { add list=VE_ASN range=269771 } on-error={}
 :do { add list=VE_ASN range=269750 } on-error={}
@@ -116,6 +115,7 @@
 :do { add list=VE_ASN range=27686 } on-error={}
 :do { add list=VE_ASN range=274255 } on-error={}
 :do { add list=VE_ASN range=274206 } on-error={}
+:do { add list=VE_ASN range=274180 } on-error={}
 :do { add list=VE_ASN range=274118 } on-error={}
 :do { add list=VE_ASN range=274092 } on-error={}
 :do { add list=VE_ASN range=274065 } on-error={}
@@ -158,6 +158,7 @@
 :do { add list=VE_ASN range=271920 } on-error={}
 :do { add list=VE_ASN range=271917 } on-error={}
 :do { add list=VE_ASN range=271884 } on-error={}
+:do { add list=VE_ASN range=271875 } on-error={}
 :do { add list=VE_ASN range=271812 } on-error={}
 :do { add list=VE_ASN range=271793 } on-error={}
 :do { add list=VE_ASN range=269984 } on-error={}
