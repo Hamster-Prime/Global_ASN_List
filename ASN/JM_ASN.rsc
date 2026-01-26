@@ -1,5 +1,5 @@
 # ASN Information in JM.
-# Last Updated: UTC 2026-01-25 01:19:06
+# Last Updated: UTC 2026-01-26 01:18:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JM ASN list"

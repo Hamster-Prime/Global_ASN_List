@@ -1,5 +1,5 @@
 # ASN Information in PS.
-# Last Updated: UTC 2026-01-25 01:17:40
+# Last Updated: UTC 2026-01-26 01:16:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PS ASN list"
@@ -16,7 +16,6 @@
 :do { add list=PS_ASN range=197350 } on-error={}
 :do { add list=PS_ASN range=57704 } on-error={}
 :do { add list=PS_ASN range=52145 } on-error={}
-:do { add list=PS_ASN range=49248 } on-error={}
 :do { add list=PS_ASN range=48270 } on-error={}
 :do { add list=PS_ASN range=47546 } on-error={}
 :do { add list=PS_ASN range=44213 } on-error={}
@@ -34,6 +33,7 @@
 :do { add list=PS_ASN range=59394 } on-error={}
 :do { add list=PS_ASN range=51737 } on-error={}
 :do { add list=PS_ASN range=50330 } on-error={}
+:do { add list=PS_ASN range=49248 } on-error={}
 :do { add list=PS_ASN range=42506 } on-error={}
 :do { add list=PS_ASN range=42314 } on-error={}
 :do { add list=PS_ASN range=29310 } on-error={}
