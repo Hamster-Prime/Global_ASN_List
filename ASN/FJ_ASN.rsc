@@ -1,5 +1,5 @@
 # ASN Information in FJ.
-# Last Updated: UTC 2026-01-27 01:16:10
+# Last Updated: UTC 2026-01-28 01:12:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FJ ASN list"
@@ -9,8 +9,8 @@
 :do { add list=FJ_ASN range=4638 } on-error={}
 :do { add list=FJ_ASN range=45355 } on-error={}
 :do { add list=FJ_ASN range=9241 } on-error={}
-:do { add list=FJ_ASN range=141470 } on-error={}
 :do { add list=FJ_ASN range=135647 } on-error={}
+:do { add list=FJ_ASN range=141470 } on-error={}
 :do { add list=FJ_ASN range=24390 } on-error={}
 :do { add list=FJ_ASN range=149429 } on-error={}
 :do { add list=FJ_ASN range=137890 } on-error={}

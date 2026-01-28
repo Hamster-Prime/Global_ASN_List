@@ -1,5 +1,5 @@
 # ASN Information in SG.
-# Last Updated: UTC 2026-01-27 01:13:45
+# Last Updated: UTC 2026-01-28 01:09:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SG ASN list"
@@ -40,13 +40,13 @@
 :do { add list=SG_ASN range=134363 } on-error={}
 :do { add list=SG_ASN range=23856 } on-error={}
 :do { add list=SG_ASN range=137991 } on-error={}
-:do { add list=SG_ASN range=4628 } on-error={}
 :do { add list=SG_ASN range=139225 } on-error={}
 :do { add list=SG_ASN range=963 } on-error={}
-:do { add list=SG_ASN range=140719 } on-error={}
 :do { add list=SG_ASN range=140577 } on-error={}
-:do { add list=SG_ASN range=7387 } on-error={}
+:do { add list=SG_ASN range=4628 } on-error={}
+:do { add list=SG_ASN range=140719 } on-error={}
 :do { add list=SG_ASN range=132829 } on-error={}
+:do { add list=SG_ASN range=7387 } on-error={}
 :do { add list=SG_ASN range=138552 } on-error={}
 :do { add list=SG_ASN range=134148 } on-error={}
 :do { add list=SG_ASN range=134078 } on-error={}
@@ -84,13 +84,13 @@
 :do { add list=SG_ASN range=139070 } on-error={}
 :do { add list=SG_ASN range=136041 } on-error={}
 :do { add list=SG_ASN range=202736 } on-error={}
+:do { add list=SG_ASN range=150288 } on-error={}
 :do { add list=SG_ASN range=4765 } on-error={}
 :do { add list=SG_ASN range=24319 } on-error={}
-:do { add list=SG_ASN range=150288 } on-error={}
 :do { add list=SG_ASN range=154324 } on-error={}
+:do { add list=SG_ASN range=134190 } on-error={}
 :do { add list=SG_ASN range=149020 } on-error={}
 :do { add list=SG_ASN range=141190 } on-error={}
-:do { add list=SG_ASN range=134190 } on-error={}
 :do { add list=SG_ASN range=45166 } on-error={}
 :do { add list=SG_ASN range=213122 } on-error={}
 :do { add list=SG_ASN range=136785 } on-error={}

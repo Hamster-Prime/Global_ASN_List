@@ -1,11 +1,11 @@
 # ASN Information in AL.
-# Last Updated: UTC 2026-01-27 01:15:14
+# Last Updated: UTC 2026-01-28 01:11:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AL ASN list"
 /routing filter num-list
-:do { add list=AL_ASN range=210464 } on-error={}
 :do { add list=AL_ASN range=198890 } on-error={}
+:do { add list=AL_ASN range=210464 } on-error={}
 :do { add list=AL_ASN range=42313 } on-error={}
 :do { add list=AL_ASN range=29170 } on-error={}
 :do { add list=AL_ASN range=35047 } on-error={}
@@ -19,8 +19,8 @@
 :do { add list=AL_ASN range=21246 } on-error={}
 :do { add list=AL_ASN range=197706 } on-error={}
 :do { add list=AL_ASN range=21183 } on-error={}
-:do { add list=AL_ASN range=207876 } on-error={}
 :do { add list=AL_ASN range=56468 } on-error={}
+:do { add list=AL_ASN range=207876 } on-error={}
 :do { add list=AL_ASN range=205923 } on-error={}
 :do { add list=AL_ASN range=60471 } on-error={}
 :do { add list=AL_ASN range=47588 } on-error={}
@@ -52,6 +52,7 @@
 :do { add list=AL_ASN range=216312 } on-error={}
 :do { add list=AL_ASN range=216280 } on-error={}
 :do { add list=AL_ASN range=215946 } on-error={}
+:do { add list=AL_ASN range=215910 } on-error={}
 :do { add list=AL_ASN range=215883 } on-error={}
 :do { add list=AL_ASN range=215773 } on-error={}
 :do { add list=AL_ASN range=214345 } on-error={}
@@ -64,8 +65,8 @@
 :do { add list=AL_ASN range=208734 } on-error={}
 :do { add list=AL_ASN range=208286 } on-error={}
 :do { add list=AL_ASN range=206358 } on-error={}
+:do { add list=AL_ASN range=205832 } on-error={}
 :do { add list=AL_ASN range=205244 } on-error={}
-:do { add list=AL_ASN range=205110 } on-error={}
 :do { add list=AL_ASN range=204894 } on-error={}
 :do { add list=AL_ASN range=204100 } on-error={}
 :do { add list=AL_ASN range=202080 } on-error={}
@@ -80,7 +81,6 @@
 :do { add list=AL_ASN range=216325 } on-error={}
 :do { add list=AL_ASN range=216122 } on-error={}
 :do { add list=AL_ASN range=216046 } on-error={}
-:do { add list=AL_ASN range=215910 } on-error={}
 :do { add list=AL_ASN range=215885 } on-error={}
 :do { add list=AL_ASN range=215707 } on-error={}
 :do { add list=AL_ASN range=215025 } on-error={}
@@ -110,8 +110,8 @@
 :do { add list=AL_ASN range=207368 } on-error={}
 :do { add list=AL_ASN range=207330 } on-error={}
 :do { add list=AL_ASN range=206088 } on-error={}
-:do { add list=AL_ASN range=205832 } on-error={}
 :do { add list=AL_ASN range=205278 } on-error={}
+:do { add list=AL_ASN range=205110 } on-error={}
 :do { add list=AL_ASN range=205025 } on-error={}
 :do { add list=AL_ASN range=204816 } on-error={}
 :do { add list=AL_ASN range=204285 } on-error={}
