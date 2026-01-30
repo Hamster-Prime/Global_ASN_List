@@ -1,13 +1,13 @@
 # ASN Information in LY.
-# Last Updated: UTC 2026-01-29 01:23:22
+# Last Updated: UTC 2026-01-30 01:21:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LY ASN list"
 /routing filter num-list
 :do { add list=LY_ASN range=37558 } on-error={}
 :do { add list=LY_ASN range=37284 } on-error={}
-:do { add list=LY_ASN range=328611 } on-error={}
 :do { add list=LY_ASN range=328539 } on-error={}
+:do { add list=LY_ASN range=328611 } on-error={}
 :do { add list=LY_ASN range=21003 } on-error={}
 :do { add list=LY_ASN range=327921 } on-error={}
 :do { add list=LY_ASN range=37566 } on-error={}

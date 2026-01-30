@@ -1,11 +1,11 @@
 # ASN Information in SA.
-# Last Updated: UTC 2026-01-29 01:21:21
+# Last Updated: UTC 2026-01-30 01:20:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SA ASN list"
 /routing filter num-list
-:do { add list=SA_ASN range=48237 } on-error={}
 :do { add list=SA_ASN range=39386 } on-error={}
+:do { add list=SA_ASN range=48237 } on-error={}
 :do { add list=SA_ASN range=35753 } on-error={}
 :do { add list=SA_ASN range=214329 } on-error={}
 :do { add list=SA_ASN range=47794 } on-error={}
@@ -87,7 +87,6 @@
 :do { add list=SA_ASN range=21002 } on-error={}
 :do { add list=SA_ASN range=205251 } on-error={}
 :do { add list=SA_ASN range=204011 } on-error={}
-:do { add list=SA_ASN range=203116 } on-error={}
 :do { add list=SA_ASN range=202392 } on-error={}
 :do { add list=SA_ASN range=201771 } on-error={}
 :do { add list=SA_ASN range=201484 } on-error={}
@@ -156,6 +155,7 @@
 :do { add list=SA_ASN range=206878 } on-error={}
 :do { add list=SA_ASN range=206694 } on-error={}
 :do { add list=SA_ASN range=205695 } on-error={}
+:do { add list=SA_ASN range=203116 } on-error={}
 :do { add list=SA_ASN range=202982 } on-error={}
 :do { add list=SA_ASN range=201769 } on-error={}
 :do { add list=SA_ASN range=200366 } on-error={}
