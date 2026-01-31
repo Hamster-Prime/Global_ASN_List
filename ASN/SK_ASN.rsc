@@ -1,5 +1,5 @@
 # ASN Information in SK.
-# Last Updated: UTC 2026-01-30 01:19:40
+# Last Updated: UTC 2026-01-31 01:17:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SK ASN list"
@@ -15,8 +15,8 @@
 :do { add list=SK_ASN range=28952 } on-error={}
 :do { add list=SK_ASN range=15962 } on-error={}
 :do { add list=SK_ASN range=34820 } on-error={}
-:do { add list=SK_ASN range=42005 } on-error={}
 :do { add list=SK_ASN range=15497 } on-error={}
+:do { add list=SK_ASN range=42005 } on-error={}
 :do { add list=SK_ASN range=12905 } on-error={}
 :do { add list=SK_ASN range=31127 } on-error={}
 :do { add list=SK_ASN range=49115 } on-error={}
@@ -55,6 +55,7 @@
 :do { add list=SK_ASN range=202819 } on-error={}
 :do { add list=SK_ASN range=61424 } on-error={}
 :do { add list=SK_ASN range=51653 } on-error={}
+:do { add list=SK_ASN range=51558 } on-error={}
 :do { add list=SK_ASN range=206194 } on-error={}
 :do { add list=SK_ASN range=1922 } on-error={}
 :do { add list=SK_ASN range=50881 } on-error={}
@@ -68,13 +69,13 @@
 :do { add list=SK_ASN range=8288 } on-error={}
 :do { add list=SK_ASN range=6658 } on-error={}
 :do { add list=SK_ASN range=60296 } on-error={}
+:do { add list=SK_ASN range=58014 } on-error={}
 :do { add list=SK_ASN range=57801 } on-error={}
 :do { add list=SK_ASN range=57716 } on-error={}
 :do { add list=SK_ASN range=57710 } on-error={}
 :do { add list=SK_ASN range=57547 } on-error={}
 :do { add list=SK_ASN range=57248 } on-error={}
 :do { add list=SK_ASN range=56955 } on-error={}
-:do { add list=SK_ASN range=51558 } on-error={}
 :do { add list=SK_ASN range=50242 } on-error={}
 :do { add list=SK_ASN range=48473 } on-error={}
 :do { add list=SK_ASN range=48304 } on-error={}
@@ -118,7 +119,6 @@
 :do { add list=SK_ASN range=58275 } on-error={}
 :do { add list=SK_ASN range=58130 } on-error={}
 :do { add list=SK_ASN range=58044 } on-error={}
-:do { add list=SK_ASN range=58014 } on-error={}
 :do { add list=SK_ASN range=57788 } on-error={}
 :do { add list=SK_ASN range=57606 } on-error={}
 :do { add list=SK_ASN range=57566 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in EG.
-# Last Updated: UTC 2026-01-30 01:21:34
+# Last Updated: UTC 2026-01-31 01:19:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EG ASN list"
@@ -7,8 +7,8 @@
 :do { add list=EG_ASN range=8452 } on-error={}
 :do { add list=EG_ASN range=24835 } on-error={}
 :do { add list=EG_ASN range=24863 } on-error={}
-:do { add list=EG_ASN range=36992 } on-error={}
 :do { add list=EG_ASN range=20928 } on-error={}
+:do { add list=EG_ASN range=36992 } on-error={}
 :do { add list=EG_ASN range=6879 } on-error={}
 :do { add list=EG_ASN range=31065 } on-error={}
 :do { add list=EG_ASN range=25576 } on-error={}
@@ -20,6 +20,7 @@
 :do { add list=EG_ASN range=25364 } on-error={}
 :do { add list=EG_ASN range=37664 } on-error={}
 :do { add list=EG_ASN range=37583 } on-error={}
+:do { add list=EG_ASN range=37339 } on-error={}
 :do { add list=EG_ASN range=37252 } on-error={}
 :do { add list=EG_ASN range=37193 } on-error={}
 :do { add list=EG_ASN range=37191 } on-error={}
@@ -49,7 +50,6 @@
 :do { add list=EG_ASN range=37444 } on-error={}
 :do { add list=EG_ASN range=37437 } on-error={}
 :do { add list=EG_ASN range=37348 } on-error={}
-:do { add list=EG_ASN range=37339 } on-error={}
 :do { add list=EG_ASN range=37279 } on-error={}
 :do { add list=EG_ASN range=37091 } on-error={}
 :do { add list=EG_ASN range=37069 } on-error={}
