@@ -1,13 +1,13 @@
 # ASN Information in DZ.
-# Last Updated: UTC 2026-01-31 01:19:50
+# Last Updated: UTC 2026-02-01 01:44:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DZ ASN list"
 /routing filter num-list
 :do { add list=DZ_ASN range=36947 } on-error={}
 :do { add list=DZ_ASN range=36891 } on-error={}
-:do { add list=DZ_ASN range=33779 } on-error={}
 :do { add list=DZ_ASN range=3208 } on-error={}
+:do { add list=DZ_ASN range=33779 } on-error={}
 :do { add list=DZ_ASN range=329667 } on-error={}
 :do { add list=DZ_ASN range=329494 } on-error={}
 :do { add list=DZ_ASN range=327931 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in LB.
-# Last Updated: UTC 2026-01-31 01:18:12
+# Last Updated: UTC 2026-02-01 01:43:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LB ASN list"
@@ -21,6 +21,7 @@
 :do { add list=LB_ASN range=206406 } on-error={}
 :do { add list=LB_ASN range=205423 } on-error={}
 :do { add list=LB_ASN range=12812 } on-error={}
+:do { add list=LB_ASN range=64443 } on-error={}
 :do { add list=LB_ASN range=60524 } on-error={}
 :do { add list=LB_ASN range=51938 } on-error={}
 :do { add list=LB_ASN range=49020 } on-error={}
@@ -42,7 +43,6 @@
 :do { add list=LB_ASN range=198867 } on-error={}
 :do { add list=LB_ASN range=15739 } on-error={}
 :do { add list=LB_ASN range=8699 } on-error={}
-:do { add list=LB_ASN range=64443 } on-error={}
 :do { add list=LB_ASN range=62144 } on-error={}
 :do { add list=LB_ASN range=61172 } on-error={}
 :do { add list=LB_ASN range=61113 } on-error={}
