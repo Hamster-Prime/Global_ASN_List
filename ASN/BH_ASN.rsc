@@ -1,12 +1,12 @@
 # ASN Information in BH.
-# Last Updated: UTC 2026-02-02 01:25:20
+# Last Updated: UTC 2026-02-03 01:25:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BH ASN list"
 /routing filter num-list
 :do { add list=BH_ASN range=35313 } on-error={}
-:do { add list=BH_ASN range=51375 } on-error={}
 :do { add list=BH_ASN range=5416 } on-error={}
+:do { add list=BH_ASN range=51375 } on-error={}
 :do { add list=BH_ASN range=35729 } on-error={}
 :do { add list=BH_ASN range=39273 } on-error={}
 :do { add list=BH_ASN range=31452 } on-error={}
