@@ -1,5 +1,5 @@
 # ASN Information in BE.
-# Last Updated: UTC 2026-02-04 01:20:10
+# Last Updated: UTC 2026-02-05 01:19:33
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BE ASN list"
@@ -28,10 +28,11 @@
 :do { add list=BE_ASN range=199095 } on-error={}
 :do { add list=BE_ASN range=211037 } on-error={}
 :do { add list=BE_ASN range=45049 } on-error={}
-:do { add list=BE_ASN range=5463 } on-error={}
 :do { add list=BE_ASN range=31713 } on-error={}
+:do { add list=BE_ASN range=5463 } on-error={}
 :do { add list=BE_ASN range=210349 } on-error={}
 :do { add list=BE_ASN range=6848 } on-error={}
+:do { add list=BE_ASN range=48408 } on-error={}
 :do { add list=BE_ASN range=5488 } on-error={}
 :do { add list=BE_ASN range=205080 } on-error={}
 :do { add list=BE_ASN range=210821 } on-error={}
@@ -39,9 +40,8 @@
 :do { add list=BE_ASN range=47377 } on-error={}
 :do { add list=BE_ASN range=208210 } on-error={}
 :do { add list=BE_ASN range=12392 } on-error={}
-:do { add list=BE_ASN range=198148 } on-error={}
 :do { add list=BE_ASN range=9208 } on-error={}
-:do { add list=BE_ASN range=48408 } on-error={}
+:do { add list=BE_ASN range=198148 } on-error={}
 :do { add list=BE_ASN range=201205 } on-error={}
 :do { add list=BE_ASN range=5432 } on-error={}
 :do { add list=BE_ASN range=49703 } on-error={}
@@ -85,6 +85,7 @@
 :do { add list=BE_ASN range=213130 } on-error={}
 :do { add list=BE_ASN range=210017 } on-error={}
 :do { add list=BE_ASN range=208416 } on-error={}
+:do { add list=BE_ASN range=206537 } on-error={}
 :do { add list=BE_ASN range=206051 } on-error={}
 :do { add list=BE_ASN range=205583 } on-error={}
 :do { add list=BE_ASN range=205476 } on-error={}
@@ -153,7 +154,6 @@
 :do { add list=BE_ASN range=206960 } on-error={}
 :do { add list=BE_ASN range=206883 } on-error={}
 :do { add list=BE_ASN range=206677 } on-error={}
-:do { add list=BE_ASN range=206537 } on-error={}
 :do { add list=BE_ASN range=206255 } on-error={}
 :do { add list=BE_ASN range=206254 } on-error={}
 :do { add list=BE_ASN range=206235 } on-error={}

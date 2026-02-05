@@ -1,5 +1,5 @@
 # ASN Information in KZ.
-# Last Updated: UTC 2026-02-04 01:21:53
+# Last Updated: UTC 2026-02-05 01:21:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KZ ASN list"
@@ -22,9 +22,9 @@
 :do { add list=KZ_ASN range=197686 } on-error={}
 :do { add list=KZ_ASN range=60757 } on-error={}
 :do { add list=KZ_ASN range=59583 } on-error={}
+:do { add list=KZ_ASN range=50107 } on-error={}
 :do { add list=KZ_ASN range=198803 } on-error={}
 :do { add list=KZ_ASN range=8393 } on-error={}
-:do { add list=KZ_ASN range=50107 } on-error={}
 :do { add list=KZ_ASN range=41007 } on-error={}
 :do { add list=KZ_ASN range=207446 } on-error={}
 :do { add list=KZ_ASN range=206768 } on-error={}
@@ -83,7 +83,6 @@
 :do { add list=KZ_ASN range=58033 } on-error={}
 :do { add list=KZ_ASN range=57466 } on-error={}
 :do { add list=KZ_ASN range=56568 } on-error={}
-:do { add list=KZ_ASN range=51979 } on-error={}
 :do { add list=KZ_ASN range=51340 } on-error={}
 :do { add list=KZ_ASN range=50386 } on-error={}
 :do { add list=KZ_ASN range=49089 } on-error={}
@@ -105,7 +104,6 @@
 :do { add list=KZ_ASN range=213217 } on-error={}
 :do { add list=KZ_ASN range=213146 } on-error={}
 :do { add list=KZ_ASN range=213048 } on-error={}
-:do { add list=KZ_ASN range=212940 } on-error={}
 :do { add list=KZ_ASN range=212735 } on-error={}
 :do { add list=KZ_ASN range=212314 } on-error={}
 :do { add list=KZ_ASN range=212189 } on-error={}
@@ -144,6 +142,7 @@
 :do { add list=KZ_ASN range=57826 } on-error={}
 :do { add list=KZ_ASN range=57784 } on-error={}
 :do { add list=KZ_ASN range=51997 } on-error={}
+:do { add list=KZ_ASN range=51979 } on-error={}
 :do { add list=KZ_ASN range=51192 } on-error={}
 :do { add list=KZ_ASN range=50756 } on-error={}
 :do { add list=KZ_ASN range=49393 } on-error={}
@@ -175,6 +174,7 @@
 :do { add list=KZ_ASN range=213662 } on-error={}
 :do { add list=KZ_ASN range=213127 } on-error={}
 :do { add list=KZ_ASN range=213114 } on-error={}
+:do { add list=KZ_ASN range=212940 } on-error={}
 :do { add list=KZ_ASN range=212835 } on-error={}
 :do { add list=KZ_ASN range=212013 } on-error={}
 :do { add list=KZ_ASN range=211971 } on-error={}
