@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-02-05 01:21:27
+# Last Updated: UTC 2026-02-06 01:21:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
@@ -27,6 +27,7 @@
 :do { add list=GE_ASN range=48393 } on-error={}
 :do { add list=GE_ASN range=47810 } on-error={}
 :do { add list=GE_ASN range=47644 } on-error={}
+:do { add list=GE_ASN range=42223 } on-error={}
 :do { add list=GE_ASN range=34666 } on-error={}
 :do { add list=GE_ASN range=213520 } on-error={}
 :do { add list=GE_ASN range=212803 } on-error={}
@@ -46,16 +47,12 @@
 :do { add list=GE_ASN range=58227 } on-error={}
 :do { add list=GE_ASN range=58185 } on-error={}
 :do { add list=GE_ASN range=57743 } on-error={}
-:do { add list=GE_ASN range=57473 } on-error={}
-:do { add list=GE_ASN range=57445 } on-error={}
 :do { add list=GE_ASN range=51841 } on-error={}
 :do { add list=GE_ASN range=51010 } on-error={}
 :do { add list=GE_ASN range=50151 } on-error={}
-:do { add list=GE_ASN range=49016 } on-error={}
 :do { add list=GE_ASN range=48415 } on-error={}
 :do { add list=GE_ASN range=44621 } on-error={}
 :do { add list=GE_ASN range=42938 } on-error={}
-:do { add list=GE_ASN range=42223 } on-error={}
 :do { add list=GE_ASN range=42140 } on-error={}
 :do { add list=GE_ASN range=39452 } on-error={}
 :do { add list=GE_ASN range=35076 } on-error={}
@@ -98,11 +95,14 @@
 :do { add list=GE_ASN range=60392 } on-error={}
 :do { add list=GE_ASN range=59503 } on-error={}
 :do { add list=GE_ASN range=57768 } on-error={}
+:do { add list=GE_ASN range=57473 } on-error={}
+:do { add list=GE_ASN range=57445 } on-error={}
 :do { add list=GE_ASN range=56966 } on-error={}
 :do { add list=GE_ASN range=56811 } on-error={}
 :do { add list=GE_ASN range=50647 } on-error={}
 :do { add list=GE_ASN range=50514 } on-error={}
 :do { add list=GE_ASN range=49129 } on-error={}
+:do { add list=GE_ASN range=49016 } on-error={}
 :do { add list=GE_ASN range=47575 } on-error={}
 :do { add list=GE_ASN range=47270 } on-error={}
 :do { add list=GE_ASN range=42082 } on-error={}
