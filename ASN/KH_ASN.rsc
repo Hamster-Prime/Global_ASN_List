@@ -1,11 +1,11 @@
 # ASN Information in KH.
-# Last Updated: UTC 2026-02-06 01:19:11
+# Last Updated: UTC 2026-02-07 01:17:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"
 /routing filter num-list
-:do { add list=KH_ASN range=55329 } on-error={}
 :do { add list=KH_ASN range=59318 } on-error={}
+:do { add list=KH_ASN range=55329 } on-error={}
 :do { add list=KH_ASN range=9902 } on-error={}
 :do { add list=KH_ASN range=139628 } on-error={}
 :do { add list=KH_ASN range=24492 } on-error={}
