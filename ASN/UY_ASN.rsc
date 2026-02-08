@@ -1,5 +1,5 @@
 # ASN Information in UY.
-# Last Updated: UTC 2026-02-07 01:21:04
+# Last Updated: UTC 2026-02-08 01:58:02
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UY ASN list"
@@ -12,15 +12,15 @@
 :do { add list=UY_ASN range=20255 } on-error={}
 :do { add list=UY_ASN range=28000 } on-error={}
 :do { add list=UY_ASN range=19422 } on-error={}
-:do { add list=UY_ASN range=20002 } on-error={}
-:do { add list=UY_ASN range=14234 } on-error={}
 :do { add list=UY_ASN range=52366 } on-error={}
-:do { add list=UY_ASN range=27913 } on-error={}
 :do { add list=UY_ASN range=274302 } on-error={}
+:do { add list=UY_ASN range=20002 } on-error={}
 :do { add list=UY_ASN range=1797 } on-error={}
+:do { add list=UY_ASN range=14234 } on-error={}
 :do { add list=UY_ASN range=61447 } on-error={}
 :do { add list=UY_ASN range=61442 } on-error={}
 :do { add list=UY_ASN range=52241 } on-error={}
+:do { add list=UY_ASN range=27913 } on-error={}
 :do { add list=UY_ASN range=274238 } on-error={}
 :do { add list=UY_ASN range=274012 } on-error={}
 :do { add list=UY_ASN range=273012 } on-error={}
