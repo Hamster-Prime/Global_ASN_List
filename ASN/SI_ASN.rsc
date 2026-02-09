@@ -1,14 +1,14 @@
 # ASN Information in SI.
-# Last Updated: UTC 2026-02-08 01:56:25
+# Last Updated: UTC 2026-02-09 01:26:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SI ASN list"
 /routing filter num-list
 :do { add list=SI_ASN range=3212 } on-error={}
-:do { add list=SI_ASN range=62255 } on-error={}
 :do { add list=SI_ASN range=5603 } on-error={}
 :do { add list=SI_ASN range=9119 } on-error={}
 :do { add list=SI_ASN range=34779 } on-error={}
+:do { add list=SI_ASN range=62255 } on-error={}
 :do { add list=SI_ASN range=43061 } on-error={}
 :do { add list=SI_ASN range=25467 } on-error={}
 :do { add list=SI_ASN range=21283 } on-error={}

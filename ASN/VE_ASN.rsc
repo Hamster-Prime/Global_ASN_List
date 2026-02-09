@@ -1,13 +1,13 @@
 # ASN Information in VE.
-# Last Updated: UTC 2026-02-08 01:57:54
+# Last Updated: UTC 2026-02-09 01:27:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
 /routing filter num-list
 :do { add list=VE_ASN range=61461 } on-error={}
 :do { add list=VE_ASN range=263703 } on-error={}
-:do { add list=VE_ASN range=266809 } on-error={}
 :do { add list=VE_ASN range=272102 } on-error={}
+:do { add list=VE_ASN range=266809 } on-error={}
 :do { add list=VE_ASN range=267809 } on-error={}
 :do { add list=VE_ASN range=21826 } on-error={}
 :do { add list=VE_ASN range=8048 } on-error={}
