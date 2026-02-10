@@ -1,5 +1,5 @@
 # ASN Information in LU.
-# Last Updated: UTC 2026-02-09 01:25:54
+# Last Updated: UTC 2026-02-10 01:48:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LU ASN list"

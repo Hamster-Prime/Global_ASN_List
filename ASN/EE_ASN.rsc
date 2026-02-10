@@ -1,5 +1,5 @@
 # ASN Information in EE.
-# Last Updated: UTC 2026-02-09 01:26:36
+# Last Updated: UTC 2026-02-10 01:49:47
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EE ASN list"
