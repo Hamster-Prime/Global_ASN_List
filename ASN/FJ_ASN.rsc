@@ -1,5 +1,5 @@
 # ASN Information in FJ.
-# Last Updated: UTC 2026-02-10 01:50:48
+# Last Updated: UTC 2026-02-11 01:46:56
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FJ ASN list"
