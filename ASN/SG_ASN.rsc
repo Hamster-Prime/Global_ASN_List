@@ -1,5 +1,5 @@
 # ASN Information in SG.
-# Last Updated: UTC 2026-02-18 01:28:06
+# Last Updated: UTC 2026-02-19 01:24:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SG ASN list"

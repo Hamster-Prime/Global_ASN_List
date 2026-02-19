@@ -1,5 +1,5 @@
 # ASN Information in KH.
-# Last Updated: UTC 2026-02-18 01:26:49
+# Last Updated: UTC 2026-02-19 01:24:27
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"

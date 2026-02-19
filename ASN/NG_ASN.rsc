@@ -1,5 +1,5 @@
 # ASN Information in NG.
-# Last Updated: UTC 2026-02-18 01:41:37
+# Last Updated: UTC 2026-02-19 01:27:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NG ASN list"

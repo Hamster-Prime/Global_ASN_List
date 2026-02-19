@@ -1,5 +1,5 @@
 # ASN Information in AE.
-# Last Updated: UTC 2026-02-18 01:36:06
+# Last Updated: UTC 2026-02-19 01:25:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AE ASN list"
