@@ -1,5 +1,5 @@
 # ASN Information in MK.
-# Last Updated: UTC 2026-02-19 01:25:40
+# Last Updated: UTC 2026-02-20 01:21:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MK ASN list"
