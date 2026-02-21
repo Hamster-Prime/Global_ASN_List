@@ -1,11 +1,11 @@
 # ASN Information in FI.
-# Last Updated: UTC 2026-02-20 01:21:02
+# Last Updated: UTC 2026-02-21 01:19:18
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
 /routing filter num-list
-:do { add list=FI_ASN range=214809 } on-error={}
 :do { add list=FI_ASN range=41666 } on-error={}
+:do { add list=FI_ASN range=214809 } on-error={}
 :do { add list=FI_ASN range=6667 } on-error={}
 :do { add list=FI_ASN range=1248 } on-error={}
 :do { add list=FI_ASN range=202053 } on-error={}
@@ -73,7 +73,6 @@
 :do { add list=FI_ASN range=198024 } on-error={}
 :do { add list=FI_ASN range=198020 } on-error={}
 :do { add list=FI_ASN range=1738 } on-error={}
-:do { add list=FI_ASN range=1342 } on-error={}
 :do { add list=FI_ASN range=12630 } on-error={}
 :do { add list=FI_ASN range=8983 } on-error={}
 :do { add list=FI_ASN range=6793 } on-error={}
@@ -165,6 +164,7 @@
 :do { add list=FI_ASN range=198936 } on-error={}
 :do { add list=FI_ASN range=198514 } on-error={}
 :do { add list=FI_ASN range=197115 } on-error={}
+:do { add list=FI_ASN range=1342 } on-error={}
 :do { add list=FI_ASN range=1234 } on-error={}
 :do { add list=FI_ASN range=764 } on-error={}
 :do { add list=FI_ASN range=6852 } on-error={}
@@ -303,7 +303,6 @@
 :do { add list=FI_ASN range=215629 } on-error={}
 :do { add list=FI_ASN range=214288 } on-error={}
 :do { add list=FI_ASN range=214044 } on-error={}
-:do { add list=FI_ASN range=211696 } on-error={}
 :do { add list=FI_ASN range=209091 } on-error={}
 :do { add list=FI_ASN range=207880 } on-error={}
 :do { add list=FI_ASN range=207306 } on-error={}

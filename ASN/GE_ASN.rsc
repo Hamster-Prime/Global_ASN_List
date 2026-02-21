@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-02-20 01:21:55
+# Last Updated: UTC 2026-02-21 01:20:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
@@ -16,13 +16,14 @@
 :do { add list=GE_ASN range=20545 } on-error={}
 :do { add list=GE_ASN range=209046 } on-error={}
 :do { add list=GE_ASN range=208744 } on-error={}
+:do { add list=GE_ASN range=51142 } on-error={}
 :do { add list=GE_ASN range=49254 } on-error={}
 :do { add list=GE_ASN range=216463 } on-error={}
 :do { add list=GE_ASN range=216300 } on-error={}
 :do { add list=GE_ASN range=215348 } on-error={}
+:do { add list=GE_ASN range=201651 } on-error={}
 :do { add list=GE_ASN range=57881 } on-error={}
 :do { add list=GE_ASN range=56855 } on-error={}
-:do { add list=GE_ASN range=51142 } on-error={}
 :do { add list=GE_ASN range=48393 } on-error={}
 :do { add list=GE_ASN range=47810 } on-error={}
 :do { add list=GE_ASN range=47644 } on-error={}
@@ -33,13 +34,13 @@
 :do { add list=GE_ASN range=21276 } on-error={}
 :do { add list=GE_ASN range=21214 } on-error={}
 :do { add list=GE_ASN range=211322 } on-error={}
+:do { add list=GE_ASN range=210797 } on-error={}
 :do { add list=GE_ASN range=209183 } on-error={}
 :do { add list=GE_ASN range=208080 } on-error={}
 :do { add list=GE_ASN range=203136 } on-error={}
 :do { add list=GE_ASN range=203039 } on-error={}
 :do { add list=GE_ASN range=202223 } on-error={}
 :do { add list=GE_ASN range=202065 } on-error={}
-:do { add list=GE_ASN range=201651 } on-error={}
 :do { add list=GE_ASN range=62252 } on-error={}
 :do { add list=GE_ASN range=61167 } on-error={}
 :do { add list=GE_ASN range=60392 } on-error={}
@@ -50,7 +51,6 @@
 :do { add list=GE_ASN range=51841 } on-error={}
 :do { add list=GE_ASN range=51010 } on-error={}
 :do { add list=GE_ASN range=50151 } on-error={}
-:do { add list=GE_ASN range=49016 } on-error={}
 :do { add list=GE_ASN range=48415 } on-error={}
 :do { add list=GE_ASN range=44621 } on-error={}
 :do { add list=GE_ASN range=42938 } on-error={}
@@ -66,7 +66,6 @@
 :do { add list=GE_ASN range=212484 } on-error={}
 :do { add list=GE_ASN range=210923 } on-error={}
 :do { add list=GE_ASN range=210808 } on-error={}
-:do { add list=GE_ASN range=210797 } on-error={}
 :do { add list=GE_ASN range=209786 } on-error={}
 :do { add list=GE_ASN range=209743 } on-error={}
 :do { add list=GE_ASN range=209332 } on-error={}
@@ -103,6 +102,7 @@
 :do { add list=GE_ASN range=50647 } on-error={}
 :do { add list=GE_ASN range=50514 } on-error={}
 :do { add list=GE_ASN range=49129 } on-error={}
+:do { add list=GE_ASN range=49016 } on-error={}
 :do { add list=GE_ASN range=47575 } on-error={}
 :do { add list=GE_ASN range=47270 } on-error={}
 :do { add list=GE_ASN range=42082 } on-error={}
