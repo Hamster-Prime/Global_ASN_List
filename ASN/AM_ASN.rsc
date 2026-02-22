@@ -1,5 +1,5 @@
 # ASN Information in AM.
-# Last Updated: UTC 2026-02-21 01:20:55
+# Last Updated: UTC 2026-02-22 01:25:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AM ASN list"
@@ -32,12 +32,15 @@
 :do { add list=AM_ASN range=34492 } on-error={}
 :do { add list=AM_ASN range=215719 } on-error={}
 :do { add list=AM_ASN range=214198 } on-error={}
+:do { add list=AM_ASN range=213134 } on-error={}
 :do { add list=AM_ASN range=212183 } on-error={}
 :do { add list=AM_ASN range=207810 } on-error={}
 :do { add list=AM_ASN range=206783 } on-error={}
+:do { add list=AM_ASN range=206230 } on-error={}
 :do { add list=AM_ASN range=205277 } on-error={}
 :do { add list=AM_ASN range=201921 } on-error={}
 :do { add list=AM_ASN range=199062 } on-error={}
+:do { add list=AM_ASN range=57162 } on-error={}
 :do { add list=AM_ASN range=56974 } on-error={}
 :do { add list=AM_ASN range=52160 } on-error={}
 :do { add list=AM_ASN range=51354 } on-error={}
@@ -52,7 +55,6 @@
 :do { add list=AM_ASN range=215644 } on-error={}
 :do { add list=AM_ASN range=214977 } on-error={}
 :do { add list=AM_ASN range=214287 } on-error={}
-:do { add list=AM_ASN range=213134 } on-error={}
 :do { add list=AM_ASN range=212505 } on-error={}
 :do { add list=AM_ASN range=211704 } on-error={}
 :do { add list=AM_ASN range=210520 } on-error={}
@@ -65,7 +67,6 @@
 :do { add list=AM_ASN range=208081 } on-error={}
 :do { add list=AM_ASN range=207400 } on-error={}
 :do { add list=AM_ASN range=206543 } on-error={}
-:do { add list=AM_ASN range=206230 } on-error={}
 :do { add list=AM_ASN range=205605 } on-error={}
 :do { add list=AM_ASN range=204620 } on-error={}
 :do { add list=AM_ASN range=204267 } on-error={}
@@ -81,7 +82,6 @@
 :do { add list=AM_ASN range=57849 } on-error={}
 :do { add list=AM_ASN range=57491 } on-error={}
 :do { add list=AM_ASN range=57206 } on-error={}
-:do { add list=AM_ASN range=57162 } on-error={}
 :do { add list=AM_ASN range=56956 } on-error={}
 :do { add list=AM_ASN range=51693 } on-error={}
 :do { add list=AM_ASN range=51493 } on-error={}

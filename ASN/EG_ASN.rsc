@@ -1,5 +1,5 @@
 # ASN Information in EG.
-# Last Updated: UTC 2026-02-21 01:22:14
+# Last Updated: UTC 2026-02-22 01:26:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EG ASN list"
@@ -31,7 +31,6 @@
 :do { add list=EG_ASN range=36978 } on-error={}
 :do { add list=EG_ASN range=36870 } on-error={}
 :do { add list=EG_ASN range=33778 } on-error={}
-:do { add list=EG_ASN range=329431 } on-error={}
 :do { add list=EG_ASN range=329114 } on-error={}
 :do { add list=EG_ASN range=328972 } on-error={}
 :do { add list=EG_ASN range=328876 } on-error={}
@@ -59,6 +58,7 @@
 :do { add list=EG_ASN range=36906 } on-error={}
 :do { add list=EG_ASN range=33782 } on-error={}
 :do { add list=EG_ASN range=329520 } on-error={}
+:do { add list=EG_ASN range=329431 } on-error={}
 :do { add list=EG_ASN range=329397 } on-error={}
 :do { add list=EG_ASN range=329359 } on-error={}
 :do { add list=EG_ASN range=329336 } on-error={}
