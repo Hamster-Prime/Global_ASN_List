@@ -1,5 +1,5 @@
 # ASN Information in AM.
-# Last Updated: UTC 2026-02-24 01:24:13
+# Last Updated: UTC 2026-02-25 01:27:56
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AM ASN list"
@@ -10,20 +10,20 @@
 :do { add list=AM_ASN range=43733 } on-error={}
 :do { add list=AM_ASN range=214729 } on-error={}
 :do { add list=AM_ASN range=201986 } on-error={}
-:do { add list=AM_ASN range=208339 } on-error={}
 :do { add list=AM_ASN range=202269 } on-error={}
+:do { add list=AM_ASN range=208339 } on-error={}
 :do { add list=AM_ASN range=201589 } on-error={}
 :do { add list=AM_ASN range=33852 } on-error={}
 :do { add list=AM_ASN range=51090 } on-error={}
 :do { add list=AM_ASN range=210147 } on-error={}
 :do { add list=AM_ASN range=51327 } on-error={}
 :do { add list=AM_ASN range=205368 } on-error={}
-:do { add list=AM_ASN range=198265 } on-error={}
 :do { add list=AM_ASN range=51225 } on-error={}
 :do { add list=AM_ASN range=47623 } on-error={}
 :do { add list=AM_ASN range=42991 } on-error={}
 :do { add list=AM_ASN range=212749 } on-error={}
 :do { add list=AM_ASN range=212552 } on-error={}
+:do { add list=AM_ASN range=198265 } on-error={}
 :do { add list=AM_ASN range=16190 } on-error={}
 :do { add list=AM_ASN range=56561 } on-error={}
 :do { add list=AM_ASN range=50496 } on-error={}
@@ -64,7 +64,6 @@
 :do { add list=AM_ASN range=209176 } on-error={}
 :do { add list=AM_ASN range=208997 } on-error={}
 :do { add list=AM_ASN range=208526 } on-error={}
-:do { add list=AM_ASN range=208081 } on-error={}
 :do { add list=AM_ASN range=207400 } on-error={}
 :do { add list=AM_ASN range=206543 } on-error={}
 :do { add list=AM_ASN range=205605 } on-error={}
@@ -105,6 +104,7 @@
 :do { add list=AM_ASN range=210677 } on-error={}
 :do { add list=AM_ASN range=210315 } on-error={}
 :do { add list=AM_ASN range=210131 } on-error={}
+:do { add list=AM_ASN range=208081 } on-error={}
 :do { add list=AM_ASN range=207991 } on-error={}
 :do { add list=AM_ASN range=207980 } on-error={}
 :do { add list=AM_ASN range=207081 } on-error={}

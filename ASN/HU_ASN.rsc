@@ -1,5 +1,5 @@
 # ASN Information in HU.
-# Last Updated: UTC 2026-02-24 01:23:06
+# Last Updated: UTC 2026-02-25 01:26:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HU ASN list"
@@ -35,6 +35,7 @@
 :do { add list=HU_ASN range=43928 } on-error={}
 :do { add list=HU_ASN range=35263 } on-error={}
 :do { add list=HU_ASN range=213746 } on-error={}
+:do { add list=HU_ASN range=210788 } on-error={}
 :do { add list=HU_ASN range=199235 } on-error={}
 :do { add list=HU_ASN range=60673 } on-error={}
 :do { add list=HU_ASN range=56322 } on-error={}
@@ -50,7 +51,6 @@
 :do { add list=HU_ASN range=39201 } on-error={}
 :do { add list=HU_ASN range=30836 } on-error={}
 :do { add list=HU_ASN range=24822 } on-error={}
-:do { add list=HU_ASN range=210788 } on-error={}
 :do { add list=HU_ASN range=206361 } on-error={}
 :do { add list=HU_ASN range=62051 } on-error={}
 :do { add list=HU_ASN range=50261 } on-error={}
@@ -72,6 +72,7 @@
 :do { add list=HU_ASN range=206814 } on-error={}
 :do { add list=HU_ASN range=59949 } on-error={}
 :do { add list=HU_ASN range=47159 } on-error={}
+:do { add list=HU_ASN range=8294 } on-error={}
 :do { add list=HU_ASN range=58098 } on-error={}
 :do { add list=HU_ASN range=57657 } on-error={}
 :do { add list=HU_ASN range=57389 } on-error={}
@@ -97,6 +98,7 @@
 :do { add list=HU_ASN range=24690 } on-error={}
 :do { add list=HU_ASN range=215505 } on-error={}
 :do { add list=HU_ASN range=215168 } on-error={}
+:do { add list=HU_ASN range=214175 } on-error={}
 :do { add list=HU_ASN range=21229 } on-error={}
 :do { add list=HU_ASN range=211595 } on-error={}
 :do { add list=HU_ASN range=211495 } on-error={}
@@ -124,7 +126,6 @@
 :do { add list=HU_ASN range=196970 } on-error={}
 :do { add list=HU_ASN range=16015 } on-error={}
 :do { add list=HU_ASN range=8536 } on-error={}
-:do { add list=HU_ASN range=8294 } on-error={}
 :do { add list=HU_ASN range=6784 } on-error={}
 :do { add list=HU_ASN range=6711 } on-error={}
 :do { add list=HU_ASN range=62449 } on-error={}
@@ -188,7 +189,6 @@
 :do { add list=HU_ASN range=215261 } on-error={}
 :do { add list=HU_ASN range=214308 } on-error={}
 :do { add list=HU_ASN range=214226 } on-error={}
-:do { add list=HU_ASN range=214175 } on-error={}
 :do { add list=HU_ASN range=213980 } on-error={}
 :do { add list=HU_ASN range=213830 } on-error={}
 :do { add list=HU_ASN range=213643 } on-error={}
