@@ -1,5 +1,5 @@
 # ASN Information in JO.
-# Last Updated: UTC 2026-02-26 01:23:37
+# Last Updated: UTC 2026-02-27 01:20:51
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JO ASN list"
@@ -35,6 +35,7 @@
 :do { add list=JO_ASN range=210844 } on-error={}
 :do { add list=JO_ASN range=210432 } on-error={}
 :do { add list=JO_ASN range=209029 } on-error={}
+:do { add list=JO_ASN range=208148 } on-error={}
 :do { add list=JO_ASN range=206608 } on-error={}
 :do { add list=JO_ASN range=206553 } on-error={}
 :do { add list=JO_ASN range=206060 } on-error={}
@@ -46,7 +47,6 @@
 :do { add list=JO_ASN range=21088 } on-error={}
 :do { add list=JO_ASN range=210084 } on-error={}
 :do { add list=JO_ASN range=208212 } on-error={}
-:do { add list=JO_ASN range=208148 } on-error={}
 :do { add list=JO_ASN range=207332 } on-error={}
 :do { add list=JO_ASN range=204719 } on-error={}
 :do { add list=JO_ASN range=204327 } on-error={}
