@@ -1,5 +1,5 @@
 # ASN Information in KR.
-# Last Updated: UTC 2026-02-27 01:18:53
+# Last Updated: UTC 2026-02-28 01:13:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KR ASN list"
@@ -462,6 +462,7 @@
 :do { add list=KR_ASN range=152294 } on-error={}
 :do { add list=KR_ASN range=152291 } on-error={}
 :do { add list=KR_ASN range=152289 } on-error={}
+:do { add list=KR_ASN range=152286 } on-error={}
 :do { add list=KR_ASN range=152285 } on-error={}
 :do { add list=KR_ASN range=152284 } on-error={}
 :do { add list=KR_ASN range=152232 } on-error={}
