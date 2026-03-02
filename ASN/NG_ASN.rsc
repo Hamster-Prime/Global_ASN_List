@@ -1,5 +1,5 @@
 # ASN Information in NG.
-# Last Updated: UTC 2026-03-01 01:32:28
+# Last Updated: UTC 2026-03-02 01:25:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NG ASN list"
@@ -32,7 +32,6 @@
 :do { add list=NG_ASN range=329215 } on-error={}
 :do { add list=NG_ASN range=328658 } on-error={}
 :do { add list=NG_ASN range=328556 } on-error={}
-:do { add list=NG_ASN range=328160 } on-error={}
 :do { add list=NG_ASN range=37661 } on-error={}
 :do { add list=NG_ASN range=37659 } on-error={}
 :do { add list=NG_ASN range=37521 } on-error={}
@@ -40,6 +39,7 @@
 :do { add list=NG_ASN range=37230 } on-error={}
 :do { add list=NG_ASN range=329182 } on-error={}
 :do { add list=NG_ASN range=328668 } on-error={}
+:do { add list=NG_ASN range=328160 } on-error={}
 :do { add list=NG_ASN range=327981 } on-error={}
 :do { add list=NG_ASN range=37714 } on-error={}
 :do { add list=NG_ASN range=37688 } on-error={}
@@ -49,8 +49,6 @@
 :do { add list=NG_ASN range=37269 } on-error={}
 :do { add list=NG_ASN range=37248 } on-error={}
 :do { add list=NG_ASN range=37222 } on-error={}
-:do { add list=NG_ASN range=37076 } on-error={}
-:do { add list=NG_ASN range=36970 } on-error={}
 :do { add list=NG_ASN range=329258 } on-error={}
 :do { add list=NG_ASN range=329148 } on-error={}
 :do { add list=NG_ASN range=329099 } on-error={}
@@ -58,6 +56,7 @@
 :do { add list=NG_ASN range=37495 } on-error={}
 :do { add list=NG_ASN range=37200 } on-error={}
 :do { add list=NG_ASN range=37125 } on-error={}
+:do { add list=NG_ASN range=37076 } on-error={}
 :do { add list=NG_ASN range=329347 } on-error={}
 :do { add list=NG_ASN range=329236 } on-error={}
 :do { add list=NG_ASN range=329230 } on-error={}
@@ -70,19 +69,19 @@
 :do { add list=NG_ASN range=328203 } on-error={}
 :do { add list=NG_ASN range=327985 } on-error={}
 :do { add list=NG_ASN range=25163 } on-error={}
+:do { add list=NG_ASN range=36970 } on-error={}
 :do { add list=NG_ASN range=329024 } on-error={}
 :do { add list=NG_ASN range=37629 } on-error={}
-:do { add list=NG_ASN range=328999 } on-error={}
 :do { add list=NG_ASN range=328585 } on-error={}
-:do { add list=NG_ASN range=37540 } on-error={}
+:do { add list=NG_ASN range=37249 } on-error={}
 :do { add list=NG_ASN range=37001 } on-error={}
 :do { add list=NG_ASN range=329476 } on-error={}
 :do { add list=NG_ASN range=328555 } on-error={}
 :do { add list=NG_ASN range=328527 } on-error={}
 :do { add list=NG_ASN range=37588 } on-error={}
 :do { add list=NG_ASN range=37587 } on-error={}
+:do { add list=NG_ASN range=37540 } on-error={}
 :do { add list=NG_ASN range=37452 } on-error={}
-:do { add list=NG_ASN range=37249 } on-error={}
 :do { add list=NG_ASN range=36993 } on-error={}
 :do { add list=NG_ASN range=36979 } on-error={}
 :do { add list=NG_ASN range=36922 } on-error={}
@@ -91,6 +90,7 @@
 :do { add list=NG_ASN range=329191 } on-error={}
 :do { add list=NG_ASN range=329123 } on-error={}
 :do { add list=NG_ASN range=329083 } on-error={}
+:do { add list=NG_ASN range=328999 } on-error={}
 :do { add list=NG_ASN range=328823 } on-error={}
 :do { add list=NG_ASN range=328609 } on-error={}
 :do { add list=NG_ASN range=328497 } on-error={}
@@ -101,6 +101,7 @@
 :do { add list=NG_ASN range=327898 } on-error={}
 :do { add list=NG_ASN range=327784 } on-error={}
 :do { add list=NG_ASN range=327721 } on-error={}
+:do { add list=NG_ASN range=37637 } on-error={}
 :do { add list=NG_ASN range=37567 } on-error={}
 :do { add list=NG_ASN range=37522 } on-error={}
 :do { add list=NG_ASN range=37506 } on-error={}
@@ -109,7 +110,6 @@
 :do { add list=NG_ASN range=37426 } on-error={}
 :do { add list=NG_ASN range=37286 } on-error={}
 :do { add list=NG_ASN range=37207 } on-error={}
-:do { add list=NG_ASN range=37192 } on-error={}
 :do { add list=NG_ASN range=37058 } on-error={}
 :do { add list=NG_ASN range=37056 } on-error={}
 :do { add list=NG_ASN range=329613 } on-error={}
@@ -143,7 +143,6 @@
 :do { add list=NG_ASN range=37686 } on-error={}
 :do { add list=NG_ASN range=37660 } on-error={}
 :do { add list=NG_ASN range=37657 } on-error={}
-:do { add list=NG_ASN range=37637 } on-error={}
 :do { add list=NG_ASN range=37565 } on-error={}
 :do { add list=NG_ASN range=37528 } on-error={}
 :do { add list=NG_ASN range=37445 } on-error={}
@@ -154,6 +153,7 @@
 :do { add list=NG_ASN range=37328 } on-error={}
 :do { add list=NG_ASN range=37297 } on-error={}
 :do { add list=NG_ASN range=37194 } on-error={}
+:do { add list=NG_ASN range=37192 } on-error={}
 :do { add list=NG_ASN range=37170 } on-error={}
 :do { add list=NG_ASN range=37144 } on-error={}
 :do { add list=NG_ASN range=37104 } on-error={}
@@ -220,7 +220,6 @@
 :do { add list=NG_ASN range=327953 } on-error={}
 :do { add list=NG_ASN range=327895 } on-error={}
 :do { add list=NG_ASN range=327891 } on-error={}
-:do { add list=NG_ASN range=327763 } on-error={}
 :do { add list=NG_ASN range=327705 } on-error={}
 :do { add list=NG_ASN range=30984 } on-error={}
 :do { add list=NG_ASN range=329592 } on-error={}
