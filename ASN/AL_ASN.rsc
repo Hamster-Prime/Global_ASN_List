@@ -1,19 +1,19 @@
 # ASN Information in AL.
-# Last Updated: UTC 2026-03-04 01:21:01
+# Last Updated: UTC 2026-03-05 01:23:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AL ASN list"
 /routing filter num-list
 :do { add list=AL_ASN range=198890 } on-error={}
 :do { add list=AL_ASN range=29170 } on-error={}
-:do { add list=AL_ASN range=210464 } on-error={}
 :do { add list=AL_ASN range=42313 } on-error={}
+:do { add list=AL_ASN range=210464 } on-error={}
 :do { add list=AL_ASN range=35047 } on-error={}
 :do { add list=AL_ASN range=198279 } on-error={}
 :do { add list=AL_ASN range=33983 } on-error={}
 :do { add list=AL_ASN range=50973 } on-error={}
-:do { add list=AL_ASN range=206262 } on-error={}
 :do { add list=AL_ASN range=48014 } on-error={}
+:do { add list=AL_ASN range=206262 } on-error={}
 :do { add list=AL_ASN range=213683 } on-error={}
 :do { add list=AL_ASN range=43272 } on-error={}
 :do { add list=AL_ASN range=47394 } on-error={}
