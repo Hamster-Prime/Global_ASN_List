@@ -1,5 +1,5 @@
 # ASN Information in TW.
-# Last Updated: UTC 2026-03-06 01:24:24
+# Last Updated: UTC 2026-03-07 01:16:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TW ASN list"
@@ -71,16 +71,17 @@
 :do { add list=TW_ASN range=150767 } on-error={}
 :do { add list=TW_ASN range=131643 } on-error={}
 :do { add list=TW_ASN range=55789 } on-error={}
-:do { add list=TW_ASN range=152615 } on-error={}
+:do { add list=TW_ASN range=9681 } on-error={}
 :do { add list=TW_ASN range=203843 } on-error={}
+:do { add list=TW_ASN range=152615 } on-error={}
 :do { add list=TW_ASN range=142046 } on-error={}
 :do { add list=TW_ASN range=131666 } on-error={}
 :do { add list=TW_ASN range=131638 } on-error={}
-:do { add list=TW_ASN range=9681 } on-error={}
 :do { add list=TW_ASN range=7532 } on-error={}
 :do { add list=TW_ASN range=17716 } on-error={}
 :do { add list=TW_ASN range=7536 } on-error={}
 :do { add list=TW_ASN range=63909 } on-error={}
+:do { add list=TW_ASN range=18411 } on-error={}
 :do { add list=TW_ASN range=1659 } on-error={}
 :do { add list=TW_ASN range=131645 } on-error={}
 :do { add list=TW_ASN range=9916 } on-error={}
@@ -108,7 +109,6 @@
 :do { add list=TW_ASN range=24158 } on-error={}
 :do { add list=TW_ASN range=24155 } on-error={}
 :do { add list=TW_ASN range=18420 } on-error={}
-:do { add list=TW_ASN range=18411 } on-error={}
 :do { add list=TW_ASN range=18181 } on-error={}
 :do { add list=TW_ASN range=18042 } on-error={}
 :do { add list=TW_ASN range=17713 } on-error={}
