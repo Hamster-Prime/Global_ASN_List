@@ -1,5 +1,5 @@
 # ASN Information in CU.
-# Last Updated: UTC 2026-03-07 01:21:10
+# Last Updated: UTC 2026-03-08 01:25:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CU ASN list"

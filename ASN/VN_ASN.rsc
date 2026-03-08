@@ -1,5 +1,5 @@
 # ASN Information in VN.
-# Last Updated: UTC 2026-03-07 01:16:30
+# Last Updated: UTC 2026-03-08 01:22:31
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VN ASN list"
@@ -37,6 +37,7 @@
 :do { add list=VN_ASN range=140766 } on-error={}
 :do { add list=VN_ASN range=56149 } on-error={}
 :do { add list=VN_ASN range=150895 } on-error={}
+:do { add list=VN_ASN range=135918 } on-error={}
 :do { add list=VN_ASN range=131438 } on-error={}
 :do { add list=VN_ASN range=131435 } on-error={}
 :do { add list=VN_ASN range=131386 } on-error={}
@@ -44,7 +45,6 @@
 :do { add list=VN_ASN range=140813 } on-error={}
 :do { add list=VN_ASN range=140810 } on-error={}
 :do { add list=VN_ASN range=135952 } on-error={}
-:do { add list=VN_ASN range=135918 } on-error={}
 :do { add list=VN_ASN range=131436 } on-error={}
 :do { add list=VN_ASN range=63765 } on-error={}
 :do { add list=VN_ASN range=63751 } on-error={}
@@ -105,7 +105,6 @@
 :do { add list=VN_ASN range=149105 } on-error={}
 :do { add list=VN_ASN range=149096 } on-error={}
 :do { add list=VN_ASN range=149069 } on-error={}
-:do { add list=VN_ASN range=140809 } on-error={}
 :do { add list=VN_ASN range=140806 } on-error={}
 :do { add list=VN_ASN range=140745 } on-error={}
 :do { add list=VN_ASN range=135990 } on-error={}
@@ -202,6 +201,7 @@
 :do { add list=VN_ASN range=149080 } on-error={}
 :do { add list=VN_ASN range=140832 } on-error={}
 :do { add list=VN_ASN range=140822 } on-error={}
+:do { add list=VN_ASN range=140809 } on-error={}
 :do { add list=VN_ASN range=140768 } on-error={}
 :do { add list=VN_ASN range=140765 } on-error={}
 :do { add list=VN_ASN range=140764 } on-error={}
@@ -487,7 +487,6 @@
 :do { add list=VN_ASN range=135945 } on-error={}
 :do { add list=VN_ASN range=135939 } on-error={}
 :do { add list=VN_ASN range=135937 } on-error={}
-:do { add list=VN_ASN range=135936 } on-error={}
 :do { add list=VN_ASN range=135934 } on-error={}
 :do { add list=VN_ASN range=135923 } on-error={}
 :do { add list=VN_ASN range=135922 } on-error={}
