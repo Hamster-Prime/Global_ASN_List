@@ -1,5 +1,5 @@
 # ASN Information in IS.
-# Last Updated: UTC 2026-03-08 01:23:36
+# Last Updated: UTC 2026-03-09 01:23:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IS ASN list"
@@ -37,7 +37,6 @@
 :do { add list=IS_ASN range=215823 } on-error={}
 :do { add list=IS_ASN range=214144 } on-error={}
 :do { add list=IS_ASN range=212926 } on-error={}
-:do { add list=IS_ASN range=211757 } on-error={}
 :do { add list=IS_ASN range=211589 } on-error={}
 :do { add list=IS_ASN range=204588 } on-error={}
 :do { add list=IS_ASN range=203715 } on-error={}
@@ -64,6 +63,7 @@
 :do { add list=IS_ASN range=214185 } on-error={}
 :do { add list=IS_ASN range=212771 } on-error={}
 :do { add list=IS_ASN range=211815 } on-error={}
+:do { add list=IS_ASN range=211757 } on-error={}
 :do { add list=IS_ASN range=211734 } on-error={}
 :do { add list=IS_ASN range=210747 } on-error={}
 :do { add list=IS_ASN range=210080 } on-error={}
