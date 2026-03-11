@@ -1,5 +1,5 @@
 # ASN Information in KG.
-# Last Updated: UTC 2026-03-10 01:18:34
+# Last Updated: UTC 2026-03-11 01:19:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KG ASN list"
@@ -16,6 +16,8 @@
 :do { add list=KG_ASN range=12997 } on-error={}
 :do { add list=KG_ASN range=61196 } on-error={}
 :do { add list=KG_ASN range=42581 } on-error={}
+:do { add list=KG_ASN range=207369 } on-error={}
+:do { add list=KG_ASN range=205204 } on-error={}
 :do { add list=KG_ASN range=60515 } on-error={}
 :do { add list=KG_ASN range=51898 } on-error={}
 :do { add list=KG_ASN range=50223 } on-error={}
@@ -31,8 +33,6 @@
 :do { add list=KG_ASN range=215326 } on-error={}
 :do { add list=KG_ASN range=212409 } on-error={}
 :do { add list=KG_ASN range=209918 } on-error={}
-:do { add list=KG_ASN range=207369 } on-error={}
-:do { add list=KG_ASN range=205204 } on-error={}
 :do { add list=KG_ASN range=198629 } on-error={}
 :do { add list=KG_ASN range=197119 } on-error={}
 :do { add list=KG_ASN range=59684 } on-error={}

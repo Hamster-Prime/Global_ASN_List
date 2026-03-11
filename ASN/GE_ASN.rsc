@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-03-10 01:18:37
+# Last Updated: UTC 2026-03-11 01:19:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
@@ -18,10 +18,11 @@
 :do { add list=GE_ASN range=216300 } on-error={}
 :do { add list=GE_ASN range=209046 } on-error={}
 :do { add list=GE_ASN range=208744 } on-error={}
+:do { add list=GE_ASN range=201651 } on-error={}
 :do { add list=GE_ASN range=51142 } on-error={}
 :do { add list=GE_ASN range=49254 } on-error={}
 :do { add list=GE_ASN range=216463 } on-error={}
-:do { add list=GE_ASN range=201651 } on-error={}
+:do { add list=GE_ASN range=207359 } on-error={}
 :do { add list=GE_ASN range=57881 } on-error={}
 :do { add list=GE_ASN range=56855 } on-error={}
 :do { add list=GE_ASN range=48393 } on-error={}
@@ -37,7 +38,6 @@
 :do { add list=GE_ASN range=210797 } on-error={}
 :do { add list=GE_ASN range=209786 } on-error={}
 :do { add list=GE_ASN range=209183 } on-error={}
-:do { add list=GE_ASN range=207359 } on-error={}
 :do { add list=GE_ASN range=203136 } on-error={}
 :do { add list=GE_ASN range=203039 } on-error={}
 :do { add list=GE_ASN range=202223 } on-error={}
