@@ -1,5 +1,5 @@
 # ASN Information in IE.
-# Last Updated: UTC 2026-03-11 01:17:49
+# Last Updated: UTC 2026-03-12 01:17:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IE ASN list"
@@ -29,9 +29,9 @@
 :do { add list=IE_ASN range=42227 } on-error={}
 :do { add list=IE_ASN range=51677 } on-error={}
 :do { add list=IE_ASN range=43406 } on-error={}
+:do { add list=IE_ASN range=206663 } on-error={}
 :do { add list=IE_ASN range=39449 } on-error={}
 :do { add list=IE_ASN range=25441 } on-error={}
-:do { add list=IE_ASN range=206663 } on-error={}
 :do { add list=IE_ASN range=16171 } on-error={}
 :do { add list=IE_ASN range=15502 } on-error={}
 :do { add list=IE_ASN range=60277 } on-error={}
@@ -122,6 +122,7 @@
 :do { add list=IE_ASN range=206998 } on-error={}
 :do { add list=IE_ASN range=206746 } on-error={}
 :do { add list=IE_ASN range=206309 } on-error={}
+:do { add list=IE_ASN range=205743 } on-error={}
 :do { add list=IE_ASN range=204597 } on-error={}
 :do { add list=IE_ASN range=203262 } on-error={}
 :do { add list=IE_ASN range=202899 } on-error={}
@@ -182,7 +183,6 @@
 :do { add list=IE_ASN range=208116 } on-error={}
 :do { add list=IE_ASN range=206132 } on-error={}
 :do { add list=IE_ASN range=205967 } on-error={}
-:do { add list=IE_ASN range=205743 } on-error={}
 :do { add list=IE_ASN range=205481 } on-error={}
 :do { add list=IE_ASN range=205437 } on-error={}
 :do { add list=IE_ASN range=205282 } on-error={}
