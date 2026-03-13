@@ -1,5 +1,5 @@
 # ASN Information in BZ.
-# Last Updated: UTC 2026-03-12 01:20:10
+# Last Updated: UTC 2026-03-13 01:23:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BZ ASN list"
@@ -14,6 +14,7 @@
 :do { add list=BZ_ASN range=265826 } on-error={}
 :do { add list=BZ_ASN range=262239 } on-error={}
 :do { add list=BZ_ASN range=267932 } on-error={}
+:do { add list=BZ_ASN range=266748 } on-error={}
 :do { add list=BZ_ASN range=265727 } on-error={}
 :do { add list=BZ_ASN range=60528 } on-error={}
 :do { add list=BZ_ASN range=28094 } on-error={}
