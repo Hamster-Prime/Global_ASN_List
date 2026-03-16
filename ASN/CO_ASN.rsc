@@ -1,5 +1,5 @@
 # ASN Information in CO.
-# Last Updated: UTC 2026-03-15 01:46:46
+# Last Updated: UTC 2026-03-16 01:48:31
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CO ASN list"
@@ -114,6 +114,7 @@
 :do { add list=CO_ASN range=27731 } on-error={}
 :do { add list=CO_ASN range=274311 } on-error={}
 :do { add list=CO_ASN range=274282 } on-error={}
+:do { add list=CO_ASN range=274248 } on-error={}
 :do { add list=CO_ASN range=274247 } on-error={}
 :do { add list=CO_ASN range=274223 } on-error={}
 :do { add list=CO_ASN range=274193 } on-error={}
@@ -221,7 +222,6 @@
 :do { add list=CO_ASN range=274268 } on-error={}
 :do { add list=CO_ASN range=274254 } on-error={}
 :do { add list=CO_ASN range=274249 } on-error={}
-:do { add list=CO_ASN range=274248 } on-error={}
 :do { add list=CO_ASN range=274245 } on-error={}
 :do { add list=CO_ASN range=274244 } on-error={}
 :do { add list=CO_ASN range=274237 } on-error={}
