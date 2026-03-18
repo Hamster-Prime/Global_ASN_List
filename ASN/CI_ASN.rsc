@@ -1,5 +1,5 @@
 # ASN Information in CI.
-# Last Updated: UTC 2026-03-17 01:25:55
+# Last Updated: UTC 2026-03-18 01:29:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CI ASN list"
@@ -8,8 +8,8 @@
 :do { add list=CI_ASN range=29571 } on-error={}
 :do { add list=CI_ASN range=37381 } on-error={}
 :do { add list=CI_ASN range=36974 } on-error={}
-:do { add list=CI_ASN range=37190 } on-error={}
 :do { add list=CI_ASN range=327773 } on-error={}
+:do { add list=CI_ASN range=37190 } on-error={}
 :do { add list=CI_ASN range=329666 } on-error={}
 :do { add list=CI_ASN range=328729 } on-error={}
 :do { add list=CI_ASN range=327746 } on-error={}
