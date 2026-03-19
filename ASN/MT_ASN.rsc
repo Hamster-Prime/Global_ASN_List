@@ -1,5 +1,5 @@
 # ASN Information in MT.
-# Last Updated: UTC 2026-03-18 01:27:34
+# Last Updated: UTC 2026-03-19 01:27:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MT ASN list"
@@ -25,6 +25,7 @@
 :do { add list=MT_ASN range=203221 } on-error={}
 :do { add list=MT_ASN range=200932 } on-error={}
 :do { add list=MT_ASN range=200295 } on-error={}
+:do { add list=MT_ASN range=200127 } on-error={}
 :do { add list=MT_ASN range=61355 } on-error={}
 :do { add list=MT_ASN range=57435 } on-error={}
 :do { add list=MT_ASN range=57150 } on-error={}
@@ -43,6 +44,5 @@
 :do { add list=MT_ASN range=207406 } on-error={}
 :do { add list=MT_ASN range=204090 } on-error={}
 :do { add list=MT_ASN range=200805 } on-error={}
-:do { add list=MT_ASN range=200127 } on-error={}
 :do { add list=MT_ASN range=133409 } on-error={}
 :do { add list=MT_ASN range=197103 } on-error={}

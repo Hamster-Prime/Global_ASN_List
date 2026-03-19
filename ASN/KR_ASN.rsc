@@ -1,5 +1,5 @@
 # ASN Information in KR.
-# Last Updated: UTC 2026-03-18 01:26:19
+# Last Updated: UTC 2026-03-19 01:26:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KR ASN list"
@@ -24,10 +24,10 @@
 :do { add list=KR_ASN range=7562 } on-error={}
 :do { add list=KR_ASN range=10036 } on-error={}
 :do { add list=KR_ASN range=210919 } on-error={}
-:do { add list=KR_ASN range=139648 } on-error={}
 :do { add list=KR_ASN range=45974 } on-error={}
 :do { add list=KR_ASN range=45400 } on-error={}
 :do { add list=KR_ASN range=45361 } on-error={}
+:do { add list=KR_ASN range=139648 } on-error={}
 :do { add list=KR_ASN range=4670 } on-error={}
 :do { add list=KR_ASN range=38661 } on-error={}
 :do { add list=KR_ASN range=17841 } on-error={}
@@ -39,14 +39,13 @@
 :do { add list=KR_ASN range=9842 } on-error={}
 :do { add list=KR_ASN range=4668 } on-error={}
 :do { add list=KR_ASN range=23600 } on-error={}
+:do { add list=KR_ASN range=18302 } on-error={}
 :do { add list=KR_ASN range=17878 } on-error={}
 :do { add list=KR_ASN range=10049 } on-error={}
 :do { add list=KR_ASN range=9526 } on-error={}
 :do { add list=KR_ASN range=23599 } on-error={}
 :do { add list=KR_ASN range=23588 } on-error={}
 :do { add list=KR_ASN range=18305 } on-error={}
-:do { add list=KR_ASN range=18302 } on-error={}
-:do { add list=KR_ASN range=135120 } on-error={}
 :do { add list=KR_ASN range=131833 } on-error={}
 :do { add list=KR_ASN range=131094 } on-error={}
 :do { add list=KR_ASN range=10171 } on-error={}
@@ -59,7 +58,6 @@
 :do { add list=KR_ASN range=9488 } on-error={}
 :do { add list=KR_ASN range=7560 } on-error={}
 :do { add list=KR_ASN range=45374 } on-error={}
-:do { add list=KR_ASN range=38701 } on-error={}
 :do { add list=KR_ASN range=38676 } on-error={}
 :do { add list=KR_ASN range=38667 } on-error={}
 :do { add list=KR_ASN range=23908 } on-error={}
@@ -73,6 +71,7 @@
 :do { add list=KR_ASN range=17592 } on-error={}
 :do { add list=KR_ASN range=17574 } on-error={}
 :do { add list=KR_ASN range=151349 } on-error={}
+:do { add list=KR_ASN range=135120 } on-error={}
 :do { add list=KR_ASN range=10197 } on-error={}
 :do { add list=KR_ASN range=9978 } on-error={}
 :do { add list=KR_ASN range=9967 } on-error={}
@@ -113,6 +112,7 @@
 :do { add list=KR_ASN range=45399 } on-error={}
 :do { add list=KR_ASN range=45389 } on-error={}
 :do { add list=KR_ASN range=45382 } on-error={}
+:do { add list=KR_ASN range=38701 } on-error={}
 :do { add list=KR_ASN range=38688 } on-error={}
 :do { add list=KR_ASN range=38686 } on-error={}
 :do { add list=KR_ASN range=38680 } on-error={}
@@ -380,10 +380,8 @@
 :do { add list=KR_ASN range=23557 } on-error={}
 :do { add list=KR_ASN range=23556 } on-error={}
 :do { add list=KR_ASN range=23555 } on-error={}
-:do { add list=KR_ASN range=215343 } on-error={}
 :do { add list=KR_ASN range=214189 } on-error={}
 :do { add list=KR_ASN range=210576 } on-error={}
-:do { add list=KR_ASN range=206439 } on-error={}
 :do { add list=KR_ASN range=18401 } on-error={}
 :do { add list=KR_ASN range=18343 } on-error={}
 :do { add list=KR_ASN range=18341 } on-error={}
@@ -729,6 +727,7 @@
 :do { add list=KR_ASN range=38088 } on-error={}
 :do { add list=KR_ASN range=3357 } on-error={}
 :do { add list=KR_ASN range=24509 } on-error={}
+:do { add list=KR_ASN range=23990 } on-error={}
 :do { add list=KR_ASN range=23975 } on-error={}
 :do { add list=KR_ASN range=23743 } on-error={}
 :do { add list=KR_ASN range=23594 } on-error={}
@@ -743,8 +742,10 @@
 :do { add list=KR_ASN range=23561 } on-error={}
 :do { add list=KR_ASN range=23553 } on-error={}
 :do { add list=KR_ASN range=23552 } on-error={}
+:do { add list=KR_ASN range=215343 } on-error={}
 :do { add list=KR_ASN range=213800 } on-error={}
 :do { add list=KR_ASN range=210528 } on-error={}
+:do { add list=KR_ASN range=206439 } on-error={}
 :do { add list=KR_ASN range=202437 } on-error={}
 :do { add list=KR_ASN range=202348 } on-error={}
 :do { add list=KR_ASN range=18336 } on-error={}
