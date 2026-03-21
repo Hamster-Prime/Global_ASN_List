@@ -1,5 +1,5 @@
 # ASN Information in EC.
-# Last Updated: UTC 2026-03-20 01:24:55
+# Last Updated: UTC 2026-03-21 01:20:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EC ASN list"
@@ -148,6 +148,7 @@
 :do { add list=EC_ASN range=27757 } on-error={}
 :do { add list=EC_ASN range=27740 } on-error={}
 :do { add list=EC_ASN range=27738 } on-error={}
+:do { add list=EC_ASN range=274252 } on-error={}
 :do { add list=EC_ASN range=274063 } on-error={}
 :do { add list=EC_ASN range=274004 } on-error={}
 :do { add list=EC_ASN range=273966 } on-error={}
@@ -205,7 +206,6 @@
 :do { add list=EC_ASN range=274291 } on-error={}
 :do { add list=EC_ASN range=274278 } on-error={}
 :do { add list=EC_ASN range=274260 } on-error={}
-:do { add list=EC_ASN range=274252 } on-error={}
 :do { add list=EC_ASN range=274231 } on-error={}
 :do { add list=EC_ASN range=274196 } on-error={}
 :do { add list=EC_ASN range=274169 } on-error={}
