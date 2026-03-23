@@ -1,5 +1,5 @@
 # ASN Information in BG.
-# Last Updated: UTC 2026-03-22 01:27:48
+# Last Updated: UTC 2026-03-23 01:27:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BG ASN list"
@@ -37,23 +37,23 @@
 :do { add list=BG_ASN range=20911 } on-error={}
 :do { add list=BG_ASN range=57634 } on-error={}
 :do { add list=BG_ASN range=42446 } on-error={}
-:do { add list=BG_ASN range=34577 } on-error={}
 :do { add list=BG_ASN range=35773 } on-error={}
+:do { add list=BG_ASN range=34577 } on-error={}
+:do { add list=BG_ASN range=202309 } on-error={}
 :do { add list=BG_ASN range=204281 } on-error={}
+:do { add list=BG_ASN range=199996 } on-error={}
 :do { add list=BG_ASN range=60202 } on-error={}
 :do { add list=BG_ASN range=205138 } on-error={}
-:do { add list=BG_ASN range=202309 } on-error={}
-:do { add list=BG_ASN range=199996 } on-error={}
+:do { add list=BG_ASN range=39505 } on-error={}
+:do { add list=BG_ASN range=39251 } on-error={}
 :do { add list=BG_ASN range=206755 } on-error={}
 :do { add list=BG_ASN range=201225 } on-error={}
 :do { add list=BG_ASN range=198228 } on-error={}
-:do { add list=BG_ASN range=39505 } on-error={}
-:do { add list=BG_ASN range=39251 } on-error={}
 :do { add list=BG_ASN range=29030 } on-error={}
 :do { add list=BG_ASN range=34368 } on-error={}
 :do { add list=BG_ASN range=16344 } on-error={}
-:do { add list=BG_ASN range=41624 } on-error={}
 :do { add list=BG_ASN range=203380 } on-error={}
+:do { add list=BG_ASN range=41624 } on-error={}
 :do { add list=BG_ASN range=206383 } on-error={}
 :do { add list=BG_ASN range=49176 } on-error={}
 :do { add list=BG_ASN range=41782 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in TR.
-# Last Updated: UTC 2026-03-22 01:28:22
+# Last Updated: UTC 2026-03-23 01:27:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TR ASN list"
@@ -56,6 +56,7 @@
 :do { add list=TR_ASN range=62077 } on-error={}
 :do { add list=TR_ASN range=51540 } on-error={}
 :do { add list=TR_ASN range=49565 } on-error={}
+:do { add list=TR_ASN range=43352 } on-error={}
 :do { add list=TR_ASN range=3188 } on-error={}
 :do { add list=TR_ASN range=212219 } on-error={}
 :do { add list=TR_ASN range=16135 } on-error={}
@@ -75,7 +76,6 @@
 :do { add list=TR_ASN range=47883 } on-error={}
 :do { add list=TR_ASN range=44558 } on-error={}
 :do { add list=TR_ASN range=43356 } on-error={}
-:do { add list=TR_ASN range=43352 } on-error={}
 :do { add list=TR_ASN range=34478 } on-error={}
 :do { add list=TR_ASN range=33830 } on-error={}
 :do { add list=TR_ASN range=29434 } on-error={}
@@ -249,6 +249,7 @@
 :do { add list=TR_ASN range=211996 } on-error={}
 :do { add list=TR_ASN range=211953 } on-error={}
 :do { add list=TR_ASN range=211905 } on-error={}
+:do { add list=TR_ASN range=211814 } on-error={}
 :do { add list=TR_ASN range=211709 } on-error={}
 :do { add list=TR_ASN range=211686 } on-error={}
 :do { add list=TR_ASN range=211682 } on-error={}
@@ -617,7 +618,6 @@
 :do { add list=TR_ASN range=211887 } on-error={}
 :do { add list=TR_ASN range=211859 } on-error={}
 :do { add list=TR_ASN range=211851 } on-error={}
-:do { add list=TR_ASN range=211814 } on-error={}
 :do { add list=TR_ASN range=211735 } on-error={}
 :do { add list=TR_ASN range=211560 } on-error={}
 :do { add list=TR_ASN range=211558 } on-error={}
