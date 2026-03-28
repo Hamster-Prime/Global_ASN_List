@@ -1,5 +1,5 @@
 # ASN Information in MN.
-# Last Updated: UTC 2026-03-27 01:44:27
+# Last Updated: UTC 2026-03-28 01:24:06
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MN ASN list"
@@ -30,7 +30,6 @@
 :do { add list=MN_ASN range=139837 } on-error={}
 :do { add list=MN_ASN range=138907 } on-error={}
 :do { add list=MN_ASN range=137511 } on-error={}
-:do { add list=MN_ASN range=136936 } on-error={}
 :do { add list=MN_ASN range=135033 } on-error={}
 :do { add list=MN_ASN range=134356 } on-error={}
 :do { add list=MN_ASN range=134074 } on-error={}
@@ -52,5 +51,6 @@
 :do { add list=MN_ASN range=139650 } on-error={}
 :do { add list=MN_ASN range=139579 } on-error={}
 :do { add list=MN_ASN range=137982 } on-error={}
+:do { add list=MN_ASN range=136936 } on-error={}
 :do { add list=MN_ASN range=133851 } on-error={}
 :do { add list=MN_ASN range=131240 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in PY.
-# Last Updated: UTC 2026-03-27 01:47:33
+# Last Updated: UTC 2026-03-28 01:25:51
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PY ASN list"
@@ -23,8 +23,10 @@
 :do { add list=PY_ASN range=264733 } on-error={}
 :do { add list=PY_ASN range=64165 } on-error={}
 :do { add list=PY_ASN range=27795 } on-error={}
+:do { add list=PY_ASN range=27733 } on-error={}
 :do { add list=PY_ASN range=27669 } on-error={}
 :do { add list=PY_ASN range=266814 } on-error={}
+:do { add list=PY_ASN range=266694 } on-error={}
 :do { add list=PY_ASN range=265864 } on-error={}
 :do { add list=PY_ASN range=264770 } on-error={}
 :do { add list=PY_ASN range=264756 } on-error={}
@@ -43,7 +45,6 @@
 :do { add list=PY_ASN range=267885 } on-error={}
 :do { add list=PY_ASN range=267883 } on-error={}
 :do { add list=PY_ASN range=266831 } on-error={}
-:do { add list=PY_ASN range=266694 } on-error={}
 :do { add list=PY_ASN range=263732 } on-error={}
 :do { add list=PY_ASN range=263727 } on-error={}
 :do { add list=PY_ASN range=52445 } on-error={}
@@ -74,7 +75,6 @@
 :do { add list=PY_ASN range=262250 } on-error={}
 :do { add list=PY_ASN range=28033 } on-error={}
 :do { add list=PY_ASN range=27866 } on-error={}
-:do { add list=PY_ASN range=27733 } on-error={}
 :do { add list=PY_ASN range=27727 } on-error={}
 :do { add list=PY_ASN range=274306 } on-error={}
 :do { add list=PY_ASN range=274161 } on-error={}
