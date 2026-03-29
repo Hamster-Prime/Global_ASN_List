@@ -1,13 +1,13 @@
 # ASN Information in AL.
-# Last Updated: UTC 2026-03-28 01:24:56
+# Last Updated: UTC 2026-03-29 01:47:50
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AL ASN list"
 /routing filter num-list
 :do { add list=AL_ASN range=210464 } on-error={}
 :do { add list=AL_ASN range=198890 } on-error={}
-:do { add list=AL_ASN range=42313 } on-error={}
 :do { add list=AL_ASN range=29170 } on-error={}
+:do { add list=AL_ASN range=42313 } on-error={}
 :do { add list=AL_ASN range=35047 } on-error={}
 :do { add list=AL_ASN range=198279 } on-error={}
 :do { add list=AL_ASN range=50973 } on-error={}
@@ -26,13 +26,13 @@
 :do { add list=AL_ASN range=60471 } on-error={}
 :do { add list=AL_ASN range=39611 } on-error={}
 :do { add list=AL_ASN range=205923 } on-error={}
-:do { add list=AL_ASN range=197706 } on-error={}
 :do { add list=AL_ASN range=8661 } on-error={}
 :do { add list=AL_ASN range=58166 } on-error={}
 :do { add list=AL_ASN range=57388 } on-error={}
 :do { add list=AL_ASN range=33924 } on-error={}
 :do { add list=AL_ASN range=208734 } on-error={}
 :do { add list=AL_ASN range=203063 } on-error={}
+:do { add list=AL_ASN range=197706 } on-error={}
 :do { add list=AL_ASN range=60352 } on-error={}
 :do { add list=AL_ASN range=5576 } on-error={}
 :do { add list=AL_ASN range=35444 } on-error={}
@@ -51,6 +51,7 @@
 :do { add list=AL_ASN range=5414 } on-error={}
 :do { add list=AL_ASN range=50091 } on-error={}
 :do { add list=AL_ASN range=48265 } on-error={}
+:do { add list=AL_ASN range=41439 } on-error={}
 :do { add list=AL_ASN range=29238 } on-error={}
 :do { add list=AL_ASN range=216312 } on-error={}
 :do { add list=AL_ASN range=216280 } on-error={}
@@ -74,7 +75,6 @@
 :do { add list=AL_ASN range=6843 } on-error={}
 :do { add list=AL_ASN range=50616 } on-error={}
 :do { add list=AL_ASN range=42409 } on-error={}
-:do { add list=AL_ASN range=41439 } on-error={}
 :do { add list=AL_ASN range=39237 } on-error={}
 :do { add list=AL_ASN range=38916 } on-error={}
 :do { add list=AL_ASN range=31130 } on-error={}

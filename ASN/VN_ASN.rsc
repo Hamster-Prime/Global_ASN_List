@@ -1,5 +1,5 @@
 # ASN Information in VN.
-# Last Updated: UTC 2026-03-28 01:23:57
+# Last Updated: UTC 2026-03-29 01:46:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VN ASN list"
@@ -188,7 +188,6 @@
 :do { add list=VN_ASN range=150855 } on-error={}
 :do { add list=VN_ASN range=150837 } on-error={}
 :do { add list=VN_ASN range=150836 } on-error={}
-:do { add list=VN_ASN range=150824 } on-error={}
 :do { add list=VN_ASN range=150820 } on-error={}
 :do { add list=VN_ASN range=149160 } on-error={}
 :do { add list=VN_ASN range=149157 } on-error={}
@@ -391,6 +390,7 @@
 :do { add list=VN_ASN range=150842 } on-error={}
 :do { add list=VN_ASN range=150838 } on-error={}
 :do { add list=VN_ASN range=150828 } on-error={}
+:do { add list=VN_ASN range=150824 } on-error={}
 :do { add list=VN_ASN range=150823 } on-error={}
 :do { add list=VN_ASN range=150821 } on-error={}
 :do { add list=VN_ASN range=150819 } on-error={}
