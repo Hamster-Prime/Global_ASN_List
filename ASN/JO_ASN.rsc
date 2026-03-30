@@ -1,5 +1,5 @@
 # ASN Information in JO.
-# Last Updated: UTC 2026-03-29 01:48:10
+# Last Updated: UTC 2026-03-30 01:50:33
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JO ASN list"
@@ -9,8 +9,8 @@
 :do { add list=JO_ASN range=9038 } on-error={}
 :do { add list=JO_ASN range=8697 } on-error={}
 :do { add list=JO_ASN range=48832 } on-error={}
-:do { add list=JO_ASN range=47887 } on-error={}
 :do { add list=JO_ASN range=8376 } on-error={}
+:do { add list=JO_ASN range=47887 } on-error={}
 :do { add list=JO_ASN range=59451 } on-error={}
 :do { add list=JO_ASN range=50670 } on-error={}
 :do { add list=JO_ASN range=33831 } on-error={}
@@ -22,6 +22,7 @@
 :do { add list=JO_ASN range=38968 } on-error={}
 :do { add list=JO_ASN range=215270 } on-error={}
 :do { add list=JO_ASN range=211842 } on-error={}
+:do { add list=JO_ASN range=210084 } on-error={}
 :do { add list=JO_ASN range=209560 } on-error={}
 :do { add list=JO_ASN range=197921 } on-error={}
 :do { add list=JO_ASN range=9079 } on-error={}
@@ -45,7 +46,6 @@
 :do { add list=JO_ASN range=35282 } on-error={}
 :do { add list=JO_ASN range=212507 } on-error={}
 :do { add list=JO_ASN range=21088 } on-error={}
-:do { add list=JO_ASN range=210084 } on-error={}
 :do { add list=JO_ASN range=208212 } on-error={}
 :do { add list=JO_ASN range=207332 } on-error={}
 :do { add list=JO_ASN range=204719 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in KW.
-# Last Updated: UTC 2026-03-29 01:48:05
+# Last Updated: UTC 2026-03-30 01:50:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KW ASN list"

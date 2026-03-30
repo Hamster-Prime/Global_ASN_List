@@ -1,5 +1,5 @@
 # ASN Information in KZ.
-# Last Updated: UTC 2026-03-29 01:48:21
+# Last Updated: UTC 2026-03-30 01:50:43
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KZ ASN list"
@@ -90,7 +90,6 @@
 :do { add list=KZ_ASN range=48007 } on-error={}
 :do { add list=KZ_ASN range=44877 } on-error={}
 :do { add list=KZ_ASN range=44173 } on-error={}
-:do { add list=KZ_ASN range=43999 } on-error={}
 :do { add list=KZ_ASN range=43934 } on-error={}
 :do { add list=KZ_ASN range=42447 } on-error={}
 :do { add list=KZ_ASN range=41419 } on-error={}
@@ -146,6 +145,7 @@
 :do { add list=KZ_ASN range=50756 } on-error={}
 :do { add list=KZ_ASN range=49393 } on-error={}
 :do { add list=KZ_ASN range=48450 } on-error={}
+:do { add list=KZ_ASN range=43999 } on-error={}
 :do { add list=KZ_ASN range=41800 } on-error={}
 :do { add list=KZ_ASN range=41413 } on-error={}
 :do { add list=KZ_ASN range=39433 } on-error={}
