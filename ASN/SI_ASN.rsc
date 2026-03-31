@@ -1,5 +1,5 @@
 # ASN Information in SI.
-# Last Updated: UTC 2026-03-30 01:50:08
+# Last Updated: UTC 2026-03-31 01:46:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SI ASN list"
@@ -18,8 +18,8 @@
 :do { add list=SI_ASN range=51790 } on-error={}
 :do { add list=SI_ASN range=41427 } on-error={}
 :do { add list=SI_ASN range=5435 } on-error={}
-:do { add list=SI_ASN range=43128 } on-error={}
 :do { add list=SI_ASN range=44549 } on-error={}
+:do { add list=SI_ASN range=43128 } on-error={}
 :do { add list=SI_ASN range=198213 } on-error={}
 :do { add list=SI_ASN range=42207 } on-error={}
 :do { add list=SI_ASN range=6764 } on-error={}
@@ -38,13 +38,11 @@
 :do { add list=SI_ASN range=60973 } on-error={}
 :do { add list=SI_ASN range=50815 } on-error={}
 :do { add list=SI_ASN range=48894 } on-error={}
-:do { add list=SI_ASN range=44993 } on-error={}
 :do { add list=SI_ASN range=41828 } on-error={}
 :do { add list=SI_ASN range=29051 } on-error={}
 :do { add list=SI_ASN range=24629 } on-error={}
 :do { add list=SI_ASN range=203618 } on-error={}
 :do { add list=SI_ASN range=197843 } on-error={}
-:do { add list=SI_ASN range=197209 } on-error={}
 :do { add list=SI_ASN range=8558 } on-error={}
 :do { add list=SI_ASN range=58056 } on-error={}
 :do { add list=SI_ASN range=58046 } on-error={}
@@ -79,6 +77,7 @@
 :do { add list=SI_ASN range=47903 } on-error={}
 :do { add list=SI_ASN range=47336 } on-error={}
 :do { add list=SI_ASN range=45002 } on-error={}
+:do { add list=SI_ASN range=44993 } on-error={}
 :do { add list=SI_ASN range=44744 } on-error={}
 :do { add list=SI_ASN range=44632 } on-error={}
 :do { add list=SI_ASN range=44615 } on-error={}
@@ -181,6 +180,7 @@
 :do { add list=SI_ASN range=197441 } on-error={}
 :do { add list=SI_ASN range=197416 } on-error={}
 :do { add list=SI_ASN range=197266 } on-error={}
+:do { add list=SI_ASN range=197209 } on-error={}
 :do { add list=SI_ASN range=196837 } on-error={}
 :do { add list=SI_ASN range=196772 } on-error={}
 :do { add list=SI_ASN range=16184 } on-error={}

@@ -1,13 +1,13 @@
 # ASN Information in KW.
-# Last Updated: UTC 2026-03-30 01:50:28
+# Last Updated: UTC 2026-03-31 01:46:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KW ASN list"
 /routing filter num-list
 :do { add list=KW_ASN range=43852 } on-error={}
 :do { add list=KW_ASN range=3225 } on-error={}
-:do { add list=KW_ASN range=29357 } on-error={}
 :do { add list=KW_ASN range=21050 } on-error={}
+:do { add list=KW_ASN range=29357 } on-error={}
 :do { add list=KW_ASN range=47589 } on-error={}
 :do { add list=KW_ASN range=6412 } on-error={}
 :do { add list=KW_ASN range=9155 } on-error={}

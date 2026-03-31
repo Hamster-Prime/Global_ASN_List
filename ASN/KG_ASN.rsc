@@ -1,5 +1,5 @@
 # ASN Information in KG.
-# Last Updated: UTC 2026-03-30 01:50:47
+# Last Updated: UTC 2026-03-31 01:47:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KG ASN list"
