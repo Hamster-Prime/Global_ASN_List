@@ -1,11 +1,11 @@
 # ASN Information in FI.
-# Last Updated: UTC 2026-04-01 01:53:27
+# Last Updated: UTC 2026-04-02 01:29:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FI ASN list"
 /routing filter num-list
-:do { add list=FI_ASN range=214809 } on-error={}
 :do { add list=FI_ASN range=41666 } on-error={}
+:do { add list=FI_ASN range=214809 } on-error={}
 :do { add list=FI_ASN range=6667 } on-error={}
 :do { add list=FI_ASN range=1248 } on-error={}
 :do { add list=FI_ASN range=202053 } on-error={}
@@ -24,17 +24,17 @@
 :do { add list=FI_ASN range=13170 } on-error={}
 :do { add list=FI_ASN range=20904 } on-error={}
 :do { add list=FI_ASN range=1741 } on-error={}
-:do { add list=FI_ASN range=49282 } on-error={}
 :do { add list=FI_ASN range=204779 } on-error={}
+:do { add list=FI_ASN range=49282 } on-error={}
 :do { add list=FI_ASN range=58003 } on-error={}
 :do { add list=FI_ASN range=202509 } on-error={}
 :do { add list=FI_ASN range=51728 } on-error={}
 :do { add list=FI_ASN range=42343 } on-error={}
 :do { add list=FI_ASN range=60354 } on-error={}
-:do { add list=FI_ASN range=62022 } on-error={}
 :do { add list=FI_ASN range=39324 } on-error={}
-:do { add list=FI_ASN range=24751 } on-error={}
 :do { add list=FI_ASN range=207003 } on-error={}
+:do { add list=FI_ASN range=62022 } on-error={}
+:do { add list=FI_ASN range=24751 } on-error={}
 :do { add list=FI_ASN range=199231 } on-error={}
 :do { add list=FI_ASN range=1780 } on-error={}
 :do { add list=FI_ASN range=41369 } on-error={}
@@ -94,6 +94,7 @@
 :do { add list=FI_ASN range=51311 } on-error={}
 :do { add list=FI_ASN range=51188 } on-error={}
 :do { add list=FI_ASN range=50585 } on-error={}
+:do { add list=FI_ASN range=50296 } on-error={}
 :do { add list=FI_ASN range=50290 } on-error={}
 :do { add list=FI_ASN range=49762 } on-error={}
 :do { add list=FI_ASN range=49189 } on-error={}
@@ -146,6 +147,7 @@
 :do { add list=FI_ASN range=207261 } on-error={}
 :do { add list=FI_ASN range=207065 } on-error={}
 :do { add list=FI_ASN range=207038 } on-error={}
+:do { add list=FI_ASN range=207006 } on-error={}
 :do { add list=FI_ASN range=206927 } on-error={}
 :do { add list=FI_ASN range=206860 } on-error={}
 :do { add list=FI_ASN range=204609 } on-error={}
@@ -184,7 +186,6 @@
 :do { add list=FI_ASN range=51726 } on-error={}
 :do { add list=FI_ASN range=51473 } on-error={}
 :do { add list=FI_ASN range=50603 } on-error={}
-:do { add list=FI_ASN range=50296 } on-error={}
 :do { add list=FI_ASN range=49826 } on-error={}
 :do { add list=FI_ASN range=49670 } on-error={}
 :do { add list=FI_ASN range=49430 } on-error={}
@@ -242,7 +243,6 @@
 :do { add list=FI_ASN range=207390 } on-error={}
 :do { add list=FI_ASN range=207202 } on-error={}
 :do { add list=FI_ASN range=207041 } on-error={}
-:do { add list=FI_ASN range=207006 } on-error={}
 :do { add list=FI_ASN range=206520 } on-error={}
 :do { add list=FI_ASN range=206381 } on-error={}
 :do { add list=FI_ASN range=206364 } on-error={}

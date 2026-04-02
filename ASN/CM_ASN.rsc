@@ -1,5 +1,5 @@
 # ASN Information in CM.
-# Last Updated: UTC 2026-04-01 01:55:22
+# Last Updated: UTC 2026-04-02 01:32:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CM ASN list"

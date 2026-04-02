@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2026-04-01 01:53:42
+# Last Updated: UTC 2026-04-02 01:30:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
