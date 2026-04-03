@@ -1,5 +1,5 @@
 # ASN Information in JM.
-# Last Updated: UTC 2026-04-02 01:31:47
+# Last Updated: UTC 2026-04-03 01:46:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JM ASN list"
@@ -13,3 +13,4 @@
 :do { add list=JM_ASN range=10292 } on-error={}
 :do { add list=JM_ASN range=40143 } on-error={}
 :do { add list=JM_ASN range=395477 } on-error={}
+:do { add list=JM_ASN range=63094 } on-error={}

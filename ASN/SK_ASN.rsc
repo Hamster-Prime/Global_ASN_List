@@ -1,5 +1,5 @@
 # ASN Information in SK.
-# Last Updated: UTC 2026-04-02 01:30:16
+# Last Updated: UTC 2026-04-03 01:45:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SK ASN list"
@@ -14,8 +14,8 @@
 :do { add list=SK_ASN range=48326 } on-error={}
 :do { add list=SK_ASN range=15962 } on-error={}
 :do { add list=SK_ASN range=28952 } on-error={}
-:do { add list=SK_ASN range=34820 } on-error={}
 :do { add list=SK_ASN range=12905 } on-error={}
+:do { add list=SK_ASN range=34820 } on-error={}
 :do { add list=SK_ASN range=42005 } on-error={}
 :do { add list=SK_ASN range=15497 } on-error={}
 :do { add list=SK_ASN range=49115 } on-error={}
@@ -26,14 +26,14 @@
 :do { add list=SK_ASN range=209531 } on-error={}
 :do { add list=SK_ASN range=35328 } on-error={}
 :do { add list=SK_ASN range=50953 } on-error={}
-:do { add list=SK_ASN range=56349 } on-error={}
 :do { add list=SK_ASN range=51013 } on-error={}
+:do { add list=SK_ASN range=56349 } on-error={}
 :do { add list=SK_ASN range=43248 } on-error={}
 :do { add list=SK_ASN range=56656 } on-error={}
 :do { add list=SK_ASN range=38949 } on-error={}
 :do { add list=SK_ASN range=61241 } on-error={}
-:do { add list=SK_ASN range=56800 } on-error={}
 :do { add list=SK_ASN range=2607 } on-error={}
+:do { add list=SK_ASN range=56800 } on-error={}
 :do { add list=SK_ASN range=43653 } on-error={}
 :do { add list=SK_ASN range=44185 } on-error={}
 :do { add list=SK_ASN range=214087 } on-error={}
@@ -187,6 +187,7 @@
 :do { add list=SK_ASN range=201841 } on-error={}
 :do { add list=SK_ASN range=200860 } on-error={}
 :do { add list=SK_ASN range=200771 } on-error={}
+:do { add list=SK_ASN range=199639 } on-error={}
 :do { add list=SK_ASN range=198543 } on-error={}
 :do { add list=SK_ASN range=198113 } on-error={}
 :do { add list=SK_ASN range=197642 } on-error={}
@@ -202,4 +203,3 @@
 :do { add list=SK_ASN range=47867 } on-error={}
 :do { add list=SK_ASN range=213906 } on-error={}
 :do { add list=SK_ASN range=204017 } on-error={}
-:do { add list=SK_ASN range=199639 } on-error={}
