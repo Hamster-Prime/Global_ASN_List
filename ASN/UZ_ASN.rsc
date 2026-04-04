@@ -1,5 +1,5 @@
 # ASN Information in UZ.
-# Last Updated: UTC 2026-04-03 01:45:38
+# Last Updated: UTC 2026-04-04 01:26:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UZ ASN list"
@@ -37,6 +37,7 @@
 :do { add list=UZ_ASN range=61019 } on-error={}
 :do { add list=UZ_ASN range=59706 } on-error={}
 :do { add list=UZ_ASN range=59668 } on-error={}
+:do { add list=UZ_ASN range=59454 } on-error={}
 :do { add list=UZ_ASN range=58330 } on-error={}
 :do { add list=UZ_ASN range=57975 } on-error={}
 :do { add list=UZ_ASN range=57016 } on-error={}

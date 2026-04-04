@@ -1,5 +1,5 @@
 # ASN Information in EC.
-# Last Updated: UTC 2026-04-03 01:46:05
+# Last Updated: UTC 2026-04-04 01:27:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EC ASN list"
