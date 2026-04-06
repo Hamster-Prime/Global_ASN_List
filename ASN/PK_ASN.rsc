@@ -1,5 +1,5 @@
 # ASN Information in PK.
-# Last Updated: UTC 2026-04-05 01:48:27
+# Last Updated: UTC 2026-04-06 01:49:32
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PK ASN list"
@@ -138,6 +138,7 @@
 :do { add list=PK_ASN range=149012 } on-error={}
 :do { add list=PK_ASN range=147315 } on-error={}
 :do { add list=PK_ASN range=147302 } on-error={}
+:do { add list=PK_ASN range=147055 } on-error={}
 :do { add list=PK_ASN range=147031 } on-error={}
 :do { add list=PK_ASN range=142559 } on-error={}
 :do { add list=PK_ASN range=142179 } on-error={}
@@ -246,7 +247,6 @@
 :do { add list=PK_ASN range=149023 } on-error={}
 :do { add list=PK_ASN range=149021 } on-error={}
 :do { add list=PK_ASN range=147291 } on-error={}
-:do { add list=PK_ASN range=147055 } on-error={}
 :do { add list=PK_ASN range=142618 } on-error={}
 :do { add list=PK_ASN range=142552 } on-error={}
 :do { add list=PK_ASN range=142421 } on-error={}
