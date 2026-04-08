@@ -1,5 +1,5 @@
 # ASN Information in IL.
-# Last Updated: UTC 2026-04-07 01:47:50
+# Last Updated: UTC 2026-04-08 01:48:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IL ASN list"
@@ -117,7 +117,6 @@
 :do { add list=IL_ASN range=30744 } on-error={}
 :do { add list=IL_ASN range=29585 } on-error={}
 :do { add list=IL_ASN range=28783 } on-error={}
-:do { add list=IL_ASN range=26954 } on-error={}
 :do { add list=IL_ASN range=215423 } on-error={}
 :do { add list=IL_ASN range=215309 } on-error={}
 :do { add list=IL_ASN range=215229 } on-error={}
@@ -235,6 +234,7 @@
 :do { add list=IL_ASN range=31578 } on-error={}
 :do { add list=IL_ASN range=31417 } on-error={}
 :do { add list=IL_ASN range=29165 } on-error={}
+:do { add list=IL_ASN range=26954 } on-error={}
 :do { add list=IL_ASN range=25565 } on-error={}
 :do { add list=IL_ASN range=25052 } on-error={}
 :do { add list=IL_ASN range=216429 } on-error={}

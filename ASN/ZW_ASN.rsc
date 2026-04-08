@@ -1,13 +1,13 @@
 # ASN Information in ZW.
-# Last Updated: UTC 2026-04-07 01:49:16
+# Last Updated: UTC 2026-04-08 01:49:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZW ASN list"
 /routing filter num-list
-:do { add list=ZW_ASN range=37204 } on-error={}
-:do { add list=ZW_ASN range=37183 } on-error={}
 :do { add list=ZW_ASN range=329006 } on-error={}
 :do { add list=ZW_ASN range=328269 } on-error={}
+:do { add list=ZW_ASN range=37204 } on-error={}
+:do { add list=ZW_ASN range=37183 } on-error={}
 :do { add list=ZW_ASN range=37184 } on-error={}
 :do { add list=ZW_ASN range=37568 } on-error={}
 :do { add list=ZW_ASN range=31856 } on-error={}
