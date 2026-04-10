@@ -1,5 +1,5 @@
 # ASN Information in NI.
-# Last Updated: UTC 2026-04-09 01:28:47
+# Last Updated: UTC 2026-04-10 01:52:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NI ASN list"

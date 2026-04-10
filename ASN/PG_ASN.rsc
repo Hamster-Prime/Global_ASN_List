@@ -1,5 +1,5 @@
 # ASN Information in PG.
-# Last Updated: UTC 2026-04-09 01:28:15
+# Last Updated: UTC 2026-04-10 01:52:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PG ASN list"
@@ -25,7 +25,6 @@
 :do { add list=PG_ASN range=151398 } on-error={}
 :do { add list=PG_ASN range=142269 } on-error={}
 :do { add list=PG_ASN range=140665 } on-error={}
-:do { add list=PG_ASN range=139783 } on-error={}
 :do { add list=PG_ASN range=139778 } on-error={}
 :do { add list=PG_ASN range=138902 } on-error={}
 :do { add list=PG_ASN range=137054 } on-error={}

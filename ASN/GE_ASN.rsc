@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-04-09 01:28:08
+# Last Updated: UTC 2026-04-10 01:52:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
@@ -15,14 +15,14 @@
 :do { add list=GE_ASN range=212318 } on-error={}
 :do { add list=GE_ASN range=20545 } on-error={}
 :do { add list=GE_ASN range=215348 } on-error={}
-:do { add list=GE_ASN range=216463 } on-error={}
 :do { add list=GE_ASN range=209046 } on-error={}
+:do { add list=GE_ASN range=216463 } on-error={}
 :do { add list=GE_ASN range=208744 } on-error={}
+:do { add list=GE_ASN range=207359 } on-error={}
 :do { add list=GE_ASN range=51142 } on-error={}
 :do { add list=GE_ASN range=49254 } on-error={}
 :do { add list=GE_ASN range=216300 } on-error={}
 :do { add list=GE_ASN range=21276 } on-error={}
-:do { add list=GE_ASN range=207359 } on-error={}
 :do { add list=GE_ASN range=201651 } on-error={}
 :do { add list=GE_ASN range=57881 } on-error={}
 :do { add list=GE_ASN range=56855 } on-error={}
@@ -49,6 +49,7 @@
 :do { add list=GE_ASN range=57743 } on-error={}
 :do { add list=GE_ASN range=57473 } on-error={}
 :do { add list=GE_ASN range=57445 } on-error={}
+:do { add list=GE_ASN range=56966 } on-error={}
 :do { add list=GE_ASN range=51841 } on-error={}
 :do { add list=GE_ASN range=51010 } on-error={}
 :do { add list=GE_ASN range=50151 } on-error={}
@@ -97,7 +98,6 @@
 :do { add list=GE_ASN range=59503 } on-error={}
 :do { add list=GE_ASN range=58227 } on-error={}
 :do { add list=GE_ASN range=57768 } on-error={}
-:do { add list=GE_ASN range=56966 } on-error={}
 :do { add list=GE_ASN range=56811 } on-error={}
 :do { add list=GE_ASN range=50647 } on-error={}
 :do { add list=GE_ASN range=50514 } on-error={}
@@ -138,6 +138,7 @@
 :do { add list=GE_ASN range=201575 } on-error={}
 :do { add list=GE_ASN range=200568 } on-error={}
 :do { add list=GE_ASN range=200476 } on-error={}
+:do { add list=GE_ASN range=199625 } on-error={}
 :do { add list=GE_ASN range=199595 } on-error={}
 :do { add list=GE_ASN range=199242 } on-error={}
 :do { add list=GE_ASN range=198874 } on-error={}

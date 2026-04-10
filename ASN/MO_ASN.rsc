@@ -1,11 +1,11 @@
 # ASN Information in MO.
-# Last Updated: UTC 2026-04-09 01:26:14
+# Last Updated: UTC 2026-04-10 01:50:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MO ASN list"
 /routing filter num-list
-:do { add list=MO_ASN range=133613 } on-error={}
 :do { add list=MO_ASN range=47674 } on-error={}
+:do { add list=MO_ASN range=133613 } on-error={}
 :do { add list=MO_ASN range=4609 } on-error={}
 :do { add list=MO_ASN range=201763 } on-error={}
 :do { add list=MO_ASN range=136167 } on-error={}
@@ -14,4 +14,5 @@
 :do { add list=MO_ASN range=137538 } on-error={}
 :do { add list=MO_ASN range=136793 } on-error={}
 :do { add list=MO_ASN range=134550 } on-error={}
+:do { add list=MO_ASN range=138330 } on-error={}
 :do { add list=MO_ASN range=132088 } on-error={}

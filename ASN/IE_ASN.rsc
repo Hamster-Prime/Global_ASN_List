@@ -1,5 +1,5 @@
 # ASN Information in IE.
-# Last Updated: UTC 2026-04-09 01:26:51
+# Last Updated: UTC 2026-04-10 01:50:43
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IE ASN list"
@@ -11,9 +11,9 @@
 :do { add list=IE_ASN range=51865 } on-error={}
 :do { add list=IE_ASN range=198046 } on-error={}
 :do { add list=IE_ASN range=48305 } on-error={}
-:do { add list=IE_ASN range=34245 } on-error={}
 :do { add list=IE_ASN range=207044 } on-error={}
 :do { add list=IE_ASN range=47720 } on-error={}
+:do { add list=IE_ASN range=34245 } on-error={}
 :do { add list=IE_ASN range=1213 } on-error={}
 :do { add list=IE_ASN range=216302 } on-error={}
 :do { add list=IE_ASN range=41073 } on-error={}
@@ -47,6 +47,7 @@
 :do { add list=IE_ASN range=62129 } on-error={}
 :do { add list=IE_ASN range=43192 } on-error={}
 :do { add list=IE_ASN range=212312 } on-error={}
+:do { add list=IE_ASN range=61145 } on-error={}
 :do { add list=IE_ASN range=39093 } on-error={}
 :do { add list=IE_ASN range=216153 } on-error={}
 :do { add list=IE_ASN range=200562 } on-error={}
@@ -55,7 +56,6 @@
 :do { add list=IE_ASN range=30900 } on-error={}
 :do { add list=IE_ASN range=2128 } on-error={}
 :do { add list=IE_ASN range=203754 } on-error={}
-:do { add list=IE_ASN range=61145 } on-error={}
 :do { add list=IE_ASN range=43515 } on-error={}
 :do { add list=IE_ASN range=200807 } on-error={}
 :do { add list=IE_ASN range=15612 } on-error={}
@@ -140,6 +140,7 @@
 :do { add list=IE_ASN range=199170 } on-error={}
 :do { add list=IE_ASN range=196737 } on-error={}
 :do { add list=IE_ASN range=1197 } on-error={}
+:do { add list=IE_ASN range=9059 } on-error={}
 :do { add list=IE_ASN range=9055 } on-error={}
 :do { add list=IE_ASN range=62017 } on-error={}
 :do { add list=IE_ASN range=61314 } on-error={}
@@ -200,6 +201,7 @@
 :do { add list=IE_ASN range=15751 } on-error={}
 :do { add list=IE_ASN range=15405 } on-error={}
 :do { add list=IE_ASN range=12388 } on-error={}
+:do { add list=IE_ASN range=56638 } on-error={}
 :do { add list=IE_ASN range=213368 } on-error={}
 :do { add list=IE_ASN range=213236 } on-error={}
 :do { add list=IE_ASN range=212925 } on-error={}
@@ -210,6 +212,8 @@
 :do { add list=IE_ASN range=207662 } on-error={}
 :do { add list=IE_ASN range=206824 } on-error={}
 :do { add list=IE_ASN range=206290 } on-error={}
+:do { add list=IE_ASN range=205789 } on-error={}
 :do { add list=IE_ASN range=205494 } on-error={}
 :do { add list=IE_ASN range=205088 } on-error={}
 :do { add list=IE_ASN range=204882 } on-error={}
+:do { add list=IE_ASN range=135343 } on-error={}
