@@ -1,11 +1,11 @@
 # ASN Information in HT.
-# Last Updated: UTC 2026-04-10 01:52:53
+# Last Updated: UTC 2026-04-11 01:30:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HT ASN list"
 /routing filter num-list
-:do { add list=HT_ASN range=27759 } on-error={}
 :do { add list=HT_ASN range=52260 } on-error={}
+:do { add list=HT_ASN range=27759 } on-error={}
 :do { add list=HT_ASN range=27653 } on-error={}
 :do { add list=HT_ASN range=263685 } on-error={}
 :do { add list=HT_ASN range=271897 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in NI.
-# Last Updated: UTC 2026-04-10 01:52:45
+# Last Updated: UTC 2026-04-11 01:30:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NI ASN list"
@@ -26,5 +26,6 @@
 :do { add list=NI_ASN range=271938 } on-error={}
 :do { add list=NI_ASN range=263760 } on-error={}
 :do { add list=NI_ASN range=263177 } on-error={}
+:do { add list=NI_ASN range=262243 } on-error={}
 :do { add list=NI_ASN range=214969 } on-error={}
 :do { add list=NI_ASN range=19447 } on-error={}

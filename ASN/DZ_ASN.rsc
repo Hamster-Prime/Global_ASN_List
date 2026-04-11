@@ -1,5 +1,5 @@
 # ASN Information in DZ.
-# Last Updated: UTC 2026-04-10 01:52:58
+# Last Updated: UTC 2026-04-11 01:30:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DZ ASN list"

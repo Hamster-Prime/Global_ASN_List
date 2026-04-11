@@ -1,5 +1,5 @@
 # ASN Information in MX.
-# Last Updated: UTC 2026-04-10 01:52:24
+# Last Updated: UTC 2026-04-11 01:30:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MX ASN list"
@@ -25,14 +25,14 @@
 :do { add list=MX_ASN range=28469 } on-error={}
 :do { add list=MX_ASN range=22908 } on-error={}
 :do { add list=MX_ASN range=28409 } on-error={}
-:do { add list=MX_ASN range=28545 } on-error={}
 :do { add list=MX_ASN range=22894 } on-error={}
-:do { add list=MX_ASN range=28509 } on-error={}
+:do { add list=MX_ASN range=28545 } on-error={}
 :do { add list=MX_ASN range=265605 } on-error={}
+:do { add list=MX_ASN range=28509 } on-error={}
+:do { add list=MX_ASN range=28435 } on-error={}
 :do { add list=MX_ASN range=270126 } on-error={}
 :do { add list=MX_ASN range=13591 } on-error={}
 :do { add list=MX_ASN range=28546 } on-error={}
-:do { add list=MX_ASN range=28435 } on-error={}
 :do { add list=MX_ASN range=278 } on-error={}
 :do { add list=MX_ASN range=265622 } on-error={}
 :do { add list=MX_ASN range=28539 } on-error={}
@@ -55,7 +55,6 @@
 :do { add list=MX_ASN range=270165 } on-error={}
 :do { add list=MX_ASN range=265611 } on-error={}
 :do { add list=MX_ASN range=265592 } on-error={}
-:do { add list=MX_ASN range=265556 } on-error={}
 :do { add list=MX_ASN range=263167 } on-error={}
 :do { add list=MX_ASN range=22011 } on-error={}
 :do { add list=MX_ASN range=18592 } on-error={}
@@ -68,13 +67,12 @@
 :do { add list=MX_ASN range=28382 } on-error={}
 :do { add list=MX_ASN range=270186 } on-error={}
 :do { add list=MX_ASN range=265606 } on-error={}
-:do { add list=MX_ASN range=265594 } on-error={}
 :do { add list=MX_ASN range=265590 } on-error={}
 :do { add list=MX_ASN range=265574 } on-error={}
+:do { add list=MX_ASN range=265556 } on-error={}
 :do { add list=MX_ASN range=265550 } on-error={}
 :do { add list=MX_ASN range=265540 } on-error={}
 :do { add list=MX_ASN range=265535 } on-error={}
-:do { add list=MX_ASN range=265525 } on-error={}
 :do { add list=MX_ASN range=265518 } on-error={}
 :do { add list=MX_ASN range=262916 } on-error={}
 :do { add list=MX_ASN range=11519 } on-error={}
@@ -96,10 +94,12 @@
 :do { add list=MX_ASN range=265619 } on-error={}
 :do { add list=MX_ASN range=265615 } on-error={}
 :do { add list=MX_ASN range=265612 } on-error={}
+:do { add list=MX_ASN range=265594 } on-error={}
 :do { add list=MX_ASN range=265566 } on-error={}
 :do { add list=MX_ASN range=265559 } on-error={}
 :do { add list=MX_ASN range=265531 } on-error={}
 :do { add list=MX_ASN range=265529 } on-error={}
+:do { add list=MX_ASN range=265525 } on-error={}
 :do { add list=MX_ASN range=263157 } on-error={}
 :do { add list=MX_ASN range=262913 } on-error={}
 :do { add list=MX_ASN range=2549 } on-error={}
@@ -161,7 +161,6 @@
 :do { add list=MX_ASN range=265503 } on-error={}
 :do { add list=MX_ASN range=263150 } on-error={}
 :do { add list=MX_ASN range=262944 } on-error={}
-:do { add list=MX_ASN range=22882 } on-error={}
 :do { add list=MX_ASN range=21692 } on-error={}
 :do { add list=MX_ASN range=21520 } on-error={}
 :do { add list=MX_ASN range=16596 } on-error={}
@@ -177,7 +176,6 @@
 :do { add list=MX_ASN range=28561 } on-error={}
 :do { add list=MX_ASN range=28552 } on-error={}
 :do { add list=MX_ASN range=28551 } on-error={}
-:do { add list=MX_ASN range=28549 } on-error={}
 :do { add list=MX_ASN range=28547 } on-error={}
 :do { add list=MX_ASN range=28535 } on-error={}
 :do { add list=MX_ASN range=28532 } on-error={}
@@ -189,7 +187,6 @@
 :do { add list=MX_ASN range=28515 } on-error={}
 :do { add list=MX_ASN range=28514 } on-error={}
 :do { add list=MX_ASN range=28513 } on-error={}
-:do { add list=MX_ASN range=28512 } on-error={}
 :do { add list=MX_ASN range=28506 } on-error={}
 :do { add list=MX_ASN range=28502 } on-error={}
 :do { add list=MX_ASN range=28496 } on-error={}
@@ -197,6 +194,7 @@
 :do { add list=MX_ASN range=28466 } on-error={}
 :do { add list=MX_ASN range=28463 } on-error={}
 :do { add list=MX_ASN range=28453 } on-error={}
+:do { add list=MX_ASN range=28447 } on-error={}
 :do { add list=MX_ASN range=28445 } on-error={}
 :do { add list=MX_ASN range=28436 } on-error={}
 :do { add list=MX_ASN range=28429 } on-error={}
@@ -310,6 +308,7 @@
 :do { add list=MX_ASN range=28557 } on-error={}
 :do { add list=MX_ASN range=28556 } on-error={}
 :do { add list=MX_ASN range=28553 } on-error={}
+:do { add list=MX_ASN range=28549 } on-error={}
 :do { add list=MX_ASN range=28544 } on-error={}
 :do { add list=MX_ASN range=28543 } on-error={}
 :do { add list=MX_ASN range=28541 } on-error={}
@@ -320,6 +319,7 @@
 :do { add list=MX_ASN range=28530 } on-error={}
 :do { add list=MX_ASN range=28520 } on-error={}
 :do { add list=MX_ASN range=28519 } on-error={}
+:do { add list=MX_ASN range=28512 } on-error={}
 :do { add list=MX_ASN range=28505 } on-error={}
 :do { add list=MX_ASN range=28503 } on-error={}
 :do { add list=MX_ASN range=28494 } on-error={}
@@ -336,7 +336,6 @@
 :do { add list=MX_ASN range=28454 } on-error={}
 :do { add list=MX_ASN range=28452 } on-error={}
 :do { add list=MX_ASN range=28448 } on-error={}
-:do { add list=MX_ASN range=28447 } on-error={}
 :do { add list=MX_ASN range=28446 } on-error={}
 :do { add list=MX_ASN range=28443 } on-error={}
 :do { add list=MX_ASN range=28440 } on-error={}
@@ -361,6 +360,7 @@
 :do { add list=MX_ASN range=27683 } on-error={}
 :do { add list=MX_ASN range=27681 } on-error={}
 :do { add list=MX_ASN range=27672 } on-error={}
+:do { add list=MX_ASN range=274406 } on-error={}
 :do { add list=MX_ASN range=273307 } on-error={}
 :do { add list=MX_ASN range=273303 } on-error={}
 :do { add list=MX_ASN range=273302 } on-error={}
@@ -398,6 +398,7 @@
 :do { add list=MX_ASN range=272355 } on-error={}
 :do { add list=MX_ASN range=272345 } on-error={}
 :do { add list=MX_ASN range=272344 } on-error={}
+:do { add list=MX_ASN range=272339 } on-error={}
 :do { add list=MX_ASN range=272336 } on-error={}
 :do { add list=MX_ASN range=272330 } on-error={}
 :do { add list=MX_ASN range=272322 } on-error={}
@@ -472,6 +473,7 @@
 :do { add list=MX_ASN range=262925 } on-error={}
 :do { add list=MX_ASN range=262920 } on-error={}
 :do { add list=MX_ASN range=262914 } on-error={}
+:do { add list=MX_ASN range=22882 } on-error={}
 :do { add list=MX_ASN range=22566 } on-error={}
 :do { add list=MX_ASN range=20173 } on-error={}
 :do { add list=MX_ASN range=18532 } on-error={}
@@ -487,7 +489,6 @@
 :do { add list=MX_ASN range=28455 } on-error={}
 :do { add list=MX_ASN range=28400 } on-error={}
 :do { add list=MX_ASN range=27661 } on-error={}
-:do { add list=MX_ASN range=274406 } on-error={}
 :do { add list=MX_ASN range=274403 } on-error={}
 :do { add list=MX_ASN range=274399 } on-error={}
 :do { add list=MX_ASN range=273282 } on-error={}
@@ -504,7 +505,6 @@
 :do { add list=MX_ASN range=272349 } on-error={}
 :do { add list=MX_ASN range=272346 } on-error={}
 :do { add list=MX_ASN range=272343 } on-error={}
-:do { add list=MX_ASN range=272339 } on-error={}
 :do { add list=MX_ASN range=272337 } on-error={}
 :do { add list=MX_ASN range=272329 } on-error={}
 :do { add list=MX_ASN range=272327 } on-error={}
@@ -529,6 +529,7 @@
 :do { add list=MX_ASN range=270204 } on-error={}
 :do { add list=MX_ASN range=270181 } on-error={}
 :do { add list=MX_ASN range=270177 } on-error={}
+:do { add list=MX_ASN range=270174 } on-error={}
 :do { add list=MX_ASN range=270171 } on-error={}
 :do { add list=MX_ASN range=270170 } on-error={}
 :do { add list=MX_ASN range=265626 } on-error={}
