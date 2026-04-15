@@ -1,13 +1,13 @@
 # ASN Information in EG.
-# Last Updated: UTC 2026-04-14 01:54:44
+# Last Updated: UTC 2026-04-15 01:51:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EG ASN list"
 /routing filter num-list
 :do { add list=EG_ASN range=8452 } on-error={}
 :do { add list=EG_ASN range=24835 } on-error={}
-:do { add list=EG_ASN range=24863 } on-error={}
 :do { add list=EG_ASN range=36992 } on-error={}
+:do { add list=EG_ASN range=24863 } on-error={}
 :do { add list=EG_ASN range=20928 } on-error={}
 :do { add list=EG_ASN range=6879 } on-error={}
 :do { add list=EG_ASN range=6127 } on-error={}

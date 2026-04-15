@@ -1,11 +1,11 @@
 # ASN Information in SA.
-# Last Updated: UTC 2026-04-14 01:53:38
+# Last Updated: UTC 2026-04-15 01:50:18
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SA ASN list"
 /routing filter num-list
-:do { add list=SA_ASN range=48237 } on-error={}
 :do { add list=SA_ASN range=39386 } on-error={}
+:do { add list=SA_ASN range=48237 } on-error={}
 :do { add list=SA_ASN range=35753 } on-error={}
 :do { add list=SA_ASN range=214329 } on-error={}
 :do { add list=SA_ASN range=47794 } on-error={}
@@ -23,14 +23,14 @@
 :do { add list=SA_ASN range=41176 } on-error={}
 :do { add list=SA_ASN range=30815 } on-error={}
 :do { add list=SA_ASN range=42943 } on-error={}
-:do { add list=SA_ASN range=29690 } on-error={}
+:do { add list=SA_ASN range=60161 } on-error={}
 :do { add list=SA_ASN range=58250 } on-error={}
 :do { add list=SA_ASN range=49240 } on-error={}
+:do { add list=SA_ASN range=29690 } on-error={}
 :do { add list=SA_ASN range=213473 } on-error={}
 :do { add list=SA_ASN range=203378 } on-error={}
 :do { add list=SA_ASN range=198795 } on-error={}
 :do { add list=SA_ASN range=61073 } on-error={}
-:do { add list=SA_ASN range=60161 } on-error={}
 :do { add list=SA_ASN range=51975 } on-error={}
 :do { add list=SA_ASN range=49257 } on-error={}
 :do { add list=SA_ASN range=48937 } on-error={}
@@ -85,7 +85,6 @@
 :do { add list=SA_ASN range=214156 } on-error={}
 :do { add list=SA_ASN range=212758 } on-error={}
 :do { add list=SA_ASN range=212436 } on-error={}
-:do { add list=SA_ASN range=211226 } on-error={}
 :do { add list=SA_ASN range=21002 } on-error={}
 :do { add list=SA_ASN range=205251 } on-error={}
 :do { add list=SA_ASN range=204011 } on-error={}
@@ -143,6 +142,7 @@
 :do { add list=SA_ASN range=213838 } on-error={}
 :do { add list=SA_ASN range=212848 } on-error={}
 :do { add list=SA_ASN range=212173 } on-error={}
+:do { add list=SA_ASN range=211226 } on-error={}
 :do { add list=SA_ASN range=211050 } on-error={}
 :do { add list=SA_ASN range=210248 } on-error={}
 :do { add list=SA_ASN range=209497 } on-error={}
