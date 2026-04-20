@@ -1,5 +1,5 @@
 # ASN Information in HN.
-# Last Updated: UTC 2026-04-19 01:58:41
+# Last Updated: UTC 2026-04-20 02:00:39
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HN ASN list"
@@ -40,7 +40,6 @@
 :do { add list=HN_ASN range=269973 } on-error={}
 :do { add list=HN_ASN range=269780 } on-error={}
 :do { add list=HN_ASN range=267761 } on-error={}
-:do { add list=HN_ASN range=267760 } on-error={}
 :do { add list=HN_ASN range=267737 } on-error={}
 :do { add list=HN_ASN range=265820 } on-error={}
 :do { add list=HN_ASN range=265788 } on-error={}
@@ -52,7 +51,6 @@
 :do { add list=HN_ASN range=263234 } on-error={}
 :do { add list=HN_ASN range=263179 } on-error={}
 :do { add list=HN_ASN range=262205 } on-error={}
-:do { add list=HN_ASN range=23383 } on-error={}
 :do { add list=HN_ASN range=52422 } on-error={}
 :do { add list=HN_ASN range=52390 } on-error={}
 :do { add list=HN_ASN range=28084 } on-error={}
@@ -63,6 +61,7 @@
 :do { add list=HN_ASN range=274085 } on-error={}
 :do { add list=HN_ASN range=274074 } on-error={}
 :do { add list=HN_ASN range=273980 } on-error={}
+:do { add list=HN_ASN range=273916 } on-error={}
 :do { add list=HN_ASN range=273887 } on-error={}
 :do { add list=HN_ASN range=273160 } on-error={}
 :do { add list=HN_ASN range=272916 } on-error={}
@@ -76,6 +75,7 @@
 :do { add list=HN_ASN range=269800 } on-error={}
 :do { add list=HN_ASN range=269729 } on-error={}
 :do { add list=HN_ASN range=267803 } on-error={}
+:do { add list=HN_ASN range=267760 } on-error={}
 :do { add list=HN_ASN range=266842 } on-error={}
 :do { add list=HN_ASN range=266827 } on-error={}
 :do { add list=HN_ASN range=266820 } on-error={}
@@ -93,10 +93,10 @@
 :do { add list=HN_ASN range=263694 } on-error={}
 :do { add list=HN_ASN range=263690 } on-error={}
 :do { add list=HN_ASN range=263239 } on-error={}
+:do { add list=HN_ASN range=23383 } on-error={}
 :do { add list=HN_ASN range=274125 } on-error={}
 :do { add list=HN_ASN range=274023 } on-error={}
 :do { add list=HN_ASN range=273972 } on-error={}
-:do { add list=HN_ASN range=273916 } on-error={}
 :do { add list=HN_ASN range=271981 } on-error={}
 :do { add list=HN_ASN range=269866 } on-error={}
 :do { add list=HN_ASN range=266865 } on-error={}
