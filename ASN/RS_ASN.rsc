@@ -1,12 +1,12 @@
 # ASN Information in RS.
-# Last Updated: UTC 2026-04-23 01:57:06
+# Last Updated: UTC 2026-04-24 01:57:58
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
 /routing filter num-list
 :do { add list=RS_ASN range=15958 } on-error={}
-:do { add list=RS_ASN range=21215 } on-error={}
 :do { add list=RS_ASN range=13004 } on-error={}
+:do { add list=RS_ASN range=21215 } on-error={}
 :do { add list=RS_ASN range=8400 } on-error={}
 :do { add list=RS_ASN range=31042 } on-error={}
 :do { add list=RS_ASN range=9125 } on-error={}
