@@ -1,5 +1,5 @@
 # ASN Information in LK.
-# Last Updated: UTC 2026-04-24 01:57:12
+# Last Updated: UTC 2026-04-25 01:47:32
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LK ASN list"
@@ -24,4 +24,3 @@
 :do { add list=LK_ASN range=153563 } on-error={}
 :do { add list=LK_ASN range=151197 } on-error={}
 :do { add list=LK_ASN range=139731 } on-error={}
-:do { add list=LK_ASN range=204307 } on-error={}
