@@ -1,5 +1,5 @@
 === ASN信息获取汇总 ===
-获取时间: 2026-04-26 02:02:31
+获取时间: 2026-04-27 02:05:42
 ==================================================
 
 CN: 5229 个ASN
@@ -12,25 +12,25 @@ LA: 29 个ASN
 KH: 102 个ASN
 TH: 474 个ASN
 MM: 131 个ASN
-JP: 741 个ASN
+JP: 742 个ASN
 KR: 881 个ASN
 KP: 1 个ASN
 MN: 50 个ASN
 SG: 454 个ASN
 MY: 269 个ASN
-ID: 2838 个ASN
+ID: 2837 个ASN
 BN: 7 个ASN
 TL: 11 个ASN
-IN: 2907 个ASN
-PK: 307 个ASN
+IN: 2906 个ASN
+PK: 308 个ASN
 BD: 1534 个ASN
 LK: 20 个ASN
-NP: 147 个ASN
+NP: 148 个ASN
 BT: 25 个ASN
 MV: 15 个ASN
-DE: 2527 个ASN
+DE: 2528 个ASN
 FR: 1514 个ASN
-GB: 2299 个ASN
+GB: 2301 个ASN
 IE: 208 个ASN
 IT: 1104 个ASN
 ES: 961 个ASN
@@ -40,21 +40,21 @@ BE: 295 个ASN
 LU: 106 个ASN
 CH: 784 个ASN
 AT: 640 个ASN
-DK: 346 个ASN
-SE: 671 个ASN
+DK: 347 个ASN
+SE: 670 个ASN
 NO: 309 个ASN
 FI: 307 个ASN
 IS: 72 个ASN
-PL: 2149 个ASN
+PL: 2148 个ASN
 CZ: 605 个ASN
 HU: 240 个ASN
 GR: 227 个ASN
-RU: 5019 个ASN
-UA: 1583 个ASN
+RU: 5018 个ASN
+UA: 1584 个ASN
 BY: 108 个ASN
 RO: 932 个ASN
 BG: 672 个ASN
-RS: 160 个ASN
+RS: 161 个ASN
 HR: 145 个ASN
 SI: 270 个ASN
 SK: 199 个ASN
@@ -68,7 +68,7 @@ EE: 175 个ASN
 MD: 128 个ASN
 CY: 131 个ASN
 MT: 42 个ASN
-TR: 838 个ASN
+TR: 839 个ASN
 SA: 169 个ASN
 AE: 143 个ASN
 QA: 18 个ASN
@@ -82,7 +82,7 @@ PS: 43 个ASN
 LB: 144 个ASN
 SY: 7 个ASN
 IQ: 151 个ASN
-IR: 583 个ASN
+IR: 585 个ASN
 AF: 61 个ASN
 KZ: 209 个ASN
 UZ: 99 个ASN
@@ -100,14 +100,14 @@ SB: 10 个ASN
 VU: 11 个ASN
 WS: 7 个ASN
 TO: 4 个ASN
-US: 18970 个ASN
+US: 18971 个ASN
 CA: 1649 个ASN
 MX: 530 个ASN
-BR: 8794 个ASN
-AR: 1085 个ASN
+BR: 8798 个ASN
+AR: 1086 个ASN
 CL: 327 个ASN
-CO: 403 个ASN
-PE: 184 个ASN
+CO: 401 个ASN
+PE: 185 个ASN
 VE: 197 个ASN
 EC: 224 个ASN
 BO: 56 个ASN
@@ -124,7 +124,7 @@ CU: 3 个ASN
 BS: 10 个ASN
 JM: 9 个ASN
 HT: 5 个ASN
-DO: 184 个ASN
+DO: 185 个ASN
 EG: 71 个ASN
 LY: 25 个ASN
 DZ: 10 个ASN
@@ -132,10 +132,10 @@ MA: 28 个ASN
 SD: 9 个ASN
 ET: 6 个ASN
 SO: 20 个ASN
-KE: 209 个ASN
+KE: 210 个ASN
 TZ: 99 个ASN
 ZA: 656 个ASN
-NG: 226 个ASN
+NG: 225 个ASN
 GH: 94 个ASN
 CI: 19 个ASN
 SN: 14 个ASN
@@ -144,6 +144,6 @@ AO: 63 个ASN
 ZM: 19 个ASN
 ZW: 28 个ASN
 
-总计: 85524 个ASN记录
+总计: 85537 个ASN记录
 成功获取: 141 个国家
 失败或无数据: 0 个国家

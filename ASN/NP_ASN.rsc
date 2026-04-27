@@ -1,21 +1,21 @@
 # ASN Information in NP.
-# Last Updated: UTC 2026-04-26 02:00:10
+# Last Updated: UTC 2026-04-27 02:03:06
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NP ASN list"
 /routing filter num-list
-:do { add list=NP_ASN range=17501 } on-error={}
 :do { add list=NP_ASN range=4007 } on-error={}
+:do { add list=NP_ASN range=17501 } on-error={}
 :do { add list=NP_ASN range=45274 } on-error={}
 :do { add list=NP_ASN range=45650 } on-error={}
 :do { add list=NP_ASN range=141047 } on-error={}
 :do { add list=NP_ASN range=148979 } on-error={}
 :do { add list=NP_ASN range=139922 } on-error={}
 :do { add list=NP_ASN range=58504 } on-error={}
-:do { add list=NP_ASN range=24550 } on-error={}
 :do { add list=NP_ASN range=23752 } on-error={}
 :do { add list=NP_ASN range=141767 } on-error={}
 :do { add list=NP_ASN range=38565 } on-error={}
+:do { add list=NP_ASN range=24550 } on-error={}
 :do { add list=NP_ASN range=132799 } on-error={}
 :do { add list=NP_ASN range=55915 } on-error={}
 :do { add list=NP_ASN range=151396 } on-error={}
@@ -58,6 +58,7 @@
 :do { add list=NP_ASN range=140072 } on-error={}
 :do { add list=NP_ASN range=140050 } on-error={}
 :do { add list=NP_ASN range=139701 } on-error={}
+:do { add list=NP_ASN range=139256 } on-error={}
 :do { add list=NP_ASN range=139224 } on-error={}
 :do { add list=NP_ASN range=138605 } on-error={}
 :do { add list=NP_ASN range=138495 } on-error={}
@@ -123,11 +124,11 @@
 :do { add list=NP_ASN range=141032 } on-error={}
 :do { add list=NP_ASN range=141024 } on-error={}
 :do { add list=NP_ASN range=140989 } on-error={}
+:do { add list=NP_ASN range=140840 } on-error={}
 :do { add list=NP_ASN range=140324 } on-error={}
 :do { add list=NP_ASN range=139902 } on-error={}
 :do { add list=NP_ASN range=139741 } on-error={}
 :do { add list=NP_ASN range=139261 } on-error={}
-:do { add list=NP_ASN range=139256 } on-error={}
 :do { add list=NP_ASN range=139237 } on-error={}
 :do { add list=NP_ASN range=139022 } on-error={}
 :do { add list=NP_ASN range=138964 } on-error={}

@@ -1,11 +1,11 @@
 # ASN Information in SB.
-# Last Updated: UTC 2026-04-26 02:01:37
+# Last Updated: UTC 2026-04-27 02:04:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SB ASN list"
 /routing filter num-list
-:do { add list=SB_ASN range=24013 } on-error={}
 :do { add list=SB_ASN range=139609 } on-error={}
+:do { add list=SB_ASN range=24013 } on-error={}
 :do { add list=SB_ASN range=45891 } on-error={}
 :do { add list=SB_ASN range=132468 } on-error={}
 :do { add list=SB_ASN range=139277 } on-error={}

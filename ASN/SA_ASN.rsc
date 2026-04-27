@@ -1,5 +1,5 @@
 # ASN Information in SA.
-# Last Updated: UTC 2026-04-26 02:01:03
+# Last Updated: UTC 2026-04-27 02:04:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SA ASN list"
@@ -20,8 +20,8 @@
 :do { add list=SA_ASN range=34397 } on-error={}
 :do { add list=SA_ASN range=213535 } on-error={}
 :do { add list=SA_ASN range=50999 } on-error={}
-:do { add list=SA_ASN range=41176 } on-error={}
 :do { add list=SA_ASN range=42943 } on-error={}
+:do { add list=SA_ASN range=41176 } on-error={}
 :do { add list=SA_ASN range=30815 } on-error={}
 :do { add list=SA_ASN range=60161 } on-error={}
 :do { add list=SA_ASN range=58250 } on-error={}
