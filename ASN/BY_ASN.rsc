@@ -1,5 +1,5 @@
 # ASN Information in BY.
-# Last Updated: UTC 2026-04-29 02:11:20
+# Last Updated: UTC 2026-04-30 02:11:50
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BY ASN list"
@@ -31,7 +31,6 @@
 :do { add list=BY_ASN range=50929 } on-error={}
 :do { add list=BY_ASN range=50685 } on-error={}
 :do { add list=BY_ASN range=50590 } on-error={}
-:do { add list=BY_ASN range=50438 } on-error={}
 :do { add list=BY_ASN range=50176 } on-error={}
 :do { add list=BY_ASN range=49711 } on-error={}
 :do { add list=BY_ASN range=49526 } on-error={}
@@ -68,6 +67,7 @@
 :do { add list=BY_ASN range=50934 } on-error={}
 :do { add list=BY_ASN range=50765 } on-error={}
 :do { add list=BY_ASN range=50593 } on-error={}
+:do { add list=BY_ASN range=50438 } on-error={}
 :do { add list=BY_ASN range=50345 } on-error={}
 :do { add list=BY_ASN range=50334 } on-error={}
 :do { add list=BY_ASN range=50205 } on-error={}

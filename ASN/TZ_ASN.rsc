@@ -1,11 +1,10 @@
 # ASN Information in TZ.
-# Last Updated: UTC 2026-04-29 02:13:07
+# Last Updated: UTC 2026-04-30 02:13:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TZ ASN list"
 /routing filter num-list
 :do { add list=TZ_ASN range=37035 } on-error={}
-:do { add list=TZ_ASN range=327885 } on-error={}
 :do { add list=TZ_ASN range=33765 } on-error={}
 :do { add list=TZ_ASN range=37349 } on-error={}
 :do { add list=TZ_ASN range=37084 } on-error={}
@@ -14,13 +13,14 @@
 :do { add list=TZ_ASN range=37027 } on-error={}
 :do { add list=TZ_ASN range=36908 } on-error={}
 :do { add list=TZ_ASN range=36909 } on-error={}
+:do { add list=TZ_ASN range=327885 } on-error={}
 :do { add list=TZ_ASN range=37182 } on-error={}
 :do { add list=TZ_ASN range=328514 } on-error={}
 :do { add list=TZ_ASN range=327795 } on-error={}
 :do { add list=TZ_ASN range=37013 } on-error={}
+:do { add list=TZ_ASN range=328950 } on-error={}
 :do { add list=TZ_ASN range=328436 } on-error={}
 :do { add list=TZ_ASN range=36930 } on-error={}
-:do { add list=TZ_ASN range=328950 } on-error={}
 :do { add list=TZ_ASN range=32860 } on-error={}
 :do { add list=TZ_ASN range=37364 } on-error={}
 :do { add list=TZ_ASN range=329393 } on-error={}
