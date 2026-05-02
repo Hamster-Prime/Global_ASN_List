@@ -1,12 +1,12 @@
 # ASN Information in IS.
-# Last Updated: UTC 2026-05-01 02:15:10
+# Last Updated: UTC 2026-05-02 02:02:20
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IS ASN list"
 /routing filter num-list
 :do { add list=IS_ASN range=12969 } on-error={}
-:do { add list=IS_ASN range=6677 } on-error={}
 :do { add list=IS_ASN range=44735 } on-error={}
+:do { add list=IS_ASN range=6677 } on-error={}
 :do { add list=IS_ASN range=56704 } on-error={}
 :do { add list=IS_ASN range=25509 } on-error={}
 :do { add list=IS_ASN range=35834 } on-error={}
@@ -32,6 +32,7 @@
 :do { add list=IS_ASN range=50613 } on-error={}
 :do { add list=IS_ASN range=44644 } on-error={}
 :do { add list=IS_ASN range=39532 } on-error={}
+:do { add list=IS_ASN range=31441 } on-error={}
 :do { add list=IS_ASN range=25244 } on-error={}
 :do { add list=IS_ASN range=215823 } on-error={}
 :do { add list=IS_ASN range=214144 } on-error={}
@@ -55,7 +56,6 @@
 :do { add list=IS_ASN range=44925 } on-error={}
 :do { add list=IS_ASN range=44515 } on-error={}
 :do { add list=IS_ASN range=34678 } on-error={}
-:do { add list=IS_ASN range=31441 } on-error={}
 :do { add list=IS_ASN range=31236 } on-error={}
 :do { add list=IS_ASN range=29348 } on-error={}
 :do { add list=IS_ASN range=216293 } on-error={}

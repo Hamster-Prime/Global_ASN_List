@@ -1,15 +1,15 @@
 # ASN Information in BZ.
-# Last Updated: UTC 2026-05-01 02:16:50
+# Last Updated: UTC 2026-05-02 02:03:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BZ ASN list"
 /routing filter num-list
-:do { add list=BZ_ASN range=10269 } on-error={}
 :do { add list=BZ_ASN range=56388 } on-error={}
+:do { add list=BZ_ASN range=10269 } on-error={}
 :do { add list=BZ_ASN range=210083 } on-error={}
 :do { add list=BZ_ASN range=60387 } on-error={}
-:do { add list=BZ_ASN range=263824 } on-error={}
 :do { add list=BZ_ASN range=64160 } on-error={}
+:do { add list=BZ_ASN range=263824 } on-error={}
 :do { add list=BZ_ASN range=52449 } on-error={}
 :do { add list=BZ_ASN range=265826 } on-error={}
 :do { add list=BZ_ASN range=262239 } on-error={}
