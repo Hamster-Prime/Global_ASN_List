@@ -1,5 +1,5 @@
 # ASN Information in NP.
-# Last Updated: UTC 2026-05-06 02:05:38
+# Last Updated: UTC 2026-05-07 02:07:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NP ASN list"
@@ -82,7 +82,6 @@
 :do { add list=NP_ASN range=134951 } on-error={}
 :do { add list=NP_ASN range=133925 } on-error={}
 :do { add list=NP_ASN range=133923 } on-error={}
-:do { add list=NP_ASN range=133190 } on-error={}
 :do { add list=NP_ASN range=133179 } on-error={}
 :do { add list=NP_ASN range=133128 } on-error={}
 :do { add list=NP_ASN range=133092 } on-error={}
@@ -149,6 +148,7 @@
 :do { add list=NP_ASN range=134995 } on-error={}
 :do { add list=NP_ASN range=134504 } on-error={}
 :do { add list=NP_ASN range=134467 } on-error={}
+:do { add list=NP_ASN range=133190 } on-error={}
 :do { add list=NP_ASN range=133149 } on-error={}
 :do { add list=NP_ASN range=132877 } on-error={}
 :do { add list=NP_ASN range=131266 } on-error={}
