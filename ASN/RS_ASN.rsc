@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2026-05-07 02:08:23
+# Last Updated: UTC 2026-05-08 02:15:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
@@ -42,6 +42,7 @@
 :do { add list=RS_ASN range=201047 } on-error={}
 :do { add list=RS_ASN range=56569 } on-error={}
 :do { add list=RS_ASN range=49714 } on-error={}
+:do { add list=RS_ASN range=48708 } on-error={}
 :do { add list=RS_ASN range=43547 } on-error={}
 :do { add list=RS_ASN range=43335 } on-error={}
 :do { add list=RS_ASN range=41507 } on-error={}
@@ -67,7 +68,6 @@
 :do { add list=RS_ASN range=50653 } on-error={}
 :do { add list=RS_ASN range=49486 } on-error={}
 :do { add list=RS_ASN range=49198 } on-error={}
-:do { add list=RS_ASN range=48708 } on-error={}
 :do { add list=RS_ASN range=48015 } on-error={}
 :do { add list=RS_ASN range=47666 } on-error={}
 :do { add list=RS_ASN range=47663 } on-error={}

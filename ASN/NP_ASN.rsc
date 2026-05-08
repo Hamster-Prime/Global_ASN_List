@@ -1,11 +1,11 @@
 # ASN Information in NP.
-# Last Updated: UTC 2026-05-07 02:07:37
+# Last Updated: UTC 2026-05-08 02:14:51
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NP ASN list"
 /routing filter num-list
-:do { add list=NP_ASN range=17501 } on-error={}
 :do { add list=NP_ASN range=4007 } on-error={}
+:do { add list=NP_ASN range=17501 } on-error={}
 :do { add list=NP_ASN range=45274 } on-error={}
 :do { add list=NP_ASN range=45650 } on-error={}
 :do { add list=NP_ASN range=141047 } on-error={}
