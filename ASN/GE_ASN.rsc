@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-05-08 02:16:05
+# Last Updated: UTC 2026-05-09 02:09:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"

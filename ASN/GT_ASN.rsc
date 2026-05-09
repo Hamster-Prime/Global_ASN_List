@@ -1,5 +1,5 @@
 # ASN Information in GT.
-# Last Updated: UTC 2026-05-08 02:16:34
+# Last Updated: UTC 2026-05-09 02:10:06
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GT ASN list"
@@ -9,26 +9,26 @@
 :do { add list=GT_ASN range=271885 } on-error={}
 :do { add list=GT_ASN range=26617 } on-error={}
 :do { add list=GT_ASN range=23243 } on-error={}
-:do { add list=GT_ASN range=6458 } on-error={}
 :do { add list=GT_ASN range=267828 } on-error={}
 :do { add list=GT_ASN range=264764 } on-error={}
+:do { add list=GT_ASN range=6458 } on-error={}
 :do { add list=GT_ASN range=52286 } on-error={}
 :do { add list=GT_ASN range=264637 } on-error={}
 :do { add list=GT_ASN range=269964 } on-error={}
 :do { add list=GT_ASN range=269926 } on-error={}
-:do { add list=GT_ASN range=265684 } on-error={}
 :do { add list=GT_ASN range=263218 } on-error={}
-:do { add list=GT_ASN range=52451 } on-error={}
 :do { add list=GT_ASN range=28049 } on-error={}
+:do { add list=GT_ASN range=265684 } on-error={}
 :do { add list=GT_ASN range=263781 } on-error={}
 :do { add list=GT_ASN range=263714 } on-error={}
 :do { add list=GT_ASN range=20299 } on-error={}
 :do { add list=GT_ASN range=52454 } on-error={}
+:do { add list=GT_ASN range=52451 } on-error={}
 :do { add list=GT_ASN range=28087 } on-error={}
 :do { add list=GT_ASN range=28069 } on-error={}
 :do { add list=GT_ASN range=27910 } on-error={}
 :do { add list=GT_ASN range=274866 } on-error={}
-:do { add list=GT_ASN range=274277 } on-error={}
+:do { add list=GT_ASN range=274033 } on-error={}
 :do { add list=GT_ASN range=273871 } on-error={}
 :do { add list=GT_ASN range=273152 } on-error={}
 :do { add list=GT_ASN range=273149 } on-error={}
@@ -45,8 +45,8 @@
 :do { add list=GT_ASN range=27929 } on-error={}
 :do { add list=GT_ASN range=27737 } on-error={}
 :do { add list=GT_ASN range=27654 } on-error={}
+:do { add list=GT_ASN range=274277 } on-error={}
 :do { add list=GT_ASN range=274038 } on-error={}
-:do { add list=GT_ASN range=274033 } on-error={}
 :do { add list=GT_ASN range=273897 } on-error={}
 :do { add list=GT_ASN range=273884 } on-error={}
 :do { add list=GT_ASN range=273041 } on-error={}
