@@ -1,12 +1,12 @@
 === ASN信息获取汇总 ===
-获取时间: 2026-05-09 02:10:40
+获取时间: 2026-05-10 02:12:52
 ==================================================
 
 CN: 5236 个ASN
-HK: 785 个ASN
+HK: 786 个ASN
 MO: 11 个ASN
 TW: 305 个ASN
-PH: 461 个ASN
+PH: 460 个ASN
 VN: 543 个ASN
 LA: 29 个ASN
 KH: 102 个ASN
@@ -21,21 +21,21 @@ MY: 272 个ASN
 ID: 2849 个ASN
 BN: 7 个ASN
 TL: 12 个ASN
-IN: 2918 个ASN
+IN: 2919 个ASN
 PK: 309 个ASN
-BD: 1535 个ASN
+BD: 1534 个ASN
 LK: 20 个ASN
 NP: 148 个ASN
 BT: 26 个ASN
 MV: 15 个ASN
 DE: 2538 个ASN
 FR: 1520 个ASN
-GB: 2312 个ASN
+GB: 2316 个ASN
 IE: 210 个ASN
-IT: 1111 个ASN
+IT: 1112 个ASN
 ES: 963 个ASN
 PT: 134 个ASN
-NL: 1100 个ASN
+NL: 1102 个ASN
 BE: 295 个ASN
 LU: 106 个ASN
 CH: 785 个ASN
@@ -45,12 +45,12 @@ SE: 670 个ASN
 NO: 309 个ASN
 FI: 307 个ASN
 IS: 72 个ASN
-PL: 2150 个ASN
+PL: 2151 个ASN
 CZ: 603 个ASN
 HU: 242 个ASN
 GR: 228 个ASN
 RU: 5024 个ASN
-UA: 1584 个ASN
+UA: 1583 个ASN
 BY: 108 个ASN
 RO: 935 个ASN
 BG: 673 个ASN
@@ -65,10 +65,10 @@ AL: 123 个ASN
 LT: 187 个ASN
 LV: 255 个ASN
 EE: 177 个ASN
-MD: 128 个ASN
+MD: 130 个ASN
 CY: 133 个ASN
 MT: 42 个ASN
-TR: 845 个ASN
+TR: 846 个ASN
 SA: 171 个ASN
 AE: 148 个ASN
 QA: 18 个ASN
@@ -82,7 +82,7 @@ PS: 43 个ASN
 LB: 144 个ASN
 SY: 7 个ASN
 IQ: 151 个ASN
-IR: 586 个ASN
+IR: 585 个ASN
 AF: 61 个ASN
 KZ: 210 个ASN
 UZ: 100 个ASN
@@ -92,7 +92,7 @@ TJ: 34 个ASN
 GE: 144 个ASN
 AM: 120 个ASN
 AZ: 92 个ASN
-AU: 1698 个ASN
+AU: 1697 个ASN
 NZ: 435 个ASN
 PG: 29 个ASN
 FJ: 14 个ASN
@@ -108,8 +108,8 @@ AR: 1088 个ASN
 CL: 328 个ASN
 CO: 401 个ASN
 PE: 186 个ASN
-VE: 198 个ASN
-EC: 224 个ASN
+VE: 197 个ASN
+EC: 223 个ASN
 BO: 56 个ASN
 PY: 94 个ASN
 UY: 33 个ASN
@@ -119,12 +119,12 @@ SV: 40 个ASN
 HN: 98 个ASN
 NI: 25 个ASN
 CR: 82 个ASN
-PA: 96 个ASN
+PA: 95 个ASN
 CU: 3 个ASN
 BS: 10 个ASN
 JM: 9 个ASN
 HT: 5 个ASN
-DO: 185 个ASN
+DO: 186 个ASN
 EG: 71 个ASN
 LY: 24 个ASN
 DZ: 10 个ASN
@@ -135,7 +135,7 @@ SO: 20 个ASN
 KE: 210 个ASN
 TZ: 99 个ASN
 ZA: 656 个ASN
-NG: 227 个ASN
+NG: 228 个ASN
 GH: 94 个ASN
 CI: 19 个ASN
 SN: 14 个ASN
@@ -144,6 +144,6 @@ AO: 63 个ASN
 ZM: 19 个ASN
 ZW: 28 个ASN
 
-总计: 85744 个ASN记录
+总计: 85751 个ASN记录
 成功获取: 141 个国家
 失败或无数据: 0 个国家
