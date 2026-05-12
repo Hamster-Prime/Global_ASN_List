@@ -1,5 +1,5 @@
 # ASN Information in SG.
-# Last Updated: UTC 2026-05-11 02:28:21
+# Last Updated: UTC 2026-05-12 02:13:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SG ASN list"
@@ -12,9 +12,9 @@
 :do { add list=SG_ASN range=139341 } on-error={}
 :do { add list=SG_ASN range=38001 } on-error={}
 :do { add list=SG_ASN range=151326 } on-error={}
-:do { add list=SG_ASN range=24115 } on-error={}
 :do { add list=SG_ASN range=133210 } on-error={}
 :do { add list=SG_ASN range=139057 } on-error={}
+:do { add list=SG_ASN range=24115 } on-error={}
 :do { add list=SG_ASN range=10122 } on-error={}
 :do { add list=SG_ASN range=63949 } on-error={}
 :do { add list=SG_ASN range=132132 } on-error={}
@@ -27,13 +27,13 @@
 :do { add list=SG_ASN range=208959 } on-error={}
 :do { add list=SG_ASN range=212628 } on-error={}
 :do { add list=SG_ASN range=154324 } on-error={}
+:do { add list=SG_ASN range=931 } on-error={}
 :do { add list=SG_ASN range=3758 } on-error={}
 :do { add list=SG_ASN range=4773 } on-error={}
 :do { add list=SG_ASN range=56308 } on-error={}
 :do { add list=SG_ASN range=17547 } on-error={}
 :do { add list=SG_ASN range=150436 } on-error={}
 :do { add list=SG_ASN range=131219 } on-error={}
-:do { add list=SG_ASN range=931 } on-error={}
 :do { add list=SG_ASN range=4628 } on-error={}
 :do { add list=SG_ASN range=10024 } on-error={}
 :do { add list=SG_ASN range=138699 } on-error={}
@@ -42,8 +42,8 @@
 :do { add list=SG_ASN range=23856 } on-error={}
 :do { add list=SG_ASN range=139225 } on-error={}
 :do { add list=SG_ASN range=134363 } on-error={}
-:do { add list=SG_ASN range=140577 } on-error={}
 :do { add list=SG_ASN range=137991 } on-error={}
+:do { add list=SG_ASN range=140577 } on-error={}
 :do { add list=SG_ASN range=140719 } on-error={}
 :do { add list=SG_ASN range=963 } on-error={}
 :do { add list=SG_ASN range=132829 } on-error={}
@@ -87,16 +87,16 @@
 :do { add list=SG_ASN range=56172 } on-error={}
 :do { add list=SG_ASN range=4765 } on-error={}
 :do { add list=SG_ASN range=24319 } on-error={}
-:do { add list=SG_ASN range=134190 } on-error={}
 :do { add list=SG_ASN range=150347 } on-error={}
+:do { add list=SG_ASN range=134190 } on-error={}
 :do { add list=SG_ASN range=45166 } on-error={}
 :do { add list=SG_ASN range=141190 } on-error={}
 :do { add list=SG_ASN range=59253 } on-error={}
 :do { add list=SG_ASN range=213122 } on-error={}
 :do { add list=SG_ASN range=149020 } on-error={}
-:do { add list=SG_ASN range=142002 } on-error={}
 :do { add list=SG_ASN range=133748 } on-error={}
 :do { add list=SG_ASN range=23767 } on-error={}
+:do { add list=SG_ASN range=142002 } on-error={}
 :do { add list=SG_ASN range=136785 } on-error={}
 :do { add list=SG_ASN range=134963 } on-error={}
 :do { add list=SG_ASN range=134677 } on-error={}
@@ -140,7 +140,6 @@
 :do { add list=SG_ASN range=137563 } on-error={}
 :do { add list=SG_ASN range=136968 } on-error={}
 :do { add list=SG_ASN range=135354 } on-error={}
-:do { add list=SG_ASN range=135074 } on-error={}
 :do { add list=SG_ASN range=132016 } on-error={}
 :do { add list=SG_ASN range=131475 } on-error={}
 :do { add list=SG_ASN range=10082 } on-error={}
@@ -169,6 +168,8 @@
 :do { add list=SG_ASN range=136169 } on-error={}
 :do { add list=SG_ASN range=135525 } on-error={}
 :do { add list=SG_ASN range=135102 } on-error={}
+:do { add list=SG_ASN range=135074 } on-error={}
+:do { add list=SG_ASN range=134594 } on-error={}
 :do { add list=SG_ASN range=134534 } on-error={}
 :do { add list=SG_ASN range=133794 } on-error={}
 :do { add list=SG_ASN range=133735 } on-error={}
@@ -180,6 +181,7 @@
 :do { add list=SG_ASN range=9892 } on-error={}
 :do { add list=SG_ASN range=9890 } on-error={}
 :do { add list=SG_ASN range=9877 } on-error={}
+:do { add list=SG_ASN range=9748 } on-error={}
 :do { add list=SG_ASN range=9656 } on-error={}
 :do { add list=SG_ASN range=9506 } on-error={}
 :do { add list=SG_ASN range=9292 } on-error={}
@@ -276,7 +278,6 @@
 :do { add list=SG_ASN range=135008 } on-error={}
 :do { add list=SG_ASN range=134998 } on-error={}
 :do { add list=SG_ASN range=134981 } on-error={}
-:do { add list=SG_ASN range=134594 } on-error={}
 :do { add list=SG_ASN range=134474 } on-error={}
 :do { add list=SG_ASN range=134457 } on-error={}
 :do { add list=SG_ASN range=134407 } on-error={}
@@ -350,6 +351,7 @@
 :do { add list=SG_ASN range=211103 } on-error={}
 :do { add list=SG_ASN range=210205 } on-error={}
 :do { add list=SG_ASN range=209942 } on-error={}
+:do { add list=SG_ASN range=203513 } on-error={}
 :do { add list=SG_ASN range=18402 } on-error={}
 :do { add list=SG_ASN range=17886 } on-error={}
 :do { add list=SG_ASN range=154562 } on-error={}
@@ -455,7 +457,6 @@
 :do { add list=SG_ASN range=139264 } on-error={}
 :do { add list=SG_ASN range=139062 } on-error={}
 :do { add list=SG_ASN range=135103 } on-error={}
-:do { add list=SG_ASN range=135014 } on-error={}
 :do { add list=SG_ASN range=134206 } on-error={}
 :do { add list=SG_ASN range=132915 } on-error={}
 :do { add list=SG_ASN range=131259 } on-error={}
