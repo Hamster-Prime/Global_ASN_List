@@ -1,5 +1,5 @@
 # ASN Information in VE.
-# Last Updated: UTC 2026-05-15 02:30:39
+# Last Updated: UTC 2026-05-16 02:13:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VE ASN list"
@@ -22,13 +22,13 @@
 :do { add list=VE_ASN range=267809 } on-error={}
 :do { add list=VE_ASN range=264778 } on-error={}
 :do { add list=VE_ASN range=272122 } on-error={}
+:do { add list=VE_ASN range=11562 } on-error={}
 :do { add list=VE_ASN range=6306 } on-error={}
 :do { add list=VE_ASN range=272809 } on-error={}
-:do { add list=VE_ASN range=11562 } on-error={}
 :do { add list=VE_ASN range=263767 } on-error={}
 :do { add list=VE_ASN range=271909 } on-error={}
-:do { add list=VE_ASN range=271907 } on-error={}
 :do { add list=VE_ASN range=273007 } on-error={}
+:do { add list=VE_ASN range=271907 } on-error={}
 :do { add list=VE_ASN range=269829 } on-error={}
 :do { add list=VE_ASN range=269820 } on-error={}
 :do { add list=VE_ASN range=266841 } on-error={}
