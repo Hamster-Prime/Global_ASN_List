@@ -1,5 +1,5 @@
 # ASN Information in LY.
-# Last Updated: UTC 2026-05-17 02:28:50
+# Last Updated: UTC 2026-05-18 02:39:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LY ASN list"
@@ -12,6 +12,7 @@
 :do { add list=LY_ASN range=37566 } on-error={}
 :do { add list=LY_ASN range=329263 } on-error={}
 :do { add list=LY_ASN range=329090 } on-error={}
+:do { add list=LY_ASN range=328200 } on-error={}
 :do { add list=LY_ASN range=328073 } on-error={}
 :do { add list=LY_ASN range=329678 } on-error={}
 :do { add list=LY_ASN range=329472 } on-error={}
@@ -25,6 +26,5 @@
 :do { add list=LY_ASN range=328733 } on-error={}
 :do { add list=LY_ASN range=328619 } on-error={}
 :do { add list=LY_ASN range=328286 } on-error={}
-:do { add list=LY_ASN range=328200 } on-error={}
 :do { add list=LY_ASN range=327921 } on-error={}
 :do { add list=LY_ASN range=327752 } on-error={}

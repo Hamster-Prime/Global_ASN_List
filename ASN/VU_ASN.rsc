@@ -1,5 +1,5 @@
 # ASN Information in VU.
-# Last Updated: UTC 2026-05-17 02:28:07
+# Last Updated: UTC 2026-05-18 02:38:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading VU ASN list"
@@ -7,10 +7,10 @@
 :do { add list=VU_ASN range=45495 } on-error={}
 :do { add list=VU_ASN range=9249 } on-error={}
 :do { add list=VU_ASN range=43357 } on-error={}
+:do { add list=VU_ASN range=136996 } on-error={}
 :do { add list=VU_ASN range=133383 } on-error={}
 :do { add list=VU_ASN range=45935 } on-error={}
 :do { add list=VU_ASN range=23959 } on-error={}
-:do { add list=VU_ASN range=136996 } on-error={}
 :do { add list=VU_ASN range=132797 } on-error={}
 :do { add list=VU_ASN range=132429 } on-error={}
 :do { add list=VU_ASN range=132254 } on-error={}
