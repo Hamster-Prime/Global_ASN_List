@@ -1,5 +1,5 @@
 # ASN Information in AT.
-# Last Updated: UTC 2026-05-24 02:34:02
+# Last Updated: UTC 2026-05-25 02:42:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AT ASN list"
@@ -21,8 +21,8 @@
 :do { add list=AT_ASN range=49808 } on-error={}
 :do { add list=AT_ASN range=39878 } on-error={}
 :do { add list=AT_ASN range=28889 } on-error={}
-:do { add list=AT_ASN range=44765 } on-error={}
 :do { add list=AT_ASN range=43848 } on-error={}
+:do { add list=AT_ASN range=44765 } on-error={}
 :do { add list=AT_ASN range=47689 } on-error={}
 :do { add list=AT_ASN range=6720 } on-error={}
 :do { add list=AT_ASN range=35492 } on-error={}
@@ -36,11 +36,11 @@
 :do { add list=AT_ASN range=1853 } on-error={}
 :do { add list=AT_ASN range=24953 } on-error={}
 :do { add list=AT_ASN range=12453 } on-error={}
-:do { add list=AT_ASN range=28760 } on-error={}
 :do { add list=AT_ASN range=29081 } on-error={}
+:do { add list=AT_ASN range=28760 } on-error={}
 :do { add list=AT_ASN range=12577 } on-error={}
-:do { add list=AT_ASN range=197964 } on-error={}
 :do { add list=AT_ASN range=8540 } on-error={}
+:do { add list=AT_ASN range=197964 } on-error={}
 :do { add list=AT_ASN range=39912 } on-error={}
 :do { add list=AT_ASN range=215120 } on-error={}
 :do { add list=AT_ASN range=51265 } on-error={}
