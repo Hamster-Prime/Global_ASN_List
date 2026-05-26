@@ -1,5 +1,5 @@
 # ASN Information in KW.
-# Last Updated: UTC 2026-05-25 02:43:25
+# Last Updated: UTC 2026-05-26 02:33:02
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KW ASN list"
@@ -8,10 +8,10 @@
 :do { add list=KW_ASN range=21050 } on-error={}
 :do { add list=KW_ASN range=3225 } on-error={}
 :do { add list=KW_ASN range=29357 } on-error={}
-:do { add list=KW_ASN range=6412 } on-error={}
-:do { add list=KW_ASN range=9155 } on-error={}
-:do { add list=KW_ASN range=42781 } on-error={}
 :do { add list=KW_ASN range=47589 } on-error={}
+:do { add list=KW_ASN range=6412 } on-error={}
+:do { add list=KW_ASN range=42781 } on-error={}
+:do { add list=KW_ASN range=9155 } on-error={}
 :do { add list=KW_ASN range=42961 } on-error={}
 :do { add list=KW_ASN range=25122 } on-error={}
 :do { add list=KW_ASN range=50475 } on-error={}
