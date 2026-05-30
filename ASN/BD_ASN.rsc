@@ -1,5 +1,5 @@
 # ASN Information in BD.
-# Last Updated: UTC 2026-05-29 02:33:02
+# Last Updated: UTC 2026-05-30 02:26:50
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BD ASN list"
@@ -23,8 +23,8 @@
 :do { add list=BD_ASN range=23688 } on-error={}
 :do { add list=BD_ASN range=58655 } on-error={}
 :do { add list=BD_ASN range=149994 } on-error={}
-:do { add list=BD_ASN range=58656 } on-error={}
 :do { add list=BD_ASN range=149765 } on-error={}
+:do { add list=BD_ASN range=58656 } on-error={}
 :do { add list=BD_ASN range=24323 } on-error={}
 :do { add list=BD_ASN range=141731 } on-error={}
 :do { add list=BD_ASN range=63961 } on-error={}
@@ -54,6 +54,7 @@
 :do { add list=BD_ASN range=58923 } on-error={}
 :do { add list=BD_ASN range=23991 } on-error={}
 :do { add list=BD_ASN range=137453 } on-error={}
+:do { add list=BD_ASN range=138536 } on-error={}
 :do { add list=BD_ASN range=137868 } on-error={}
 :do { add list=BD_ASN range=136514 } on-error={}
 :do { add list=BD_ASN range=9832 } on-error={}
@@ -73,7 +74,6 @@
 :do { add list=BD_ASN range=153038 } on-error={}
 :do { add list=BD_ASN range=147181 } on-error={}
 :do { add list=BD_ASN range=138640 } on-error={}
-:do { add list=BD_ASN range=138536 } on-error={}
 :do { add list=BD_ASN range=138346 } on-error={}
 :do { add list=BD_ASN range=136759 } on-error={}
 :do { add list=BD_ASN range=135341 } on-error={}
@@ -102,7 +102,6 @@
 :do { add list=BD_ASN range=152718 } on-error={}
 :do { add list=BD_ASN range=150774 } on-error={}
 :do { add list=BD_ASN range=150696 } on-error={}
-:do { add list=BD_ASN range=149876 } on-error={}
 :do { add list=BD_ASN range=141988 } on-error={}
 :do { add list=BD_ASN range=141773 } on-error={}
 :do { add list=BD_ASN range=141474 } on-error={}
@@ -134,6 +133,7 @@
 :do { add list=BD_ASN range=151981 } on-error={}
 :do { add list=BD_ASN range=151957 } on-error={}
 :do { add list=BD_ASN range=149980 } on-error={}
+:do { add list=BD_ASN range=149876 } on-error={}
 :do { add list=BD_ASN range=149865 } on-error={}
 :do { add list=BD_ASN range=149649 } on-error={}
 :do { add list=BD_ASN range=149433 } on-error={}
@@ -216,7 +216,6 @@
 :do { add list=BD_ASN range=140712 } on-error={}
 :do { add list=BD_ASN range=140711 } on-error={}
 :do { add list=BD_ASN range=140612 } on-error={}
-:do { add list=BD_ASN range=140541 } on-error={}
 :do { add list=BD_ASN range=140321 } on-error={}
 :do { add list=BD_ASN range=140229 } on-error={}
 :do { add list=BD_ASN range=140069 } on-error={}
@@ -498,6 +497,7 @@
 :do { add list=BD_ASN range=140600 } on-error={}
 :do { add list=BD_ASN range=140585 } on-error={}
 :do { add list=BD_ASN range=140546 } on-error={}
+:do { add list=BD_ASN range=140541 } on-error={}
 :do { add list=BD_ASN range=140539 } on-error={}
 :do { add list=BD_ASN range=140502 } on-error={}
 :do { add list=BD_ASN range=140267 } on-error={}

@@ -1,5 +1,5 @@
 # ASN Information in CZ.
-# Last Updated: UTC 2026-05-29 02:33:37
+# Last Updated: UTC 2026-05-30 02:27:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CZ ASN list"
@@ -8,8 +8,8 @@
 :do { add list=CZ_ASN range=29504 } on-error={}
 :do { add list=CZ_ASN range=28725 } on-error={}
 :do { add list=CZ_ASN range=25192 } on-error={}
-:do { add list=CZ_ASN range=2852 } on-error={}
 :do { add list=CZ_ASN range=49121 } on-error={}
+:do { add list=CZ_ASN range=2852 } on-error={}
 :do { add list=CZ_ASN range=6881 } on-error={}
 :do { add list=CZ_ASN range=63113 } on-error={}
 :do { add list=CZ_ASN range=15935 } on-error={}
@@ -93,16 +93,16 @@
 :do { add list=CZ_ASN range=13199 } on-error={}
 :do { add list=CZ_ASN range=44430 } on-error={}
 :do { add list=CZ_ASN range=41779 } on-error={}
-:do { add list=CZ_ASN range=39791 } on-error={}
 :do { add list=CZ_ASN range=201548 } on-error={}
 :do { add list=CZ_ASN range=62099 } on-error={}
+:do { add list=CZ_ASN range=39791 } on-error={}
 :do { add list=CZ_ASN range=29134 } on-error={}
 :do { add list=CZ_ASN range=24806 } on-error={}
 :do { add list=CZ_ASN range=202719 } on-error={}
 :do { add list=CZ_ASN range=15685 } on-error={}
 :do { add list=CZ_ASN range=43709 } on-error={}
-:do { add list=CZ_ASN range=50698 } on-error={}
 :do { add list=CZ_ASN range=35592 } on-error={}
+:do { add list=CZ_ASN range=50698 } on-error={}
 :do { add list=CZ_ASN range=204860 } on-error={}
 :do { add list=CZ_ASN range=43542 } on-error={}
 :do { add list=CZ_ASN range=25424 } on-error={}

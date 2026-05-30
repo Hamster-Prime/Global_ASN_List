@@ -1,5 +1,5 @@
 # ASN Information in LV.
-# Last Updated: UTC 2026-05-29 02:34:02
+# Last Updated: UTC 2026-05-30 02:27:37
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LV ASN list"
@@ -57,7 +57,6 @@
 :do { add list=LV_ASN range=210886 } on-error={}
 :do { add list=LV_ASN range=210130 } on-error={}
 :do { add list=LV_ASN range=206600 } on-error={}
-:do { add list=LV_ASN range=203355 } on-error={}
 :do { add list=LV_ASN range=202221 } on-error={}
 :do { add list=LV_ASN range=199558 } on-error={}
 :do { add list=LV_ASN range=16062 } on-error={}
@@ -222,6 +221,7 @@
 :do { add list=LV_ASN range=204380 } on-error={}
 :do { add list=LV_ASN range=204130 } on-error={}
 :do { add list=LV_ASN range=203557 } on-error={}
+:do { add list=LV_ASN range=203355 } on-error={}
 :do { add list=LV_ASN range=203142 } on-error={}
 :do { add list=LV_ASN range=202920 } on-error={}
 :do { add list=LV_ASN range=202863 } on-error={}

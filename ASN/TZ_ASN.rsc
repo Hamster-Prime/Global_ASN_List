@@ -1,5 +1,5 @@
 # ASN Information in TZ.
-# Last Updated: UTC 2026-05-29 02:35:41
+# Last Updated: UTC 2026-05-30 02:28:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TZ ASN list"
@@ -17,20 +17,19 @@
 :do { add list=TZ_ASN range=36909 } on-error={}
 :do { add list=TZ_ASN range=328514 } on-error={}
 :do { add list=TZ_ASN range=37013 } on-error={}
+:do { add list=TZ_ASN range=328436 } on-error={}
 :do { add list=TZ_ASN range=37182 } on-error={}
 :do { add list=TZ_ASN range=36930 } on-error={}
 :do { add list=TZ_ASN range=328950 } on-error={}
-:do { add list=TZ_ASN range=328436 } on-error={}
+:do { add list=TZ_ASN range=32860 } on-error={}
 :do { add list=TZ_ASN range=37419 } on-error={}
 :do { add list=TZ_ASN range=329393 } on-error={}
-:do { add list=TZ_ASN range=32860 } on-error={}
 :do { add list=TZ_ASN range=327728 } on-error={}
 :do { add list=TZ_ASN range=327714 } on-error={}
 :do { add list=TZ_ASN range=37496 } on-error={}
 :do { add list=TZ_ASN range=37364 } on-error={}
 :do { add list=TZ_ASN range=37143 } on-error={}
 :do { add list=TZ_ASN range=329647 } on-error={}
-:do { add list=TZ_ASN range=329530 } on-error={}
 :do { add list=TZ_ASN range=329529 } on-error={}
 :do { add list=TZ_ASN range=328895 } on-error={}
 :do { add list=TZ_ASN range=328805 } on-error={}
@@ -43,6 +42,7 @@
 :do { add list=TZ_ASN range=37045 } on-error={}
 :do { add list=TZ_ASN range=329677 } on-error={}
 :do { add list=TZ_ASN range=329627 } on-error={}
+:do { add list=TZ_ASN range=329530 } on-error={}
 :do { add list=TZ_ASN range=329495 } on-error={}
 :do { add list=TZ_ASN range=329488 } on-error={}
 :do { add list=TZ_ASN range=329450 } on-error={}
@@ -69,13 +69,13 @@
 :do { add list=TZ_ASN range=327844 } on-error={}
 :do { add list=TZ_ASN range=327819 } on-error={}
 :do { add list=TZ_ASN range=327792 } on-error={}
-:do { add list=TZ_ASN range=327778 } on-error={}
 :do { add list=TZ_ASN range=327771 } on-error={}
 :do { add list=TZ_ASN range=31810 } on-error={}
 :do { add list=TZ_ASN range=37769 } on-error={}
 :do { add list=TZ_ASN range=37454 } on-error={}
 :do { add list=TZ_ASN range=37218 } on-error={}
 :do { add list=TZ_ASN range=37085 } on-error={}
+:do { add list=TZ_ASN range=329662 } on-error={}
 :do { add list=TZ_ASN range=329640 } on-error={}
 :do { add list=TZ_ASN range=329603 } on-error={}
 :do { add list=TZ_ASN range=329548 } on-error={}
@@ -99,6 +99,7 @@
 :do { add list=TZ_ASN range=328018 } on-error={}
 :do { add list=TZ_ASN range=328017 } on-error={}
 :do { add list=TZ_ASN range=327852 } on-error={}
+:do { add list=TZ_ASN range=327778 } on-error={}
 :do { add list=TZ_ASN range=327774 } on-error={}
 :do { add list=TZ_ASN range=327730 } on-error={}
 :do { add list=TZ_ASN range=327706 } on-error={}
