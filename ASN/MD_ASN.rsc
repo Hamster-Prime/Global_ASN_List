@@ -1,12 +1,12 @@
 # ASN Information in MD.
-# Last Updated: UTC 2026-05-31 02:44:18
+# Last Updated: UTC 2026-06-01 02:53:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MD ASN list"
 /routing filter num-list
 :do { add list=MD_ASN range=60602 } on-error={}
-:do { add list=MD_ASN range=1547 } on-error={}
 :do { add list=MD_ASN range=8926 } on-error={}
+:do { add list=MD_ASN range=1547 } on-error={}
 :do { add list=MD_ASN range=25454 } on-error={}
 :do { add list=MD_ASN range=39279 } on-error={}
 :do { add list=MD_ASN range=25455 } on-error={}
@@ -87,6 +87,7 @@
 :do { add list=MD_ASN range=50968 } on-error={}
 :do { add list=MD_ASN range=50704 } on-error={}
 :do { add list=MD_ASN range=49527 } on-error={}
+:do { add list=MD_ASN range=49443 } on-error={}
 :do { add list=MD_ASN range=48753 } on-error={}
 :do { add list=MD_ASN range=48232 } on-error={}
 :do { add list=MD_ASN range=43870 } on-error={}
@@ -104,22 +105,31 @@
 :do { add list=MD_ASN range=214944 } on-error={}
 :do { add list=MD_ASN range=214788 } on-error={}
 :do { add list=MD_ASN range=213705 } on-error={}
+:do { add list=MD_ASN range=213137 } on-error={}
 :do { add list=MD_ASN range=211504 } on-error={}
 :do { add list=MD_ASN range=211279 } on-error={}
 :do { add list=MD_ASN range=211180 } on-error={}
+:do { add list=MD_ASN range=209982 } on-error={}
 :do { add list=MD_ASN range=209961 } on-error={}
 :do { add list=MD_ASN range=209908 } on-error={}
 :do { add list=MD_ASN range=209883 } on-error={}
+:do { add list=MD_ASN range=209868 } on-error={}
 :do { add list=MD_ASN range=209640 } on-error={}
 :do { add list=MD_ASN range=209482 } on-error={}
+:do { add list=MD_ASN range=209396 } on-error={}
 :do { add list=MD_ASN range=208671 } on-error={}
 :do { add list=MD_ASN range=208343 } on-error={}
+:do { add list=MD_ASN range=208317 } on-error={}
 :do { add list=MD_ASN range=208299 } on-error={}
 :do { add list=MD_ASN range=208062 } on-error={}
 :do { add list=MD_ASN range=207636 } on-error={}
 :do { add list=MD_ASN range=207164 } on-error={}
 :do { add list=MD_ASN range=207159 } on-error={}
 :do { add list=MD_ASN range=206750 } on-error={}
+:do { add list=MD_ASN range=206560 } on-error={}
+:do { add list=MD_ASN range=206535 } on-error={}
+:do { add list=MD_ASN range=206413 } on-error={}
+:do { add list=MD_ASN range=206340 } on-error={}
 :do { add list=MD_ASN range=206305 } on-error={}
 :do { add list=MD_ASN range=206005 } on-error={}
 :do { add list=MD_ASN range=205770 } on-error={}

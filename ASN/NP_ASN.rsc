@@ -1,5 +1,5 @@
 # ASN Information in NP.
-# Last Updated: UTC 2026-05-31 02:43:29
+# Last Updated: UTC 2026-06-01 02:52:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NP ASN list"

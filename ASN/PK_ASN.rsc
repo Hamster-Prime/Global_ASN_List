@@ -1,5 +1,5 @@
 # ASN Information in PK.
-# Last Updated: UTC 2026-05-31 02:43:25
+# Last Updated: UTC 2026-06-01 02:52:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PK ASN list"
@@ -12,8 +12,8 @@
 :do { add list=PK_ASN range=58470 } on-error={}
 :do { add list=PK_ASN range=23674 } on-error={}
 :do { add list=PK_ASN range=139820 } on-error={}
-:do { add list=PK_ASN range=24499 } on-error={}
 :do { add list=PK_ASN range=135523 } on-error={}
+:do { add list=PK_ASN range=24499 } on-error={}
 :do { add list=PK_ASN range=138655 } on-error={}
 :do { add list=PK_ASN range=132165 } on-error={}
 :do { add list=PK_ASN range=9260 } on-error={}
@@ -179,6 +179,7 @@
 :do { add list=PK_ASN range=134596 } on-error={}
 :do { add list=PK_ASN range=133932 } on-error={}
 :do { add list=PK_ASN range=132872 } on-error={}
+:do { add list=PK_ASN range=132741 } on-error={}
 :do { add list=PK_ASN range=132386 } on-error={}
 :do { add list=PK_ASN range=9937 } on-error={}
 :do { add list=PK_ASN range=9557 } on-error={}
@@ -304,7 +305,6 @@
 :do { add list=PK_ASN range=133502 } on-error={}
 :do { add list=PK_ASN range=132891 } on-error={}
 :do { add list=PK_ASN range=132788 } on-error={}
-:do { add list=PK_ASN range=132741 } on-error={}
 :do { add list=PK_ASN range=132103 } on-error={}
 :do { add list=PK_ASN range=131220 } on-error={}
 :do { add list=PK_ASN range=10112 } on-error={}
