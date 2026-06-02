@@ -1,5 +1,5 @@
 # ASN Information in BH.
-# Last Updated: UTC 2026-06-01 02:53:29
+# Last Updated: UTC 2026-06-02 02:50:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BH ASN list"

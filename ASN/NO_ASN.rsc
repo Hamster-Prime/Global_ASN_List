@@ -1,5 +1,5 @@
 # ASN Information in NO.
-# Last Updated: UTC 2026-06-01 02:52:48
+# Last Updated: UTC 2026-06-02 02:49:51
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NO ASN list"
