@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2026-06-02 02:50:10
+# Last Updated: UTC 2026-06-03 02:58:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
@@ -33,11 +33,10 @@
 :do { add list=RS_ASN range=205313 } on-error={}
 :do { add list=RS_ASN range=208898 } on-error={}
 :do { add list=RS_ASN range=205201 } on-error={}
-:do { add list=RS_ASN range=43608 } on-error={}
 :do { add list=RS_ASN range=43191 } on-error={}
 :do { add list=RS_ASN range=13092 } on-error={}
+:do { add list=RS_ASN range=43608 } on-error={}
 :do { add list=RS_ASN range=43281 } on-error={}
-:do { add list=RS_ASN range=216024 } on-error={}
 :do { add list=RS_ASN range=203877 } on-error={}
 :do { add list=RS_ASN range=201047 } on-error={}
 :do { add list=RS_ASN range=56569 } on-error={}
@@ -49,6 +48,7 @@
 :do { add list=RS_ASN range=39724 } on-error={}
 :do { add list=RS_ASN range=31161 } on-error={}
 :do { add list=RS_ASN range=28964 } on-error={}
+:do { add list=RS_ASN range=216024 } on-error={}
 :do { add list=RS_ASN range=214833 } on-error={}
 :do { add list=RS_ASN range=212897 } on-error={}
 :do { add list=RS_ASN range=205786 } on-error={}
@@ -80,7 +80,6 @@
 :do { add list=RS_ASN range=29163 } on-error={}
 :do { add list=RS_ASN range=25337 } on-error={}
 :do { add list=RS_ASN range=213008 } on-error={}
-:do { add list=RS_ASN range=212492 } on-error={}
 :do { add list=RS_ASN range=211988 } on-error={}
 :do { add list=RS_ASN range=210133 } on-error={}
 :do { add list=RS_ASN range=208798 } on-error={}
@@ -136,6 +135,7 @@
 :do { add list=RS_ASN range=213142 } on-error={}
 :do { add list=RS_ASN range=212842 } on-error={}
 :do { add list=RS_ASN range=212638 } on-error={}
+:do { add list=RS_ASN range=212492 } on-error={}
 :do { add list=RS_ASN range=211285 } on-error={}
 :do { add list=RS_ASN range=210502 } on-error={}
 :do { add list=RS_ASN range=209471 } on-error={}
@@ -155,7 +155,6 @@
 :do { add list=RS_ASN range=202676 } on-error={}
 :do { add list=RS_ASN range=201711 } on-error={}
 :do { add list=RS_ASN range=201278 } on-error={}
-:do { add list=RS_ASN range=201276 } on-error={}
 :do { add list=RS_ASN range=200923 } on-error={}
 :do { add list=RS_ASN range=200855 } on-error={}
 :do { add list=RS_ASN range=200287 } on-error={}

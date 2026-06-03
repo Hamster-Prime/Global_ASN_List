@@ -1,5 +1,5 @@
 # ASN Information in QA.
-# Last Updated: UTC 2026-06-02 02:50:34
+# Last Updated: UTC 2026-06-03 02:59:16
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading QA ASN list"
@@ -12,12 +12,12 @@
 :do { add list=QA_ASN range=215624 } on-error={}
 :do { add list=QA_ASN range=211559 } on-error={}
 :do { add list=QA_ASN range=60185 } on-error={}
+:do { add list=QA_ASN range=28821 } on-error={}
 :do { add list=QA_ASN range=208944 } on-error={}
 :do { add list=QA_ASN range=208542 } on-error={}
 :do { add list=QA_ASN range=204806 } on-error={}
 :do { add list=QA_ASN range=47901 } on-error={}
 :do { add list=QA_ASN range=42415 } on-error={}
-:do { add list=QA_ASN range=28821 } on-error={}
 :do { add list=QA_ASN range=213680 } on-error={}
 :do { add list=QA_ASN range=208506 } on-error={}
 :do { add list=QA_ASN range=198499 } on-error={}
