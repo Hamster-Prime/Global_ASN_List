@@ -1,5 +1,5 @@
 # ASN Information in WS.
-# Last Updated: UTC 2026-06-04 02:55:31
+# Last Updated: UTC 2026-06-05 02:42:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading WS ASN list"
