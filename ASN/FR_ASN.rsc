@@ -1,5 +1,5 @@
 # ASN Information in FR.
-# Last Updated: UTC 2026-06-06 02:28:50
+# Last Updated: UTC 2026-06-07 02:47:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FR ASN list"

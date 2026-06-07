@@ -1,5 +1,5 @@
 # ASN Information in CZ.
-# Last Updated: UTC 2026-06-06 02:29:13
+# Last Updated: UTC 2026-06-07 02:47:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CZ ASN list"

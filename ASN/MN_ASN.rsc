@@ -1,5 +1,5 @@
 # ASN Information in MN.
-# Last Updated: UTC 2026-06-06 02:28:31
+# Last Updated: UTC 2026-06-07 02:46:47
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MN ASN list"
