@@ -1,5 +1,5 @@
 # ASN Information in SV.
-# Last Updated: UTC 2026-06-07 02:49:12
+# Last Updated: UTC 2026-06-08 02:52:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SV ASN list"
@@ -23,7 +23,6 @@
 :do { add list=SV_ASN range=264813 } on-error={}
 :do { add list=SV_ASN range=264720 } on-error={}
 :do { add list=SV_ASN range=263695 } on-error={}
-:do { add list=SV_ASN range=262204 } on-error={}
 :do { add list=SV_ASN range=12127 } on-error={}
 :do { add list=SV_ASN range=61502 } on-error={}
 :do { add list=SV_ASN range=27900 } on-error={}
@@ -43,4 +42,5 @@
 :do { add list=SV_ASN range=265811 } on-error={}
 :do { add list=SV_ASN range=265650 } on-error={}
 :do { add list=SV_ASN range=264662 } on-error={}
+:do { add list=SV_ASN range=262204 } on-error={}
 :do { add list=SV_ASN range=17079 } on-error={}
