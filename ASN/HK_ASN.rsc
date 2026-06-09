@@ -1,5 +1,5 @@
 # ASN Information in HK.
-# Last Updated: UTC 2026-06-08 02:49:38
+# Last Updated: UTC 2026-06-09 02:27:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HK ASN list"
@@ -21,12 +21,12 @@
 :do { add list=HK_ASN range=58807 } on-error={}
 :do { add list=HK_ASN range=38008 } on-error={}
 :do { add list=HK_ASN range=138997 } on-error={}
-:do { add list=HK_ASN range=64096 } on-error={}
 :do { add list=HK_ASN range=17984 } on-error={}
+:do { add list=HK_ASN range=64096 } on-error={}
 :do { add list=HK_ASN range=59217 } on-error={}
 :do { add list=HK_ASN range=140570 } on-error={}
-:do { add list=HK_ASN range=64050 } on-error={}
 :do { add list=HK_ASN range=51847 } on-error={}
+:do { add list=HK_ASN range=64050 } on-error={}
 :do { add list=HK_ASN range=4058 } on-error={}
 :do { add list=HK_ASN range=136897 } on-error={}
 :do { add list=HK_ASN range=9886 } on-error={}
@@ -46,21 +46,21 @@
 :do { add list=HK_ASN range=137263 } on-error={}
 :do { add list=HK_ASN range=55933 } on-error={}
 :do { add list=HK_ASN range=4515 } on-error={}
-:do { add list=HK_ASN range=56971 } on-error={}
 :do { add list=HK_ASN range=135377 } on-error={}
+:do { add list=HK_ASN range=56971 } on-error={}
 :do { add list=HK_ASN range=153371 } on-error={}
 :do { add list=HK_ASN range=136744 } on-error={}
-:do { add list=HK_ASN range=202746 } on-error={}
 :do { add list=HK_ASN range=18013 } on-error={}
+:do { add list=HK_ASN range=202746 } on-error={}
 :do { add list=HK_ASN range=154346 } on-error={}
 :do { add list=HK_ASN range=17476 } on-error={}
 :do { add list=HK_ASN range=134176 } on-error={}
-:do { add list=HK_ASN range=139299 } on-error={}
 :do { add list=HK_ASN range=135158 } on-error={}
+:do { add list=HK_ASN range=139299 } on-error={}
 :do { add list=HK_ASN range=137969 } on-error={}
-:do { add list=HK_ASN range=133199 } on-error={}
 :do { add list=HK_ASN range=131274 } on-error={}
 :do { add list=HK_ASN range=9908 } on-error={}
+:do { add list=HK_ASN range=133199 } on-error={}
 :do { add list=HK_ASN range=133182 } on-error={}
 :do { add list=HK_ASN range=49304 } on-error={}
 :do { add list=HK_ASN range=137983 } on-error={}
@@ -74,39 +74,39 @@
 :do { add list=HK_ASN range=24023 } on-error={}
 :do { add list=HK_ASN range=134548 } on-error={}
 :do { add list=HK_ASN range=9266 } on-error={}
+:do { add list=HK_ASN range=150706 } on-error={}
 :do { add list=HK_ASN range=10222 } on-error={}
 :do { add list=HK_ASN range=9293 } on-error={}
-:do { add list=HK_ASN range=150706 } on-error={}
 :do { add list=HK_ASN range=17924 } on-error={}
-:do { add list=HK_ASN range=10118 } on-error={}
 :do { add list=HK_ASN range=209109 } on-error={}
+:do { add list=HK_ASN range=10118 } on-error={}
 :do { add list=HK_ASN range=7540 } on-error={}
 :do { add list=HK_ASN range=4641 } on-error={}
 :do { add list=HK_ASN range=63928 } on-error={}
 :do { add list=HK_ASN range=151338 } on-error={}
 :do { add list=HK_ASN range=135338 } on-error={}
 :do { add list=HK_ASN range=134835 } on-error={}
-:do { add list=HK_ASN range=134196 } on-error={}
 :do { add list=HK_ASN range=4760 } on-error={}
 :do { add list=HK_ASN range=142132 } on-error={}
 :do { add list=HK_ASN range=138995 } on-error={}
+:do { add list=HK_ASN range=134196 } on-error={}
 :do { add list=HK_ASN range=132139 } on-error={}
-:do { add list=HK_ASN range=153771 } on-error={}
 :do { add list=HK_ASN range=140096 } on-error={}
 :do { add list=HK_ASN range=137207 } on-error={}
+:do { add list=HK_ASN range=153771 } on-error={}
 :do { add list=HK_ASN range=134366 } on-error={}
 :do { add list=HK_ASN range=137897 } on-error={}
 :do { add list=HK_ASN range=133527 } on-error={}
 :do { add list=HK_ASN range=58779 } on-error={}
+:do { add list=HK_ASN range=9729 } on-error={}
 :do { add list=HK_ASN range=9312 } on-error={}
 :do { add list=HK_ASN range=59360 } on-error={}
 :do { add list=HK_ASN range=55355 } on-error={}
-:do { add list=HK_ASN range=9729 } on-error={}
-:do { add list=HK_ASN range=133077 } on-error={}
 :do { add list=HK_ASN range=59371 } on-error={}
 :do { add list=HK_ASN range=38176 } on-error={}
 :do { add list=HK_ASN range=3662 } on-error={}
 :do { add list=HK_ASN range=135356 } on-error={}
+:do { add list=HK_ASN range=133077 } on-error={}
 :do { add list=HK_ASN range=152179 } on-error={}
 :do { add list=HK_ASN range=139750 } on-error={}
 :do { add list=HK_ASN range=138415 } on-error={}
@@ -140,6 +140,7 @@
 :do { add list=HK_ASN range=137995 } on-error={}
 :do { add list=HK_ASN range=9253 } on-error={}
 :do { add list=HK_ASN range=154309 } on-error={}
+:do { add list=HK_ASN range=152918 } on-error={}
 :do { add list=HK_ASN range=139659 } on-error={}
 :do { add list=HK_ASN range=138571 } on-error={}
 :do { add list=HK_ASN range=58944 } on-error={}
@@ -161,6 +162,7 @@
 :do { add list=HK_ASN range=55334 } on-error={}
 :do { add list=HK_ASN range=38819 } on-error={}
 :do { add list=HK_ASN range=23875 } on-error={}
+:do { add list=HK_ASN range=149014 } on-error={}
 :do { add list=HK_ASN range=142007 } on-error={}
 :do { add list=HK_ASN range=141394 } on-error={}
 :do { add list=HK_ASN range=135386 } on-error={}
@@ -177,14 +179,13 @@
 :do { add list=HK_ASN range=24449 } on-error={}
 :do { add list=HK_ASN range=18218 } on-error={}
 :do { add list=HK_ASN range=17561 } on-error={}
-:do { add list=HK_ASN range=149014 } on-error={}
+:do { add list=HK_ASN range=141167 } on-error={}
 :do { add list=HK_ASN range=140881 } on-error={}
 :do { add list=HK_ASN range=132252 } on-error={}
 :do { add list=HK_ASN range=45910 } on-error={}
 :do { add list=HK_ASN range=214454 } on-error={}
 :do { add list=HK_ASN range=152905 } on-error={}
 :do { add list=HK_ASN range=150345 } on-error={}
-:do { add list=HK_ASN range=141167 } on-error={}
 :do { add list=HK_ASN range=136491 } on-error={}
 :do { add list=HK_ASN range=135330 } on-error={}
 :do { add list=HK_ASN range=135097 } on-error={}
@@ -202,7 +203,6 @@
 :do { add list=HK_ASN range=214669 } on-error={}
 :do { add list=HK_ASN range=213802 } on-error={}
 :do { add list=HK_ASN range=202917 } on-error={}
-:do { add list=HK_ASN range=152918 } on-error={}
 :do { add list=HK_ASN range=152644 } on-error={}
 :do { add list=HK_ASN range=147060 } on-error={}
 :do { add list=HK_ASN range=135392 } on-error={}
@@ -216,6 +216,7 @@
 :do { add list=HK_ASN range=24568 } on-error={}
 :do { add list=HK_ASN range=24247 } on-error={}
 :do { add list=HK_ASN range=209642 } on-error={}
+:do { add list=HK_ASN range=208628 } on-error={}
 :do { add list=HK_ASN range=203997 } on-error={}
 :do { add list=HK_ASN range=137386 } on-error={}
 :do { add list=HK_ASN range=136038 } on-error={}
@@ -223,6 +224,7 @@
 :do { add list=HK_ASN range=133073 } on-error={}
 :do { add list=HK_ASN range=9502 } on-error={}
 :do { add list=HK_ASN range=64022 } on-error={}
+:do { add list=HK_ASN range=55639 } on-error={}
 :do { add list=HK_ASN range=24544 } on-error={}
 :do { add list=HK_ASN range=24182 } on-error={}
 :do { add list=HK_ASN range=23881 } on-error={}
@@ -249,7 +251,6 @@
 :do { add list=HK_ASN range=7468 } on-error={}
 :do { add list=HK_ASN range=60024 } on-error={}
 :do { add list=HK_ASN range=59243 } on-error={}
-:do { add list=HK_ASN range=55639 } on-error={}
 :do { add list=HK_ASN range=4646 } on-error={}
 :do { add list=HK_ASN range=45597 } on-error={}
 :do { add list=HK_ASN range=38870 } on-error={}
@@ -309,10 +310,10 @@
 :do { add list=HK_ASN range=215929 } on-error={}
 :do { add list=HK_ASN range=211001 } on-error={}
 :do { add list=HK_ASN range=210110 } on-error={}
-:do { add list=HK_ASN range=208628 } on-error={}
 :do { add list=HK_ASN range=207550 } on-error={}
 :do { add list=HK_ASN range=207190 } on-error={}
 :do { add list=HK_ASN range=207075 } on-error={}
+:do { add list=HK_ASN range=206922 } on-error={}
 :do { add list=HK_ASN range=205960 } on-error={}
 :do { add list=HK_ASN range=205512 } on-error={}
 :do { add list=HK_ASN range=202036 } on-error={}
@@ -327,6 +328,7 @@
 :do { add list=HK_ASN range=153656 } on-error={}
 :do { add list=HK_ASN range=152165 } on-error={}
 :do { add list=HK_ASN range=152156 } on-error={}
+:do { add list=HK_ASN range=151828 } on-error={}
 :do { add list=HK_ASN range=151662 } on-error={}
 :do { add list=HK_ASN range=151407 } on-error={}
 :do { add list=HK_ASN range=150788 } on-error={}
@@ -346,7 +348,6 @@
 :do { add list=HK_ASN range=140525 } on-error={}
 :do { add list=HK_ASN range=140214 } on-error={}
 :do { add list=HK_ASN range=139734 } on-error={}
-:do { add list=HK_ASN range=137951 } on-error={}
 :do { add list=HK_ASN range=137913 } on-error={}
 :do { add list=HK_ASN range=137280 } on-error={}
 :do { add list=HK_ASN range=135572 } on-error={}
@@ -408,6 +409,7 @@
 :do { add list=HK_ASN range=24058 } on-error={}
 :do { add list=HK_ASN range=23985 } on-error={}
 :do { add list=HK_ASN range=23730 } on-error={}
+:do { add list=HK_ASN range=23709 } on-error={}
 :do { add list=HK_ASN range=215081 } on-error={}
 :do { add list=HK_ASN range=213766 } on-error={}
 :do { add list=HK_ASN range=213347 } on-error={}
@@ -415,7 +417,6 @@
 :do { add list=HK_ASN range=211512 } on-error={}
 :do { add list=HK_ASN range=211484 } on-error={}
 :do { add list=HK_ASN range=207343 } on-error={}
-:do { add list=HK_ASN range=206922 } on-error={}
 :do { add list=HK_ASN range=2042 } on-error={}
 :do { add list=HK_ASN range=203144 } on-error={}
 :do { add list=HK_ASN range=201724 } on-error={}
@@ -448,7 +449,6 @@
 :do { add list=HK_ASN range=152712 } on-error={}
 :do { add list=HK_ASN range=152450 } on-error={}
 :do { add list=HK_ASN range=151970 } on-error={}
-:do { add list=HK_ASN range=151828 } on-error={}
 :do { add list=HK_ASN range=151797 } on-error={}
 :do { add list=HK_ASN range=151466 } on-error={}
 :do { add list=HK_ASN range=151352 } on-error={}
@@ -480,6 +480,7 @@
 :do { add list=HK_ASN range=138648 } on-error={}
 :do { add list=HK_ASN range=138485 } on-error={}
 :do { add list=HK_ASN range=137992 } on-error={}
+:do { add list=HK_ASN range=137951 } on-error={}
 :do { add list=HK_ASN range=137927 } on-error={}
 :do { add list=HK_ASN range=137918 } on-error={}
 :do { add list=HK_ASN range=137857 } on-error={}

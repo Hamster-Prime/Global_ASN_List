@@ -1,5 +1,5 @@
 # ASN Information in JO.
-# Last Updated: UTC 2026-06-08 02:51:25
+# Last Updated: UTC 2026-06-09 02:28:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JO ASN list"
