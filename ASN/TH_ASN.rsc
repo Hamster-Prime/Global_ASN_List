@@ -1,5 +1,5 @@
 # ASN Information in TH.
-# Last Updated: UTC 2026-06-09 02:27:36
+# Last Updated: UTC 2026-06-10 02:40:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TH ASN list"
@@ -10,9 +10,9 @@
 :do { add list=TH_ASN range=4651 } on-error={}
 :do { add list=TH_ASN range=38040 } on-error={}
 :do { add list=TH_ASN range=132876 } on-error={}
-:do { add list=TH_ASN range=142108 } on-error={}
 :do { add list=TH_ASN range=4621 } on-error={}
 :do { add list=TH_ASN range=45796 } on-error={}
+:do { add list=TH_ASN range=142108 } on-error={}
 :do { add list=TH_ASN range=59238 } on-error={}
 :do { add list=TH_ASN range=45629 } on-error={}
 :do { add list=TH_ASN range=45458 } on-error={}
@@ -38,8 +38,8 @@
 :do { add list=TH_ASN range=45758 } on-error={}
 :do { add list=TH_ASN range=55808 } on-error={}
 :do { add list=TH_ASN range=23969 } on-error={}
-:do { add list=TH_ASN range=152599 } on-error={}
 :do { add list=TH_ASN range=23884 } on-error={}
+:do { add list=TH_ASN range=152599 } on-error={}
 :do { add list=TH_ASN range=140867 } on-error={}
 :do { add list=TH_ASN range=45265 } on-error={}
 :do { add list=TH_ASN range=131293 } on-error={}
@@ -47,14 +47,16 @@
 :do { add list=TH_ASN range=45667 } on-error={}
 :do { add list=TH_ASN range=133543 } on-error={}
 :do { add list=TH_ASN range=56309 } on-error={}
-:do { add list=TH_ASN range=9287 } on-error={}
 :do { add list=TH_ASN range=63528 } on-error={}
-:do { add list=TH_ASN range=4741 } on-error={}
 :do { add list=TH_ASN range=38566 } on-error={}
+:do { add list=TH_ASN range=9287 } on-error={}
+:do { add list=TH_ASN range=38081 } on-error={}
 :do { add list=TH_ASN range=24187 } on-error={}
 :do { add list=TH_ASN range=9587 } on-error={}
-:do { add list=TH_ASN range=38081 } on-error={}
+:do { add list=TH_ASN range=4741 } on-error={}
 :do { add list=TH_ASN range=133880 } on-error={}
+:do { add list=TH_ASN range=153996 } on-error={}
+:do { add list=TH_ASN range=134718 } on-error={}
 :do { add list=TH_ASN range=131447 } on-error={}
 :do { add list=TH_ASN range=9464 } on-error={}
 :do { add list=TH_ASN range=7568 } on-error={}
@@ -63,10 +65,8 @@
 :do { add list=TH_ASN range=137566 } on-error={}
 :do { add list=TH_ASN range=135419 } on-error={}
 :do { add list=TH_ASN range=135063 } on-error={}
-:do { add list=TH_ASN range=134718 } on-error={}
 :do { add list=TH_ASN range=132300 } on-error={}
 :do { add list=TH_ASN range=56067 } on-error={}
-:do { add list=TH_ASN range=153996 } on-error={}
 :do { add list=TH_ASN range=135529 } on-error={}
 :do { add list=TH_ASN range=4776 } on-error={}
 :do { add list=TH_ASN range=141362 } on-error={}
@@ -138,7 +138,6 @@
 :do { add list=TH_ASN range=38820 } on-error={}
 :do { add list=TH_ASN range=37932 } on-error={}
 :do { add list=TH_ASN range=24475 } on-error={}
-:do { add list=TH_ASN range=24455 } on-error={}
 :do { add list=TH_ASN range=24042 } on-error={}
 :do { add list=TH_ASN range=17823 } on-error={}
 :do { add list=TH_ASN range=17479 } on-error={}
@@ -237,6 +236,7 @@
 :do { add list=TH_ASN range=37930 } on-error={}
 :do { add list=TH_ASN range=24540 } on-error={}
 :do { add list=TH_ASN range=24465 } on-error={}
+:do { add list=TH_ASN range=24455 } on-error={}
 :do { add list=TH_ASN range=24453 } on-error={}
 :do { add list=TH_ASN range=24393 } on-error={}
 :do { add list=TH_ASN range=24328 } on-error={}
@@ -291,6 +291,7 @@
 :do { add list=TH_ASN range=139753 } on-error={}
 :do { add list=TH_ASN range=139313 } on-error={}
 :do { add list=TH_ASN range=138967 } on-error={}
+:do { add list=TH_ASN range=138906 } on-error={}
 :do { add list=TH_ASN range=138691 } on-error={}
 :do { add list=TH_ASN range=138670 } on-error={}
 :do { add list=TH_ASN range=138616 } on-error={}
@@ -426,7 +427,6 @@
 :do { add list=TH_ASN range=139329 } on-error={}
 :do { add list=TH_ASN range=139295 } on-error={}
 :do { add list=TH_ASN range=139082 } on-error={}
-:do { add list=TH_ASN range=138906 } on-error={}
 :do { add list=TH_ASN range=138494 } on-error={}
 :do { add list=TH_ASN range=138434 } on-error={}
 :do { add list=TH_ASN range=138353 } on-error={}
