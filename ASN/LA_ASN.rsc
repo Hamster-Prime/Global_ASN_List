@@ -1,5 +1,5 @@
 # ASN Information in LA.
-# Last Updated: UTC 2026-06-10 02:40:36
+# Last Updated: UTC 2026-06-11 02:50:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LA ASN list"

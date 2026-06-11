@@ -1,5 +1,5 @@
 # ASN Information in MK.
-# Last Updated: UTC 2026-06-10 02:41:33
+# Last Updated: UTC 2026-06-11 02:51:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MK ASN list"
@@ -41,6 +41,7 @@
 :do { add list=MK_ASN range=203274 } on-error={}
 :do { add list=MK_ASN range=200412 } on-error={}
 :do { add list=MK_ASN range=199969 } on-error={}
+:do { add list=MK_ASN range=198159 } on-error={}
 :do { add list=MK_ASN range=8830 } on-error={}
 :do { add list=MK_ASN range=57374 } on-error={}
 :do { add list=MK_ASN range=57134 } on-error={}
@@ -62,5 +63,4 @@
 :do { add list=MK_ASN range=205623 } on-error={}
 :do { add list=MK_ASN range=201683 } on-error={}
 :do { add list=MK_ASN range=199128 } on-error={}
-:do { add list=MK_ASN range=198159 } on-error={}
 :do { add list=MK_ASN range=16333 } on-error={}
