@@ -1,5 +1,5 @@
 # ASN Information in KR.
-# Last Updated: UTC 2026-06-11 02:50:16
+# Last Updated: UTC 2026-06-12 02:46:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KR ASN list"
@@ -513,7 +513,6 @@
 :do { add list=KR_ASN range=131839 } on-error={}
 :do { add list=KR_ASN range=131838 } on-error={}
 :do { add list=KR_ASN range=131836 } on-error={}
-:do { add list=KR_ASN range=131830 } on-error={}
 :do { add list=KR_ASN range=131829 } on-error={}
 :do { add list=KR_ASN range=131828 } on-error={}
 :do { add list=KR_ASN range=131827 } on-error={}
@@ -813,7 +812,6 @@
 :do { add list=KR_ASN range=17573 } on-error={}
 :do { add list=KR_ASN range=17570 } on-error={}
 :do { add list=KR_ASN range=154270 } on-error={}
-:do { add list=KR_ASN range=153997 } on-error={}
 :do { add list=KR_ASN range=153589 } on-error={}
 :do { add list=KR_ASN range=152878 } on-error={}
 :do { add list=KR_ASN range=152293 } on-error={}
@@ -842,6 +840,7 @@
 :do { add list=KR_ASN range=131835 } on-error={}
 :do { add list=KR_ASN range=131834 } on-error={}
 :do { add list=KR_ASN range=131831 } on-error={}
+:do { add list=KR_ASN range=131830 } on-error={}
 :do { add list=KR_ASN range=131824 } on-error={}
 :do { add list=KR_ASN range=131822 } on-error={}
 :do { add list=KR_ASN range=131812 } on-error={}
@@ -881,6 +880,7 @@
 :do { add list=KR_ASN range=200983 } on-error={}
 :do { add list=KR_ASN range=200965 } on-error={}
 :do { add list=KR_ASN range=198840 } on-error={}
+:do { add list=KR_ASN range=153997 } on-error={}
 :do { add list=KR_ASN range=153782 } on-error={}
 :do { add list=KR_ASN range=150805 } on-error={}
 :do { add list=KR_ASN range=150414 } on-error={}

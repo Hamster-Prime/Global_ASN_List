@@ -1,5 +1,5 @@
 # ASN Information in WS.
-# Last Updated: UTC 2026-06-11 02:52:19
+# Last Updated: UTC 2026-06-12 02:48:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading WS ASN list"
@@ -10,4 +10,3 @@
 :do { add list=WS_ASN range=153053 } on-error={}
 :do { add list=WS_ASN range=150321 } on-error={}
 :do { add list=WS_ASN range=139679 } on-error={}
-:do { add list=WS_ASN range=134376 } on-error={}

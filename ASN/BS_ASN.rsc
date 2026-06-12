@@ -1,5 +1,5 @@
 # ASN Information in BS.
-# Last Updated: UTC 2026-06-11 02:52:54
+# Last Updated: UTC 2026-06-12 02:48:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BS ASN list"
@@ -12,5 +12,4 @@
 :do { add list=BS_ASN range=22357 } on-error={}
 :do { add list=BS_ASN range=18635 } on-error={}
 :do { add list=BS_ASN range=397914 } on-error={}
-:do { add list=BS_ASN range=26929 } on-error={}
 :do { add list=BS_ASN range=19128 } on-error={}
