@@ -1,5 +1,5 @@
 # ASN Information in SK.
-# Last Updated: UTC 2026-06-13 02:40:38
+# Last Updated: UTC 2026-06-14 02:52:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SK ASN list"
@@ -12,10 +12,10 @@
 :do { add list=SK_ASN range=8778 } on-error={}
 :do { add list=SK_ASN range=31117 } on-error={}
 :do { add list=SK_ASN range=48326 } on-error={}
-:do { add list=SK_ASN range=15962 } on-error={}
 :do { add list=SK_ASN range=28952 } on-error={}
-:do { add list=SK_ASN range=31230 } on-error={}
 :do { add list=SK_ASN range=12905 } on-error={}
+:do { add list=SK_ASN range=31230 } on-error={}
+:do { add list=SK_ASN range=15962 } on-error={}
 :do { add list=SK_ASN range=34820 } on-error={}
 :do { add list=SK_ASN range=15497 } on-error={}
 :do { add list=SK_ASN range=42005 } on-error={}
@@ -70,7 +70,6 @@
 :do { add list=SK_ASN range=8288 } on-error={}
 :do { add list=SK_ASN range=6658 } on-error={}
 :do { add list=SK_ASN range=60296 } on-error={}
-:do { add list=SK_ASN range=59548 } on-error={}
 :do { add list=SK_ASN range=57547 } on-error={}
 :do { add list=SK_ASN range=57248 } on-error={}
 :do { add list=SK_ASN range=56955 } on-error={}
@@ -111,6 +110,7 @@
 :do { add list=SK_ASN range=60791 } on-error={}
 :do { add list=SK_ASN range=60715 } on-error={}
 :do { add list=SK_ASN range=60585 } on-error={}
+:do { add list=SK_ASN range=59548 } on-error={}
 :do { add list=SK_ASN range=59477 } on-error={}
 :do { add list=SK_ASN range=58328 } on-error={}
 :do { add list=SK_ASN range=58275 } on-error={}

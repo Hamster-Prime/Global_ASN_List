@@ -1,5 +1,5 @@
 # ASN Information in CL.
-# Last Updated: UTC 2026-06-13 02:41:49
+# Last Updated: UTC 2026-06-14 02:53:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CL ASN list"
@@ -10,23 +10,24 @@
 :do { add list=CL_ASN range=270014 } on-error={}
 :do { add list=CL_ASN range=266830 } on-error={}
 :do { add list=CL_ASN range=263702 } on-error={}
-:do { add list=CL_ASN range=14259 } on-error={}
 :do { add list=CL_ASN range=64139 } on-error={}
+:do { add list=CL_ASN range=14259 } on-error={}
 :do { add list=CL_ASN range=7004 } on-error={}
 :do { add list=CL_ASN range=61503 } on-error={}
 :do { add list=CL_ASN range=6429 } on-error={}
 :do { add list=CL_ASN range=27901 } on-error={}
 :do { add list=CL_ASN range=6471 } on-error={}
+:do { add list=CL_ASN range=19338 } on-error={}
 :do { add list=CL_ASN range=10778 } on-error={}
 :do { add list=CL_ASN range=272022 } on-error={}
 :do { add list=CL_ASN range=266771 } on-error={}
-:do { add list=CL_ASN range=19338 } on-error={}
 :do { add list=CL_ASN range=52341 } on-error={}
 :do { add list=CL_ASN range=16629 } on-error={}
 :do { add list=CL_ASN range=22047 } on-error={}
 :do { add list=CL_ASN range=22860 } on-error={}
 :do { add list=CL_ASN range=7418 } on-error={}
 :do { add list=CL_ASN range=265662 } on-error={}
+:do { add list=CL_ASN range=19228 } on-error={}
 :do { add list=CL_ASN range=11340 } on-error={}
 :do { add list=CL_ASN range=265757 } on-error={}
 :do { add list=CL_ASN range=265703 } on-error={}
@@ -39,7 +40,6 @@
 :do { add list=CL_ASN range=264838 } on-error={}
 :do { add list=CL_ASN range=264681 } on-error={}
 :do { add list=CL_ASN range=20191 } on-error={}
-:do { add list=CL_ASN range=19228 } on-error={}
 :do { add list=CL_ASN range=61506 } on-error={}
 :do { add list=CL_ASN range=61466 } on-error={}
 :do { add list=CL_ASN range=27678 } on-error={}
@@ -93,6 +93,7 @@
 :do { add list=CL_ASN range=27978 } on-error={}
 :do { add list=CL_ASN range=27735 } on-error={}
 :do { add list=CL_ASN range=14795 } on-error={}
+:do { add list=CL_ASN range=27899 } on-error={}
 :do { add list=CL_ASN range=273237 } on-error={}
 :do { add list=CL_ASN range=16990 } on-error={}
 :do { add list=CL_ASN range=15208 } on-error={}
@@ -106,9 +107,10 @@
 :do { add list=CL_ASN range=6535 } on-error={}
 :do { add list=CL_ASN range=52510 } on-error={}
 :do { add list=CL_ASN range=52226 } on-error={}
-:do { add list=CL_ASN range=27899 } on-error={}
 :do { add list=CL_ASN range=27897 } on-error={}
+:do { add list=CL_ASN range=27853 } on-error={}
 :do { add list=CL_ASN range=27676 } on-error={}
+:do { add list=CL_ASN range=273955 } on-error={}
 :do { add list=CL_ASN range=273886 } on-error={}
 :do { add list=CL_ASN range=273822 } on-error={}
 :do { add list=CL_ASN range=271894 } on-error={}
@@ -142,12 +144,10 @@
 :do { add list=CL_ASN range=27925 } on-error={}
 :do { add list=CL_ASN range=27918 } on-error={}
 :do { add list=CL_ASN range=27874 } on-error={}
-:do { add list=CL_ASN range=27853 } on-error={}
 :do { add list=CL_ASN range=27838 } on-error={}
 :do { add list=CL_ASN range=274225 } on-error={}
 :do { add list=CL_ASN range=273988 } on-error={}
 :do { add list=CL_ASN range=273973 } on-error={}
-:do { add list=CL_ASN range=273955 } on-error={}
 :do { add list=CL_ASN range=273853 } on-error={}
 :do { add list=CL_ASN range=273073 } on-error={}
 :do { add list=CL_ASN range=272957 } on-error={}
@@ -164,7 +164,6 @@
 :do { add list=CL_ASN range=270013 } on-error={}
 :do { add list=CL_ASN range=270008 } on-error={}
 :do { add list=CL_ASN range=269993 } on-error={}
-:do { add list=CL_ASN range=269963 } on-error={}
 :do { add list=CL_ASN range=269944 } on-error={}
 :do { add list=CL_ASN range=267906 } on-error={}
 :do { add list=CL_ASN range=267894 } on-error={}
@@ -265,6 +264,7 @@
 :do { add list=CL_ASN range=270065 } on-error={}
 :do { add list=CL_ASN range=270056 } on-error={}
 :do { add list=CL_ASN range=270050 } on-error={}
+:do { add list=CL_ASN range=269963 } on-error={}
 :do { add list=CL_ASN range=269949 } on-error={}
 :do { add list=CL_ASN range=269925 } on-error={}
 :do { add list=CL_ASN range=269877 } on-error={}
