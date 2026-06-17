@@ -1,13 +1,13 @@
 # ASN Information in BA.
-# Last Updated: UTC 2026-06-16 02:58:06
+# Last Updated: UTC 2026-06-17 02:54:35
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BA ASN list"
 /routing filter num-list
 :do { add list=BA_ASN range=9146 } on-error={}
 :do { add list=BA_ASN range=25144 } on-error={}
-:do { add list=BA_ASN range=207471 } on-error={}
 :do { add list=BA_ASN range=42560 } on-error={}
+:do { add list=BA_ASN range=207471 } on-error={}
 :do { add list=BA_ASN range=16178 } on-error={}
 :do { add list=BA_ASN range=20875 } on-error={}
 :do { add list=BA_ASN range=21107 } on-error={}

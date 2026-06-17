@@ -1,5 +1,5 @@
 # ASN Information in IQ.
-# Last Updated: UTC 2026-06-16 02:58:36
+# Last Updated: UTC 2026-06-17 02:55:01
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IQ ASN list"
@@ -24,7 +24,6 @@
 :do { add list=IQ_ASN range=60815 } on-error={}
 :do { add list=IQ_ASN range=59588 } on-error={}
 :do { add list=IQ_ASN range=212573 } on-error={}
-:do { add list=IQ_ASN range=212280 } on-error={}
 :do { add list=IQ_ASN range=211090 } on-error={}
 :do { add list=IQ_ASN range=205906 } on-error={}
 :do { add list=IQ_ASN range=204798 } on-error={}
@@ -41,6 +40,7 @@
 :do { add list=IQ_ASN range=48407 } on-error={}
 :do { add list=IQ_ASN range=41032 } on-error={}
 :do { add list=IQ_ASN range=212692 } on-error={}
+:do { add list=IQ_ASN range=212280 } on-error={}
 :do { add list=IQ_ASN range=207138 } on-error={}
 :do { add list=IQ_ASN range=206206 } on-error={}
 :do { add list=IQ_ASN range=205889 } on-error={}
@@ -75,7 +75,6 @@
 :do { add list=IQ_ASN range=3194 } on-error={}
 :do { add list=IQ_ASN range=211534 } on-error={}
 :do { add list=IQ_ASN range=211413 } on-error={}
-:do { add list=IQ_ASN range=211235 } on-error={}
 :do { add list=IQ_ASN range=210016 } on-error={}
 :do { add list=IQ_ASN range=209193 } on-error={}
 :do { add list=IQ_ASN range=208866 } on-error={}
@@ -141,7 +140,6 @@
 :do { add list=IQ_ASN range=204152 } on-error={}
 :do { add list=IQ_ASN range=203904 } on-error={}
 :do { add list=IQ_ASN range=203735 } on-error={}
-:do { add list=IQ_ASN range=203459 } on-error={}
 :do { add list=IQ_ASN range=203409 } on-error={}
 :do { add list=IQ_ASN range=202777 } on-error={}
 :do { add list=IQ_ASN range=202699 } on-error={}
