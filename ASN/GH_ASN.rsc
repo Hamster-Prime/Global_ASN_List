@@ -1,5 +1,5 @@
 # ASN Information in GH.
-# Last Updated: UTC 2026-06-18 02:51:23
+# Last Updated: UTC 2026-06-19 03:37:12
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GH ASN list"
@@ -16,8 +16,8 @@
 :do { add list=GH_ASN range=328797 } on-error={}
 :do { add list=GH_ASN range=328842 } on-error={}
 :do { add list=GH_ASN range=37012 } on-error={}
-:do { add list=GH_ASN range=329580 } on-error={}
 :do { add list=GH_ASN range=29340 } on-error={}
+:do { add list=GH_ASN range=329580 } on-error={}
 :do { add list=GH_ASN range=329176 } on-error={}
 :do { add list=GH_ASN range=329009 } on-error={}
 :do { add list=GH_ASN range=327947 } on-error={}
@@ -30,7 +30,6 @@
 :do { add list=GH_ASN range=328252 } on-error={}
 :do { add list=GH_ASN range=329154 } on-error={}
 :do { add list=GH_ASN range=328983 } on-error={}
-:do { add list=GH_ASN range=328957 } on-error={}
 :do { add list=GH_ASN range=328076 } on-error={}
 :do { add list=GH_ASN range=37570 } on-error={}
 :do { add list=GH_ASN range=37534 } on-error={}
@@ -45,6 +44,7 @@
 :do { add list=GH_ASN range=329389 } on-error={}
 :do { add list=GH_ASN range=329309 } on-error={}
 :do { add list=GH_ASN range=328984 } on-error={}
+:do { add list=GH_ASN range=328957 } on-error={}
 :do { add list=GH_ASN range=328890 } on-error={}
 :do { add list=GH_ASN range=328769 } on-error={}
 :do { add list=GH_ASN range=328752 } on-error={}
@@ -57,7 +57,6 @@
 :do { add list=GH_ASN range=328054 } on-error={}
 :do { add list=GH_ASN range=327886 } on-error={}
 :do { add list=GH_ASN range=327848 } on-error={}
-:do { add list=GH_ASN range=327845 } on-error={}
 :do { add list=GH_ASN range=327695 } on-error={}
 :do { add list=GH_ASN range=37647 } on-error={}
 :do { add list=GH_ASN range=37373 } on-error={}
@@ -96,5 +95,6 @@
 :do { add list=GH_ASN range=327944 } on-error={}
 :do { add list=GH_ASN range=327928 } on-error={}
 :do { add list=GH_ASN range=327853 } on-error={}
+:do { add list=GH_ASN range=327845 } on-error={}
 :do { add list=GH_ASN range=29674 } on-error={}
 :do { add list=GH_ASN range=15825 } on-error={}
