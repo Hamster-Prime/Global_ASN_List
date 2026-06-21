@@ -1,5 +1,5 @@
 # ASN Information in KE.
-# Last Updated: UTC 2026-06-20 02:41:23
+# Last Updated: UTC 2026-06-21 02:57:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KE ASN list"
@@ -10,20 +10,20 @@
 :do { add list=KE_ASN range=15808 } on-error={}
 :do { add list=KE_ASN range=37061 } on-error={}
 :do { add list=KE_ASN range=36866 } on-error={}
-:do { add list=KE_ASN range=33771 } on-error={}
 :do { add list=KE_ASN range=36926 } on-error={}
+:do { add list=KE_ASN range=33771 } on-error={}
 :do { add list=KE_ASN range=328271 } on-error={}
 :do { add list=KE_ASN range=37684 } on-error={}
 :do { add list=KE_ASN range=328578 } on-error={}
 :do { add list=KE_ASN range=15399 } on-error={}
 :do { add list=KE_ASN range=36914 } on-error={}
-:do { add list=KE_ASN range=37305 } on-error={}
 :do { add list=KE_ASN range=328858 } on-error={}
-:do { add list=KE_ASN range=328490 } on-error={}
+:do { add list=KE_ASN range=37305 } on-error={}
+:do { add list=KE_ASN range=12455 } on-error={}
 :do { add list=KE_ASN range=37109 } on-error={}
 :do { add list=KE_ASN range=329621 } on-error={}
 :do { add list=KE_ASN range=328856 } on-error={}
-:do { add list=KE_ASN range=12455 } on-error={}
+:do { add list=KE_ASN range=328490 } on-error={}
 :do { add list=KE_ASN range=329497 } on-error={}
 :do { add list=KE_ASN range=329387 } on-error={}
 :do { add list=KE_ASN range=329101 } on-error={}
@@ -87,6 +87,7 @@
 :do { add list=KE_ASN range=37298 } on-error={}
 :do { add list=KE_ASN range=329747 } on-error={}
 :do { add list=KE_ASN range=329702 } on-error={}
+:do { add list=KE_ASN range=329518 } on-error={}
 :do { add list=KE_ASN range=329341 } on-error={}
 :do { add list=KE_ASN range=329211 } on-error={}
 :do { add list=KE_ASN range=329190 } on-error={}
@@ -134,7 +135,6 @@
 :do { add list=KE_ASN range=329673 } on-error={}
 :do { add list=KE_ASN range=329556 } on-error={}
 :do { add list=KE_ASN range=329528 } on-error={}
-:do { add list=KE_ASN range=329518 } on-error={}
 :do { add list=KE_ASN range=329452 } on-error={}
 :do { add list=KE_ASN range=329426 } on-error={}
 :do { add list=KE_ASN range=329418 } on-error={}
