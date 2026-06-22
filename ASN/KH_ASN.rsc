@@ -1,5 +1,5 @@
 # ASN Information in KH.
-# Last Updated: UTC 2026-06-21 02:54:28
+# Last Updated: UTC 2026-06-22 02:57:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"
@@ -22,9 +22,9 @@
 :do { add list=KH_ASN range=135375 } on-error={}
 :do { add list=KH_ASN range=137551 } on-error={}
 :do { add list=KH_ASN range=132599 } on-error={}
-:do { add list=KH_ASN range=152301 } on-error={}
 :do { add list=KH_ASN range=151622 } on-error={}
 :do { add list=KH_ASN range=7712 } on-error={}
+:do { add list=KH_ASN range=152301 } on-error={}
 :do { add list=KH_ASN range=138629 } on-error={}
 :do { add list=KH_ASN range=138580 } on-error={}
 :do { add list=KH_ASN range=138340 } on-error={}
