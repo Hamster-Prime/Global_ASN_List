@@ -1,5 +1,5 @@
 # ASN Information in CZ.
-# Last Updated: UTC 2026-06-23 02:33:14
+# Last Updated: UTC 2026-06-24 02:33:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CZ ASN list"
@@ -326,7 +326,6 @@
 :do { add list=CZ_ASN range=62102 } on-error={}
 :do { add list=CZ_ASN range=61425 } on-error={}
 :do { add list=CZ_ASN range=60724 } on-error={}
-:do { add list=CZ_ASN range=60584 } on-error={}
 :do { add list=CZ_ASN range=60529 } on-error={}
 :do { add list=CZ_ASN range=60266 } on-error={}
 :do { add list=CZ_ASN range=60218 } on-error={}

@@ -1,5 +1,5 @@
 === ASN信息获取汇总 ===
-获取时间: 2026-06-23 02:35:11
+获取时间: 2026-06-24 02:35:38
 ==================================================
 
 CN: 5226 个ASN
@@ -30,7 +30,7 @@ BT: 26 个ASN
 MV: 15 个ASN
 DE: 2567 个ASN
 FR: 1521 个ASN
-GB: 2310 个ASN
+GB: 2311 个ASN
 IE: 210 个ASN
 IT: 1118 个ASN
 ES: 965 个ASN
@@ -39,14 +39,14 @@ NL: 1112 个ASN
 BE: 293 个ASN
 LU: 108 个ASN
 CH: 780 个ASN
-AT: 643 个ASN
+AT: 644 个ASN
 DK: 347 个ASN
 SE: 673 个ASN
 NO: 307 个ASN
 FI: 307 个ASN
 IS: 72 个ASN
 PL: 2161 个ASN
-CZ: 602 个ASN
+CZ: 601 个ASN
 HU: 244 个ASN
 GR: 230 个ASN
 RU: 5018 个ASN
@@ -100,7 +100,7 @@ SB: 10 个ASN
 VU: 11 个ASN
 WS: 6 个ASN
 TO: 4 个ASN
-US: 19071 个ASN
+US: 19072 个ASN
 CA: 1653 个ASN
 MX: 533 个ASN
 BR: 8807 个ASN
@@ -144,6 +144,6 @@ AO: 63 个ASN
 ZM: 19 个ASN
 ZW: 27 个ASN
 
-总计: 86055 个ASN记录
+总计: 86057 个ASN记录
 成功获取: 141 个国家
 失败或无数据: 0 个国家
