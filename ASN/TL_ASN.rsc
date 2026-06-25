@@ -1,19 +1,19 @@
 # ASN Information in TL.
-# Last Updated: UTC 2026-06-24 02:33:25
+# Last Updated: UTC 2026-06-25 02:35:02
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TL ASN list"
 /routing filter num-list
-:do { add list=TL_ASN range=7699 } on-error={}
 :do { add list=TL_ASN range=133606 } on-error={}
+:do { add list=TL_ASN range=7699 } on-error={}
 :do { add list=TL_ASN range=58731 } on-error={}
 :do { add list=TL_ASN range=38077 } on-error={}
 :do { add list=TL_ASN range=153183 } on-error={}
 :do { add list=TL_ASN range=151605 } on-error={}
 :do { add list=TL_ASN range=140223 } on-error={}
+:do { add list=TL_ASN range=136920 } on-error={}
 :do { add list=TL_ASN range=152899 } on-error={}
 :do { add list=TL_ASN range=149004 } on-error={}
 :do { add list=TL_ASN range=139688 } on-error={}
-:do { add list=TL_ASN range=136920 } on-error={}
 :do { add list=TL_ASN range=136765 } on-error={}
 :do { add list=TL_ASN range=135065 } on-error={}

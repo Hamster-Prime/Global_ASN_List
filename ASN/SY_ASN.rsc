@@ -1,5 +1,5 @@
 # ASN Information in SY.
-# Last Updated: UTC 2026-06-24 02:34:30
+# Last Updated: UTC 2026-06-25 02:36:10
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SY ASN list"
@@ -11,4 +11,5 @@
 :do { add list=SY_ASN range=29256 } on-error={}
 :do { add list=SY_ASN range=213812 } on-error={}
 :do { add list=SY_ASN range=210557 } on-error={}
+:do { add list=SY_ASN range=203862 } on-error={}
 :do { add list=SY_ASN range=201550 } on-error={}
