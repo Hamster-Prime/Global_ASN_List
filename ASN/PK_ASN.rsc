@@ -1,5 +1,5 @@
 # ASN Information in PK.
-# Last Updated: UTC 2026-06-26 02:37:37
+# Last Updated: UTC 2026-06-27 02:30:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PK ASN list"
@@ -32,12 +32,12 @@
 :do { add list=PK_ASN range=139879 } on-error={}
 :do { add list=PK_ASN range=137561 } on-error={}
 :do { add list=PK_ASN range=9387 } on-error={}
-:do { add list=PK_ASN range=59257 } on-error={}
 :do { add list=PK_ASN range=58895 } on-error={}
 :do { add list=PK_ASN range=45246 } on-error={}
 :do { add list=PK_ASN range=152605 } on-error={}
 :do { add list=PK_ASN range=151330 } on-error={}
 :do { add list=PK_ASN range=150371 } on-error={}
+:do { add list=PK_ASN range=59257 } on-error={}
 :do { add list=PK_ASN range=55714 } on-error={}
 :do { add list=PK_ASN range=23888 } on-error={}
 :do { add list=PK_ASN range=17563 } on-error={}
@@ -83,7 +83,6 @@
 :do { add list=PK_ASN range=136184 } on-error={}
 :do { add list=PK_ASN range=136174 } on-error={}
 :do { add list=PK_ASN range=135567 } on-error={}
-:do { add list=PK_ASN range=135123 } on-error={}
 :do { add list=PK_ASN range=134489 } on-error={}
 :do { add list=PK_ASN range=63954 } on-error={}
 :do { add list=PK_ASN range=59323 } on-error={}
@@ -116,7 +115,6 @@
 :do { add list=PK_ASN range=154453 } on-error={}
 :do { add list=PK_ASN range=154066 } on-error={}
 :do { add list=PK_ASN range=153932 } on-error={}
-:do { add list=PK_ASN range=153596 } on-error={}
 :do { add list=PK_ASN range=153390 } on-error={}
 :do { add list=PK_ASN range=152684 } on-error={}
 :do { add list=PK_ASN range=152647 } on-error={}
@@ -167,6 +165,7 @@
 :do { add list=PK_ASN range=136030 } on-error={}
 :do { add list=PK_ASN range=136012 } on-error={}
 :do { add list=PK_ASN range=135660 } on-error={}
+:do { add list=PK_ASN range=135123 } on-error={}
 :do { add list=PK_ASN range=135115 } on-error={}
 :do { add list=PK_ASN range=134663 } on-error={}
 :do { add list=PK_ASN range=133932 } on-error={}
@@ -190,7 +189,6 @@
 :do { add list=PK_ASN range=18212 } on-error={}
 :do { add list=PK_ASN range=18053 } on-error={}
 :do { add list=PK_ASN range=154578 } on-error={}
-:do { add list=PK_ASN range=154517 } on-error={}
 :do { add list=PK_ASN range=154386 } on-error={}
 :do { add list=PK_ASN range=154379 } on-error={}
 :do { add list=PK_ASN range=154223 } on-error={}
@@ -202,6 +200,7 @@
 :do { add list=PK_ASN range=153844 } on-error={}
 :do { add list=PK_ASN range=153685 } on-error={}
 :do { add list=PK_ASN range=153606 } on-error={}
+:do { add list=PK_ASN range=153596 } on-error={}
 :do { add list=PK_ASN range=153587 } on-error={}
 :do { add list=PK_ASN range=153561 } on-error={}
 :do { add list=PK_ASN range=153533 } on-error={}

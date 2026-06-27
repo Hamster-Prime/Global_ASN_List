@@ -1,5 +1,5 @@
 # ASN Information in IR.
-# Last Updated: UTC 2026-06-26 02:38:58
+# Last Updated: UTC 2026-06-27 02:31:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IR ASN list"
@@ -17,8 +17,8 @@
 :do { add list=IR_ASN range=24631 } on-error={}
 :do { add list=IR_ASN range=60976 } on-error={}
 :do { add list=IR_ASN range=44889 } on-error={}
-:do { add list=IR_ASN range=50810 } on-error={}
 :do { add list=IR_ASN range=12880 } on-error={}
+:do { add list=IR_ASN range=50810 } on-error={}
 :do { add list=IR_ASN range=41881 } on-error={}
 :do { add list=IR_ASN range=211421 } on-error={}
 :do { add list=IR_ASN range=62442 } on-error={}
@@ -193,7 +193,6 @@
 :do { add list=IR_ASN range=52070 } on-error={}
 :do { add list=IR_ASN range=51785 } on-error={}
 :do { add list=IR_ASN range=51554 } on-error={}
-:do { add list=IR_ASN range=51469 } on-error={}
 :do { add list=IR_ASN range=51460 } on-error={}
 :do { add list=IR_ASN range=51241 } on-error={}
 :do { add list=IR_ASN range=51026 } on-error={}
@@ -238,7 +237,6 @@
 :do { add list=IR_ASN range=25306 } on-error={}
 :do { add list=IR_ASN range=24707 } on-error={}
 :do { add list=IR_ASN range=216074 } on-error={}
-:do { add list=IR_ASN range=215892 } on-error={}
 :do { add list=IR_ASN range=215496 } on-error={}
 :do { add list=IR_ASN range=215350 } on-error={}
 :do { add list=IR_ASN range=215285 } on-error={}
@@ -354,6 +352,7 @@
 :do { add list=IR_ASN range=51777 } on-error={}
 :do { add list=IR_ASN range=51759 } on-error={}
 :do { add list=IR_ASN range=51732 } on-error={}
+:do { add list=IR_ASN range=51469 } on-error={}
 :do { add list=IR_ASN range=51433 } on-error={}
 :do { add list=IR_ASN range=51411 } on-error={}
 :do { add list=IR_ASN range=51355 } on-error={}
@@ -422,6 +421,7 @@
 :do { add list=IR_ASN range=216125 } on-error={}
 :do { add list=IR_ASN range=215974 } on-error={}
 :do { add list=IR_ASN range=215938 } on-error={}
+:do { add list=IR_ASN range=215892 } on-error={}
 :do { add list=IR_ASN range=215850 } on-error={}
 :do { add list=IR_ASN range=215779 } on-error={}
 :do { add list=IR_ASN range=215767 } on-error={}
