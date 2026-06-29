@@ -1,13 +1,13 @@
 # ASN Information in GR.
-# Last Updated: UTC 2026-06-28 02:43:46
+# Last Updated: UTC 2026-06-29 02:44:27
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GR ASN list"
 /routing filter num-list
 :do { add list=GR_ASN range=199081 } on-error={}
 :do { add list=GR_ASN range=206735 } on-error={}
-:do { add list=GR_ASN range=12713 } on-error={}
 :do { add list=GR_ASN range=202224 } on-error={}
+:do { add list=GR_ASN range=12713 } on-error={}
 :do { add list=GR_ASN range=1241 } on-error={}
 :do { add list=GR_ASN range=51505 } on-error={}
 :do { add list=GR_ASN range=4601 } on-error={}
