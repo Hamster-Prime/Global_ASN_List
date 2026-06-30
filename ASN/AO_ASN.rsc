@@ -1,12 +1,12 @@
 # ASN Information in AO.
-# Last Updated: UTC 2026-06-29 02:46:28
+# Last Updated: UTC 2026-06-30 02:40:35
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AO ASN list"
 /routing filter num-list
 :do { add list=AO_ASN range=37468 } on-error={}
-:do { add list=AO_ASN range=37119 } on-error={}
 :do { add list=AO_ASN range=37645 } on-error={}
+:do { add list=AO_ASN range=37119 } on-error={}
 :do { add list=AO_ASN range=11259 } on-error={}
 :do { add list=AO_ASN range=17400 } on-error={}
 :do { add list=AO_ASN range=327932 } on-error={}

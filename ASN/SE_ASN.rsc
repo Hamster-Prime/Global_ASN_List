@@ -1,5 +1,5 @@
 # ASN Information in SE.
-# Last Updated: UTC 2026-06-29 02:44:18
+# Last Updated: UTC 2026-06-30 02:38:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SE ASN list"
@@ -80,6 +80,7 @@
 :do { add list=SE_ASN range=49292 } on-error={}
 :do { add list=SE_ASN range=24668 } on-error={}
 :do { add list=SE_ASN range=58317 } on-error={}
+:do { add list=SE_ASN range=213113 } on-error={}
 :do { add list=SE_ASN range=205966 } on-error={}
 :do { add list=SE_ASN range=204179 } on-error={}
 :do { add list=SE_ASN range=201641 } on-error={}
@@ -149,7 +150,6 @@
 :do { add list=SE_ASN range=34686 } on-error={}
 :do { add list=SE_ASN range=34628 } on-error={}
 :do { add list=SE_ASN range=2840 } on-error={}
-:do { add list=SE_ASN range=213113 } on-error={}
 :do { add list=SE_ASN range=21195 } on-error={}
 :do { add list=SE_ASN range=209705 } on-error={}
 :do { add list=SE_ASN range=208760 } on-error={}
