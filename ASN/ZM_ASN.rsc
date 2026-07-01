@@ -1,5 +1,5 @@
 # ASN Information in ZM.
-# Last Updated: UTC 2026-06-30 02:40:37
+# Last Updated: UTC 2026-07-01 02:46:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZM ASN list"
@@ -12,6 +12,7 @@
 :do { add list=ZM_ASN range=328646 } on-error={}
 :do { add list=ZM_ASN range=37532 } on-error={}
 :do { add list=ZM_ASN range=36959 } on-error={}
+:do { add list=ZM_ASN range=329444 } on-error={}
 :do { add list=ZM_ASN range=329383 } on-error={}
 :do { add list=ZM_ASN range=329105 } on-error={}
 :do { add list=ZM_ASN range=328665 } on-error={}
