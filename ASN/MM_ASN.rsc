@@ -1,5 +1,5 @@
 # ASN Information in MM.
-# Last Updated: UTC 2026-07-01 02:43:43
+# Last Updated: UTC 2026-07-02 02:33:19
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MM ASN list"
@@ -69,6 +69,7 @@
 :do { add list=MM_ASN range=142644 } on-error={}
 :do { add list=MM_ASN range=141704 } on-error={}
 :do { add list=MM_ASN range=140552 } on-error={}
+:do { add list=MM_ASN range=139822 } on-error={}
 :do { add list=MM_ASN range=139711 } on-error={}
 :do { add list=MM_ASN range=139704 } on-error={}
 :do { add list=MM_ASN range=139595 } on-error={}
@@ -109,7 +110,6 @@
 :do { add list=MM_ASN range=141199 } on-error={}
 :do { add list=MM_ASN range=140617 } on-error={}
 :do { add list=MM_ASN range=139849 } on-error={}
-:do { add list=MM_ASN range=139822 } on-error={}
 :do { add list=MM_ASN range=139804 } on-error={}
 :do { add list=MM_ASN range=139051 } on-error={}
 :do { add list=MM_ASN range=139003 } on-error={}
