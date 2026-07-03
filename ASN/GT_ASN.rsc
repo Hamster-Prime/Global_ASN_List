@@ -1,5 +1,5 @@
 # ASN Information in GT.
-# Last Updated: UTC 2026-07-02 02:35:17
+# Last Updated: UTC 2026-07-03 02:10:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GT ASN list"
@@ -24,7 +24,6 @@
 :do { add list=GT_ASN range=27910 } on-error={}
 :do { add list=GT_ASN range=272969 } on-error={}
 :do { add list=GT_ASN range=272061 } on-error={}
-:do { add list=GT_ASN range=272012 } on-error={}
 :do { add list=GT_ASN range=269923 } on-error={}
 :do { add list=GT_ASN range=263714 } on-error={}
 :do { add list=GT_ASN range=20299 } on-error={}
@@ -38,6 +37,7 @@
 :do { add list=GT_ASN range=273152 } on-error={}
 :do { add list=GT_ASN range=273149 } on-error={}
 :do { add list=GT_ASN range=272876 } on-error={}
+:do { add list=GT_ASN range=272012 } on-error={}
 :do { add list=GT_ASN range=269951 } on-error={}
 :do { add list=GT_ASN range=269830 } on-error={}
 :do { add list=GT_ASN range=267713 } on-error={}

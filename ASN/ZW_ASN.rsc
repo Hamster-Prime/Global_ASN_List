@@ -1,5 +1,5 @@
 # ASN Information in ZW.
-# Last Updated: UTC 2026-07-02 02:35:48
+# Last Updated: UTC 2026-07-03 02:10:56
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZW ASN list"
@@ -8,13 +8,15 @@
 :do { add list=ZW_ASN range=37183 } on-error={}
 :do { add list=ZW_ASN range=329006 } on-error={}
 :do { add list=ZW_ASN range=328269 } on-error={}
-:do { add list=ZW_ASN range=37332 } on-error={}
-:do { add list=ZW_ASN range=37568 } on-error={}
 :do { add list=ZW_ASN range=37184 } on-error={}
-:do { add list=ZW_ASN range=37189 } on-error={}
+:do { add list=ZW_ASN range=37568 } on-error={}
+:do { add list=ZW_ASN range=37332 } on-error={}
 :do { add list=ZW_ASN range=37123 } on-error={}
+:do { add list=ZW_ASN range=37189 } on-error={}
 :do { add list=ZW_ASN range=36986 } on-error={}
 :do { add list=ZW_ASN range=329540 } on-error={}
+:do { add list=ZW_ASN range=31856 } on-error={}
+:do { add list=ZW_ASN range=21144 } on-error={}
 :do { add list=ZW_ASN range=37344 } on-error={}
 :do { add list=ZW_ASN range=37329 } on-error={}
 :do { add list=ZW_ASN range=329638 } on-error={}
@@ -23,8 +25,6 @@
 :do { add list=ZW_ASN range=328235 } on-error={}
 :do { add list=ZW_ASN range=328088 } on-error={}
 :do { add list=ZW_ASN range=327770 } on-error={}
-:do { add list=ZW_ASN range=31856 } on-error={}
-:do { add list=ZW_ASN range=21144 } on-error={}
 :do { add list=ZW_ASN range=37024 } on-error={}
 :do { add list=ZW_ASN range=329425 } on-error={}
 :do { add list=ZW_ASN range=329271 } on-error={}

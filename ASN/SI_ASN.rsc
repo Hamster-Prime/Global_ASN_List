@@ -1,5 +1,5 @@
 # ASN Information in SI.
-# Last Updated: UTC 2026-07-02 02:34:13
+# Last Updated: UTC 2026-07-03 02:09:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SI ASN list"
@@ -18,11 +18,10 @@
 :do { add list=SI_ASN range=51790 } on-error={}
 :do { add list=SI_ASN range=41427 } on-error={}
 :do { add list=SI_ASN range=5435 } on-error={}
-:do { add list=SI_ASN range=43128 } on-error={}
-:do { add list=SI_ASN range=42207 } on-error={}
 :do { add list=SI_ASN range=198213 } on-error={}
 :do { add list=SI_ASN range=44549 } on-error={}
-:do { add list=SI_ASN range=24629 } on-error={}
+:do { add list=SI_ASN range=43128 } on-error={}
+:do { add list=SI_ASN range=42207 } on-error={}
 :do { add list=SI_ASN range=200325 } on-error={}
 :do { add list=SI_ASN range=6764 } on-error={}
 :do { add list=SI_ASN range=2107 } on-error={}
@@ -32,16 +31,17 @@
 :do { add list=SI_ASN range=49402 } on-error={}
 :do { add list=SI_ASN range=35471 } on-error={}
 :do { add list=SI_ASN range=203466 } on-error={}
-:do { add list=SI_ASN range=60973 } on-error={}
-:do { add list=SI_ASN range=50815 } on-error={}
 :do { add list=SI_ASN range=47917 } on-error={}
 :do { add list=SI_ASN range=43462 } on-error={}
 :do { add list=SI_ASN range=201395 } on-error={}
 :do { add list=SI_ASN range=197579 } on-error={}
+:do { add list=SI_ASN range=60973 } on-error={}
+:do { add list=SI_ASN range=50815 } on-error={}
 :do { add list=SI_ASN range=48894 } on-error={}
 :do { add list=SI_ASN range=44073 } on-error={}
 :do { add list=SI_ASN range=41828 } on-error={}
 :do { add list=SI_ASN range=29051 } on-error={}
+:do { add list=SI_ASN range=24629 } on-error={}
 :do { add list=SI_ASN range=203618 } on-error={}
 :do { add list=SI_ASN range=197843 } on-error={}
 :do { add list=SI_ASN range=197209 } on-error={}
@@ -179,7 +179,6 @@
 :do { add list=SI_ASN range=197514 } on-error={}
 :do { add list=SI_ASN range=197441 } on-error={}
 :do { add list=SI_ASN range=197416 } on-error={}
-:do { add list=SI_ASN range=197391 } on-error={}
 :do { add list=SI_ASN range=197266 } on-error={}
 :do { add list=SI_ASN range=196837 } on-error={}
 :do { add list=SI_ASN range=196772 } on-error={}
@@ -257,6 +256,7 @@
 :do { add list=SI_ASN range=198298 } on-error={}
 :do { add list=SI_ASN range=197877 } on-error={}
 :do { add list=SI_ASN range=197470 } on-error={}
+:do { add list=SI_ASN range=197391 } on-error={}
 :do { add list=SI_ASN range=197326 } on-error={}
 :do { add list=SI_ASN range=196895 } on-error={}
 :do { add list=SI_ASN range=196846 } on-error={}

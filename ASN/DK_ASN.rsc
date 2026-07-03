@@ -1,5 +1,5 @@
 # ASN Information in DK.
-# Last Updated: UTC 2026-07-02 02:33:55
+# Last Updated: UTC 2026-07-03 02:09:05
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DK ASN list"
@@ -84,6 +84,7 @@
 :do { add list=DK_ASN range=62210 } on-error={}
 :do { add list=DK_ASN range=62090 } on-error={}
 :do { add list=DK_ASN range=60153 } on-error={}
+:do { add list=DK_ASN range=58282 } on-error={}
 :do { add list=DK_ASN range=58111 } on-error={}
 :do { add list=DK_ASN range=57736 } on-error={}
 :do { add list=DK_ASN range=57720 } on-error={}
@@ -188,7 +189,6 @@
 :do { add list=DK_ASN range=59701 } on-error={}
 :do { add list=DK_ASN range=59700 } on-error={}
 :do { add list=DK_ASN range=59626 } on-error={}
-:do { add list=DK_ASN range=58282 } on-error={}
 :do { add list=DK_ASN range=57860 } on-error={}
 :do { add list=DK_ASN range=5491 } on-error={}
 :do { add list=DK_ASN range=51608 } on-error={}
