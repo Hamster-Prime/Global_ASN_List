@@ -1,5 +1,5 @@
 # ASN Information in TJ.
-# Last Updated: UTC 2026-07-03 02:09:56
+# Last Updated: UTC 2026-07-04 02:09:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TJ ASN list"
@@ -9,8 +9,8 @@
 :do { add list=TJ_ASN range=208592 } on-error={}
 :do { add list=TJ_ASN range=24722 } on-error={}
 :do { add list=TJ_ASN range=57443 } on-error={}
-:do { add list=TJ_ASN range=205507 } on-error={}
 :do { add list=TJ_ASN range=47139 } on-error={}
+:do { add list=TJ_ASN range=205507 } on-error={}
 :do { add list=TJ_ASN range=49945 } on-error={}
 :do { add list=TJ_ASN range=8847 } on-error={}
 :do { add list=TJ_ASN range=48887 } on-error={}
