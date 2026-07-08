@@ -1,9 +1,9 @@
 === ASN信息获取汇总 ===
-获取时间: 2026-07-07 02:25:56
+获取时间: 2026-07-08 01:59:23
 ==================================================
 
-CN: 5232 个ASN
-HK: 802 个ASN
+CN: 5233 个ASN
+HK: 801 个ASN
 MO: 11 个ASN
 TW: 307 个ASN
 PH: 457 个ASN
@@ -23,17 +23,17 @@ BN: 7 个ASN
 TL: 13 个ASN
 IN: 2998 个ASN
 PK: 306 个ASN
-BD: 1562 个ASN
+BD: 1563 个ASN
 LK: 22 个ASN
 NP: 151 个ASN
 BT: 26 个ASN
 MV: 15 个ASN
-DE: 2576 个ASN
-FR: 1522 个ASN
-GB: 2307 个ASN
-IE: 208 个ASN
+DE: 2578 个ASN
+FR: 1523 个ASN
+GB: 2306 个ASN
+IE: 209 个ASN
 IT: 1120 个ASN
-ES: 967 个ASN
+ES: 968 个ASN
 PT: 136 个ASN
 NL: 1109 个ASN
 BE: 295 个ASN
@@ -45,7 +45,7 @@ SE: 673 个ASN
 NO: 307 个ASN
 FI: 306 个ASN
 IS: 72 个ASN
-PL: 2155 个ASN
+PL: 2156 个ASN
 CZ: 603 个ASN
 HU: 244 个ASN
 GR: 230 个ASN
@@ -70,18 +70,18 @@ CY: 134 个ASN
 MT: 42 个ASN
 TR: 870 个ASN
 SA: 172 个ASN
-AE: 152 个ASN
+AE: 153 个ASN
 QA: 19 个ASN
 KW: 75 个ASN
 BH: 18 个ASN
 OM: 17 个ASN
 YE: 3 个ASN
 JO: 48 个ASN
-IL: 327 个ASN
+IL: 328 个ASN
 PS: 43 个ASN
 LB: 142 个ASN
 SY: 9 个ASN
-IQ: 151 个ASN
+IQ: 152 个ASN
 IR: 595 个ASN
 AF: 61 个ASN
 KZ: 214 个ASN
@@ -89,10 +89,10 @@ UZ: 104 个ASN
 TM: 7 个ASN
 KG: 62 个ASN
 TJ: 36 个ASN
-GE: 143 个ASN
+GE: 144 个ASN
 AM: 127 个ASN
 AZ: 97 个ASN
-AU: 1695 个ASN
+AU: 1696 个ASN
 NZ: 434 个ASN
 PG: 29 个ASN
 FJ: 14 个ASN
@@ -100,11 +100,11 @@ SB: 10 个ASN
 VU: 11 个ASN
 WS: 6 个ASN
 TO: 4 个ASN
-US: 19094 个ASN
+US: 19102 个ASN
 CA: 1655 个ASN
 MX: 535 个ASN
 BR: 8826 个ASN
-AR: 1090 个ASN
+AR: 1091 个ASN
 CL: 327 个ASN
 CO: 419 个ASN
 PE: 187 个ASN
@@ -133,7 +133,7 @@ SD: 9 个ASN
 ET: 6 个ASN
 SO: 20 个ASN
 KE: 217 个ASN
-TZ: 103 个ASN
+TZ: 101 个ASN
 ZA: 658 个ASN
 NG: 228 个ASN
 GH: 94 个ASN
@@ -144,6 +144,6 @@ AO: 63 个ASN
 ZM: 19 个ASN
 ZW: 28 个ASN
 
-总计: 86228 个ASN记录
+总计: 86246 个ASN记录
 成功获取: 141 个国家
 失败或无数据: 0 个国家
