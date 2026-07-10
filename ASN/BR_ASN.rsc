@@ -1,5 +1,5 @@
 # ASN Information in BR.
-# Last Updated: UTC 2026-07-09 02:11:03
+# Last Updated: UTC 2026-07-10 02:10:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BR ASN list"
@@ -8284,6 +8284,7 @@
 :do { add list=BR_ASN range=28262 } on-error={}
 :do { add list=BR_ASN range=275795 } on-error={}
 :do { add list=BR_ASN range=275781 } on-error={}
+:do { add list=BR_ASN range=275780 } on-error={}
 :do { add list=BR_ASN range=275779 } on-error={}
 :do { add list=BR_ASN range=275773 } on-error={}
 :do { add list=BR_ASN range=275771 } on-error={}
@@ -8299,6 +8300,7 @@
 :do { add list=BR_ASN range=275729 } on-error={}
 :do { add list=BR_ASN range=275726 } on-error={}
 :do { add list=BR_ASN range=275724 } on-error={}
+:do { add list=BR_ASN range=275721 } on-error={}
 :do { add list=BR_ASN range=275717 } on-error={}
 :do { add list=BR_ASN range=275715 } on-error={}
 :do { add list=BR_ASN range=275713 } on-error={}
@@ -8487,6 +8489,7 @@
 :do { add list=BR_ASN range=274467 } on-error={}
 :do { add list=BR_ASN range=274465 } on-error={}
 :do { add list=BR_ASN range=274462 } on-error={}
+:do { add list=BR_ASN range=274396 } on-error={}
 :do { add list=BR_ASN range=274395 } on-error={}
 :do { add list=BR_ASN range=274393 } on-error={}
 :do { add list=BR_ASN range=274392 } on-error={}
@@ -8494,6 +8497,7 @@
 :do { add list=BR_ASN range=274388 } on-error={}
 :do { add list=BR_ASN range=274385 } on-error={}
 :do { add list=BR_ASN range=274381 } on-error={}
+:do { add list=BR_ASN range=274379 } on-error={}
 :do { add list=BR_ASN range=274372 } on-error={}
 :do { add list=BR_ASN range=274371 } on-error={}
 :do { add list=BR_ASN range=274363 } on-error={}

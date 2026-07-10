@@ -1,5 +1,5 @@
 # ASN Information in UA.
-# Last Updated: UTC 2026-07-09 02:10:02
+# Last Updated: UTC 2026-07-10 02:09:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UA ASN list"
