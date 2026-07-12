@@ -1,5 +1,5 @@
 # ASN Information in TZ.
-# Last Updated: UTC 2026-07-11 01:57:15
+# Last Updated: UTC 2026-07-12 02:00:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TZ ASN list"
@@ -11,8 +11,8 @@
 :do { add list=TZ_ASN range=37084 } on-error={}
 :do { add list=TZ_ASN range=36965 } on-error={}
 :do { add list=TZ_ASN range=37133 } on-error={}
-:do { add list=TZ_ASN range=36908 } on-error={}
 :do { add list=TZ_ASN range=37027 } on-error={}
+:do { add list=TZ_ASN range=36908 } on-error={}
 :do { add list=TZ_ASN range=328514 } on-error={}
 :do { add list=TZ_ASN range=37013 } on-error={}
 :do { add list=TZ_ASN range=36909 } on-error={}
@@ -20,9 +20,10 @@
 :do { add list=TZ_ASN range=328436 } on-error={}
 :do { add list=TZ_ASN range=327728 } on-error={}
 :do { add list=TZ_ASN range=37182 } on-error={}
-:do { add list=TZ_ASN range=36930 } on-error={}
 :do { add list=TZ_ASN range=327795 } on-error={}
+:do { add list=TZ_ASN range=36930 } on-error={}
 :do { add list=TZ_ASN range=329393 } on-error={}
+:do { add list=TZ_ASN range=328783 } on-error={}
 :do { add list=TZ_ASN range=327714 } on-error={}
 :do { add list=TZ_ASN range=37496 } on-error={}
 :do { add list=TZ_ASN range=37419 } on-error={}
@@ -33,7 +34,6 @@
 :do { add list=TZ_ASN range=329155 } on-error={}
 :do { add list=TZ_ASN range=328895 } on-error={}
 :do { add list=TZ_ASN range=328805 } on-error={}
-:do { add list=TZ_ASN range=328783 } on-error={}
 :do { add list=TZ_ASN range=328700 } on-error={}
 :do { add list=TZ_ASN range=32860 } on-error={}
 :do { add list=TZ_ASN range=328478 } on-error={}
@@ -86,7 +86,6 @@
 :do { add list=TZ_ASN range=329221 } on-error={}
 :do { add list=TZ_ASN range=329172 } on-error={}
 :do { add list=TZ_ASN range=329034 } on-error={}
-:do { add list=TZ_ASN range=329013 } on-error={}
 :do { add list=TZ_ASN range=328930 } on-error={}
 :do { add list=TZ_ASN range=328865 } on-error={}
 :do { add list=TZ_ASN range=328849 } on-error={}
