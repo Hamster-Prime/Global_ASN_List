@@ -1,5 +1,5 @@
 # ASN Information in NL.
-# Last Updated: UTC 2026-07-12 01:58:15
+# Last Updated: UTC 2026-07-13 02:00:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NL ASN list"

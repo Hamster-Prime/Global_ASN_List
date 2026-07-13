@@ -1,5 +1,5 @@
 # ASN Information in IE.
-# Last Updated: UTC 2026-07-12 01:58:09
+# Last Updated: UTC 2026-07-13 02:00:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IE ASN list"
