@@ -1,5 +1,5 @@
 # ASN Information in PT.
-# Last Updated: UTC 2026-07-13 02:00:15
+# Last Updated: UTC 2026-07-14 01:46:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PT ASN list"
@@ -16,11 +16,11 @@
 :do { add list=PT_ASN range=15525 } on-error={}
 :do { add list=PT_ASN range=49941 } on-error={}
 :do { add list=PT_ASN range=1930 } on-error={}
+:do { add list=PT_ASN range=62416 } on-error={}
 :do { add list=PT_ASN range=12353 } on-error={}
 :do { add list=PT_ASN range=47787 } on-error={}
 :do { add list=PT_ASN range=29003 } on-error={}
 :do { add list=PT_ASN range=39384 } on-error={}
-:do { add list=PT_ASN range=62416 } on-error={}
 :do { add list=PT_ASN range=204094 } on-error={}
 :do { add list=PT_ASN range=201782 } on-error={}
 :do { add list=PT_ASN range=12833 } on-error={}
