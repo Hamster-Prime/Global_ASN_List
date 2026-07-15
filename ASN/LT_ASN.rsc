@@ -1,5 +1,5 @@
 # ASN Information in LT.
-# Last Updated: UTC 2026-07-14 01:47:32
+# Last Updated: UTC 2026-07-15 01:44:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LT ASN list"
@@ -125,7 +125,6 @@
 :do { add list=LT_ASN range=204390 } on-error={}
 :do { add list=LT_ASN range=204057 } on-error={}
 :do { add list=LT_ASN range=198345 } on-error={}
-:do { add list=LT_ASN range=198009 } on-error={}
 :do { add list=LT_ASN range=133944 } on-error={}
 :do { add list=LT_ASN range=8314 } on-error={}
 :do { add list=LT_ASN range=62260 } on-error={}
@@ -174,6 +173,7 @@
 :do { add list=LT_ASN range=202044 } on-error={}
 :do { add list=LT_ASN range=201182 } on-error={}
 :do { add list=LT_ASN range=199737 } on-error={}
+:do { add list=LT_ASN range=198009 } on-error={}
 :do { add list=LT_ASN range=197442 } on-error={}
 :do { add list=LT_ASN range=197417 } on-error={}
 :do { add list=LT_ASN range=197158 } on-error={}

@@ -1,11 +1,11 @@
 # ASN Information in AM.
-# Last Updated: UTC 2026-07-14 01:48:03
+# Last Updated: UTC 2026-07-15 01:44:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AM ASN list"
 /routing filter num-list
-:do { add list=AM_ASN range=49800 } on-error={}
 :do { add list=AM_ASN range=12297 } on-error={}
+:do { add list=AM_ASN range=49800 } on-error={}
 :do { add list=AM_ASN range=8932 } on-error={}
 :do { add list=AM_ASN range=43733 } on-error={}
 :do { add list=AM_ASN range=214729 } on-error={}

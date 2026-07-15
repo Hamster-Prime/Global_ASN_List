@@ -1,5 +1,5 @@
 # ASN Information in BG.
-# Last Updated: UTC 2026-07-14 01:47:22
+# Last Updated: UTC 2026-07-15 01:43:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BG ASN list"
@@ -43,13 +43,13 @@
 :do { add list=BG_ASN range=42446 } on-error={}
 :do { add list=BG_ASN range=199996 } on-error={}
 :do { add list=BG_ASN range=34577 } on-error={}
-:do { add list=BG_ASN range=206755 } on-error={}
 :do { add list=BG_ASN range=199442 } on-error={}
-:do { add list=BG_ASN range=198765 } on-error={}
 :do { add list=BG_ASN range=60202 } on-error={}
+:do { add list=BG_ASN range=206755 } on-error={}
 :do { add list=BG_ASN range=205138 } on-error={}
 :do { add list=BG_ASN range=201225 } on-error={}
 :do { add list=BG_ASN range=199958 } on-error={}
+:do { add list=BG_ASN range=198765 } on-error={}
 :do { add list=BG_ASN range=16344 } on-error={}
 :do { add list=BG_ASN range=29030 } on-error={}
 :do { add list=BG_ASN range=203380 } on-error={}
@@ -57,10 +57,10 @@
 :do { add list=BG_ASN range=206383 } on-error={}
 :do { add list=BG_ASN range=41624 } on-error={}
 :do { add list=BG_ASN range=39396 } on-error={}
-:do { add list=BG_ASN range=34368 } on-error={}
 :do { add list=BG_ASN range=41782 } on-error={}
-:do { add list=BG_ASN range=203182 } on-error={}
+:do { add list=BG_ASN range=34368 } on-error={}
 :do { add list=BG_ASN range=49176 } on-error={}
+:do { add list=BG_ASN range=203182 } on-error={}
 :do { add list=BG_ASN range=213039 } on-error={}
 :do { add list=BG_ASN range=61071 } on-error={}
 :do { add list=BG_ASN range=51582 } on-error={}
@@ -80,9 +80,9 @@
 :do { add list=BG_ASN range=6802 } on-error={}
 :do { add list=BG_ASN range=60092 } on-error={}
 :do { add list=BG_ASN range=48452 } on-error={}
+:do { add list=BG_ASN range=34565 } on-error={}
 :do { add list=BG_ASN range=211526 } on-error={}
 :do { add list=BG_ASN range=39184 } on-error={}
-:do { add list=BG_ASN range=34565 } on-error={}
 :do { add list=BG_ASN range=3245 } on-error={}
 :do { add list=BG_ASN range=47697 } on-error={}
 :do { add list=BG_ASN range=205132 } on-error={}
