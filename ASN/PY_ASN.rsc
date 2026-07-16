@@ -1,5 +1,5 @@
 # ASN Information in PY.
-# Last Updated: UTC 2026-07-15 01:45:18
+# Last Updated: UTC 2026-07-16 01:54:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PY ASN list"
@@ -9,28 +9,27 @@
 :do { add list=PY_ASN range=23201 } on-error={}
 :do { add list=PY_ASN range=61512 } on-error={}
 :do { add list=PY_ASN range=272021 } on-error={}
-:do { add list=PY_ASN range=52455 } on-error={}
 :do { add list=PY_ASN range=273847 } on-error={}
 :do { add list=PY_ASN range=272065 } on-error={}
+:do { add list=PY_ASN range=52455 } on-error={}
 :do { add list=PY_ASN range=272026 } on-error={}
 :do { add list=PY_ASN range=274041 } on-error={}
 :do { add list=PY_ASN range=28103 } on-error={}
+:do { add list=PY_ASN range=273165 } on-error={}
 :do { add list=PY_ASN range=27768 } on-error={}
 :do { add list=PY_ASN range=27895 } on-error={}
 :do { add list=PY_ASN range=263750 } on-error={}
-:do { add list=PY_ASN range=273165 } on-error={}
 :do { add list=PY_ASN range=266673 } on-error={}
-:do { add list=PY_ASN range=266814 } on-error={}
 :do { add list=PY_ASN range=265864 } on-error={}
 :do { add list=PY_ASN range=27795 } on-error={}
 :do { add list=PY_ASN range=27733 } on-error={}
 :do { add list=PY_ASN range=27669 } on-error={}
+:do { add list=PY_ASN range=266814 } on-error={}
 :do { add list=PY_ASN range=266694 } on-error={}
 :do { add list=PY_ASN range=264770 } on-error={}
 :do { add list=PY_ASN range=264733 } on-error={}
 :do { add list=PY_ASN range=274166 } on-error={}
 :do { add list=PY_ASN range=273991 } on-error={}
-:do { add list=PY_ASN range=273095 } on-error={}
 :do { add list=PY_ASN range=273023 } on-error={}
 :do { add list=PY_ASN range=272961 } on-error={}
 :do { add list=PY_ASN range=263732 } on-error={}
@@ -58,6 +57,7 @@
 :do { add list=PY_ASN range=28008 } on-error={}
 :do { add list=PY_ASN range=274173 } on-error={}
 :do { add list=PY_ASN range=273828 } on-error={}
+:do { add list=PY_ASN range=273095 } on-error={}
 :do { add list=PY_ASN range=272970 } on-error={}
 :do { add list=PY_ASN range=271969 } on-error={}
 :do { add list=PY_ASN range=269905 } on-error={}
