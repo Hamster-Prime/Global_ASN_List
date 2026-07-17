@@ -1,5 +1,5 @@
 # ASN Information in BO.
-# Last Updated: UTC 2026-07-16 01:54:40
+# Last Updated: UTC 2026-07-17 01:58:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BO ASN list"
@@ -33,6 +33,7 @@
 :do { add list=BO_ASN range=204655 } on-error={}
 :do { add list=BO_ASN range=52355 } on-error={}
 :do { add list=BO_ASN range=28024 } on-error={}
+:do { add list=BO_ASN range=27828 } on-error={}
 :do { add list=BO_ASN range=274273 } on-error={}
 :do { add list=BO_ASN range=272041 } on-error={}
 :do { add list=BO_ASN range=270090 } on-error={}
@@ -43,7 +44,6 @@
 :do { add list=BO_ASN range=61475 } on-error={}
 :do { add list=BO_ASN range=61458 } on-error={}
 :do { add list=BO_ASN range=52495 } on-error={}
-:do { add list=BO_ASN range=27828 } on-error={}
 :do { add list=BO_ASN range=273984 } on-error={}
 :do { add list=BO_ASN range=273161 } on-error={}
 :do { add list=BO_ASN range=272840 } on-error={}

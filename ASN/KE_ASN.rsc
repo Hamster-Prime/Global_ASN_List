@@ -1,5 +1,5 @@
 # ASN Information in KE.
-# Last Updated: UTC 2026-07-16 01:55:05
+# Last Updated: UTC 2026-07-17 01:58:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KE ASN list"
@@ -56,6 +56,7 @@
 :do { add list=KE_ASN range=329390 } on-error={}
 :do { add list=KE_ASN range=329373 } on-error={}
 :do { add list=KE_ASN range=329246 } on-error={}
+:do { add list=KE_ASN range=329239 } on-error={}
 :do { add list=KE_ASN range=329174 } on-error={}
 :do { add list=KE_ASN range=328993 } on-error={}
 :do { add list=KE_ASN range=329747 } on-error={}
@@ -65,20 +66,20 @@
 :do { add list=KE_ASN range=329411 } on-error={}
 :do { add list=KE_ASN range=329288 } on-error={}
 :do { add list=KE_ASN range=329272 } on-error={}
-:do { add list=KE_ASN range=329239 } on-error={}
+:do { add list=KE_ASN range=329254 } on-error={}
 :do { add list=KE_ASN range=329198 } on-error={}
 :do { add list=KE_ASN range=329183 } on-error={}
 :do { add list=KE_ASN range=328989 } on-error={}
 :do { add list=KE_ASN range=328846 } on-error={}
 :do { add list=KE_ASN range=328296 } on-error={}
 :do { add list=KE_ASN range=328089 } on-error={}
+:do { add list=KE_ASN range=12455 } on-error={}
 :do { add list=KE_ASN range=329658 } on-error={}
 :do { add list=KE_ASN range=329622 } on-error={}
 :do { add list=KE_ASN range=329562 } on-error={}
 :do { add list=KE_ASN range=329539 } on-error={}
 :do { add list=KE_ASN range=329341 } on-error={}
 :do { add list=KE_ASN range=329255 } on-error={}
-:do { add list=KE_ASN range=329254 } on-error={}
 :do { add list=KE_ASN range=329192 } on-error={}
 :do { add list=KE_ASN range=329177 } on-error={}
 :do { add list=KE_ASN range=329110 } on-error={}
@@ -87,7 +88,6 @@
 :do { add list=KE_ASN range=328835 } on-error={}
 :do { add list=KE_ASN range=328734 } on-error={}
 :do { add list=KE_ASN range=328162 } on-error={}
-:do { add list=KE_ASN range=12455 } on-error={}
 :do { add list=KE_ASN range=37298 } on-error={}
 :do { add list=KE_ASN range=37219 } on-error={}
 :do { add list=KE_ASN range=329702 } on-error={}
