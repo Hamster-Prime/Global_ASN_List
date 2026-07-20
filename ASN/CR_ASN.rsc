@@ -1,5 +1,5 @@
 # ASN Information in CR.
-# Last Updated: UTC 2026-07-19 01:57:36
+# Last Updated: UTC 2026-07-20 03:31:54
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CR ASN list"
