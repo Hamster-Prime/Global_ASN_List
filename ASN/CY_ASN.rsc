@@ -1,11 +1,11 @@
 # ASN Information in CY.
-# Last Updated: UTC 2026-07-20 03:30:47
+# Last Updated: UTC 2026-07-21 01:56:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CY ASN list"
 /routing filter num-list
-:do { add list=CY_ASN range=8544 } on-error={}
 :do { add list=CY_ASN range=6866 } on-error={}
+:do { add list=CY_ASN range=8544 } on-error={}
 :do { add list=CY_ASN range=35432 } on-error={}
 :do { add list=CY_ASN range=47583 } on-error={}
 :do { add list=CY_ASN range=202954 } on-error={}
