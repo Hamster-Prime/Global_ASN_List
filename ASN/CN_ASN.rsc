@@ -1,5 +1,5 @@
 # ASN Information in CN.
-# Last Updated: UTC 2026-07-21 01:54:38
+# Last Updated: UTC 2026-07-22 01:53:26
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CN ASN list"

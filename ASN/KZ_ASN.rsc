@@ -1,5 +1,5 @@
 # ASN Information in KZ.
-# Last Updated: UTC 2026-07-21 01:56:37
+# Last Updated: UTC 2026-07-22 01:55:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KZ ASN list"
