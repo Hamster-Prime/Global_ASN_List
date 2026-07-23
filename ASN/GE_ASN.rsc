@@ -1,11 +1,11 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-07-22 01:55:31
+# Last Updated: UTC 2026-07-23 02:02:56
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
 /routing filter num-list
-:do { add list=GE_ASN range=35805 } on-error={}
 :do { add list=GE_ASN range=198150 } on-error={}
+:do { add list=GE_ASN range=35805 } on-error={}
 :do { add list=GE_ASN range=20771 } on-error={}
 :do { add list=GE_ASN range=16010 } on-error={}
 :do { add list=GE_ASN range=34797 } on-error={}
@@ -42,7 +42,6 @@
 :do { add list=GE_ASN range=208097 } on-error={}
 :do { add list=GE_ASN range=203136 } on-error={}
 :do { add list=GE_ASN range=203039 } on-error={}
-:do { add list=GE_ASN range=202065 } on-error={}
 :do { add list=GE_ASN range=200568 } on-error={}
 :do { add list=GE_ASN range=62252 } on-error={}
 :do { add list=GE_ASN range=61167 } on-error={}
@@ -89,6 +88,7 @@
 :do { add list=GE_ASN range=204498 } on-error={}
 :do { add list=GE_ASN range=203962 } on-error={}
 :do { add list=GE_ASN range=203310 } on-error={}
+:do { add list=GE_ASN range=202065 } on-error={}
 :do { add list=GE_ASN range=201598 } on-error={}
 :do { add list=GE_ASN range=201356 } on-error={}
 :do { add list=GE_ASN range=201174 } on-error={}
