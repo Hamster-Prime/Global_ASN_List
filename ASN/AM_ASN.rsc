@@ -1,5 +1,5 @@
 # ASN Information in AM.
-# Last Updated: UTC 2026-07-23 02:02:57
+# Last Updated: UTC 2026-07-24 01:58:31
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AM ASN list"
@@ -12,8 +12,8 @@
 :do { add list=AM_ASN range=215102 } on-error={}
 :do { add list=AM_ASN range=201986 } on-error={}
 :do { add list=AM_ASN range=201589 } on-error={}
-:do { add list=AM_ASN range=210147 } on-error={}
 :do { add list=AM_ASN range=202269 } on-error={}
+:do { add list=AM_ASN range=210147 } on-error={}
 :do { add list=AM_ASN range=51090 } on-error={}
 :do { add list=AM_ASN range=33852 } on-error={}
 :do { add list=AM_ASN range=208339 } on-error={}
@@ -99,6 +99,7 @@
 :do { add list=AM_ASN range=48675 } on-error={}
 :do { add list=AM_ASN range=48244 } on-error={}
 :do { add list=AM_ASN range=48008 } on-error={}
+:do { add list=AM_ASN range=47975 } on-error={}
 :do { add list=AM_ASN range=47642 } on-error={}
 :do { add list=AM_ASN range=44778 } on-error={}
 :do { add list=AM_ASN range=44395 } on-error={}
