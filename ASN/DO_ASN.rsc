@@ -1,5 +1,5 @@
 # ASN Information in DO.
-# Last Updated: UTC 2026-07-24 01:59:12
+# Last Updated: UTC 2026-07-25 01:58:39
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DO ASN list"
@@ -58,6 +58,7 @@
 :do { add list=DO_ASN range=262247 } on-error={}
 :do { add list=DO_ASN range=28053 } on-error={}
 :do { add list=DO_ASN range=274913 } on-error={}
+:do { add list=DO_ASN range=274861 } on-error={}
 :do { add list=DO_ASN range=274304 } on-error={}
 :do { add list=DO_ASN range=274290 } on-error={}
 :do { add list=DO_ASN range=274214 } on-error={}
@@ -107,7 +108,6 @@
 :do { add list=DO_ASN range=46198 } on-error={}
 :do { add list=DO_ASN range=274931 } on-error={}
 :do { add list=DO_ASN range=274916 } on-error={}
-:do { add list=DO_ASN range=274861 } on-error={}
 :do { add list=DO_ASN range=274326 } on-error={}
 :do { add list=DO_ASN range=274324 } on-error={}
 :do { add list=DO_ASN range=274267 } on-error={}
@@ -122,7 +122,6 @@
 :do { add list=DO_ASN range=274129 } on-error={}
 :do { add list=DO_ASN range=274104 } on-error={}
 :do { add list=DO_ASN range=274095 } on-error={}
-:do { add list=DO_ASN range=274089 } on-error={}
 :do { add list=DO_ASN range=274084 } on-error={}
 :do { add list=DO_ASN range=274078 } on-error={}
 :do { add list=DO_ASN range=274070 } on-error={}
@@ -132,6 +131,7 @@
 :do { add list=DO_ASN range=274027 } on-error={}
 :do { add list=DO_ASN range=273961 } on-error={}
 :do { add list=DO_ASN range=273960 } on-error={}
+:do { add list=DO_ASN range=273954 } on-error={}
 :do { add list=DO_ASN range=273925 } on-error={}
 :do { add list=DO_ASN range=273924 } on-error={}
 :do { add list=DO_ASN range=273917 } on-error={}
@@ -192,6 +192,7 @@
 :do { add list=DO_ASN range=12066 } on-error={}
 :do { add list=DO_ASN range=274946 } on-error={}
 :do { add list=DO_ASN range=274900 } on-error={}
+:do { add list=DO_ASN range=274089 } on-error={}
 :do { add list=DO_ASN range=272148 } on-error={}
 :do { add list=DO_ASN range=272110 } on-error={}
 :do { add list=DO_ASN range=271940 } on-error={}
