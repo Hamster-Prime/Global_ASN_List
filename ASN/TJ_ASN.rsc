@@ -1,5 +1,5 @@
 # ASN Information in TJ.
-# Last Updated: UTC 2026-07-25 01:57:47
+# Last Updated: UTC 2026-07-26 02:01:40
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TJ ASN list"
@@ -8,8 +8,8 @@
 :do { add list=TJ_ASN range=43197 } on-error={}
 :do { add list=TJ_ASN range=208592 } on-error={}
 :do { add list=TJ_ASN range=24722 } on-error={}
-:do { add list=TJ_ASN range=57443 } on-error={}
 :do { add list=TJ_ASN range=205507 } on-error={}
+:do { add list=TJ_ASN range=57443 } on-error={}
 :do { add list=TJ_ASN range=47139 } on-error={}
 :do { add list=TJ_ASN range=49945 } on-error={}
 :do { add list=TJ_ASN range=8847 } on-error={}
@@ -19,6 +19,7 @@
 :do { add list=TJ_ASN range=60101 } on-error={}
 :do { add list=TJ_ASN range=44961 } on-error={}
 :do { add list=TJ_ASN range=44027 } on-error={}
+:do { add list=TJ_ASN range=34557 } on-error={}
 :do { add list=TJ_ASN range=214157 } on-error={}
 :do { add list=TJ_ASN range=211203 } on-error={}
 :do { add list=TJ_ASN range=204106 } on-error={}
@@ -28,7 +29,6 @@
 :do { add list=TJ_ASN range=48001 } on-error={}
 :do { add list=TJ_ASN range=43030 } on-error={}
 :do { add list=TJ_ASN range=42713 } on-error={}
-:do { add list=TJ_ASN range=34557 } on-error={}
 :do { add list=TJ_ASN range=219388 } on-error={}
 :do { add list=TJ_ASN range=215814 } on-error={}
 :do { add list=TJ_ASN range=215533 } on-error={}
