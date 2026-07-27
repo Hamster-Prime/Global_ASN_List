@@ -1,5 +1,5 @@
 # ASN Information in EE.
-# Last Updated: UTC 2026-07-26 02:01:15
+# Last Updated: UTC 2026-07-27 02:09:18
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EE ASN list"
@@ -9,8 +9,8 @@
 :do { add list=EE_ASN range=3920 } on-error={}
 :do { add list=EE_ASN range=3204 } on-error={}
 :do { add list=EE_ASN range=62005 } on-error={}
-:do { add list=EE_ASN range=214790 } on-error={}
 :do { add list=EE_ASN range=3249 } on-error={}
+:do { add list=EE_ASN range=214790 } on-error={}
 :do { add list=EE_ASN range=215467 } on-error={}
 :do { add list=EE_ASN range=214279 } on-error={}
 :do { add list=EE_ASN range=8728 } on-error={}
