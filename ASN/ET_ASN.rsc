@@ -1,5 +1,5 @@
 # ASN Information in ET.
-# Last Updated: UTC 2026-07-28 01:52:23
+# Last Updated: UTC 2026-07-29 01:54:35
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ET ASN list"
@@ -7,6 +7,7 @@
 :do { add list=ET_ASN range=24757 } on-error={}
 :do { add list=ET_ASN range=328988 } on-error={}
 :do { add list=ET_ASN range=37467 } on-error={}
+:do { add list=ET_ASN range=329625 } on-error={}
 :do { add list=ET_ASN range=329327 } on-error={}
 :do { add list=ET_ASN range=329265 } on-error={}
 :do { add list=ET_ASN range=329227 } on-error={}

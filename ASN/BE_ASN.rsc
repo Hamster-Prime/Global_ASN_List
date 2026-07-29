@@ -1,5 +1,5 @@
 # ASN Information in BE.
-# Last Updated: UTC 2026-07-28 01:50:11
+# Last Updated: UTC 2026-07-29 01:52:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BE ASN list"
@@ -82,6 +82,7 @@
 :do { add list=BE_ASN range=200884 } on-error={}
 :do { add list=BE_ASN range=8221 } on-error={}
 :do { add list=BE_ASN range=62383 } on-error={}
+:do { add list=BE_ASN range=62098 } on-error={}
 :do { add list=BE_ASN range=57933 } on-error={}
 :do { add list=BE_ASN range=56837 } on-error={}
 :do { add list=BE_ASN range=56501 } on-error={}
@@ -114,7 +115,6 @@
 :do { add list=BE_ASN range=15776 } on-error={}
 :do { add list=BE_ASN range=12942 } on-error={}
 :do { add list=BE_ASN range=62392 } on-error={}
-:do { add list=BE_ASN range=62098 } on-error={}
 :do { add list=BE_ASN range=62058 } on-error={}
 :do { add list=BE_ASN range=61023 } on-error={}
 :do { add list=BE_ASN range=6085 } on-error={}
