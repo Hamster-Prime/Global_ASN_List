@@ -1,5 +1,5 @@
 # ASN Information in HR.
-# Last Updated: UTC 2026-07-29 01:52:52
+# Last Updated: UTC 2026-07-30 01:45:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HR ASN list"
@@ -13,12 +13,12 @@
 :do { add list=HR_ASN range=34362 } on-error={}
 :do { add list=HR_ASN range=204020 } on-error={}
 :do { add list=HR_ASN range=34594 } on-error={}
-:do { add list=HR_ASN range=215916 } on-error={}
 :do { add list=HR_ASN range=205714 } on-error={}
+:do { add list=HR_ASN range=215916 } on-error={}
 :do { add list=HR_ASN range=61094 } on-error={}
-:do { add list=HR_ASN range=206575 } on-error={}
 :do { add list=HR_ASN range=34540 } on-error={}
 :do { add list=HR_ASN range=2108 } on-error={}
+:do { add list=HR_ASN range=206575 } on-error={}
 :do { add list=HR_ASN range=203964 } on-error={}
 :do { add list=HR_ASN range=59866 } on-error={}
 :do { add list=HR_ASN range=41454 } on-error={}
@@ -64,7 +64,6 @@
 :do { add list=HR_ASN range=35416 } on-error={}
 :do { add list=HR_ASN range=35225 } on-error={}
 :do { add list=HR_ASN range=28862 } on-error={}
-:do { add list=HR_ASN range=28837 } on-error={}
 :do { add list=HR_ASN range=25328 } on-error={}
 :do { add list=HR_ASN range=214057 } on-error={}
 :do { add list=HR_ASN range=213904 } on-error={}
@@ -123,6 +122,7 @@
 :do { add list=HR_ASN range=30841 } on-error={}
 :do { add list=HR_ASN range=29647 } on-error={}
 :do { add list=HR_ASN range=29485 } on-error={}
+:do { add list=HR_ASN range=28837 } on-error={}
 :do { add list=HR_ASN range=28766 } on-error={}
 :do { add list=HR_ASN range=25528 } on-error={}
 :do { add list=HR_ASN range=25365 } on-error={}
