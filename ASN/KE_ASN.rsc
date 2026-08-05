@@ -1,5 +1,5 @@
 # ASN Information in KE.
-# Last Updated: UTC 2026-08-04 01:50:15
+# Last Updated: UTC 2026-08-05 01:51:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KE ASN list"
@@ -10,8 +10,8 @@
 :do { add list=KE_ASN range=37061 } on-error={}
 :do { add list=KE_ASN range=15808 } on-error={}
 :do { add list=KE_ASN range=329029 } on-error={}
-:do { add list=KE_ASN range=36866 } on-error={}
 :do { add list=KE_ASN range=36926 } on-error={}
+:do { add list=KE_ASN range=36866 } on-error={}
 :do { add list=KE_ASN range=33771 } on-error={}
 :do { add list=KE_ASN range=328490 } on-error={}
 :do { add list=KE_ASN range=328578 } on-error={}
@@ -24,10 +24,10 @@
 :do { add list=KE_ASN range=329621 } on-error={}
 :do { add list=KE_ASN range=329101 } on-error={}
 :do { add list=KE_ASN range=37109 } on-error={}
+:do { add list=KE_ASN range=329538 } on-error={}
 :do { add list=KE_ASN range=329033 } on-error={}
 :do { add list=KE_ASN range=328475 } on-error={}
 :do { add list=KE_ASN range=36915 } on-error={}
-:do { add list=KE_ASN range=329538 } on-error={}
 :do { add list=KE_ASN range=329387 } on-error={}
 :do { add list=KE_ASN range=329014 } on-error={}
 :do { add list=KE_ASN range=328987 } on-error={}
@@ -84,20 +84,21 @@
 :do { add list=KE_ASN range=328989 } on-error={}
 :do { add list=KE_ASN range=328734 } on-error={}
 :do { add list=KE_ASN range=328162 } on-error={}
-:do { add list=KE_ASN range=37219 } on-error={}
+:do { add list=KE_ASN range=12455 } on-error={}
 :do { add list=KE_ASN range=329702 } on-error={}
 :do { add list=KE_ASN range=329211 } on-error={}
 :do { add list=KE_ASN range=329190 } on-error={}
+:do { add list=KE_ASN range=328975 } on-error={}
+:do { add list=KE_ASN range=328753 } on-error={}
 :do { add list=KE_ASN range=328301 } on-error={}
 :do { add list=KE_ASN range=327906 } on-error={}
-:do { add list=KE_ASN range=12455 } on-error={}
 :do { add list=KE_ASN range=37298 } on-error={}
+:do { add list=KE_ASN range=37219 } on-error={}
 :do { add list=KE_ASN range=329714 } on-error={}
 :do { add list=KE_ASN range=329618 } on-error={}
 :do { add list=KE_ASN range=329379 } on-error={}
 :do { add list=KE_ASN range=329373 } on-error={}
 :do { add list=KE_ASN range=329021 } on-error={}
-:do { add list=KE_ASN range=328753 } on-error={}
 :do { add list=KE_ASN range=37786 } on-error={}
 :do { add list=KE_ASN range=37421 } on-error={}
 :do { add list=KE_ASN range=37019 } on-error={}
@@ -123,6 +124,7 @@
 :do { add list=KE_ASN range=327884 } on-error={}
 :do { add list=KE_ASN range=327766 } on-error={}
 :do { add list=KE_ASN range=327753 } on-error={}
+:do { add list=KE_ASN range=327748 } on-error={}
 :do { add list=KE_ASN range=37579 } on-error={}
 :do { add list=KE_ASN range=37499 } on-error={}
 :do { add list=KE_ASN range=37307 } on-error={}
@@ -143,7 +145,6 @@
 :do { add list=KE_ASN range=329087 } on-error={}
 :do { add list=KE_ASN range=329026 } on-error={}
 :do { add list=KE_ASN range=329002 } on-error={}
-:do { add list=KE_ASN range=328975 } on-error={}
 :do { add list=KE_ASN range=328883 } on-error={}
 :do { add list=KE_ASN range=328862 } on-error={}
 :do { add list=KE_ASN range=328847 } on-error={}
@@ -160,7 +161,6 @@
 :do { add list=KE_ASN range=328201 } on-error={}
 :do { add list=KE_ASN range=328090 } on-error={}
 :do { add list=KE_ASN range=327945 } on-error={}
-:do { add list=KE_ASN range=327748 } on-error={}
 :do { add list=KE_ASN range=327713 } on-error={}
 :do { add list=KE_ASN range=30896 } on-error={}
 :do { add list=KE_ASN range=37601 } on-error={}
