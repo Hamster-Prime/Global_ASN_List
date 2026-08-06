@@ -1,5 +1,5 @@
 # ASN Information in UZ.
-# Last Updated: UTC 2026-08-05 01:50:41
+# Last Updated: UTC 2026-08-06 01:51:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UZ ASN list"
@@ -11,20 +11,20 @@
 :do { add list=UZ_ASN range=43060 } on-error={}
 :do { add list=UZ_ASN range=39568 } on-error={}
 :do { add list=UZ_ASN range=12365 } on-error={}
-:do { add list=UZ_ASN range=43647 } on-error={}
 :do { add list=UZ_ASN range=58254 } on-error={}
+:do { add list=UZ_ASN range=43647 } on-error={}
 :do { add list=UZ_ASN range=43268 } on-error={}
-:do { add list=UZ_ASN range=210519 } on-error={}
 :do { add list=UZ_ASN range=202660 } on-error={}
 :do { add list=UZ_ASN range=8193 } on-error={}
 :do { add list=UZ_ASN range=213029 } on-error={}
+:do { add list=UZ_ASN range=210519 } on-error={}
+:do { add list=UZ_ASN range=61106 } on-error={}
 :do { add list=UZ_ASN range=57764 } on-error={}
 :do { add list=UZ_ASN range=43533 } on-error={}
 :do { add list=UZ_ASN range=42017 } on-error={}
 :do { add list=UZ_ASN range=31492 } on-error={}
 :do { add list=UZ_ASN range=31203 } on-error={}
 :do { add list=UZ_ASN range=215028 } on-error={}
-:do { add list=UZ_ASN range=213870 } on-error={}
 :do { add list=UZ_ASN range=213165 } on-error={}
 :do { add list=UZ_ASN range=210390 } on-error={}
 :do { add list=UZ_ASN range=203912 } on-error={}
@@ -33,7 +33,6 @@
 :do { add list=UZ_ASN range=64466 } on-error={}
 :do { add list=UZ_ASN range=62447 } on-error={}
 :do { add list=UZ_ASN range=61263 } on-error={}
-:do { add list=UZ_ASN range=61106 } on-error={}
 :do { add list=UZ_ASN range=61019 } on-error={}
 :do { add list=UZ_ASN range=59706 } on-error={}
 :do { add list=UZ_ASN range=59668 } on-error={}
@@ -77,6 +76,7 @@
 :do { add list=UZ_ASN range=214414 } on-error={}
 :do { add list=UZ_ASN range=213963 } on-error={}
 :do { add list=UZ_ASN range=213951 } on-error={}
+:do { add list=UZ_ASN range=213870 } on-error={}
 :do { add list=UZ_ASN range=213528 } on-error={}
 :do { add list=UZ_ASN range=213479 } on-error={}
 :do { add list=UZ_ASN range=212860 } on-error={}
