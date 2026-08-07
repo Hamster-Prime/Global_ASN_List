@@ -1,5 +1,5 @@
 # ASN Information in SB.
-# Last Updated: UTC 2026-08-06 01:51:56
+# Last Updated: UTC 2026-08-07 02:14:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SB ASN list"
@@ -13,4 +13,3 @@
 :do { add list=SB_ASN range=142279 } on-error={}
 :do { add list=SB_ASN range=139277 } on-error={}
 :do { add list=SB_ASN range=134525 } on-error={}
-:do { add list=SB_ASN range=132462 } on-error={}

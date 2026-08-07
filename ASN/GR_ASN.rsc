@@ -1,5 +1,5 @@
 # ASN Information in GR.
-# Last Updated: UTC 2026-08-06 01:50:50
+# Last Updated: UTC 2026-08-07 02:13:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GR ASN list"
@@ -16,8 +16,8 @@
 :do { add list=GR_ASN range=209162 } on-error={}
 :do { add list=GR_ASN range=212699 } on-error={}
 :do { add list=GR_ASN range=197899 } on-error={}
-:do { add list=GR_ASN range=200736 } on-error={}
 :do { add list=GR_ASN range=201494 } on-error={}
+:do { add list=GR_ASN range=200736 } on-error={}
 :do { add list=GR_ASN range=56457 } on-error={}
 :do { add list=GR_ASN range=209150 } on-error={}
 :do { add list=GR_ASN range=6799 } on-error={}
@@ -26,9 +26,9 @@
 :do { add list=GR_ASN range=25472 } on-error={}
 :do { add list=GR_ASN range=5408 } on-error={}
 :do { add list=GR_ASN range=216285 } on-error={}
-:do { add list=GR_ASN range=198477 } on-error={}
 :do { add list=GR_ASN range=196945 } on-error={}
 :do { add list=GR_ASN range=56910 } on-error={}
+:do { add list=GR_ASN range=198477 } on-error={}
 :do { add list=GR_ASN range=202042 } on-error={}
 :do { add list=GR_ASN range=35506 } on-error={}
 :do { add list=GR_ASN range=208837 } on-error={}
@@ -61,10 +61,10 @@
 :do { add list=GR_ASN range=210477 } on-error={}
 :do { add list=GR_ASN range=50919 } on-error={}
 :do { add list=GR_ASN range=57794 } on-error={}
-:do { add list=GR_ASN range=48449 } on-error={}
 :do { add list=GR_ASN range=35372 } on-error={}
 :do { add list=GR_ASN range=211186 } on-error={}
 :do { add list=GR_ASN range=50148 } on-error={}
+:do { add list=GR_ASN range=48449 } on-error={}
 :do { add list=GR_ASN range=206529 } on-error={}
 :do { add list=GR_ASN range=60325 } on-error={}
 :do { add list=GR_ASN range=51574 } on-error={}
@@ -75,8 +75,6 @@
 :do { add list=GR_ASN range=41579 } on-error={}
 :do { add list=GR_ASN range=213835 } on-error={}
 :do { add list=GR_ASN range=212337 } on-error={}
-:do { add list=GR_ASN range=212326 } on-error={}
-:do { add list=GR_ASN range=210312 } on-error={}
 :do { add list=GR_ASN range=209872 } on-error={}
 :do { add list=GR_ASN range=200314 } on-error={}
 :do { add list=GR_ASN range=199375 } on-error={}
@@ -86,7 +84,6 @@
 :do { add list=GR_ASN range=8991 } on-error={}
 :do { add list=GR_ASN range=8499 } on-error={}
 :do { add list=GR_ASN range=8396 } on-error={}
-:do { add list=GR_ASN range=8248 } on-error={}
 :do { add list=GR_ASN range=62061 } on-error={}
 :do { add list=GR_ASN range=60911 } on-error={}
 :do { add list=GR_ASN range=60723 } on-error={}
@@ -111,10 +108,11 @@
 :do { add list=GR_ASN range=214261 } on-error={}
 :do { add list=GR_ASN range=213218 } on-error={}
 :do { add list=GR_ASN range=212984 } on-error={}
-:do { add list=GR_ASN range=211949 } on-error={}
+:do { add list=GR_ASN range=212326 } on-error={}
 :do { add list=GR_ASN range=211677 } on-error={}
 :do { add list=GR_ASN range=211064 } on-error={}
 :do { add list=GR_ASN range=210768 } on-error={}
+:do { add list=GR_ASN range=210312 } on-error={}
 :do { add list=GR_ASN range=209515 } on-error={}
 :do { add list=GR_ASN range=209128 } on-error={}
 :do { add list=GR_ASN range=209111 } on-error={}
@@ -143,6 +141,7 @@
 :do { add list=GR_ASN range=8581 } on-error={}
 :do { add list=GR_ASN range=8278 } on-error={}
 :do { add list=GR_ASN range=8253 } on-error={}
+:do { add list=GR_ASN range=8248 } on-error={}
 :do { add list=GR_ASN range=6867 } on-error={}
 :do { add list=GR_ASN range=6744 } on-error={}
 :do { add list=GR_ASN range=60597 } on-error={}
@@ -186,6 +185,7 @@
 :do { add list=GR_ASN range=212442 } on-error={}
 :do { add list=GR_ASN range=212274 } on-error={}
 :do { add list=GR_ASN range=212043 } on-error={}
+:do { add list=GR_ASN range=211949 } on-error={}
 :do { add list=GR_ASN range=211809 } on-error={}
 :do { add list=GR_ASN range=211761 } on-error={}
 :do { add list=GR_ASN range=211275 } on-error={}

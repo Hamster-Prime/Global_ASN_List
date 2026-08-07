@@ -1,5 +1,5 @@
 # ASN Information in OM.
-# Last Updated: UTC 2026-08-06 01:51:26
+# Last Updated: UTC 2026-08-07 02:14:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading OM ASN list"
@@ -20,4 +20,3 @@
 :do { add list=OM_ASN range=205171 } on-error={}
 :do { add list=OM_ASN range=204974 } on-error={}
 :do { add list=OM_ASN range=216397 } on-error={}
-:do { add list=OM_ASN range=211889 } on-error={}
