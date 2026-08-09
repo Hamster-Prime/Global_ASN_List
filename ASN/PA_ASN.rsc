@@ -1,5 +1,5 @@
 # ASN Information in PA.
-# Last Updated: UTC 2026-08-08 01:02:57
+# Last Updated: UTC 2026-08-09 01:07:36
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PA ASN list"
@@ -12,8 +12,8 @@
 :do { add list=PA_ASN range=262248 } on-error={}
 :do { add list=PA_ASN range=209854 } on-error={}
 :do { add list=PA_ASN range=265867 } on-error={}
-:do { add list=PA_ASN range=27796 } on-error={}
 :do { add list=PA_ASN range=141039 } on-error={}
+:do { add list=PA_ASN range=27796 } on-error={}
 :do { add list=PA_ASN range=18809 } on-error={}
 :do { add list=PA_ASN range=263759 } on-error={}
 :do { add list=PA_ASN range=273045 } on-error={}
@@ -31,6 +31,7 @@
 :do { add list=PA_ASN range=27928 } on-error={}
 :do { add list=PA_ASN range=27687 } on-error={}
 :do { add list=PA_ASN range=273888 } on-error={}
+:do { add list=PA_ASN range=272109 } on-error={}
 :do { add list=PA_ASN range=269736 } on-error={}
 :do { add list=PA_ASN range=263772 } on-error={}
 :do { add list=PA_ASN range=22010 } on-error={}
@@ -51,7 +52,6 @@
 :do { add list=PA_ASN range=27760 } on-error={}
 :do { add list=PA_ASN range=274865 } on-error={}
 :do { add list=PA_ASN range=274135 } on-error={}
-:do { add list=PA_ASN range=272109 } on-error={}
 :do { add list=PA_ASN range=272096 } on-error={}
 :do { add list=PA_ASN range=270078 } on-error={}
 :do { add list=PA_ASN range=269864 } on-error={}
@@ -62,7 +62,6 @@
 :do { add list=PA_ASN range=26426 } on-error={}
 :do { add list=PA_ASN range=263215 } on-error={}
 :do { add list=PA_ASN range=23360 } on-error={}
-:do { add list=PA_ASN range=212105 } on-error={}
 :do { add list=PA_ASN range=10476 } on-error={}
 :do { add list=PA_ASN range=10391 } on-error={}
 :do { add list=PA_ASN range=64107 } on-error={}
@@ -99,6 +98,7 @@
 :do { add list=PA_ASN range=264617 } on-error={}
 :do { add list=PA_ASN range=262225 } on-error={}
 :do { add list=PA_ASN range=262198 } on-error={}
+:do { add list=PA_ASN range=212105 } on-error={}
 :do { add list=PA_ASN range=200096 } on-error={}
 :do { add list=PA_ASN range=272974 } on-error={}
 :do { add list=PA_ASN range=203202 } on-error={}

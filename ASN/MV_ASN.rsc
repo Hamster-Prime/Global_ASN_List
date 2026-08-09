@@ -1,5 +1,5 @@
 # ASN Information in MV.
-# Last Updated: UTC 2026-08-08 01:01:18
+# Last Updated: UTC 2026-08-09 01:05:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MV ASN list"
@@ -7,8 +7,8 @@
 :do { add list=MV_ASN range=7642 } on-error={}
 :do { add list=MV_ASN range=55944 } on-error={}
 :do { add list=MV_ASN range=24016 } on-error={}
-:do { add list=MV_ASN range=147039 } on-error={}
 :do { add list=MV_ASN range=150125 } on-error={}
+:do { add list=MV_ASN range=147039 } on-error={}
 :do { add list=MV_ASN range=137981 } on-error={}
 :do { add list=MV_ASN range=137056 } on-error={}
 :do { add list=MV_ASN range=133742 } on-error={}
