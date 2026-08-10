@@ -1,12 +1,11 @@
 # ASN Information in LU.
-# Last Updated: UTC 2026-08-09 01:05:38
+# Last Updated: UTC 2026-08-10 01:07:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LU ASN list"
 /routing filter num-list
 :do { add list=LU_ASN range=199524 } on-error={}
 :do { add list=LU_ASN range=56665 } on-error={}
-:do { add list=LU_ASN range=199839 } on-error={}
 :do { add list=LU_ASN range=12684 } on-error={}
 :do { add list=LU_ASN range=34655 } on-error={}
 :do { add list=LU_ASN range=6661 } on-error={}
@@ -14,17 +13,18 @@
 :do { add list=LU_ASN range=8632 } on-error={}
 :do { add list=LU_ASN range=15965 } on-error={}
 :do { add list=LU_ASN range=198290 } on-error={}
-:do { add list=LU_ASN range=9008 } on-error={}
 :do { add list=LU_ASN range=2602 } on-error={}
-:do { add list=LU_ASN range=49813 } on-error={}
+:do { add list=LU_ASN range=9008 } on-error={}
 :do { add list=LU_ASN range=24611 } on-error={}
+:do { add list=LU_ASN range=199839 } on-error={}
 :do { add list=LU_ASN range=44295 } on-error={}
 :do { add list=LU_ASN range=197692 } on-error={}
+:do { add list=LU_ASN range=49813 } on-error={}
 :do { add list=LU_ASN range=200129 } on-error={}
 :do { add list=LU_ASN range=213216 } on-error={}
 :do { add list=LU_ASN range=60391 } on-error={}
-:do { add list=LU_ASN range=206610 } on-error={}
 :do { add list=LU_ASN range=25273 } on-error={}
+:do { add list=LU_ASN range=206610 } on-error={}
 :do { add list=LU_ASN range=210834 } on-error={}
 :do { add list=LU_ASN range=204403 } on-error={}
 :do { add list=LU_ASN range=204279 } on-error={}
@@ -42,9 +42,8 @@
 :do { add list=LU_ASN range=211018 } on-error={}
 :do { add list=LU_ASN range=203143 } on-error={}
 :do { add list=LU_ASN range=202438 } on-error={}
-:do { add list=LU_ASN range=201973 } on-error={}
-:do { add list=LU_ASN range=210872 } on-error={}
 :do { add list=LU_ASN range=60497 } on-error={}
+:do { add list=LU_ASN range=210872 } on-error={}
 :do { add list=LU_ASN range=60725 } on-error={}
 :do { add list=LU_ASN range=208374 } on-error={}
 :do { add list=LU_ASN range=203055 } on-error={}
@@ -52,10 +51,9 @@
 :do { add list=LU_ASN range=51497 } on-error={}
 :do { add list=LU_ASN range=41273 } on-error={}
 :do { add list=LU_ASN range=212882 } on-error={}
-:do { add list=LU_ASN range=210103 } on-error={}
 :do { add list=LU_ASN range=209333 } on-error={}
 :do { add list=LU_ASN range=61327 } on-error={}
-:do { add list=LU_ASN range=211093 } on-error={}
+:do { add list=LU_ASN range=210103 } on-error={}
 :do { add list=LU_ASN range=20501 } on-error={}
 :do { add list=LU_ASN range=202422 } on-error={}
 :do { add list=LU_ASN range=62285 } on-error={}
@@ -67,13 +65,13 @@
 :do { add list=LU_ASN range=44708 } on-error={}
 :do { add list=LU_ASN range=43375 } on-error={}
 :do { add list=LU_ASN range=42848 } on-error={}
-:do { add list=LU_ASN range=35446 } on-error={}
 :do { add list=LU_ASN range=25367 } on-error={}
 :do { add list=LU_ASN range=215667 } on-error={}
 :do { add list=LU_ASN range=214004 } on-error={}
 :do { add list=LU_ASN range=213785 } on-error={}
 :do { add list=LU_ASN range=212218 } on-error={}
 :do { add list=LU_ASN range=211435 } on-error={}
+:do { add list=LU_ASN range=211093 } on-error={}
 :do { add list=LU_ASN range=210559 } on-error={}
 :do { add list=LU_ASN range=210145 } on-error={}
 :do { add list=LU_ASN range=207870 } on-error={}
@@ -99,6 +97,7 @@
 :do { add list=LU_ASN range=51966 } on-error={}
 :do { add list=LU_ASN range=43719 } on-error={}
 :do { add list=LU_ASN range=41589 } on-error={}
+:do { add list=LU_ASN range=35446 } on-error={}
 :do { add list=LU_ASN range=34769 } on-error={}
 :do { add list=LU_ASN range=3347 } on-error={}
 :do { add list=LU_ASN range=219444 } on-error={}
@@ -106,6 +105,7 @@
 :do { add list=LU_ASN range=211719 } on-error={}
 :do { add list=LU_ASN range=206722 } on-error={}
 :do { add list=LU_ASN range=203793 } on-error={}
+:do { add list=LU_ASN range=201973 } on-error={}
 :do { add list=LU_ASN range=201554 } on-error={}
 :do { add list=LU_ASN range=201043 } on-error={}
 :do { add list=LU_ASN range=200949 } on-error={}

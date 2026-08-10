@@ -1,5 +1,5 @@
 # ASN Information in AZ.
-# Last Updated: UTC 2026-08-09 01:06:54
+# Last Updated: UTC 2026-08-10 01:08:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AZ ASN list"
@@ -27,12 +27,10 @@
 :do { add list=AZ_ASN range=34876 } on-error={}
 :do { add list=AZ_ASN range=29584 } on-error={}
 :do { add list=AZ_ASN range=216232 } on-error={}
-:do { add list=AZ_ASN range=216231 } on-error={}
 :do { add list=AZ_ASN range=215800 } on-error={}
 :do { add list=AZ_ASN range=214990 } on-error={}
 :do { add list=AZ_ASN range=213379 } on-error={}
 :do { add list=AZ_ASN range=211937 } on-error={}
-:do { add list=AZ_ASN range=211143 } on-error={}
 :do { add list=AZ_ASN range=210665 } on-error={}
 :do { add list=AZ_ASN range=210293 } on-error={}
 :do { add list=AZ_ASN range=209700 } on-error={}
@@ -61,6 +59,7 @@
 :do { add list=AZ_ASN range=219485 } on-error={}
 :do { add list=AZ_ASN range=219253 } on-error={}
 :do { add list=AZ_ASN range=216259 } on-error={}
+:do { add list=AZ_ASN range=216231 } on-error={}
 :do { add list=AZ_ASN range=215858 } on-error={}
 :do { add list=AZ_ASN range=215374 } on-error={}
 :do { add list=AZ_ASN range=215328 } on-error={}
@@ -76,6 +75,7 @@
 :do { add list=AZ_ASN range=213328 } on-error={}
 :do { add list=AZ_ASN range=213139 } on-error={}
 :do { add list=AZ_ASN range=211790 } on-error={}
+:do { add list=AZ_ASN range=211143 } on-error={}
 :do { add list=AZ_ASN range=210260 } on-error={}
 :do { add list=AZ_ASN range=209489 } on-error={}
 :do { add list=AZ_ASN range=209374 } on-error={}
@@ -90,7 +90,6 @@
 :do { add list=AZ_ASN range=200446 } on-error={}
 :do { add list=AZ_ASN range=200196 } on-error={}
 :do { add list=AZ_ASN range=200192 } on-error={}
-:do { add list=AZ_ASN range=199987 } on-error={}
 :do { add list=AZ_ASN range=199985 } on-error={}
 :do { add list=AZ_ASN range=199731 } on-error={}
 :do { add list=AZ_ASN range=199311 } on-error={}
@@ -102,3 +101,4 @@
 :do { add list=AZ_ASN range=214946 } on-error={}
 :do { add list=AZ_ASN range=211780 } on-error={}
 :do { add list=AZ_ASN range=201300 } on-error={}
+:do { add list=AZ_ASN range=199987 } on-error={}

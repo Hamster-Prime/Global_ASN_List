@@ -1,5 +1,5 @@
 # ASN Information in GE.
-# Last Updated: UTC 2026-08-09 01:06:51
+# Last Updated: UTC 2026-08-10 01:08:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GE ASN list"
@@ -11,8 +11,8 @@
 :do { add list=GE_ASN range=34797 } on-error={}
 :do { add list=GE_ASN range=57814 } on-error={}
 :do { add list=GE_ASN range=44327 } on-error={}
-:do { add list=GE_ASN range=49628 } on-error={}
 :do { add list=GE_ASN range=215348 } on-error={}
+:do { add list=GE_ASN range=49628 } on-error={}
 :do { add list=GE_ASN range=212318 } on-error={}
 :do { add list=GE_ASN range=20545 } on-error={}
 :do { add list=GE_ASN range=209046 } on-error={}
@@ -63,7 +63,6 @@
 :do { add list=GE_ASN range=214049 } on-error={}
 :do { add list=GE_ASN range=214015 } on-error={}
 :do { add list=GE_ASN range=212803 } on-error={}
-:do { add list=GE_ASN range=212484 } on-error={}
 :do { add list=GE_ASN range=21214 } on-error={}
 :do { add list=GE_ASN range=210923 } on-error={}
 :do { add list=GE_ASN range=210808 } on-error={}
@@ -120,6 +119,7 @@
 :do { add list=GE_ASN range=215647 } on-error={}
 :do { add list=GE_ASN range=215594 } on-error={}
 :do { add list=GE_ASN range=212599 } on-error={}
+:do { add list=GE_ASN range=212484 } on-error={}
 :do { add list=GE_ASN range=212398 } on-error={}
 :do { add list=GE_ASN range=212345 } on-error={}
 :do { add list=GE_ASN range=212319 } on-error={}
