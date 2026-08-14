@@ -1,5 +1,5 @@
 # ASN Information in GT.
-# Last Updated: UTC 2026-08-13 01:17:25
+# Last Updated: UTC 2026-08-14 01:15:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GT ASN list"

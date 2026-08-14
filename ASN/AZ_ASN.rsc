@@ -1,5 +1,5 @@
 # ASN Information in AZ.
-# Last Updated: UTC 2026-08-13 01:16:50
+# Last Updated: UTC 2026-08-14 01:15:23
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AZ ASN list"
@@ -20,6 +20,7 @@
 :do { add list=AZ_ASN range=28787 } on-error={}
 :do { add list=AZ_ASN range=211995 } on-error={}
 :do { add list=AZ_ASN range=203680 } on-error={}
+:do { add list=AZ_ASN range=13099 } on-error={}
 :do { add list=AZ_ASN range=57293 } on-error={}
 :do { add list=AZ_ASN range=50371 } on-error={}
 :do { add list=AZ_ASN range=39232 } on-error={}
@@ -46,7 +47,6 @@
 :do { add list=AZ_ASN range=199444 } on-error={}
 :do { add list=AZ_ASN range=198876 } on-error={}
 :do { add list=AZ_ASN range=15815 } on-error={}
-:do { add list=AZ_ASN range=13099 } on-error={}
 :do { add list=AZ_ASN range=8814 } on-error={}
 :do { add list=AZ_ASN range=61304 } on-error={}
 :do { add list=AZ_ASN range=60258 } on-error={}
@@ -61,6 +61,7 @@
 :do { add list=AZ_ASN range=39280 } on-error={}
 :do { add list=AZ_ASN range=219485 } on-error={}
 :do { add list=AZ_ASN range=219253 } on-error={}
+:do { add list=AZ_ASN range=219159 } on-error={}
 :do { add list=AZ_ASN range=216259 } on-error={}
 :do { add list=AZ_ASN range=215858 } on-error={}
 :do { add list=AZ_ASN range=215374 } on-error={}
