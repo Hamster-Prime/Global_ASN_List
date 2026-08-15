@@ -1,5 +1,5 @@
 # ASN Information in IR.
-# Last Updated: UTC 2026-08-14 01:15:13
+# Last Updated: UTC 2026-08-15 00:47:16
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IR ASN list"
@@ -22,10 +22,10 @@
 :do { add list=IR_ASN range=41881 } on-error={}
 :do { add list=IR_ASN range=211421 } on-error={}
 :do { add list=IR_ASN range=62442 } on-error={}
+:do { add list=IR_ASN range=206065 } on-error={}
 :do { add list=IR_ASN range=48159 } on-error={}
 :do { add list=IR_ASN range=48147 } on-error={}
 :do { add list=IR_ASN range=34918 } on-error={}
-:do { add list=IR_ASN range=206065 } on-error={}
 :do { add list=IR_ASN range=44400 } on-error={}
 :do { add list=IR_ASN range=202468 } on-error={}
 :do { add list=IR_ASN range=34837 } on-error={}
@@ -592,6 +592,7 @@
 :do { add list=IR_ASN range=57831 } on-error={}
 :do { add list=IR_ASN range=57755 } on-error={}
 :do { add list=IR_ASN range=57027 } on-error={}
+:do { add list=IR_ASN range=218970 } on-error={}
 :do { add list=IR_ASN range=214993 } on-error={}
 :do { add list=IR_ASN range=212080 } on-error={}
 :do { add list=IR_ASN range=210503 } on-error={}

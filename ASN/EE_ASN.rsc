@@ -1,5 +1,5 @@
 # ASN Information in EE.
-# Last Updated: UTC 2026-08-14 01:14:52
+# Last Updated: UTC 2026-08-15 00:46:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EE ASN list"
@@ -53,6 +53,7 @@
 :do { add list=EE_ASN range=49604 } on-error={}
 :do { add list=EE_ASN range=211494 } on-error={}
 :do { add list=EE_ASN range=209554 } on-error={}
+:do { add list=EE_ASN range=207872 } on-error={}
 :do { add list=EE_ASN range=201601 } on-error={}
 :do { add list=EE_ASN range=12757 } on-error={}
 :do { add list=EE_ASN range=60608 } on-error={}
@@ -69,7 +70,6 @@
 :do { add list=EE_ASN range=210283 } on-error={}
 :do { add list=EE_ASN range=20948 } on-error={}
 :do { add list=EE_ASN range=209153 } on-error={}
-:do { add list=EE_ASN range=207872 } on-error={}
 :do { add list=EE_ASN range=207254 } on-error={}
 :do { add list=EE_ASN range=205646 } on-error={}
 :do { add list=EE_ASN range=204411 } on-error={}
@@ -94,6 +94,7 @@
 :do { add list=EE_ASN range=209587 } on-error={}
 :do { add list=EE_ASN range=209537 } on-error={}
 :do { add list=EE_ASN range=208834 } on-error={}
+:do { add list=EE_ASN range=208673 } on-error={}
 :do { add list=EE_ASN range=208440 } on-error={}
 :do { add list=EE_ASN range=208338 } on-error={}
 :do { add list=EE_ASN range=208283 } on-error={}
@@ -154,7 +155,6 @@
 :do { add list=EE_ASN range=210434 } on-error={}
 :do { add list=EE_ASN range=209842 } on-error={}
 :do { add list=EE_ASN range=209798 } on-error={}
-:do { add list=EE_ASN range=208673 } on-error={}
 :do { add list=EE_ASN range=207819 } on-error={}
 :do { add list=EE_ASN range=206919 } on-error={}
 :do { add list=EE_ASN range=206844 } on-error={}
@@ -174,6 +174,7 @@
 :do { add list=EE_ASN range=198632 } on-error={}
 :do { add list=EE_ASN range=198006 } on-error={}
 :do { add list=EE_ASN range=197974 } on-error={}
+:do { add list=EE_ASN range=197666 } on-error={}
 :do { add list=EE_ASN range=197611 } on-error={}
 :do { add list=EE_ASN range=197354 } on-error={}
 :do { add list=EE_ASN range=196785 } on-error={}

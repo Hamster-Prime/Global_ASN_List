@@ -1,5 +1,5 @@
 # ASN Information in GH.
-# Last Updated: UTC 2026-08-14 01:16:18
+# Last Updated: UTC 2026-08-15 00:48:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GH ASN list"
@@ -15,8 +15,8 @@
 :do { add list=GH_ASN range=37350 } on-error={}
 :do { add list=GH_ASN range=328842 } on-error={}
 :do { add list=GH_ASN range=328797 } on-error={}
-:do { add list=GH_ASN range=30997 } on-error={}
 :do { add list=GH_ASN range=37012 } on-error={}
+:do { add list=GH_ASN range=30997 } on-error={}
 :do { add list=GH_ASN range=329580 } on-error={}
 :do { add list=GH_ASN range=329486 } on-error={}
 :do { add list=GH_ASN range=329176 } on-error={}
@@ -48,12 +48,12 @@
 :do { add list=GH_ASN range=328648 } on-error={}
 :do { add list=GH_ASN range=328639 } on-error={}
 :do { add list=GH_ASN range=328530 } on-error={}
-:do { add list=GH_ASN range=328439 } on-error={}
 :do { add list=GH_ASN range=328372 } on-error={}
 :do { add list=GH_ASN range=328224 } on-error={}
 :do { add list=GH_ASN range=328212 } on-error={}
 :do { add list=GH_ASN range=328184 } on-error={}
 :do { add list=GH_ASN range=328182 } on-error={}
+:do { add list=GH_ASN range=327965 } on-error={}
 :do { add list=GH_ASN range=327886 } on-error={}
 :do { add list=GH_ASN range=327848 } on-error={}
 :do { add list=GH_ASN range=327695 } on-error={}
@@ -84,13 +84,12 @@
 :do { add list=GH_ASN range=328574 } on-error={}
 :do { add list=GH_ASN range=328494 } on-error={}
 :do { add list=GH_ASN range=328454 } on-error={}
+:do { add list=GH_ASN range=328439 } on-error={}
 :do { add list=GH_ASN range=328367 } on-error={}
 :do { add list=GH_ASN range=328353 } on-error={}
-:do { add list=GH_ASN range=328264 } on-error={}
 :do { add list=GH_ASN range=328213 } on-error={}
 :do { add list=GH_ASN range=328185 } on-error={}
 :do { add list=GH_ASN range=328141 } on-error={}
-:do { add list=GH_ASN range=327965 } on-error={}
 :do { add list=GH_ASN range=327944 } on-error={}
 :do { add list=GH_ASN range=327928 } on-error={}
 :do { add list=GH_ASN range=327853 } on-error={}
