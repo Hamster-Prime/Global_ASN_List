@@ -1,11 +1,11 @@
 # ASN Information in BY.
-# Last Updated: UTC 2026-08-15 00:46:43
+# Last Updated: UTC 2026-08-16 00:50:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BY ASN list"
 /routing filter num-list
-:do { add list=BY_ASN range=6697 } on-error={}
 :do { add list=BY_ASN range=60280 } on-error={}
+:do { add list=BY_ASN range=6697 } on-error={}
 :do { add list=BY_ASN range=12406 } on-error={}
 :do { add list=BY_ASN range=60330 } on-error={}
 :do { add list=BY_ASN range=60337 } on-error={}
@@ -28,6 +28,7 @@
 :do { add list=BY_ASN range=51365 } on-error={}
 :do { add list=BY_ASN range=50929 } on-error={}
 :do { add list=BY_ASN range=50685 } on-error={}
+:do { add list=BY_ASN range=50590 } on-error={}
 :do { add list=BY_ASN range=50438 } on-error={}
 :do { add list=BY_ASN range=50176 } on-error={}
 :do { add list=BY_ASN range=49711 } on-error={}
@@ -66,7 +67,6 @@
 :do { add list=BY_ASN range=50934 } on-error={}
 :do { add list=BY_ASN range=50765 } on-error={}
 :do { add list=BY_ASN range=50593 } on-error={}
-:do { add list=BY_ASN range=50590 } on-error={}
 :do { add list=BY_ASN range=50345 } on-error={}
 :do { add list=BY_ASN range=50334 } on-error={}
 :do { add list=BY_ASN range=50205 } on-error={}
