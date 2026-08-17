@@ -1,5 +1,5 @@
 # ASN Information in KH.
-# Last Updated: UTC 2026-08-16 00:49:23
+# Last Updated: UTC 2026-08-17 00:46:38
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KH ASN list"
@@ -42,6 +42,7 @@
 :do { add list=KH_ASN range=154215 } on-error={}
 :do { add list=KH_ASN range=147056 } on-error={}
 :do { add list=KH_ASN range=147023 } on-error={}
+:do { add list=KH_ASN range=142296 } on-error={}
 :do { add list=KH_ASN range=139588 } on-error={}
 :do { add list=KH_ASN range=138528 } on-error={}
 :do { add list=KH_ASN range=135333 } on-error={}
@@ -60,7 +61,6 @@
 :do { add list=KH_ASN range=150295 } on-error={}
 :do { add list=KH_ASN range=149177 } on-error={}
 :do { add list=KH_ASN range=147011 } on-error={}
-:do { add list=KH_ASN range=142296 } on-error={}
 :do { add list=KH_ASN range=139844 } on-error={}
 :do { add list=KH_ASN range=139285 } on-error={}
 :do { add list=KH_ASN range=139060 } on-error={}
@@ -68,6 +68,7 @@
 :do { add list=KH_ASN range=138682 } on-error={}
 :do { add list=KH_ASN range=138643 } on-error={}
 :do { add list=KH_ASN range=137829 } on-error={}
+:do { add list=KH_ASN range=137811 } on-error={}
 :do { add list=KH_ASN range=137537 } on-error={}
 :do { add list=KH_ASN range=137503 } on-error={}
 :do { add list=KH_ASN range=137440 } on-error={}
@@ -80,6 +81,7 @@
 :do { add list=KH_ASN range=133200 } on-error={}
 :do { add list=KH_ASN range=132590 } on-error={}
 :do { add list=KH_ASN range=132080 } on-error={}
+:do { add list=KH_ASN range=131178 } on-error={}
 :do { add list=KH_ASN range=55636 } on-error={}
 :do { add list=KH_ASN range=45348 } on-error={}
 :do { add list=KH_ASN range=202199 } on-error={}
@@ -100,9 +102,7 @@
 :do { add list=KH_ASN range=138160 } on-error={}
 :do { add list=KH_ASN range=137966 } on-error={}
 :do { add list=KH_ASN range=137952 } on-error={}
-:do { add list=KH_ASN range=137811 } on-error={}
 :do { add list=KH_ASN range=136764 } on-error={}
 :do { add list=KH_ASN range=135664 } on-error={}
 :do { add list=KH_ASN range=135286 } on-error={}
 :do { add list=KH_ASN range=133588 } on-error={}
-:do { add list=KH_ASN range=131178 } on-error={}
