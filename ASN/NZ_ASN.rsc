@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2026-08-18 00:47:07
+# Last Updated: UTC 2026-08-19 00:47:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
@@ -30,12 +30,12 @@
 :do { add list=NZ_ASN range=136964 } on-error={}
 :do { add list=NZ_ASN range=4049 } on-error={}
 :do { add list=NZ_ASN range=55561 } on-error={}
-:do { add list=NZ_ASN range=136499 } on-error={}
 :do { add list=NZ_ASN range=142601 } on-error={}
+:do { add list=NZ_ASN range=136499 } on-error={}
 :do { add list=NZ_ASN range=64015 } on-error={}
 :do { add list=NZ_ASN range=17705 } on-error={}
-:do { add list=NZ_ASN range=152909 } on-error={}
 :do { add list=NZ_ASN range=133075 } on-error={}
+:do { add list=NZ_ASN range=152909 } on-error={}
 :do { add list=NZ_ASN range=150723 } on-error={}
 :do { add list=NZ_ASN range=132268 } on-error={}
 :do { add list=NZ_ASN range=4771 } on-error={}

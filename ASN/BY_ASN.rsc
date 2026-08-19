@@ -1,5 +1,5 @@
 # ASN Information in BY.
-# Last Updated: UTC 2026-08-18 00:46:00
+# Last Updated: UTC 2026-08-19 00:46:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BY ASN list"
@@ -10,19 +10,19 @@
 :do { add list=BY_ASN range=60330 } on-error={}
 :do { add list=BY_ASN range=60337 } on-error={}
 :do { add list=BY_ASN range=42772 } on-error={}
-:do { add list=BY_ASN range=25106 } on-error={}
 :do { add list=BY_ASN range=28849 } on-error={}
+:do { add list=BY_ASN range=25106 } on-error={}
 :do { add list=BY_ASN range=56740 } on-error={}
 :do { add list=BY_ASN range=21274 } on-error={}
 :do { add list=BY_ASN range=31143 } on-error={}
+:do { add list=BY_ASN range=21305 } on-error={}
 :do { add list=BY_ASN range=208407 } on-error={}
 :do { add list=BY_ASN range=205820 } on-error={}
+:do { add list=BY_ASN range=60611 } on-error={}
 :do { add list=BY_ASN range=33973 } on-error={}
-:do { add list=BY_ASN range=21305 } on-error={}
 :do { add list=BY_ASN range=202387 } on-error={}
 :do { add list=BY_ASN range=62197 } on-error={}
 :do { add list=BY_ASN range=60744 } on-error={}
-:do { add list=BY_ASN range=60611 } on-error={}
 :do { add list=BY_ASN range=60591 } on-error={}
 :do { add list=BY_ASN range=60367 } on-error={}
 :do { add list=BY_ASN range=51365 } on-error={}
@@ -43,6 +43,7 @@
 :do { add list=BY_ASN range=211487 } on-error={}
 :do { add list=BY_ASN range=21062 } on-error={}
 :do { add list=BY_ASN range=207587 } on-error={}
+:do { add list=BY_ASN range=207229 } on-error={}
 :do { add list=BY_ASN range=206047 } on-error={}
 :do { add list=BY_ASN range=202925 } on-error={}
 :do { add list=BY_ASN range=199561 } on-error={}
@@ -101,7 +102,6 @@
 :do { add list=BY_ASN range=209881 } on-error={}
 :do { add list=BY_ASN range=209283 } on-error={}
 :do { add list=BY_ASN range=208217 } on-error={}
-:do { add list=BY_ASN range=207229 } on-error={}
 :do { add list=BY_ASN range=206428 } on-error={}
 :do { add list=BY_ASN range=206053 } on-error={}
 :do { add list=BY_ASN range=205155 } on-error={}

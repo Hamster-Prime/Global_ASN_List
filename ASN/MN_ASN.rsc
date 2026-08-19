@@ -1,13 +1,13 @@
 # ASN Information in MN.
-# Last Updated: UTC 2026-08-18 00:45:04
+# Last Updated: UTC 2026-08-19 00:45:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MN ASN list"
 /routing filter num-list
 :do { add list=MN_ASN range=55805 } on-error={}
 :do { add list=MN_ASN range=45204 } on-error={}
-:do { add list=MN_ASN range=17882 } on-error={}
 :do { add list=MN_ASN range=139089 } on-error={}
+:do { add list=MN_ASN range=17882 } on-error={}
 :do { add list=MN_ASN range=9484 } on-error={}
 :do { add list=MN_ASN range=56301 } on-error={}
 :do { add list=MN_ASN range=58439 } on-error={}
