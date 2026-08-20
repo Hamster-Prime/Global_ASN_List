@@ -1,13 +1,13 @@
 # ASN Information in BO.
-# Last Updated: UTC 2026-08-19 00:47:26
+# Last Updated: UTC 2026-08-20 00:47:41
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BO ASN list"
 /routing filter num-list
 :do { add list=BO_ASN range=6568 } on-error={}
 :do { add list=BO_ASN range=27882 } on-error={}
-:do { add list=BO_ASN range=22541 } on-error={}
 :do { add list=BO_ASN range=263242 } on-error={}
+:do { add list=BO_ASN range=22541 } on-error={}
 :do { add list=BO_ASN range=26210 } on-error={}
 :do { add list=BO_ASN range=27839 } on-error={}
 :do { add list=BO_ASN range=267685 } on-error={}
