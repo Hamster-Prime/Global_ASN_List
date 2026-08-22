@@ -1,5 +1,5 @@
 # ASN Information in SK.
-# Last Updated: UTC 2026-08-21 00:51:23
+# Last Updated: UTC 2026-08-22 00:46:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading SK ASN list"
@@ -20,10 +20,10 @@
 :do { add list=SK_ASN range=49115 } on-error={}
 :do { add list=SK_ASN range=42005 } on-error={}
 :do { add list=SK_ASN range=56800 } on-error={}
-:do { add list=SK_ASN range=51013 } on-error={}
 :do { add list=SK_ASN range=38949 } on-error={}
 :do { add list=SK_ASN range=35328 } on-error={}
 :do { add list=SK_ASN range=12508 } on-error={}
+:do { add list=SK_ASN range=51013 } on-error={}
 :do { add list=SK_ASN range=212974 } on-error={}
 :do { add list=SK_ASN range=209531 } on-error={}
 :do { add list=SK_ASN range=50953 } on-error={}
