@@ -1,13 +1,12 @@
 # ASN Information in BN.
-# Last Updated: UTC 2026-08-22 00:45:30
+# Last Updated: UTC 2026-08-23 00:50:48
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BN ASN list"
 /routing filter num-list
 :do { add list=BN_ASN range=10094 } on-error={}
 :do { add list=BN_ASN range=45259 } on-error={}
-:do { add list=BN_ASN range=10101 } on-error={}
 :do { add list=BN_ASN range=58810 } on-error={}
 :do { add list=BN_ASN range=133875 } on-error={}
-:do { add list=BN_ASN range=132395 } on-error={}
 :do { add list=BN_ASN range=131467 } on-error={}
+:do { add list=BN_ASN range=10101 } on-error={}

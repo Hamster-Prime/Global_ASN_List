@@ -1,20 +1,20 @@
 # ASN Information in PT.
-# Last Updated: UTC 2026-08-22 00:45:54
+# Last Updated: UTC 2026-08-23 00:51:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PT ASN list"
 /routing filter num-list
 :do { add list=PT_ASN range=6424 } on-error={}
 :do { add list=PT_ASN range=8657 } on-error={}
-:do { add list=PT_ASN range=205378 } on-error={}
 :do { add list=PT_ASN range=50293 } on-error={}
+:do { add list=PT_ASN range=205378 } on-error={}
 :do { add list=PT_ASN range=2860 } on-error={}
 :do { add list=PT_ASN range=214213 } on-error={}
+:do { add list=PT_ASN range=9186 } on-error={}
 :do { add list=PT_ASN range=24768 } on-error={}
 :do { add list=PT_ASN range=1930 } on-error={}
 :do { add list=PT_ASN range=15525 } on-error={}
 :do { add list=PT_ASN range=49941 } on-error={}
-:do { add list=PT_ASN range=9186 } on-error={}
 :do { add list=PT_ASN range=62416 } on-error={}
 :do { add list=PT_ASN range=47787 } on-error={}
 :do { add list=PT_ASN range=39384 } on-error={}
@@ -100,7 +100,6 @@
 :do { add list=PT_ASN range=28672 } on-error={}
 :do { add list=PT_ASN range=25060 } on-error={}
 :do { add list=PT_ASN range=25005 } on-error={}
-:do { add list=PT_ASN range=219114 } on-error={}
 :do { add list=PT_ASN range=216237 } on-error={}
 :do { add list=PT_ASN range=215446 } on-error={}
 :do { add list=PT_ASN range=215046 } on-error={}
@@ -116,6 +115,7 @@
 :do { add list=PT_ASN range=209440 } on-error={}
 :do { add list=PT_ASN range=207969 } on-error={}
 :do { add list=PT_ASN range=207731 } on-error={}
+:do { add list=PT_ASN range=205702 } on-error={}
 :do { add list=PT_ASN range=203529 } on-error={}
 :do { add list=PT_ASN range=203491 } on-error={}
 :do { add list=PT_ASN range=203482 } on-error={}
@@ -140,6 +140,5 @@
 :do { add list=PT_ASN range=209968 } on-error={}
 :do { add list=PT_ASN range=209357 } on-error={}
 :do { add list=PT_ASN range=207118 } on-error={}
-:do { add list=PT_ASN range=202981 } on-error={}
 :do { add list=PT_ASN range=201238 } on-error={}
 :do { add list=PT_ASN range=199130 } on-error={}

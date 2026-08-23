@@ -1,5 +1,5 @@
 # ASN Information in IQ.
-# Last Updated: UTC 2026-08-22 00:47:03
+# Last Updated: UTC 2026-08-23 00:52:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IQ ASN list"
@@ -25,7 +25,6 @@
 :do { add list=IQ_ASN range=205906 } on-error={}
 :do { add list=IQ_ASN range=200485 } on-error={}
 :do { add list=IQ_ASN range=200178 } on-error={}
-:do { add list=IQ_ASN range=197882 } on-error={}
 :do { add list=IQ_ASN range=57588 } on-error={}
 :do { add list=IQ_ASN range=51018 } on-error={}
 :do { add list=IQ_ASN range=49571 } on-error={}
@@ -41,6 +40,7 @@
 :do { add list=IQ_ASN range=211090 } on-error={}
 :do { add list=IQ_ASN range=210513 } on-error={}
 :do { add list=IQ_ASN range=207138 } on-error={}
+:do { add list=IQ_ASN range=197882 } on-error={}
 :do { add list=IQ_ASN range=197305 } on-error={}
 :do { add list=IQ_ASN range=3194 } on-error={}
 :do { add list=IQ_ASN range=213098 } on-error={}
@@ -65,8 +65,6 @@
 :do { add list=IQ_ASN range=34929 } on-error={}
 :do { add list=IQ_ASN range=212692 } on-error={}
 :do { add list=IQ_ASN range=212280 } on-error={}
-:do { add list=IQ_ASN range=211534 } on-error={}
-:do { add list=IQ_ASN range=211413 } on-error={}
 :do { add list=IQ_ASN range=210413 } on-error={}
 :do { add list=IQ_ASN range=210016 } on-error={}
 :do { add list=IQ_ASN range=209193 } on-error={}
@@ -95,7 +93,6 @@
 :do { add list=IQ_ASN range=57053 } on-error={}
 :do { add list=IQ_ASN range=49760 } on-error={}
 :do { add list=IQ_ASN range=48492 } on-error={}
-:do { add list=IQ_ASN range=48175 } on-error={}
 :do { add list=IQ_ASN range=35160 } on-error={}
 :do { add list=IQ_ASN range=34515 } on-error={}
 :do { add list=IQ_ASN range=216461 } on-error={}
@@ -111,6 +108,8 @@
 :do { add list=IQ_ASN range=211888 } on-error={}
 :do { add list=IQ_ASN range=211841 } on-error={}
 :do { add list=IQ_ASN range=211732 } on-error={}
+:do { add list=IQ_ASN range=211534 } on-error={}
+:do { add list=IQ_ASN range=211413 } on-error={}
 :do { add list=IQ_ASN range=210509 } on-error={}
 :do { add list=IQ_ASN range=210402 } on-error={}
 :do { add list=IQ_ASN range=210194 } on-error={}
