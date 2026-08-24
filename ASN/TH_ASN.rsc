@@ -1,5 +1,5 @@
 # ASN Information in TH.
-# Last Updated: UTC 2026-08-23 00:50:36
+# Last Updated: UTC 2026-08-24 00:48:25
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TH ASN list"
@@ -34,13 +34,13 @@
 :do { add list=TH_ASN range=7693 } on-error={}
 :do { add list=TH_ASN range=4652 } on-error={}
 :do { add list=TH_ASN range=45758 } on-error={}
-:do { add list=TH_ASN range=23969 } on-error={}
 :do { add list=TH_ASN range=55808 } on-error={}
+:do { add list=TH_ASN range=23969 } on-error={}
 :do { add list=TH_ASN range=23884 } on-error={}
-:do { add list=TH_ASN range=152599 } on-error={}
 :do { add list=TH_ASN range=140867 } on-error={}
 :do { add list=TH_ASN range=63529 } on-error={}
 :do { add list=TH_ASN range=153996 } on-error={}
+:do { add list=TH_ASN range=152599 } on-error={}
 :do { add list=TH_ASN range=55423 } on-error={}
 :do { add list=TH_ASN range=45667 } on-error={}
 :do { add list=TH_ASN range=45265 } on-error={}
@@ -180,6 +180,7 @@
 :do { add list=TH_ASN range=135329 } on-error={}
 :do { add list=TH_ASN range=135290 } on-error={}
 :do { add list=TH_ASN range=135129 } on-error={}
+:do { add list=TH_ASN range=134695 } on-error={}
 :do { add list=TH_ASN range=134592 } on-error={}
 :do { add list=TH_ASN range=133581 } on-error={}
 :do { add list=TH_ASN range=133481 } on-error={}
@@ -329,7 +330,6 @@
 :do { add list=TH_ASN range=135528 } on-error={}
 :do { add list=TH_ASN range=135381 } on-error={}
 :do { add list=TH_ASN range=134839 } on-error={}
-:do { add list=TH_ASN range=134695 } on-error={}
 :do { add list=TH_ASN range=134682 } on-error={}
 :do { add list=TH_ASN range=134240 } on-error={}
 :do { add list=TH_ASN range=134166 } on-error={}
