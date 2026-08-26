@@ -1,5 +1,5 @@
 # ASN Information in KG.
-# Last Updated: UTC 2026-08-25 00:49:20
+# Last Updated: UTC 2026-08-26 00:50:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KG ASN list"
@@ -7,8 +7,8 @@
 :do { add list=KG_ASN range=8449 } on-error={}
 :do { add list=KG_ASN range=61010 } on-error={}
 :do { add list=KG_ASN range=12764 } on-error={}
-:do { add list=KG_ASN range=29061 } on-error={}
 :do { add list=KG_ASN range=61399 } on-error={}
+:do { add list=KG_ASN range=29061 } on-error={}
 :do { add list=KG_ASN range=50053 } on-error={}
 :do { add list=KG_ASN range=47237 } on-error={}
 :do { add list=KG_ASN range=8511 } on-error={}
@@ -33,7 +33,6 @@
 :do { add list=KG_ASN range=213173 } on-error={}
 :do { add list=KG_ASN range=212409 } on-error={}
 :do { add list=KG_ASN range=209918 } on-error={}
-:do { add list=KG_ASN range=205204 } on-error={}
 :do { add list=KG_ASN range=198648 } on-error={}
 :do { add list=KG_ASN range=198629 } on-error={}
 :do { add list=KG_ASN range=197119 } on-error={}
@@ -58,6 +57,7 @@
 :do { add list=KG_ASN range=215326 } on-error={}
 :do { add list=KG_ASN range=207250 } on-error={}
 :do { add list=KG_ASN range=206351 } on-error={}
+:do { add list=KG_ASN range=205204 } on-error={}
 :do { add list=KG_ASN range=204674 } on-error={}
 :do { add list=KG_ASN range=204532 } on-error={}
 :do { add list=KG_ASN range=204416 } on-error={}
