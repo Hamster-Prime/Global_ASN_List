@@ -1,13 +1,13 @@
 # ASN Information in ZM.
-# Last Updated: UTC 2026-08-26 00:52:31
+# Last Updated: UTC 2026-08-27 06:24:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZM ASN list"
 /routing filter num-list
 :do { add list=ZM_ASN range=37154 } on-error={}
 :do { add list=ZM_ASN range=36962 } on-error={}
-:do { add list=ZM_ASN range=7420 } on-error={}
 :do { add list=ZM_ASN range=37287 } on-error={}
+:do { add list=ZM_ASN range=7420 } on-error={}
 :do { add list=ZM_ASN range=328646 } on-error={}
 :do { add list=ZM_ASN range=37185 } on-error={}
 :do { add list=ZM_ASN range=36959 } on-error={}

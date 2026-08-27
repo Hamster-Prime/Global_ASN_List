@@ -1,5 +1,5 @@
 # ASN Information in PA.
-# Last Updated: UTC 2026-08-26 00:51:52
+# Last Updated: UTC 2026-08-27 06:23:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PA ASN list"
@@ -9,11 +9,11 @@
 :do { add list=PA_ASN range=11556 } on-error={}
 :do { add list=PA_ASN range=26105 } on-error={}
 :do { add list=PA_ASN range=136787 } on-error={}
-:do { add list=PA_ASN range=262248 } on-error={}
 :do { add list=PA_ASN range=209854 } on-error={}
 :do { add list=PA_ASN range=265867 } on-error={}
-:do { add list=PA_ASN range=27796 } on-error={}
+:do { add list=PA_ASN range=262248 } on-error={}
 :do { add list=PA_ASN range=141039 } on-error={}
+:do { add list=PA_ASN range=27796 } on-error={}
 :do { add list=PA_ASN range=18809 } on-error={}
 :do { add list=PA_ASN range=263759 } on-error={}
 :do { add list=PA_ASN range=273045 } on-error={}
@@ -31,8 +31,6 @@
 :do { add list=PA_ASN range=27928 } on-error={}
 :do { add list=PA_ASN range=27687 } on-error={}
 :do { add list=PA_ASN range=273888 } on-error={}
-:do { add list=PA_ASN range=272109 } on-error={}
-:do { add list=PA_ASN range=269736 } on-error={}
 :do { add list=PA_ASN range=263772 } on-error={}
 :do { add list=PA_ASN range=22010 } on-error={}
 :do { add list=PA_ASN range=21599 } on-error={}
@@ -51,6 +49,7 @@
 :do { add list=PA_ASN range=27649 } on-error={}
 :do { add list=PA_ASN range=274865 } on-error={}
 :do { add list=PA_ASN range=274135 } on-error={}
+:do { add list=PA_ASN range=272109 } on-error={}
 :do { add list=PA_ASN range=272096 } on-error={}
 :do { add list=PA_ASN range=270078 } on-error={}
 :do { add list=PA_ASN range=269864 } on-error={}
@@ -86,6 +85,7 @@
 :do { add list=PA_ASN range=273907 } on-error={}
 :do { add list=PA_ASN range=273135 } on-error={}
 :do { add list=PA_ASN range=269985 } on-error={}
+:do { add list=PA_ASN range=269736 } on-error={}
 :do { add list=PA_ASN range=266828 } on-error={}
 :do { add list=PA_ASN range=266811 } on-error={}
 :do { add list=PA_ASN range=266692 } on-error={}
