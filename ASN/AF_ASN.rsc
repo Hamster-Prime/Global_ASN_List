@@ -1,5 +1,5 @@
 # ASN Information in AF.
-# Last Updated: UTC 2026-08-27 06:22:53
+# Last Updated: UTC 2026-08-28 08:15:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AF ASN list"
