@@ -1,12 +1,12 @@
 # ASN Information in LB.
-# Last Updated: UTC 2026-08-29 04:59:42
+# Last Updated: UTC 2026-08-30 02:46:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LB ASN list"
 /routing filter num-list
 :do { add list=LB_ASN range=42020 } on-error={}
-:do { add list=LB_ASN range=9051 } on-error={}
 :do { add list=LB_ASN range=39010 } on-error={}
+:do { add list=LB_ASN range=9051 } on-error={}
 :do { add list=LB_ASN range=31126 } on-error={}
 :do { add list=LB_ASN range=48847 } on-error={}
 :do { add list=LB_ASN range=39918 } on-error={}
