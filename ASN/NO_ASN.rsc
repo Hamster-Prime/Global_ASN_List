@@ -1,5 +1,5 @@
 # ASN Information in NO.
-# Last Updated: UTC 2026-08-31 02:39:12
+# Last Updated: UTC 2026-09-01 02:52:16
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NO ASN list"
@@ -148,6 +148,7 @@
 :do { add list=NO_ASN range=203343 } on-error={}
 :do { add list=NO_ASN range=202230 } on-error={}
 :do { add list=NO_ASN range=202174 } on-error={}
+:do { add list=NO_ASN range=202057 } on-error={}
 :do { add list=NO_ASN range=202008 } on-error={}
 :do { add list=NO_ASN range=201888 } on-error={}
 :do { add list=NO_ASN range=201822 } on-error={}
@@ -259,7 +260,6 @@
 :do { add list=NO_ASN range=203580 } on-error={}
 :do { add list=NO_ASN range=203238 } on-error={}
 :do { add list=NO_ASN range=202060 } on-error={}
-:do { add list=NO_ASN range=202057 } on-error={}
 :do { add list=NO_ASN range=201656 } on-error={}
 :do { add list=NO_ASN range=201596 } on-error={}
 :do { add list=NO_ASN range=201577 } on-error={}

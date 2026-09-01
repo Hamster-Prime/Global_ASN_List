@@ -1,5 +1,5 @@
 # ASN Information in CL.
-# Last Updated: UTC 2026-08-31 02:40:23
+# Last Updated: UTC 2026-09-01 02:53:33
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CL ASN list"
@@ -91,12 +91,12 @@
 :do { add list=CL_ASN range=269875 } on-error={}
 :do { add list=CL_ASN range=27978 } on-error={}
 :do { add list=CL_ASN range=27735 } on-error={}
+:do { add list=CL_ASN range=266900 } on-error={}
 :do { add list=CL_ASN range=265830 } on-error={}
 :do { add list=CL_ASN range=14795 } on-error={}
 :do { add list=CL_ASN range=52510 } on-error={}
 :do { add list=CL_ASN range=274024 } on-error={}
 :do { add list=CL_ASN range=273237 } on-error={}
-:do { add list=CL_ASN range=266900 } on-error={}
 :do { add list=CL_ASN range=15208 } on-error={}
 :do { add list=CL_ASN range=52439 } on-error={}
 :do { add list=CL_ASN range=52368 } on-error={}
@@ -123,9 +123,11 @@
 :do { add list=CL_ASN range=266779 } on-error={}
 :do { add list=CL_ASN range=266655 } on-error={}
 :do { add list=CL_ASN range=265743 } on-error={}
+:do { add list=CL_ASN range=265714 } on-error={}
 :do { add list=CL_ASN range=264780 } on-error={}
 :do { add list=CL_ASN range=264729 } on-error={}
 :do { add list=CL_ASN range=264636 } on-error={}
+:do { add list=CL_ASN range=263758 } on-error={}
 :do { add list=CL_ASN range=263728 } on-error={}
 :do { add list=CL_ASN range=21753 } on-error={}
 :do { add list=CL_ASN range=17147 } on-error={}
@@ -187,12 +189,10 @@
 :do { add list=CL_ASN range=26623 } on-error={}
 :do { add list=CL_ASN range=265858 } on-error={}
 :do { add list=CL_ASN range=265839 } on-error={}
-:do { add list=CL_ASN range=265714 } on-error={}
 :do { add list=CL_ASN range=265675 } on-error={}
 :do { add list=CL_ASN range=264859 } on-error={}
 :do { add list=CL_ASN range=264730 } on-error={}
 :do { add list=CL_ASN range=264724 } on-error={}
-:do { add list=CL_ASN range=263758 } on-error={}
 :do { add list=CL_ASN range=263700 } on-error={}
 :do { add list=CL_ASN range=262228 } on-error={}
 :do { add list=CL_ASN range=262167 } on-error={}

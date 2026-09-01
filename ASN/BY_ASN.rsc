@@ -1,5 +1,5 @@
 # ASN Information in BY.
-# Last Updated: UTC 2026-08-31 02:39:23
+# Last Updated: UTC 2026-09-01 02:52:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BY ASN list"
