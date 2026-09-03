@@ -1,5 +1,5 @@
 # ASN Information in RS.
-# Last Updated: UTC 2026-09-02 02:12:31
+# Last Updated: UTC 2026-09-03 02:19:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RS ASN list"
@@ -10,11 +10,11 @@
 :do { add list=RS_ASN range=8400 } on-error={}
 :do { add list=RS_ASN range=31042 } on-error={}
 :do { add list=RS_ASN range=9125 } on-error={}
-:do { add list=RS_ASN range=41897 } on-error={}
 :do { add list=RS_ASN range=203752 } on-error={}
+:do { add list=RS_ASN range=41897 } on-error={}
 :do { add list=RS_ASN range=205620 } on-error={}
-:do { add list=RS_ASN range=39311 } on-error={}
 :do { add list=RS_ASN range=47479 } on-error={}
+:do { add list=RS_ASN range=39311 } on-error={}
 :do { add list=RS_ASN range=60733 } on-error={}
 :do { add list=RS_ASN range=213306 } on-error={}
 :do { add list=RS_ASN range=208398 } on-error={}
@@ -49,7 +49,6 @@
 :do { add list=RS_ASN range=216024 } on-error={}
 :do { add list=RS_ASN range=212897 } on-error={}
 :do { add list=RS_ASN range=205786 } on-error={}
-:do { add list=RS_ASN range=205007 } on-error={}
 :do { add list=RS_ASN range=201236 } on-error={}
 :do { add list=RS_ASN range=198370 } on-error={}
 :do { add list=RS_ASN range=9081 } on-error={}
@@ -87,6 +86,7 @@
 :do { add list=RS_ASN range=206580 } on-error={}
 :do { add list=RS_ASN range=206034 } on-error={}
 :do { add list=RS_ASN range=205354 } on-error={}
+:do { add list=RS_ASN range=205007 } on-error={}
 :do { add list=RS_ASN range=204215 } on-error={}
 :do { add list=RS_ASN range=202676 } on-error={}
 :do { add list=RS_ASN range=202441 } on-error={}
@@ -161,7 +161,6 @@
 :do { add list=RS_ASN range=199493 } on-error={}
 :do { add list=RS_ASN range=198961 } on-error={}
 :do { add list=RS_ASN range=198753 } on-error={}
-:do { add list=RS_ASN range=198474 } on-error={}
 :do { add list=RS_ASN range=198237 } on-error={}
 :do { add list=RS_ASN range=196886 } on-error={}
 :do { add list=RS_ASN range=13303 } on-error={}

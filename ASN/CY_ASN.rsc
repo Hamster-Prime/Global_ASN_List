@@ -1,5 +1,5 @@
 # ASN Information in CY.
-# Last Updated: UTC 2026-09-02 02:12:44
+# Last Updated: UTC 2026-09-03 02:19:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CY ASN list"
@@ -20,8 +20,8 @@
 :do { add list=CY_ASN range=51297 } on-error={}
 :do { add list=CY_ASN range=202448 } on-error={}
 :do { add list=CY_ASN range=201872 } on-error={}
-:do { add list=CY_ASN range=5531 } on-error={}
 :do { add list=CY_ASN range=15805 } on-error={}
+:do { add list=CY_ASN range=5531 } on-error={}
 :do { add list=CY_ASN range=209231 } on-error={}
 :do { add list=CY_ASN range=200477 } on-error={}
 :do { add list=CY_ASN range=199188 } on-error={}
@@ -73,7 +73,6 @@
 :do { add list=CY_ASN range=209625 } on-error={}
 :do { add list=CY_ASN range=209617 } on-error={}
 :do { add list=CY_ASN range=208495 } on-error={}
-:do { add list=CY_ASN range=207763 } on-error={}
 :do { add list=CY_ASN range=206502 } on-error={}
 :do { add list=CY_ASN range=206164 } on-error={}
 :do { add list=CY_ASN range=205362 } on-error={}
@@ -87,6 +86,7 @@
 :do { add list=CY_ASN range=199631 } on-error={}
 :do { add list=CY_ASN range=198943 } on-error={}
 :do { add list=CY_ASN range=198858 } on-error={}
+:do { add list=CY_ASN range=196992 } on-error={}
 :do { add list=CY_ASN range=8639 } on-error={}
 :do { add list=CY_ASN range=62187 } on-error={}
 :do { add list=CY_ASN range=61170 } on-error={}
@@ -115,6 +115,7 @@
 :do { add list=CY_ASN range=208561 } on-error={}
 :do { add list=CY_ASN range=208425 } on-error={}
 :do { add list=CY_ASN range=207971 } on-error={}
+:do { add list=CY_ASN range=207763 } on-error={}
 :do { add list=CY_ASN range=207431 } on-error={}
 :do { add list=CY_ASN range=206962 } on-error={}
 :do { add list=CY_ASN range=206912 } on-error={}
@@ -131,7 +132,6 @@
 :do { add list=CY_ASN range=198336 } on-error={}
 :do { add list=CY_ASN range=197785 } on-error={}
 :do { add list=CY_ASN range=197675 } on-error={}
-:do { add list=CY_ASN range=196992 } on-error={}
 :do { add list=CY_ASN range=196984 } on-error={}
 :do { add list=CY_ASN range=16229 } on-error={}
 :do { add list=CY_ASN range=153562 } on-error={}

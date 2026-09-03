@@ -1,14 +1,14 @@
 # ASN Information in CR.
-# Last Updated: UTC 2026-09-02 02:13:41
+# Last Updated: UTC 2026-09-03 02:21:09
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CR ASN list"
 /routing filter num-list
 :do { add list=CR_ASN range=52342 } on-error={}
 :do { add list=CR_ASN range=27908 } on-error={}
+:do { add list=CR_ASN range=11830 } on-error={}
 :do { add list=CR_ASN range=52263 } on-error={}
 :do { add list=CR_ASN range=262197 } on-error={}
-:do { add list=CR_ASN range=11830 } on-error={}
 :do { add list=CR_ASN range=52423 } on-error={}
 :do { add list=CR_ASN range=28110 } on-error={}
 :do { add list=CR_ASN range=266853 } on-error={}
@@ -19,12 +19,12 @@
 :do { add list=CR_ASN range=263785 } on-error={}
 :do { add list=CR_ASN range=263762 } on-error={}
 :do { add list=CR_ASN range=28317 } on-error={}
+:do { add list=CR_ASN range=28086 } on-error={}
 :do { add list=CR_ASN range=28022 } on-error={}
 :do { add list=CR_ASN range=274032 } on-error={}
 :do { add list=CR_ASN range=263248 } on-error={}
 :do { add list=CR_ASN range=262171 } on-error={}
 :do { add list=CR_ASN range=16973 } on-error={}
-:do { add list=CR_ASN range=28086 } on-error={}
 :do { add list=CR_ASN range=27876 } on-error={}
 :do { add list=CR_ASN range=264654 } on-error={}
 :do { add list=CR_ASN range=263713 } on-error={}

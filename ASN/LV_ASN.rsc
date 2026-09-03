@@ -1,5 +1,5 @@
 # ASN Information in LV.
-# Last Updated: UTC 2026-09-02 02:12:41
+# Last Updated: UTC 2026-09-03 02:19:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LV ASN list"
@@ -38,8 +38,10 @@
 :do { add list=LV_ASN range=6747 } on-error={}
 :do { add list=LV_ASN range=60066 } on-error={}
 :do { add list=LV_ASN range=48798 } on-error={}
+:do { add list=LV_ASN range=213166 } on-error={}
 :do { add list=LV_ASN range=207066 } on-error={}
 :do { add list=LV_ASN range=203866 } on-error={}
+:do { add list=LV_ASN range=202221 } on-error={}
 :do { add list=LV_ASN range=15721 } on-error={}
 :do { add list=LV_ASN range=61127 } on-error={}
 :do { add list=LV_ASN range=52048 } on-error={}
@@ -48,12 +50,10 @@
 :do { add list=LV_ASN range=41726 } on-error={}
 :do { add list=LV_ASN range=41563 } on-error={}
 :do { add list=LV_ASN range=39900 } on-error={}
-:do { add list=LV_ASN range=213166 } on-error={}
 :do { add list=LV_ASN range=210668 } on-error={}
 :do { add list=LV_ASN range=206902 } on-error={}
 :do { add list=LV_ASN range=206600 } on-error={}
 :do { add list=LV_ASN range=203339 } on-error={}
-:do { add list=LV_ASN range=202221 } on-error={}
 :do { add list=LV_ASN range=201861 } on-error={}
 :do { add list=LV_ASN range=201269 } on-error={}
 :do { add list=LV_ASN range=199529 } on-error={}
@@ -96,6 +96,7 @@
 :do { add list=LV_ASN range=21061 } on-error={}
 :do { add list=LV_ASN range=210130 } on-error={}
 :do { add list=LV_ASN range=208995 } on-error={}
+:do { add list=LV_ASN range=208938 } on-error={}
 :do { add list=LV_ASN range=206541 } on-error={}
 :do { add list=LV_ASN range=206362 } on-error={}
 :do { add list=LV_ASN range=205680 } on-error={}
@@ -204,7 +205,6 @@
 :do { add list=LV_ASN range=210213 } on-error={}
 :do { add list=LV_ASN range=21016 } on-error={}
 :do { add list=LV_ASN range=208996 } on-error={}
-:do { add list=LV_ASN range=208938 } on-error={}
 :do { add list=LV_ASN range=208783 } on-error={}
 :do { add list=LV_ASN range=208284 } on-error={}
 :do { add list=LV_ASN range=208030 } on-error={}

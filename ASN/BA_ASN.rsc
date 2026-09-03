@@ -1,5 +1,5 @@
 # ASN Information in BA.
-# Last Updated: UTC 2026-09-02 02:12:35
+# Last Updated: UTC 2026-09-03 02:19:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BA ASN list"
@@ -12,6 +12,7 @@
 :do { add list=BA_ASN range=21107 } on-error={}
 :do { add list=BA_ASN range=8670 } on-error={}
 :do { add list=BA_ASN range=35567 } on-error={}
+:do { add list=BA_ASN range=200698 } on-error={}
 :do { add list=BA_ASN range=39826 } on-error={}
 :do { add list=BA_ASN range=207471 } on-error={}
 :do { add list=BA_ASN range=206474 } on-error={}
@@ -26,7 +27,6 @@
 :do { add list=BA_ASN range=209271 } on-error={}
 :do { add list=BA_ASN range=202632 } on-error={}
 :do { add list=BA_ASN range=200914 } on-error={}
-:do { add list=BA_ASN range=200698 } on-error={}
 :do { add list=BA_ASN range=60588 } on-error={}
 :do { add list=BA_ASN range=57869 } on-error={}
 :do { add list=BA_ASN range=48059 } on-error={}

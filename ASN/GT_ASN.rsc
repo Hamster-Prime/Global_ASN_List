@@ -1,5 +1,5 @@
 # ASN Information in GT.
-# Last Updated: UTC 2026-09-02 02:13:36
+# Last Updated: UTC 2026-09-03 02:21:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GT ASN list"
@@ -11,9 +11,9 @@
 :do { add list=GT_ASN range=23243 } on-error={}
 :do { add list=GT_ASN range=267828 } on-error={}
 :do { add list=GT_ASN range=264764 } on-error={}
-:do { add list=GT_ASN range=263761 } on-error={}
 :do { add list=GT_ASN range=6458 } on-error={}
 :do { add list=GT_ASN range=264637 } on-error={}
+:do { add list=GT_ASN range=263761 } on-error={}
 :do { add list=GT_ASN range=52286 } on-error={}
 :do { add list=GT_ASN range=27910 } on-error={}
 :do { add list=GT_ASN range=270036 } on-error={}
@@ -37,7 +37,6 @@
 :do { add list=GT_ASN range=273152 } on-error={}
 :do { add list=GT_ASN range=273149 } on-error={}
 :do { add list=GT_ASN range=272969 } on-error={}
-:do { add list=GT_ASN range=272876 } on-error={}
 :do { add list=GT_ASN range=272853 } on-error={}
 :do { add list=GT_ASN range=269951 } on-error={}
 :do { add list=GT_ASN range=269830 } on-error={}
@@ -55,6 +54,7 @@
 :do { add list=GT_ASN range=273897 } on-error={}
 :do { add list=GT_ASN range=273884 } on-error={}
 :do { add list=GT_ASN range=273041 } on-error={}
+:do { add list=GT_ASN range=272876 } on-error={}
 :do { add list=GT_ASN range=272832 } on-error={}
 :do { add list=GT_ASN range=272818 } on-error={}
 :do { add list=GT_ASN range=271990 } on-error={}
