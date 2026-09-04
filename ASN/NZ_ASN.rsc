@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2026-09-03 02:20:34
+# Last Updated: UTC 2026-09-04 02:16:04
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
@@ -14,8 +14,8 @@
 :do { add list=NZ_ASN range=38022 } on-error={}
 :do { add list=NZ_ASN range=45586 } on-error={}
 :do { add list=NZ_ASN range=18119 } on-error={}
-:do { add list=NZ_ASN range=23838 } on-error={}
 :do { add list=NZ_ASN range=9500 } on-error={}
+:do { add list=NZ_ASN range=23838 } on-error={}
 :do { add list=NZ_ASN range=24324 } on-error={}
 :do { add list=NZ_ASN range=138398 } on-error={}
 :do { add list=NZ_ASN range=4768 } on-error={}
@@ -48,10 +48,10 @@
 :do { add list=NZ_ASN range=132857 } on-error={}
 :do { add list=NZ_ASN range=9245 } on-error={}
 :do { add list=NZ_ASN range=56683 } on-error={}
-:do { add list=NZ_ASN range=4771 } on-error={}
 :do { add list=NZ_ASN range=137495 } on-error={}
 :do { add list=NZ_ASN range=133187 } on-error={}
 :do { add list=NZ_ASN range=9433 } on-error={}
+:do { add list=NZ_ASN range=4771 } on-error={}
 :do { add list=NZ_ASN range=45230 } on-error={}
 :do { add list=NZ_ASN range=24459 } on-error={}
 :do { add list=NZ_ASN range=24398 } on-error={}
@@ -99,8 +99,8 @@
 :do { add list=NZ_ASN range=133370 } on-error={}
 :do { add list=NZ_ASN range=131296 } on-error={}
 :do { add list=NZ_ASN range=132588 } on-error={}
-:do { add list=NZ_ASN range=9559 } on-error={}
 :do { add list=NZ_ASN range=55729 } on-error={}
+:do { add list=NZ_ASN range=9559 } on-error={}
 :do { add list=NZ_ASN range=153350 } on-error={}
 :do { add list=NZ_ASN range=9560 } on-error={}
 :do { add list=NZ_ASN range=4770 } on-error={}
@@ -412,7 +412,6 @@
 :do { add list=NZ_ASN range=132143 } on-error={}
 :do { add list=NZ_ASN range=132130 } on-error={}
 :do { add list=NZ_ASN range=132083 } on-error={}
-:do { add list=NZ_ASN range=132066 } on-error={}
 :do { add list=NZ_ASN range=132058 } on-error={}
 :do { add list=NZ_ASN range=132042 } on-error={}
 :do { add list=NZ_ASN range=132027 } on-error={}

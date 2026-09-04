@@ -1,5 +1,5 @@
 # ASN Information in CZ.
-# Last Updated: UTC 2026-09-03 02:19:33
+# Last Updated: UTC 2026-09-04 02:14:59
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CZ ASN list"
@@ -35,18 +35,18 @@
 :do { add list=CZ_ASN range=8251 } on-error={}
 :do { add list=CZ_ASN range=209810 } on-error={}
 :do { add list=CZ_ASN range=35236 } on-error={}
-:do { add list=CZ_ASN range=207187 } on-error={}
 :do { add list=CZ_ASN range=215704 } on-error={}
+:do { add list=CZ_ASN range=207187 } on-error={}
 :do { add list=CZ_ASN range=199803 } on-error={}
 :do { add list=CZ_ASN range=206587 } on-error={}
 :do { add list=CZ_ASN range=8646 } on-error={}
 :do { add list=CZ_ASN range=48417 } on-error={}
 :do { add list=CZ_ASN range=44002 } on-error={}
 :do { add list=CZ_ASN range=203165 } on-error={}
-:do { add list=CZ_ASN range=43709 } on-error={}
 :do { add list=CZ_ASN range=34955 } on-error={}
 :do { add list=CZ_ASN range=24641 } on-error={}
 :do { add list=CZ_ASN range=15614 } on-error={}
+:do { add list=CZ_ASN range=43709 } on-error={}
 :do { add list=CZ_ASN range=39791 } on-error={}
 :do { add list=CZ_ASN range=209369 } on-error={}
 :do { add list=CZ_ASN range=202921 } on-error={}
@@ -81,6 +81,7 @@
 :do { add list=CZ_ASN range=47949 } on-error={}
 :do { add list=CZ_ASN range=25424 } on-error={}
 :do { add list=CZ_ASN range=210139 } on-error={}
+:do { add list=CZ_ASN range=209155 } on-error={}
 :do { add list=CZ_ASN range=197019 } on-error={}
 :do { add list=CZ_ASN range=57279 } on-error={}
 :do { add list=CZ_ASN range=50698 } on-error={}
@@ -134,17 +135,16 @@
 :do { add list=CZ_ASN range=48451 } on-error={}
 :do { add list=CZ_ASN range=48298 } on-error={}
 :do { add list=CZ_ASN range=47868 } on-error={}
+:do { add list=CZ_ASN range=43541 } on-error={}
 :do { add list=CZ_ASN range=205535 } on-error={}
 :do { add list=CZ_ASN range=201594 } on-error={}
 :do { add list=CZ_ASN range=198101 } on-error={}
 :do { add list=CZ_ASN range=56344 } on-error={}
 :do { add list=CZ_ASN range=204394 } on-error={}
-:do { add list=CZ_ASN range=43541 } on-error={}
-:do { add list=CZ_ASN range=44489 } on-error={}
 :do { add list=CZ_ASN range=204772 } on-error={}
 :do { add list=CZ_ASN range=52092 } on-error={}
+:do { add list=CZ_ASN range=44489 } on-error={}
 :do { add list=CZ_ASN range=47200 } on-error={}
-:do { add list=CZ_ASN range=209155 } on-error={}
 :do { add list=CZ_ASN range=50338 } on-error={}
 :do { add list=CZ_ASN range=196843 } on-error={}
 :do { add list=CZ_ASN range=20723 } on-error={}
@@ -191,6 +191,7 @@
 :do { add list=CZ_ASN range=208962 } on-error={}
 :do { add list=CZ_ASN range=207095 } on-error={}
 :do { add list=CZ_ASN range=20708 } on-error={}
+:do { add list=CZ_ASN range=206414 } on-error={}
 :do { add list=CZ_ASN range=20609 } on-error={}
 :do { add list=CZ_ASN range=204666 } on-error={}
 :do { add list=CZ_ASN range=204351 } on-error={}
@@ -279,7 +280,6 @@
 :do { add list=CZ_ASN range=207015 } on-error={}
 :do { add list=CZ_ASN range=206613 } on-error={}
 :do { add list=CZ_ASN range=206438 } on-error={}
-:do { add list=CZ_ASN range=206414 } on-error={}
 :do { add list=CZ_ASN range=205968 } on-error={}
 :do { add list=CZ_ASN range=205724 } on-error={}
 :do { add list=CZ_ASN range=205619 } on-error={}
@@ -308,7 +308,8 @@
 :do { add list=CZ_ASN range=200646 } on-error={}
 :do { add list=CZ_ASN range=199711 } on-error={}
 :do { add list=CZ_ASN range=199604 } on-error={}
-:do { add list=CZ_ASN range=198586 } on-error={}
+:do { add list=CZ_ASN range=198725 } on-error={}
+:do { add list=CZ_ASN range=198519 } on-error={}
 :do { add list=CZ_ASN range=198500 } on-error={}
 :do { add list=CZ_ASN range=198494 } on-error={}
 :do { add list=CZ_ASN range=198103 } on-error={}
@@ -544,10 +545,9 @@
 :do { add list=CZ_ASN range=198991 } on-error={}
 :do { add list=CZ_ASN range=198977 } on-error={}
 :do { add list=CZ_ASN range=198814 } on-error={}
-:do { add list=CZ_ASN range=198725 } on-error={}
 :do { add list=CZ_ASN range=198627 } on-error={}
 :do { add list=CZ_ASN range=198624 } on-error={}
-:do { add list=CZ_ASN range=198519 } on-error={}
+:do { add list=CZ_ASN range=198586 } on-error={}
 :do { add list=CZ_ASN range=198284 } on-error={}
 :do { add list=CZ_ASN range=198282 } on-error={}
 :do { add list=CZ_ASN range=198248 } on-error={}
