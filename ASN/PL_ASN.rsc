@@ -1,5 +1,5 @@
 # ASN Information in PL.
-# Last Updated: UTC 2026-09-04 02:14:58
+# Last Updated: UTC 2026-09-05 02:15:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PL ASN list"
@@ -1357,6 +1357,7 @@
 :do { add list=PL_ASN range=24619 } on-error={}
 :do { add list=PL_ASN range=24597 } on-error={}
 :do { add list=PL_ASN range=219121 } on-error={}
+:do { add list=PL_ASN range=218917 } on-error={}
 :do { add list=PL_ASN range=215985 } on-error={}
 :do { add list=PL_ASN range=215966 } on-error={}
 :do { add list=PL_ASN range=215484 } on-error={}

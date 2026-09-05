@@ -1,5 +1,5 @@
 # ASN Information in TW.
-# Last Updated: UTC 2026-09-04 02:14:00
+# Last Updated: UTC 2026-09-05 02:14:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TW ASN list"
@@ -203,7 +203,6 @@
 :do { add list=TW_ASN range=57429 } on-error={}
 :do { add list=TW_ASN range=49608 } on-error={}
 :do { add list=TW_ASN range=46850 } on-error={}
-:do { add list=TW_ASN range=402509 } on-error={}
 :do { add list=TW_ASN range=38854 } on-error={}
 :do { add list=TW_ASN range=38845 } on-error={}
 :do { add list=TW_ASN range=38839 } on-error={}

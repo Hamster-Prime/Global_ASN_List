@@ -1,5 +1,5 @@
 # ASN Information in TR.
-# Last Updated: UTC 2026-09-04 02:15:30
+# Last Updated: UTC 2026-09-05 02:15:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TR ASN list"
@@ -128,6 +128,7 @@
 :do { add list=TR_ASN range=29549 } on-error={}
 :do { add list=TR_ASN range=29144 } on-error={}
 :do { add list=TR_ASN range=28746 } on-error={}
+:do { add list=TR_ASN range=218989 } on-error={}
 :do { add list=TR_ASN range=216064 } on-error={}
 :do { add list=TR_ASN range=215761 } on-error={}
 :do { add list=TR_ASN range=215710 } on-error={}

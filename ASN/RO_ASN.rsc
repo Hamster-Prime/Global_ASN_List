@@ -1,5 +1,5 @@
 # ASN Information in RO.
-# Last Updated: UTC 2026-09-04 02:15:09
+# Last Updated: UTC 2026-09-05 02:15:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RO ASN list"
@@ -520,6 +520,7 @@
 :do { add list=RO_ASN range=24839 } on-error={}
 :do { add list=RO_ASN range=24704 } on-error={}
 :do { add list=RO_ASN range=24660 } on-error={}
+:do { add list=RO_ASN range=218997 } on-error={}
 :do { add list=RO_ASN range=216120 } on-error={}
 :do { add list=RO_ASN range=215729 } on-error={}
 :do { add list=RO_ASN range=215404 } on-error={}
