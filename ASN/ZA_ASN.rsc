@@ -1,5 +1,5 @@
 # ASN Information in ZA.
-# Last Updated: UTC 2026-09-06 02:12:25
+# Last Updated: UTC 2026-09-07 02:09:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ZA ASN list"

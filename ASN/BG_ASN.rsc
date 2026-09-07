@@ -1,5 +1,5 @@
 # ASN Information in BG.
-# Last Updated: UTC 2026-09-06 02:10:57
+# Last Updated: UTC 2026-09-07 02:08:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BG ASN list"

@@ -1,5 +1,5 @@
 # ASN Information in FR.
-# Last Updated: UTC 2026-09-06 02:10:30
+# Last Updated: UTC 2026-09-07 02:07:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading FR ASN list"
@@ -1432,6 +1432,7 @@
 :do { add list=FR_ASN range=219179 } on-error={}
 :do { add list=FR_ASN range=219066 } on-error={}
 :do { add list=FR_ASN range=218888 } on-error={}
+:do { add list=FR_ASN range=218778 } on-error={}
 :do { add list=FR_ASN range=216443 } on-error={}
 :do { add list=FR_ASN range=216430 } on-error={}
 :do { add list=FR_ASN range=216428 } on-error={}
