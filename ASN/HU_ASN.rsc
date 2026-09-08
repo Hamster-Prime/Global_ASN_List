@@ -1,5 +1,5 @@
 # ASN Information in HU.
-# Last Updated: UTC 2026-09-07 02:08:08
+# Last Updated: UTC 2026-09-08 02:20:17
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HU ASN list"
