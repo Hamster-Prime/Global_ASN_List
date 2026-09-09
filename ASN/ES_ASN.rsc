@@ -1,5 +1,5 @@
 # ASN Information in ES.
-# Last Updated: UTC 2026-09-08 02:20:00
+# Last Updated: UTC 2026-09-09 02:22:49
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ES ASN list"
@@ -674,6 +674,7 @@
 :do { add list=ES_ASN range=24452 } on-error={}
 :do { add list=ES_ASN range=219304 } on-error={}
 :do { add list=ES_ASN range=219161 } on-error={}
+:do { add list=ES_ASN range=218918 } on-error={}
 :do { add list=ES_ASN range=216426 } on-error={}
 :do { add list=ES_ASN range=216135 } on-error={}
 :do { add list=ES_ASN range=216060 } on-error={}
