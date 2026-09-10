@@ -1,5 +1,5 @@
 # ASN Information in HK.
-# Last Updated: UTC 2026-09-09 02:22:16
+# Last Updated: UTC 2026-09-10 02:21:28
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HK ASN list"
@@ -407,6 +407,7 @@
 :do { add list=HK_ASN range=219476 } on-error={}
 :do { add list=HK_ASN range=219376 } on-error={}
 :do { add list=HK_ASN range=219345 } on-error={}
+:do { add list=HK_ASN range=218853 } on-error={}
 :do { add list=HK_ASN range=215081 } on-error={}
 :do { add list=HK_ASN range=213766 } on-error={}
 :do { add list=HK_ASN range=213347 } on-error={}
@@ -571,11 +572,15 @@
 :do { add list=HK_ASN range=219394 } on-error={}
 :do { add list=HK_ASN range=219393 } on-error={}
 :do { add list=HK_ASN range=219182 } on-error={}
+:do { add list=HK_ASN range=219100 } on-error={}
 :do { add list=HK_ASN range=219075 } on-error={}
 :do { add list=HK_ASN range=219071 } on-error={}
 :do { add list=HK_ASN range=219068 } on-error={}
+:do { add list=HK_ASN range=219057 } on-error={}
+:do { add list=HK_ASN range=219053 } on-error={}
 :do { add list=HK_ASN range=218968 } on-error={}
 :do { add list=HK_ASN range=218955 } on-error={}
+:do { add list=HK_ASN range=218915 } on-error={}
 :do { add list=HK_ASN range=218785 } on-error={}
 :do { add list=HK_ASN range=216411 } on-error={}
 :do { add list=HK_ASN range=216101 } on-error={}
