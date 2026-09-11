@@ -1,5 +1,5 @@
 # ASN Information in IN.
-# Last Updated: UTC 2026-09-10 02:21:54
+# Last Updated: UTC 2026-09-11 02:17:08
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading IN ASN list"
@@ -2950,6 +2950,7 @@
 :do { add list=IN_ASN range=10199 } on-error={}
 :do { add list=IN_ASN range=10123 } on-error={}
 :do { add list=IN_ASN range=219272 } on-error={}
+:do { add list=IN_ASN range=218788 } on-error={}
 :do { add list=IN_ASN range=216452 } on-error={}
 :do { add list=IN_ASN range=214832 } on-error={}
 :do { add list=IN_ASN range=214485 } on-error={}

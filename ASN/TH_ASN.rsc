@@ -1,5 +1,5 @@
 # ASN Information in TH.
-# Last Updated: UTC 2026-09-10 02:21:38
+# Last Updated: UTC 2026-09-11 02:16:53
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TH ASN list"
