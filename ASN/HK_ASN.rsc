@@ -1,5 +1,5 @@
 # ASN Information in HK.
-# Last Updated: UTC 2026-09-13 02:22:00
+# Last Updated: UTC 2026-09-14 02:39:11
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HK ASN list"
