@@ -1,5 +1,5 @@
 # ASN Information in EG.
-# Last Updated: UTC 2026-09-15 02:45:11
+# Last Updated: UTC 2026-09-16 02:39:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading EG ASN list"

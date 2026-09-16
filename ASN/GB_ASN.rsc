@@ -1,5 +1,5 @@
 # ASN Information in GB.
-# Last Updated: UTC 2026-09-15 02:43:06
+# Last Updated: UTC 2026-09-16 02:37:40
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GB ASN list"
