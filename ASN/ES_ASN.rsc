@@ -1,5 +1,5 @@
 # ASN Information in ES.
-# Last Updated: UTC 2026-09-17 02:41:59
+# Last Updated: UTC 2026-09-18 02:29:06
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading ES ASN list"
