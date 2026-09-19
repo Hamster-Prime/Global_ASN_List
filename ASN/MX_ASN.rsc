@@ -1,5 +1,5 @@
 # ASN Information in MX.
-# Last Updated: UTC 2026-09-18 02:30:22
+# Last Updated: UTC 2026-09-19 02:30:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading MX ASN list"
@@ -513,6 +513,7 @@
 :do { add list=MX_ASN range=274439 } on-error={}
 :do { add list=MX_ASN range=274422 } on-error={}
 :do { add list=MX_ASN range=274415 } on-error={}
+:do { add list=MX_ASN range=274411 } on-error={}
 :do { add list=MX_ASN range=273283 } on-error={}
 :do { add list=MX_ASN range=273282 } on-error={}
 :do { add list=MX_ASN range=273264 } on-error={}

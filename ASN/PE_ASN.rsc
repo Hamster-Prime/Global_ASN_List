@@ -1,9 +1,10 @@
 # ASN Information in PE.
-# Last Updated: UTC 2026-09-18 02:30:28
+# Last Updated: UTC 2026-09-19 02:30:22
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading PE ASN list"
 /routing filter num-list
+:do { add list=PE_ASN range=43566 } on-error={}
 :do { add list=PE_ASN range=273976 } on-error={}
 :do { add list=PE_ASN range=273112 } on-error={}
 :do { add list=PE_ASN range=269898 } on-error={}
