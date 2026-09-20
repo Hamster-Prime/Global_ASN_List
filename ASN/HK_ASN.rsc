@@ -1,5 +1,5 @@
 # ASN Information in HK.
-# Last Updated: UTC 2026-09-19 02:27:52
+# Last Updated: UTC 2026-09-20 02:38:55
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading HK ASN list"
@@ -580,6 +580,7 @@
 :do { add list=HK_ASN range=219053 } on-error={}
 :do { add list=HK_ASN range=218968 } on-error={}
 :do { add list=HK_ASN range=218955 } on-error={}
+:do { add list=HK_ASN range=218943 } on-error={}
 :do { add list=HK_ASN range=218915 } on-error={}
 :do { add list=HK_ASN range=218785 } on-error={}
 :do { add list=HK_ASN range=216411 } on-error={}
