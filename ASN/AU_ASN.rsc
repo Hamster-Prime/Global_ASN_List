@@ -1,5 +1,5 @@
 # ASN Information in AU.
-# Last Updated: UTC 2026-09-22 02:39:54
+# Last Updated: UTC 2026-09-23 02:40:27
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AU ASN list"
@@ -965,6 +965,7 @@
 :do { add list=AU_ASN range=55358 } on-error={}
 :do { add list=AU_ASN range=55354 } on-error={}
 :do { add list=AU_ASN range=55304 } on-error={}
+:do { add list=AU_ASN range=50224 } on-error={}
 :do { add list=AU_ASN range=4858 } on-error={}
 :do { add list=AU_ASN range=4825 } on-error={}
 :do { add list=AU_ASN range=4822 } on-error={}
