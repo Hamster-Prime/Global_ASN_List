@@ -1,5 +1,5 @@
 # ASN Information in TR.
-# Last Updated: UTC 2026-09-23 02:39:57
+# Last Updated: UTC 2026-09-24 02:29:06
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TR ASN list"
