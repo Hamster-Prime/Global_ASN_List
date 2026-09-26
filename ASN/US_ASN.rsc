@@ -1,5 +1,5 @@
 # ASN Information in US.
-# Last Updated: UTC 2026-09-25 02:46:19
+# Last Updated: UTC 2026-09-26 02:49:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading US ASN list"
@@ -659,6 +659,7 @@
 :do { add list=US_ASN range=22702 } on-error={}
 :do { add list=US_ASN range=22351 } on-error={}
 :do { add list=US_ASN range=21709 } on-error={}
+:do { add list=US_ASN range=1880 } on-error={}
 :do { add list=US_ASN range=18568 } on-error={}
 :do { add list=US_ASN range=13789 } on-error={}
 :do { add list=US_ASN range=1280 } on-error={}
@@ -17938,10 +17939,12 @@
 :do { add list=US_ASN range=18854 } on-error={}
 :do { add list=US_ASN range=18851 } on-error={}
 :do { add list=US_ASN range=18833 } on-error={}
+:do { add list=US_ASN range=1883 } on-error={}
 :do { add list=US_ASN range=18829 } on-error={}
 :do { add list=US_ASN range=18826 } on-error={}
 :do { add list=US_ASN range=18825 } on-error={}
 :do { add list=US_ASN range=18821 } on-error={}
+:do { add list=US_ASN range=1882 } on-error={}
 :do { add list=US_ASN range=18819 } on-error={}
 :do { add list=US_ASN range=18817 } on-error={}
 :do { add list=US_ASN range=18815 } on-error={}
@@ -17955,6 +17958,7 @@
 :do { add list=US_ASN range=18786 } on-error={}
 :do { add list=US_ASN range=18785 } on-error={}
 :do { add list=US_ASN range=18781 } on-error={}
+:do { add list=US_ASN range=1878 } on-error={}
 :do { add list=US_ASN range=18769 } on-error={}
 :do { add list=US_ASN range=18766 } on-error={}
 :do { add list=US_ASN range=18758 } on-error={}
