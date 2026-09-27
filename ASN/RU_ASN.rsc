@@ -1,5 +1,5 @@
 # ASN Information in RU.
-# Last Updated: UTC 2026-09-26 02:48:08
+# Last Updated: UTC 2026-09-27 02:49:50
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RU ASN list"
