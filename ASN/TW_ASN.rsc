@@ -1,5 +1,5 @@
 # ASN Information in TW.
-# Last Updated: UTC 2026-09-27 02:48:51
+# Last Updated: UTC 2026-09-28 02:49:24
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TW ASN list"
