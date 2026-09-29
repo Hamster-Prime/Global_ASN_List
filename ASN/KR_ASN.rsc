@@ -1,5 +1,5 @@
 # ASN Information in KR.
-# Last Updated: UTC 2026-09-28 02:49:35
+# Last Updated: UTC 2026-09-29 03:30:52
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KR ASN list"
