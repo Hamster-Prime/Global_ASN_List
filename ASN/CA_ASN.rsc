@@ -1,5 +1,5 @@
 # ASN Information in CA.
-# Last Updated: UTC 2026-09-30 03:17:30
+# Last Updated: UTC 2026-10-01 03:23:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CA ASN list"
@@ -351,6 +351,7 @@
 :do { add list=CA_ASN range=397727 } on-error={}
 :do { add list=CA_ASN range=397168 } on-error={}
 :do { add list=CA_ASN range=396503 } on-error={}
+:do { add list=CA_ASN range=396031 } on-error={}
 :do { add list=CA_ASN range=395965 } on-error={}
 :do { add list=CA_ASN range=395783 } on-error={}
 :do { add list=CA_ASN range=395543 } on-error={}

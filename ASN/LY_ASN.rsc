@@ -1,5 +1,5 @@
 # ASN Information in LY.
-# Last Updated: UTC 2026-09-30 03:18:06
+# Last Updated: UTC 2026-10-01 03:24:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading LY ASN list"

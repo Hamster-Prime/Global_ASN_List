@@ -1,5 +1,5 @@
 # ASN Information in CN.
-# Last Updated: UTC 2026-09-30 03:15:08
+# Last Updated: UTC 2026-10-01 03:21:57
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CN ASN list"
@@ -576,7 +576,6 @@
 :do { add list=CN_ASN range=203236 } on-error={}
 :do { add list=CN_ASN range=199310 } on-error={}
 :do { add list=CN_ASN range=198588 } on-error={}
-:do { add list=CN_ASN range=197817 } on-error={}
 :do { add list=CN_ASN range=18257 } on-error={}
 :do { add list=CN_ASN range=18244 } on-error={}
 :do { add list=CN_ASN range=18242 } on-error={}
