@@ -1,5 +1,5 @@
 # ASN Information in CH.
-# Last Updated: UTC 2026-10-01 03:22:36
+# Last Updated: UTC 2026-10-02 03:23:21
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CH ASN list"
