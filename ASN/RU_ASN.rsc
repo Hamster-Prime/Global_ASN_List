@@ -1,5 +1,5 @@
 # ASN Information in RU.
-# Last Updated: UTC 2026-10-02 03:23:37
+# Last Updated: UTC 2026-10-03 03:08:29
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading RU ASN list"
@@ -4949,7 +4949,6 @@
 :do { add list=RU_ASN range=15556 } on-error={}
 :do { add list=RU_ASN range=15552 } on-error={}
 :do { add list=RU_ASN range=15508 } on-error={}
-:do { add list=RU_ASN range=141171 } on-error={}
 :do { add list=RU_ASN range=13257 } on-error={}
 :do { add list=RU_ASN range=13174 } on-error={}
 :do { add list=RU_ASN range=13161 } on-error={}

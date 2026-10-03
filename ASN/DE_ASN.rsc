@@ -1,5 +1,5 @@
 # ASN Information in DE.
-# Last Updated: UTC 2026-10-02 03:23:06
+# Last Updated: UTC 2026-10-03 03:08:00
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DE ASN list"
