@@ -1,5 +1,5 @@
 # ASN Information in JP.
-# Last Updated: UTC 2026-10-04 03:36:07
+# Last Updated: UTC 2026-10-05 03:18:15
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JP ASN list"
