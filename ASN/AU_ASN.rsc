@@ -1,5 +1,5 @@
 # ASN Information in AU.
-# Last Updated: UTC 2026-10-05 03:20:08
+# Last Updated: UTC 2026-10-06 04:07:03
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AU ASN list"
