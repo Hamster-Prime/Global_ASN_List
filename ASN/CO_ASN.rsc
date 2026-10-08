@@ -1,5 +1,5 @@
 # ASN Information in CO.
-# Last Updated: UTC 2026-10-07 03:35:00
+# Last Updated: UTC 2026-10-08 03:49:45
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading CO ASN list"
