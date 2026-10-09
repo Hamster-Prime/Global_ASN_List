@@ -1,5 +1,5 @@
 # ASN Information in KE.
-# Last Updated: UTC 2026-10-08 03:50:18
+# Last Updated: UTC 2026-10-09 03:55:33
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading KE ASN list"
