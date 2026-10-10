@@ -1,5 +1,5 @@
 === ASN信息获取汇总 ===
-获取时间: 2026-10-09 03:55:46
+获取时间: 2026-10-10 03:39:52
 ==================================================
 
 CN: 5231 个ASN
@@ -12,7 +12,7 @@ LA: 29 个ASN
 KH: 102 个ASN
 TH: 479 个ASN
 MM: 132 个ASN
-JP: 751 个ASN
+JP: 752 个ASN
 KR: 884 个ASN
 KP: 1 个ASN
 MN: 52 个ASN
@@ -70,7 +70,7 @@ CY: 138 个ASN
 MT: 43 个ASN
 TR: 870 个ASN
 SA: 173 个ASN
-AE: 163 个ASN
+AE: 164 个ASN
 QA: 19 个ASN
 KW: 75 个ASN
 BH: 19 个ASN
@@ -100,10 +100,10 @@ SB: 10 个ASN
 VU: 11 个ASN
 WS: 6 个ASN
 TO: 4 个ASN
-US: 19151 个ASN
-CA: 1656 个ASN
+US: 19150 个ASN
+CA: 1655 个ASN
 MX: 545 个ASN
-BR: 8836 个ASN
+BR: 8837 个ASN
 AR: 1092 个ASN
 CL: 329 个ASN
 CO: 423 个ASN
@@ -144,6 +144,6 @@ AO: 64 个ASN
 ZM: 19 个ASN
 ZW: 28 个ASN
 
-总计: 86491 个ASN记录
+总计: 86492 个ASN记录
 成功获取: 141 个国家
 失败或无数据: 0 个国家
