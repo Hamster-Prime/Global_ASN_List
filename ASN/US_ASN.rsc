@@ -1,5 +1,5 @@
 # ASN Information in US.
-# Last Updated: UTC 2026-10-13 04:48:42
+# Last Updated: UTC 2026-10-14 02:58:27
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading US ASN list"

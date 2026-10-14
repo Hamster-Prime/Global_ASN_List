@@ -1,5 +1,5 @@
 # ASN Information in BR.
-# Last Updated: UTC 2026-10-13 04:48:48
+# Last Updated: UTC 2026-10-14 02:58:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BR ASN list"
