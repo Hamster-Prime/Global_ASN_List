@@ -1,5 +1,5 @@
 # ASN Information in AT.
-# Last Updated: UTC 2026-10-16 02:30:11
+# Last Updated: UTC 2026-10-17 02:22:42
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading AT ASN list"
