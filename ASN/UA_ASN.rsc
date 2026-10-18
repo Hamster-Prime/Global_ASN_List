@@ -1,5 +1,5 @@
 # ASN Information in UA.
-# Last Updated: UTC 2026-10-17 02:22:59
+# Last Updated: UTC 2026-10-18 02:22:51
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UA ASN list"
@@ -19,7 +19,6 @@
 :do { add list=UA_ASN range=50581 } on-error={}
 :do { add list=UA_ASN range=210169 } on-error={}
 :do { add list=UA_ASN range=12963 } on-error={}
-:do { add list=UA_ASN range=8772 } on-error={}
 :do { add list=UA_ASN range=59514 } on-error={}
 :do { add list=UA_ASN range=13249 } on-error={}
 :do { add list=UA_ASN range=43139 } on-error={}
@@ -383,6 +382,7 @@
 :do { add list=UA_ASN range=49747 } on-error={}
 :do { add list=UA_ASN range=48229 } on-error={}
 :do { add list=UA_ASN range=48094 } on-error={}
+:do { add list=UA_ASN range=42237 } on-error={}
 :do { add list=UA_ASN range=213024 } on-error={}
 :do { add list=UA_ASN range=209825 } on-error={}
 :do { add list=UA_ASN range=207858 } on-error={}
@@ -447,6 +447,7 @@
 :do { add list=UA_ASN range=56404 } on-error={}
 :do { add list=UA_ASN range=56385 } on-error={}
 :do { add list=UA_ASN range=51264 } on-error={}
+:do { add list=UA_ASN range=51031 } on-error={}
 :do { add list=UA_ASN range=50648 } on-error={}
 :do { add list=UA_ASN range=50325 } on-error={}
 :do { add list=UA_ASN range=48323 } on-error={}
@@ -1051,6 +1052,7 @@
 :do { add list=UA_ASN range=58332 } on-error={}
 :do { add list=UA_ASN range=58297 } on-error={}
 :do { add list=UA_ASN range=58196 } on-error={}
+:do { add list=UA_ASN range=58062 } on-error={}
 :do { add list=UA_ASN range=58032 } on-error={}
 :do { add list=UA_ASN range=57993 } on-error={}
 :do { add list=UA_ASN range=57949 } on-error={}
@@ -1142,6 +1144,7 @@
 :do { add list=UA_ASN range=49589 } on-error={}
 :do { add list=UA_ASN range=49480 } on-error={}
 :do { add list=UA_ASN range=49465 } on-error={}
+:do { add list=UA_ASN range=49372 } on-error={}
 :do { add list=UA_ASN range=49332 } on-error={}
 :do { add list=UA_ASN range=49306 } on-error={}
 :do { add list=UA_ASN range=49162 } on-error={}
