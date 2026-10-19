@@ -1,5 +1,5 @@
 # ASN Information in BG.
-# Last Updated: UTC 2026-10-18 02:22:55
+# Last Updated: UTC 2026-10-19 02:37:58
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading BG ASN list"
@@ -15,6 +15,7 @@
 :do { add list=BG_ASN range=8262 } on-error={}
 :do { add list=BG_ASN range=31287 } on-error={}
 :do { add list=BG_ASN range=41313 } on-error={}
+:do { add list=BG_ASN range=8772 } on-error={}
 :do { add list=BG_ASN range=59900 } on-error={}
 :do { add list=BG_ASN range=59711 } on-error={}
 :do { add list=BG_ASN range=29632 } on-error={}

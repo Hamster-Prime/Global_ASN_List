@@ -1,5 +1,5 @@
 # ASN Information in GB.
-# Last Updated: UTC 2026-10-18 02:22:21
+# Last Updated: UTC 2026-10-19 02:37:07
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GB ASN list"
@@ -474,7 +474,6 @@
 :do { add list=GB_ASN range=205394 } on-error={}
 :do { add list=GB_ASN range=49775 } on-error={}
 :do { add list=GB_ASN range=47890 } on-error={}
-:do { add list=GB_ASN range=42237 } on-error={}
 :do { add list=GB_ASN range=41477 } on-error={}
 :do { add list=GB_ASN range=41281 } on-error={}
 :do { add list=GB_ASN range=31631 } on-error={}
@@ -617,7 +616,6 @@
 :do { add list=GB_ASN range=51303 } on-error={}
 :do { add list=GB_ASN range=51087 } on-error={}
 :do { add list=GB_ASN range=51059 } on-error={}
-:do { add list=GB_ASN range=51031 } on-error={}
 :do { add list=GB_ASN range=50152 } on-error={}
 :do { add list=GB_ASN range=50108 } on-error={}
 :do { add list=GB_ASN range=49765 } on-error={}
@@ -1461,7 +1459,6 @@
 :do { add list=GB_ASN range=58226 } on-error={}
 :do { add list=GB_ASN range=58102 } on-error={}
 :do { add list=GB_ASN range=58101 } on-error={}
-:do { add list=GB_ASN range=58062 } on-error={}
 :do { add list=GB_ASN range=57994 } on-error={}
 :do { add list=GB_ASN range=57850 } on-error={}
 :do { add list=GB_ASN range=57770 } on-error={}
@@ -1516,7 +1513,6 @@
 :do { add list=GB_ASN range=49606 } on-error={}
 :do { add list=GB_ASN range=49440 } on-error={}
 :do { add list=GB_ASN range=49401 } on-error={}
-:do { add list=GB_ASN range=49372 } on-error={}
 :do { add list=GB_ASN range=49324 } on-error={}
 :do { add list=GB_ASN range=49313 } on-error={}
 :do { add list=GB_ASN range=49247 } on-error={}
