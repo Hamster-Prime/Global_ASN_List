@@ -1,5 +1,5 @@
 # ASN Information in NL.
-# Last Updated: UTC 2026-10-21 02:43:25
+# Last Updated: UTC 2026-10-22 02:41:34
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NL ASN list"
@@ -472,6 +472,7 @@
 :do { add list=NL_ASN range=198334 } on-error={}
 :do { add list=NL_ASN range=16281 } on-error={}
 :do { add list=NL_ASN range=137509 } on-error={}
+:do { add list=NL_ASN range=9327 } on-error={}
 :do { add list=NL_ASN range=8694 } on-error={}
 :do { add list=NL_ASN range=64495 } on-error={}
 :do { add list=NL_ASN range=64437 } on-error={}
