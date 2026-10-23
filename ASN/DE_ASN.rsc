@@ -1,5 +1,5 @@
 # ASN Information in DE.
-# Last Updated: UTC 2026-10-22 02:41:20
+# Last Updated: UTC 2026-10-23 02:45:14
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DE ASN list"
@@ -113,7 +113,6 @@
 :do { add list=DE_ASN range=60345 } on-error={}
 :do { add list=DE_ASN range=5430 } on-error={}
 :do { add list=DE_ASN range=29686 } on-error={}
-:do { add list=DE_ASN range=48173 } on-error={}
 :do { add list=DE_ASN range=35205 } on-error={}
 :do { add list=DE_ASN range=203329 } on-error={}
 :do { add list=DE_ASN range=15933 } on-error={}
