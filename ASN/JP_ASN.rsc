@@ -1,5 +1,5 @@
 # ASN Information in JP.
-# Last Updated: UTC 2026-10-23 02:44:55
+# Last Updated: UTC 2026-10-24 02:42:13
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading JP ASN list"
@@ -646,6 +646,7 @@
 :do { add list=JP_ASN range=214968 } on-error={}
 :do { add list=JP_ASN range=212259 } on-error={}
 :do { add list=JP_ASN range=211252 } on-error={}
+:do { add list=JP_ASN range=211121 } on-error={}
 :do { add list=JP_ASN range=18383 } on-error={}
 :do { add list=JP_ASN range=18289 } on-error={}
 :do { add list=JP_ASN range=18281 } on-error={}

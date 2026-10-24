@@ -1,5 +1,5 @@
 # ASN Information in NZ.
-# Last Updated: UTC 2026-10-23 02:46:33
+# Last Updated: UTC 2026-10-24 02:43:46
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading NZ ASN list"
