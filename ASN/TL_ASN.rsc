@@ -1,5 +1,5 @@
 # ASN Information in TL.
-# Last Updated: UTC 2026-10-27 03:06:01
+# Last Updated: UTC 2026-10-28 03:19:05
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading TL ASN list"
