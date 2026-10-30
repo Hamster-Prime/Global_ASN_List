@@ -1,5 +1,5 @@
 # ASN Information in US.
-# Last Updated: UTC 2026-10-29 03:45:14
+# Last Updated: UTC 2026-10-30 03:47:40
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading US ASN list"
@@ -11688,7 +11688,6 @@
 :do { add list=US_ASN range=22693 } on-error={}
 :do { add list=US_ASN range=22671 } on-error={}
 :do { add list=US_ASN range=22668 } on-error={}
-:do { add list=US_ASN range=22665 } on-error={}
 :do { add list=US_ASN range=22649 } on-error={}
 :do { add list=US_ASN range=22648 } on-error={}
 :do { add list=US_ASN range=22638 } on-error={}
