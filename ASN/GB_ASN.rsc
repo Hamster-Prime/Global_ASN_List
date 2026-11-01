@@ -1,5 +1,5 @@
 # ASN Information in GB.
-# Last Updated: UTC 2026-10-31 03:29:52
+# Last Updated: UTC 2026-11-01 03:34:01
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading GB ASN list"
@@ -908,6 +908,7 @@
 :do { add list=GB_ASN range=205114 } on-error={}
 :do { add list=GB_ASN range=205091 } on-error={}
 :do { add list=GB_ASN range=204777 } on-error={}
+:do { add list=GB_ASN range=204464 } on-error={}
 :do { add list=GB_ASN range=204260 } on-error={}
 :do { add list=GB_ASN range=204247 } on-error={}
 :do { add list=GB_ASN range=204242 } on-error={}
@@ -2270,6 +2271,7 @@
 :do { add list=GB_ASN range=200198 } on-error={}
 :do { add list=GB_ASN range=200104 } on-error={}
 :do { add list=GB_ASN range=199804 } on-error={}
+:do { add list=GB_ASN range=199746 } on-error={}
 :do { add list=GB_ASN range=199688 } on-error={}
 :do { add list=GB_ASN range=199686 } on-error={}
 :do { add list=GB_ASN range=199519 } on-error={}
