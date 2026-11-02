@@ -1,5 +1,5 @@
 # ASN Information in DK.
-# Last Updated: UTC 2026-11-01 03:34:14
+# Last Updated: UTC 2026-11-02 03:41:44
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading DK ASN list"
