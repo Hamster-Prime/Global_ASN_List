@@ -1,5 +1,5 @@
 # ASN Information in UA.
-# Last Updated: UTC 2026-11-03 04:46:43
+# Last Updated: UTC 2026-11-04 04:10:30
 # Made by ASN Fetcher Script, All rights reserved.
 
 /log info "Loading UA ASN list"
@@ -1384,6 +1384,7 @@
 :do { add list=UA_ASN range=213752 } on-error={}
 :do { add list=UA_ASN range=213636 } on-error={}
 :do { add list=UA_ASN range=213361 } on-error={}
+:do { add list=UA_ASN range=213354 } on-error={}
 :do { add list=UA_ASN range=213226 } on-error={}
 :do { add list=UA_ASN range=213187 } on-error={}
 :do { add list=UA_ASN range=213129 } on-error={}
